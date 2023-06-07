@@ -1,0 +1,1821 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document version="2">
+<interlinear-text guid="27ac4ed8-eb8b-4748-8858-30c06cf9a9ca">
+    <item type="title" lang="en">I am unaware</item>
+    <item type="title" lang="wbl">MSK wuzəm bixbar</item>
+    <paragraphs>
+      <paragraph guid="1ae7d973-467a-44cf-a134-627719ff2344">
+        <phrases>
+          <phrase guid="fac88d83-f907-42af-812f-8266344eb887">
+            <item type="segnum" lang="en">1</item>
+            <words>
+              <word guid="4b3763d2-2dec-4fff-8de8-0714a3bfe2ab">
+                <item type="txt" lang="wbl">gɨlʂəkɨf</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">,</item>
+              </word>
+              <word guid="598db83f-ebe3-444a-b41b-cabf33b161f2">
+                <item type="txt" lang="wbl">waqti</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">waqt</item>
+                    <item type="cf" lang="wbl">waxt</item>
+                    <item type="variantTypes" lang="en">+fr. var. of</item>
+                    <item type="gls" lang="en">time</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">=i</item>
+                    <item type="cf" lang="wbl">=i</item>
+                    <item type="gls" lang="en">==3SG</item>
+                    <item type="msa" lang="en">TAM</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="81680601-238b-40ec-95a4-dd50fb239890">
+                <item type="txt" lang="wbl">dʒəwoni</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">dʒəwon</item>
+                    <item type="cf" lang="wbl">dʒuwon</item>
+                    <item type="variantTypes" lang="en">+dial. var. of</item>
+                    <item type="gls" lang="en">young</item>
+                    <item type="msa" lang="en">adj</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">-i</item>
+                    <item type="cf" lang="wbl">-i</item>
+                    <item type="hn" lang="wbl">3</item>
+                    <item type="gls" lang="en">-OBL</item>
+                    <item type="msa" lang="en">n:(Case1)</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word>
+                <item type="punct" lang="en">,</item>
+              </word>
+              <word guid="36287b4f-93a2-46ff-97a6-1c204dd2eb91">
+                <item type="txt" lang="wbl">zindagiəʂ</item>
+              </word>
+              <word guid="ad37f344-8cbe-4e54-9f70-9fbfd97efc6b">
+                <item type="txt" lang="wbl">rəʂt</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">rəʂ</item>
+                    <item type="cf" lang="wbl">retʂ</item>
+                    <item type="gls" lang="en">go</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">-t</item>
+                    <item type="cf" lang="wbl">-t</item>
+                    <item type="hn" lang="wbl">1</item>
+                    <item type="gls" lang="en">-3SG.NPST</item>
+                    <item type="msa" lang="en">v:Tns/Agr</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">go</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">,</item>
+              </word>
+              <word guid="746d2c51-df39-4d6c-a8d8-557285d73171">
+                <item type="txt" lang="wbl">wuzəm</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">wuz</item>
+                    <item type="cf" lang="wbl">wuz</item>
+                    <item type="gls" lang="en">1SG.NOM</item>
+                    <item type="msa" lang="en">pronom</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">=əm</item>
+                    <item type="cf" lang="wbl">=əm</item>
+                    <item type="gls" lang="en">==1SG</item>
+                    <item type="msa" lang="en">TAM</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="f2d91943-318e-485d-ab2c-88465442c15b">
+                <item type="txt" lang="wbl">bixbar</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">bi-</item>
+                    <item type="cf" lang="wbl">bi-</item>
+                    <item type="hn" lang="wbl">1</item>
+                    <item type="gls" lang="en">without</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">xəbar</item>
+                    <item type="cf" lang="wbl">xabar</item>
+                    <item type="variantTypes" lang="en">+unspec. var. of</item>
+                    <item type="gls" lang="en">news</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">news</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">,</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">Flowers are blooming, it is the time of youth, life is moving, but I am unaware. </item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="6865e93b-681a-4ccc-b235-f98b061c041d">
+        <phrases>
+          <phrase guid="26db2fbe-4c5f-4b1f-a8fb-57bc856220bd">
+            <item type="segnum" lang="en">2</item>
+            <words>
+              <word guid="a335cdda-9d66-439b-b837-8bf6408f730d">
+                <item type="txt" lang="wbl">miwai</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">miwa</item>
+                    <item type="cf" lang="wbl">mejwa</item>
+                    <item type="variantTypes" lang="en">+dial. var. of</item>
+                    <item type="gls" lang="en">fruit</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">-i</item>
+                    <item type="cf" lang="wbl">-i</item>
+                    <item type="hn" lang="wbl">3</item>
+                    <item type="gls" lang="en">-OBL</item>
+                    <item type="msa" lang="en">n:(Case1)</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="e35b7c5d-7737-4075-8076-74deab36d0c3">
+                <item type="txt" lang="wbl">xuʐgit</item>
+              </word>
+              <word guid="81680601-238b-40ec-95a4-dd50fb239890">
+                <item type="txt" lang="wbl">dʒəwoni</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">dʒəwon</item>
+                    <item type="cf" lang="wbl">dʒuwon</item>
+                    <item type="variantTypes" lang="en">+dial. var. of</item>
+                    <item type="gls" lang="en">young</item>
+                    <item type="msa" lang="en">adj</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">-i</item>
+                    <item type="cf" lang="wbl">-i</item>
+                    <item type="hn" lang="wbl">3</item>
+                    <item type="gls" lang="en">-OBL</item>
+                    <item type="msa" lang="en">n:(Case1)</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="c1cb1f53-a971-428c-9175-fc3ecb8a9d0c">
+                <item type="txt" lang="wbl">zindagiən</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">,</item>
+              </word>
+              <word guid="1149ea69-8c0d-4355-b9cd-76bcce993084">
+                <item type="txt" lang="wbl">pəʂt</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">pəʂ</item>
+                    <item type="cf" lang="wbl">petʂ</item>
+                    <item type="gls" lang="en">boil/ripen</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">-t</item>
+                    <item type="cf" lang="wbl">-t</item>
+                    <item type="hn" lang="wbl">1</item>
+                    <item type="gls" lang="en">-3SG.NPST</item>
+                    <item type="msa" lang="en">v:Tns/Agr</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word>
+                <item type="punct" lang="en">,</item>
+              </word>
+              <word guid="746d2c51-df39-4d6c-a8d8-557285d73171">
+                <item type="txt" lang="wbl">wuzəm</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">wuz</item>
+                    <item type="cf" lang="wbl">wuz</item>
+                    <item type="gls" lang="en">1SG.NOM</item>
+                    <item type="msa" lang="en">pronom</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">=əm</item>
+                    <item type="cf" lang="wbl">=əm</item>
+                    <item type="gls" lang="en">==1SG</item>
+                    <item type="msa" lang="en">TAM</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="f2d91943-318e-485d-ab2c-88465442c15b">
+                <item type="txt" lang="wbl">bixbar</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">bi-</item>
+                    <item type="cf" lang="wbl">bi-</item>
+                    <item type="hn" lang="wbl">1</item>
+                    <item type="gls" lang="en">without</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">xəbar</item>
+                    <item type="cf" lang="wbl">xabar</item>
+                    <item type="variantTypes" lang="en">+unspec. var. of</item>
+                    <item type="gls" lang="en">news</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">news</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">The sweet fruits of youth have ripened, but I am unaware. </item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="c7829e97-6932-4afa-aa70-9f005bad8911">
+        <phrases>
+          <phrase guid="97072bc3-c2a3-4ea2-9e7d-b90632a7f28b">
+            <item type="segnum" lang="en">3</item>
+            <words>
+              <word guid="88b9adc7-932a-4572-bace-d51a8c09a39f">
+                <item type="txt" lang="wbl">fikri</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">fikr</item>
+                    <item type="cf" lang="wbl">fikr</item>
+                    <item type="gls" lang="en">idea</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">-i</item>
+                    <item type="cf" lang="wbl">-i</item>
+                    <item type="hn" lang="wbl">3</item>
+                    <item type="gls" lang="en">-OBL</item>
+                    <item type="msa" lang="en">n:(Case1)</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="79e079e0-53e4-4836-bca9-9e2fba3e92cb">
+                <item type="txt" lang="wbl">ar</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">a-</item>
+                    <item type="cf" lang="wbl">a-</item>
+                    <item type="gls" lang="en">EMPH-</item>
+                    <item type="msa" lang="en">det&gt;det</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">ər</item>
+                    <item type="cf" lang="wbl">rə</item>
+                    <item type="variantTypes" lang="en">+fr. var. of</item>
+                    <item type="gls" lang="en">ALL</item>
+                    <item type="msa" lang="en">Loc/Dir</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en"></item>
+              </word>
+              <word guid="43662305-862b-4d66-a776-279535e641e8">
+                <item type="txt" lang="wbl">gɨləj</item>
+              </word>
+              <word guid="d4422cd4-b0de-4fc1-86be-ed747c760854">
+                <item type="txt" lang="wbl">də</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">də</item>
+                    <item type="cf" lang="wbl">də</item>
+                    <item type="gls" lang="en">LOC</item>
+                    <item type="msa" lang="en">Loc/Dir</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">in</item>
+              </word>
+              <word guid="a43f8a75-8d23-4e64-bae4-a1cd2c802698">
+                <item type="txt" lang="wbl">boɣəʂ</item>
+              </word>
+              <word guid="5b8e9230-6deb-4918-91bf-7c4b5ac695da">
+                <item type="txt" lang="wbl">boɣbon</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">boɣbon</item>
+                    <item type="cf" lang="wbl">boɣbon</item>
+                    <item type="gls" lang="en">gardener</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="d10a5c4f-6382-466f-b923-cc60d763189f">
+                <item type="txt" lang="wbl">tsə</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">tsə</item>
+                    <item type="cf" lang="wbl">tsə</item>
+                    <item type="hn" lang="wbl">2</item>
+                    <item type="gls" lang="en">from</item>
+                    <item type="msa" lang="en">Loc/Dir</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en"></item>
+              </word>
+              <word guid="458c30c4-d2a5-4d99-8a32-92ebdbb15fa5">
+                <item type="txt" lang="wbl">tsart</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">tsar</item>
+                    <item type="cf" lang="wbl">tsar</item>
+                    <item type="gls" lang="en">do</item>
+                    <item type="msa" lang="en">LightV</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">-t</item>
+                    <item type="cf" lang="wbl">-t</item>
+                    <item type="hn" lang="wbl">1</item>
+                    <item type="gls" lang="en">-3SG.NPST</item>
+                    <item type="msa" lang="en">v:Tns/Agr</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">do</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">,</item>
+              </word>
+              <word guid="413e0c8d-c42e-4ca5-8494-b9dd5f9bda84">
+                <item type="txt" lang="wbl">amo</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">amo</item>
+                    <item type="cf" lang="wbl">ammo</item>
+                    <item type="gls" lang="en">but</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">but</item>
+              </word>
+              <word guid="00dda78b-e734-469e-9b62-2f70a5b9a47a">
+                <item type="txt" lang="wbl">gɨl</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl"> gɨl</item>
+                    <item type="cf" lang="wbl"> gɨl</item>
+                    <item type="gls" lang="en">flower</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">flower</item>
+              </word>
+              <word guid="047a7bae-dce7-45a0-8798-472bbd2e7aaa">
+                <item type="txt" lang="wbl">nədiʃt</item>
+                <morphemes>
+                  <morph type="proclitic" guid="d7f713e2-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">nə=</item>
+                    <item type="cf" lang="wbl">nə=</item>
+                    <item type="gls" lang="en">NEG=</item>
+                    <item type="msa" lang="en">TAM</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">diʃ</item>
+                    <item type="cf" lang="wbl">diʃ</item>
+                    <item type="gls" lang="en">know</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">-t</item>
+                    <item type="cf" lang="wbl">-t</item>
+                    <item type="hn" lang="wbl">2</item>
+                    <item type="gls" lang="en">-PST</item>
+                    <item type="msa" lang="en">v:Pst1</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word>
+                <item type="punct" lang="en">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">A gardener is thinking of each flower in the garden, but the flower doesn't know. </item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="0c8aa98a-20e3-4bbb-8838-409928a25069">
+        <phrases>
+          <phrase guid="57ea0f22-8857-4ab4-9c4b-dbf2face739d">
+            <item type="segnum" lang="en">4</item>
+            <words>
+              <word guid="5e123aab-78cd-4f86-9a74-79e1f1e26515">
+                <item type="txt" lang="wbl">woj</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">oj</item>
+                    <item type="cf" lang="wbl">aj</item>
+                    <item type="hn" lang="wbl">2</item>
+                    <item type="variantTypes" lang="en">+fr. var. of</item>
+                    <item type="gls" lang="en">oy</item>
+                    <item type="msa" lang="en">interj</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">oy</item>
+              </word>
+              <word guid="20acf367-807a-44db-9f22-b8f6abcbbc63">
+                <item type="txt" lang="wbl">jaw</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">j</item>
+                    <item type="cf" lang="wbl">j</item>
+                    <item type="gls" lang="en">DEM</item>
+                    <item type="msa" lang="en">det</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">-a</item>
+                    <item type="cf" lang="wbl">-a</item>
+                    <item type="hn" lang="wbl">2</item>
+                    <item type="gls" lang="en">-MED</item>
+                    <item type="msa" lang="en">det&gt;det</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">-w</item>
+                    <item type="cf" lang="wbl">-w</item>
+                    <item type="gls" lang="en">PRO</item>
+                    <item type="msa" lang="en">det&gt;pro</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en"></item>
+              </word>
+              <word guid="41f6ddb3-11d5-4dfd-b56a-a48ed3f8be2f">
+                <item type="txt" lang="wbl">kəʈət</item>
+              </word>
+              <word guid="0e51623d-b6a7-4f19-a4c7-4477188d7163">
+                <item type="txt" lang="wbl">dʒəwon</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">dʒəwon</item>
+                    <item type="cf" lang="wbl">dʒuwon</item>
+                    <item type="variantTypes" lang="en">+dial. var. of</item>
+                    <item type="gls" lang="en">young</item>
+                    <item type="msa" lang="en">adj</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">young</item>
+              </word>
+              <word guid="09c6abd9-d82b-47ed-9e72-9872af2fced9">
+                <item type="txt" lang="wbl">ɨmri</item>
+              </word>
+              <word guid="831d59c5-4b2d-4bc5-99dc-3e57d742f5d2">
+                <item type="txt" lang="wbl">xəzonəʂ</item>
+              </word>
+              <word guid="78b9f688-f6b2-480f-a773-5ae372aa4620">
+                <item type="txt" lang="wbl">dəʃt</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">diʃ</item>
+                    <item type="cf" lang="wbl">di</item>
+                    <item type="gls" lang="en">hit</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">-t</item>
+                    <item type="cf" lang="wbl">-t</item>
+                    <item type="hn" lang="wbl">2</item>
+                    <item type="gls" lang="en">-PST</item>
+                    <item type="msa" lang="en">v:Pst1</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">continuous</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">,</item>
+              </word>
+              <word guid="746d2c51-df39-4d6c-a8d8-557285d73171">
+                <item type="txt" lang="wbl">wuzəm</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">wuz</item>
+                    <item type="cf" lang="wbl">wuz</item>
+                    <item type="gls" lang="en">1SG.NOM</item>
+                    <item type="msa" lang="en">pronom</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">=əm</item>
+                    <item type="cf" lang="wbl">=əm</item>
+                    <item type="gls" lang="en">==1SG</item>
+                    <item type="msa" lang="en">TAM</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="f2d91943-318e-485d-ab2c-88465442c15b">
+                <item type="txt" lang="wbl">bixbar</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">bi-</item>
+                    <item type="cf" lang="wbl">bi-</item>
+                    <item type="hn" lang="wbl">1</item>
+                    <item type="gls" lang="en">without</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">xəbar</item>
+                    <item type="cf" lang="wbl">xabar</item>
+                    <item type="variantTypes" lang="en">+unspec. var. of</item>
+                    <item type="gls" lang="en">news</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">news</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">Oh, its brief young life faded, and I am unaware.  </item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="3dd8cc9c-ec1e-4573-a019-17cf476201f2">
+        <phrases>
+          <phrase guid="5d45687e-2125-4df4-8db2-d2ca62297d42">
+            <item type="segnum" lang="en">5</item>
+            <words>
+              <word guid="215fbee7-f4ea-4127-b563-180d60efac33">
+                <item type="txt" lang="wbl">gar</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">gar</item>
+                    <item type="cf" lang="wbl">agar</item>
+                    <item type="variantTypes" lang="en">+fr. var. of</item>
+                    <item type="gls" lang="en">if</item>
+                    <item type="msa" lang="en">comp</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">if</item>
+              </word>
+              <word guid="d10a5c4f-6382-466f-b923-cc60d763189f">
+                <item type="txt" lang="wbl">tsə</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">tsə</item>
+                    <item type="cf" lang="wbl">tsə</item>
+                    <item type="hn" lang="wbl">2</item>
+                    <item type="gls" lang="en">from</item>
+                    <item type="msa" lang="en">Loc/Dir</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en"></item>
+              </word>
+              <word guid="3a13fb1f-80ef-4061-aed1-d6740e89b4ee">
+                <item type="txt" lang="wbl">çanəm</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">çan</item>
+                    <item type="cf" lang="wbl">çan</item>
+                    <item type="gls" lang="en">say</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">-əm</item>
+                    <item type="cf" lang="wbl">-əm</item>
+                    <item type="hn" lang="wbl">1</item>
+                    <item type="gls" lang="en">-1SG.NPST</item>
+                    <item type="msa" lang="en">v:Tns/Agr</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en"></item>
+              </word>
+              <word>
+                <item type="punct" lang="en">:</item>
+              </word>
+              <word guid="8f4c488b-5a2e-4a59-af57-9aade8f0d8f2">
+                <item type="txt" lang="wbl">sol</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">sol</item>
+                    <item type="cf" lang="wbl">sol</item>
+                    <item type="gls" lang="en">year</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">year</item>
+              </word>
+              <word guid="3e1ff670-2e10-42cc-9c59-9416c9021728">
+                <item type="txt" lang="wbl">tizəʂ</item>
+              </word>
+              <word guid="ad37f344-8cbe-4e54-9f70-9fbfd97efc6b">
+                <item type="txt" lang="wbl">rəʂt</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">rəʂ</item>
+                    <item type="cf" lang="wbl">retʂ</item>
+                    <item type="gls" lang="en">go</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">-t</item>
+                    <item type="cf" lang="wbl">-t</item>
+                    <item type="hn" lang="wbl">1</item>
+                    <item type="gls" lang="en">-3SG.NPST</item>
+                    <item type="msa" lang="en">v:Tns/Agr</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">go</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">,</item>
+              </word>
+              <word guid="5e360cf4-ca9a-40e6-b4f0-c8e71bc93d3c">
+                <item type="txt" lang="wbl">nast</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">nast</item>
+                    <item type="cf" lang="wbl">nast</item>
+                    <item type="gls" lang="en">NEG.COP</item>
+                    <item type="msa" lang="en">ext</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en"></item>
+              </word>
+              <word guid="774035de-24b8-47a5-9f3e-f9623df874e1">
+                <item type="txt" lang="wbl">sək</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">sək</item>
+                    <item type="cf" lang="wbl">sək</item>
+                    <item type="gls" lang="en">in</item>
+                    <item type="msa" lang="en">Loc/Dir</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">in</item>
+              </word>
+              <word guid="fbf59aca-51e2-4579-b3f9-c11cffc4436c">
+                <item type="txt" lang="wbl">ʐə</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">ʐɨ</item>
+                    <item type="cf" lang="wbl">ʐɨ</item>
+                    <item type="gls" lang="en">1SG.GEN</item>
+                    <item type="msa" lang="en">poss</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">my</item>
+              </word>
+              <word guid="3cda6359-8067-4817-bff4-f82bf946eebb">
+                <item type="txt" lang="wbl">bədil</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">!</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">I could say, the years are passing too fast and it is not what I want!</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="304b750a-7554-4154-959d-7eed6110618a">
+        <phrases>
+          <phrase guid="f40f0697-5a51-4412-941e-c9cf9f17ff10">
+            <item type="segnum" lang="en">6</item>
+            <words>
+              <word guid="b20fa6cd-f3c0-41d5-b9c1-68946adbe287">
+                <item type="txt" lang="wbl">rasmi</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">rasm</item>
+                    <item type="cf" lang="wbl">rasm</item>
+                    <item type="gls" lang="en">custom</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">-i</item>
+                    <item type="cf" lang="wbl">-i</item>
+                    <item type="hn" lang="wbl">3</item>
+                    <item type="gls" lang="en">-OBL</item>
+                    <item type="msa" lang="en">n:(Case1)</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="5e18d4aa-e74f-45a1-bf4e-3a0d6602d47d">
+                <item type="txt" lang="wbl">zindagi</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">zəndagi</item>
+                    <item type="cf" lang="wbl">zəndagi</item>
+                    <item type="gls" lang="en">life</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">life</item>
+              </word>
+              <word guid="fedbd95d-859b-4462-b877-5f09b2f7b6d1">
+                <item type="txt" lang="wbl">ajətzi</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">,</item>
+              </word>
+              <word guid="36287b4f-93a2-46ff-97a6-1c204dd2eb91">
+                <item type="txt" lang="wbl">zindagiəʂ</item>
+              </word>
+              <word guid="ad37f344-8cbe-4e54-9f70-9fbfd97efc6b">
+                <item type="txt" lang="wbl">rəʂt</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">rəʂ</item>
+                    <item type="cf" lang="wbl">retʂ</item>
+                    <item type="gls" lang="en">go</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">-t</item>
+                    <item type="cf" lang="wbl">-t</item>
+                    <item type="hn" lang="wbl">1</item>
+                    <item type="gls" lang="en">-3SG.NPST</item>
+                    <item type="msa" lang="en">v:Tns/Agr</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">go</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">,</item>
+              </word>
+              <word guid="746d2c51-df39-4d6c-a8d8-557285d73171">
+                <item type="txt" lang="wbl">wuzəm</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">wuz</item>
+                    <item type="cf" lang="wbl">wuz</item>
+                    <item type="gls" lang="en">1SG.NOM</item>
+                    <item type="msa" lang="en">pronom</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">=əm</item>
+                    <item type="cf" lang="wbl">=əm</item>
+                    <item type="gls" lang="en">==1SG</item>
+                    <item type="msa" lang="en">TAM</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="f2d91943-318e-485d-ab2c-88465442c15b">
+                <item type="txt" lang="wbl">bixbar</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">bi-</item>
+                    <item type="cf" lang="wbl">bi-</item>
+                    <item type="hn" lang="wbl">1</item>
+                    <item type="gls" lang="en">without</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">xəbar</item>
+                    <item type="cf" lang="wbl">xabar</item>
+                    <item type="variantTypes" lang="en">+unspec. var. of</item>
+                    <item type="gls" lang="en">news</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">news</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">The way of life is like that, life is moving and I am unaware. </item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="211b82b8-c4d8-4134-88b0-470b909d6a43">
+        <phrases>
+          <phrase guid="6f41819a-39da-4164-881f-ae74070bacea">
+            <item type="segnum" lang="en">7</item>
+            <words>
+              <word guid="e31ee09e-00eb-4a7b-acd5-e9d0539f40a0">
+                <item type="txt" lang="wbl">kɨdakəm</item>
+              </word>
+              <word guid="6ec7f473-3e3f-4428-8493-827bd6ade6c6">
+                <item type="txt" lang="wbl">tu</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">tu</item>
+                    <item type="cf" lang="wbl">tu</item>
+                    <item type="gls" lang="en">2SG.NOM</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">you</item>
+              </word>
+              <word guid="99e38bfa-6726-485f-a72c-c5e78bb69b0d">
+                <item type="txt" lang="wbl">i</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">jiw</item>
+                    <item type="cf" lang="wbl">jiw</item>
+                    <item type="gls" lang="en">one</item>
+                    <item type="msa" lang="en">num</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="28eae2ba-9ea2-4d76-a339-d0630b77afb5">
+                <item type="txt" lang="wbl">zəmon</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">zəmon</item>
+                    <item type="cf" lang="wbl">zəmon</item>
+                    <item type="gls" lang="en">time</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">how</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">,</item>
+              </word>
+              <word guid="4bcc54c0-77b0-48fa-aa98-ae19f2f99ab5">
+                <item type="txt" lang="wbl">pərwoi</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">pərwo</item>
+                    <item type="cf" lang="wbl">pərwo</item>
+                    <item type="gls" lang="en">dismay</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">-i</item>
+                    <item type="cf" lang="wbl">-i</item>
+                    <item type="hn" lang="wbl">3</item>
+                    <item type="gls" lang="en">-OBL</item>
+                    <item type="msa" lang="en">n:(Case1)</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="9e4b3146-123f-40eb-a466-f067589821a4">
+                <item type="txt" lang="wbl">dənjo</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">dənjo</item>
+                    <item type="cf" lang="wbl">dənjo</item>
+                    <item type="gls" lang="en">world</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">world</item>
+              </word>
+              <word guid="72b8d426-2bef-48d6-9304-d346f0ff4893">
+                <item type="txt" lang="wbl">mar</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">ma</item>
+                    <item type="cf" lang="wbl">maʐ</item>
+                    <item type="gls" lang="en">1SG.OBL</item>
+                    <item type="msa" lang="en">proobl</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">-r</item>
+                    <item type="cf" lang="wbl">-r</item>
+                    <item type="gls" lang="en">-DAT</item>
+                    <item type="msa" lang="en">n:(Case2)</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="ce675eb0-2b5a-45ef-94ed-4aeb29ca4a67">
+                <item type="txt" lang="wbl">nətu</item>
+                <morphemes>
+                  <morph type="proclitic" guid="d7f713e2-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">nə=</item>
+                    <item type="cf" lang="wbl">nə=</item>
+                    <item type="gls" lang="en">NEG=</item>
+                    <item type="msa" lang="en">TAM</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">tu</item>
+                    <item type="cf" lang="wbl">təj</item>
+                    <item type="gls" lang="en">exist.PST</item>
+                    <item type="msa" lang="en">ext</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word>
+                <item type="punct" lang="en">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">Once I was a child, I did not care about the world. </item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="6b0ea44f-d089-4580-b103-3684abd12d82">
+        <phrases>
+          <phrase guid="067c29c0-1ee8-4390-b542-17e3b50e0eea">
+            <item type="segnum" lang="en">8</item>
+            <words>
+              <word guid="4043104d-3bd7-4aec-a2c9-e197177af7a4">
+                <item type="txt" lang="wbl">waxti</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">waxt</item>
+                    <item type="cf" lang="wbl">waxt</item>
+                    <item type="gls" lang="en">time</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">=i</item>
+                    <item type="cf" lang="wbl">=i</item>
+                    <item type="gls" lang="en">==3SG</item>
+                    <item type="msa" lang="en">TAM</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="f7be6931-8aff-4a56-8600-c0347161b2ca">
+                <item type="txt" lang="wbl">dzɨqlajiʝ</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">dzɨqlaj</item>
+                    <item type="cf" lang="wbl">dzəqlaj</item>
+                    <item type="variantTypes" lang="en">+fr. var. of</item>
+                    <item type="gls" lang="en">small</item>
+                    <item type="msa" lang="en">adj</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">-iʝ</item>
+                    <item type="cf" lang="wbl">-iʝ</item>
+                    <item type="gls" lang="en">-ness</item>
+                    <item type="msa" lang="en">???&gt;n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">small</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">,</item>
+              </word>
+              <word guid="7a2e3a7a-a823-4609-a2d5-ed6aabc5b81e">
+                <item type="txt" lang="wbl">nədiʃəməʂ</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">,</item>
+              </word>
+              <word guid="32459d80-ada8-4803-900d-b47b4342d563">
+                <item type="txt" lang="wbl">tsrəng</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">ts-</item>
+                    <item type="cf" lang="wbl">tsə</item>
+                    <item type="hn" lang="wbl">2</item>
+                    <item type="gls" lang="en">from</item>
+                    <item type="msa" lang="en">Loc/Dir</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">rəng</item>
+                    <item type="cf" lang="wbl">rang</item>
+                    <item type="variantTypes" lang="en">+dial. var. of</item>
+                    <item type="gls" lang="en">manner</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="66767900-a21c-490a-8011-c9f81fbd144c">
+                <item type="txt" lang="wbl">njəʂt</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">njəʂ</item>
+                    <item type="cf" lang="wbl">nɨwɨz</item>
+                    <item type="gls" lang="en">exit</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">-t</item>
+                    <item type="cf" lang="wbl">-t</item>
+                    <item type="hn" lang="wbl">1</item>
+                    <item type="gls" lang="en">-3SG.NPST</item>
+                    <item type="msa" lang="en">v:Tns/Agr</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word>
+                <item type="punct" lang="en">,</item>
+              </word>
+              <word guid="746d2c51-df39-4d6c-a8d8-557285d73171">
+                <item type="txt" lang="wbl">wuzəm</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">wuz</item>
+                    <item type="cf" lang="wbl">wuz</item>
+                    <item type="gls" lang="en">1SG.NOM</item>
+                    <item type="msa" lang="en">pronom</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">=əm</item>
+                    <item type="cf" lang="wbl">=əm</item>
+                    <item type="gls" lang="en">==1SG</item>
+                    <item type="msa" lang="en">TAM</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="f2d91943-318e-485d-ab2c-88465442c15b">
+                <item type="txt" lang="wbl">bixbar</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">bi-</item>
+                    <item type="cf" lang="wbl">bi-</item>
+                    <item type="hn" lang="wbl">1</item>
+                    <item type="gls" lang="en">without</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">xəbar</item>
+                    <item type="cf" lang="wbl">xabar</item>
+                    <item type="variantTypes" lang="en">+unspec. var. of</item>
+                    <item type="gls" lang="en">news</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">news</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">?</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">How my childhood passed, I don't know, and I am unaware. </item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="ee399ffa-c8e7-4ad6-ac7e-226930fb5133">
+        <phrases>
+          <phrase guid="a02eb941-a5ba-4bac-bb81-d59dbd0c3cdb">
+            <item type="segnum" lang="en">9</item>
+            <words>
+              <word guid="d4422cd4-b0de-4fc1-86be-ed747c760854">
+                <item type="txt" lang="wbl">də</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">də</item>
+                    <item type="cf" lang="wbl">də</item>
+                    <item type="gls" lang="en">LOC</item>
+                    <item type="msa" lang="en">Loc/Dir</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">in</item>
+              </word>
+              <word guid="55db88ed-feb1-436f-9b23-8c2d6a6552ae">
+                <item type="txt" lang="wbl">ɨmidi</item>
+              </word>
+              <word guid="5e18d4aa-e74f-45a1-bf4e-3a0d6602d47d">
+                <item type="txt" lang="wbl">zindagi</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">zəndagi</item>
+                    <item type="cf" lang="wbl">zəndagi</item>
+                    <item type="gls" lang="en">life</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">life</item>
+              </word>
+              <word guid="1ce66bd6-456d-4f92-82b4-8ee43f6dfdb3">
+                <item type="txt" lang="wbl">jəm</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">j</item>
+                    <item type="cf" lang="wbl">j</item>
+                    <item type="gls" lang="en">DEM</item>
+                    <item type="msa" lang="en">det</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">-m</item>
+                    <item type="cf" lang="wbl">-m</item>
+                    <item type="gls" lang="en">-PROX</item>
+                    <item type="msa" lang="en">det:(Proximity)</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en"></item>
+              </word>
+              <word guid="2b3aaec2-717d-465c-b552-812c208eebe6">
+                <item type="txt" lang="wbl">davri</item>
+              </word>
+              <word guid="047061b1-0ace-46bb-beab-0c922f407ab1">
+                <item type="txt" lang="wbl">joʃi</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">joʃ</item>
+                    <item type="cf" lang="wbl">joʃ</item>
+                    <item type="gls" lang="en">young</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">-i</item>
+                    <item type="cf" lang="wbl">-iʝ</item>
+                    <item type="variantTypes" lang="en">+fr. var. of</item>
+                    <item type="gls" lang="en">-ness</item>
+                    <item type="msa" lang="en">???&gt;n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">young</item>
+              </word>
+              <word guid="ad37f344-8cbe-4e54-9f70-9fbfd97efc6b">
+                <item type="txt" lang="wbl">rəʂt</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">rəʂ</item>
+                    <item type="cf" lang="wbl">retʂ</item>
+                    <item type="gls" lang="en">go</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">-t</item>
+                    <item type="cf" lang="wbl">-t</item>
+                    <item type="hn" lang="wbl">1</item>
+                    <item type="gls" lang="en">-3SG.NPST</item>
+                    <item type="msa" lang="en">v:Tns/Agr</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">go</item>
+              </word>
+              <word guid="8583ac05-68ec-478e-8d41-1c8f0a139f20">
+                <item type="txt" lang="wbl">bi</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">bi-</item>
+                    <item type="cf" lang="wbl">bi-</item>
+                    <item type="hn" lang="wbl">1</item>
+                    <item type="gls" lang="en">without</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="a81cbd8c-65ab-49ce-85f5-6ea552145429">
+                <item type="txt" lang="wbl">nomət</item>
+              </word>
+              <word guid="216310ab-5535-4f5b-bc1a-2a245e254b1a">
+                <item type="txt" lang="wbl">nəʂon</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">nəʂon</item>
+                    <item type="cf" lang="wbl">nəʂon</item>
+                    <item type="gls" lang="en">sign</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">sign</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">In life, this youth will pass without leaving a name or sign. </item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="f6649de7-635b-4dbf-901c-3421d8e05d9a">
+        <phrases>
+          <phrase guid="35765983-8a03-4b9c-9828-f5b873ef4103">
+            <item type="segnum" lang="en">10</item>
+            <words>
+              <word guid="d10a5c4f-6382-466f-b923-cc60d763189f">
+                <item type="txt" lang="wbl">tsə</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">tsə</item>
+                    <item type="cf" lang="wbl">tsə</item>
+                    <item type="hn" lang="wbl">2</item>
+                    <item type="gls" lang="en">from</item>
+                    <item type="msa" lang="en">Loc/Dir</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en"></item>
+              </word>
+              <word guid="287b19f4-670c-44c5-b2be-75ce5742407e">
+                <item type="txt" lang="wbl">dzi</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">dzi</item>
+                    <item type="cf" lang="wbl">dzi</item>
+                    <item type="gls" lang="en">so</item>
+                    <item type="msa" lang="en">adv</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">so</item>
+              </word>
+              <word guid="c4012065-de2f-40b1-816f-0b77e3e5b4d4">
+                <item type="txt" lang="wbl">tuknən</item>
+              </word>
+              <word guid="0dbf9002-9c8c-4cef-9f10-6f62e1f769ba">
+                <item type="txt" lang="wbl">ɣaftʃ</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">ɣaftʃ</item>
+                    <item type="cf" lang="wbl">ɣaftʃ</item>
+                    <item type="gls" lang="en">very</item>
+                    <item type="msa" lang="en">adv</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">very</item>
+              </word>
+              <word guid="1e3ee565-7c3b-453c-bc2d-944f138bd0cf">
+                <item type="txt" lang="wbl">bojad</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">bojad</item>
+                    <item type="cf" lang="wbl">bojad</item>
+                    <item type="gls" lang="en">need</item>
+                    <item type="msa" lang="en">adj</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">need</item>
+              </word>
+              <word guid="026ed223-e6da-48d9-bdbe-a5bb3081c1a9">
+                <item type="txt" lang="wbl">wəʂt</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">,</item>
+              </word>
+              <word guid="746d2c51-df39-4d6c-a8d8-557285d73171">
+                <item type="txt" lang="wbl">wuzəm</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">wuz</item>
+                    <item type="cf" lang="wbl">wuz</item>
+                    <item type="gls" lang="en">1SG.NOM</item>
+                    <item type="msa" lang="en">pronom</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">=əm</item>
+                    <item type="cf" lang="wbl">=əm</item>
+                    <item type="gls" lang="en">==1SG</item>
+                    <item type="msa" lang="en">TAM</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="f2d91943-318e-485d-ab2c-88465442c15b">
+                <item type="txt" lang="wbl">bixbar</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">bi-</item>
+                    <item type="cf" lang="wbl">bi-</item>
+                    <item type="hn" lang="wbl">1</item>
+                    <item type="gls" lang="en">without</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">xəbar</item>
+                    <item type="cf" lang="wbl">xabar</item>
+                    <item type="variantTypes" lang="en">+unspec. var. of</item>
+                    <item type="gls" lang="en">news</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">news</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">One should be very scared of this kind of passing, and I am unaware. </item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="41e96a0d-45ff-4257-984a-c12a73a03540">
+        <phrases>
+          <phrase guid="5c4f61a5-aafd-4c82-9abd-461c0a9e5883">
+            <item type="segnum" lang="en">11</item>
+            <words>
+              <word guid="215fbee7-f4ea-4127-b563-180d60efac33">
+                <item type="txt" lang="wbl">gar</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">gar</item>
+                    <item type="cf" lang="wbl">agar</item>
+                    <item type="variantTypes" lang="en">+fr. var. of</item>
+                    <item type="gls" lang="en">if</item>
+                    <item type="msa" lang="en">comp</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">if</item>
+              </word>
+              <word guid="d10a5c4f-6382-466f-b923-cc60d763189f">
+                <item type="txt" lang="wbl">tsə</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">tsə</item>
+                    <item type="cf" lang="wbl">tsə</item>
+                    <item type="hn" lang="wbl">2</item>
+                    <item type="gls" lang="en">from</item>
+                    <item type="msa" lang="en">Loc/Dir</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en"></item>
+              </word>
+              <word guid="b8f20637-b1c4-423f-811c-6164d9d80330">
+                <item type="txt" lang="wbl">dɨzdi</item>
+              </word>
+              <word guid="557f685c-c31c-4fb9-b0fc-08b144b597e9">
+                <item type="txt" lang="wbl">ariman</item>
+              </word>
+              <word guid="106683bc-eea8-40da-8a4e-dbeda800bca0">
+                <item type="txt" lang="wbl">wəstu</item>
+              </word>
+              <word guid="031b9a82-2557-4d25-b84c-0449706edc49">
+                <item type="txt" lang="wbl">səlajmon</item>
+              </word>
+              <word guid="5d97e205-d173-4f33-967d-19f7170dc526">
+                <item type="txt" lang="wbl">mɨlki</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">mɨlk</item>
+                    <item type="cf" lang="wbl">mɨlk</item>
+                    <item type="gls" lang="en">country</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">-i</item>
+                    <item type="cf" lang="wbl">-i</item>
+                    <item type="hn" lang="wbl">3</item>
+                    <item type="gls" lang="en">-OBL</item>
+                    <item type="msa" lang="en">n:(Case1)</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="b61df33b-38eb-4751-b33c-0dad78efab54">
+                <item type="txt" lang="wbl">dəʐd</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">dəʐ</item>
+                    <item type="cf" lang="wbl">dɨrz</item>
+                    <item type="gls" lang="en">take</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">-d</item>
+                    <item type="cf" lang="wbl">-t</item>
+                    <item type="hn" lang="wbl">2</item>
+                    <item type="gls" lang="en">-PST</item>
+                    <item type="msa" lang="en">v:Pst1</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word>
+                <item type="punct" lang="en">,</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">If you remember, Ariman came and took Salimon's land</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="707c2709-d4ec-4b17-b9f3-54ea16df6dbd">
+        <phrases>
+          <phrase guid="d9eedb7c-8096-4efa-9f66-fc5965d225cd">
+            <item type="segnum" lang="en">12</item>
+            <words>
+              <word guid="0a5963ca-6d11-4476-996d-6cb04c778f1d">
+                <item type="txt" lang="wbl">tsoɣd</item>
+              </word>
+              <word guid="a8758abe-e054-40b9-80db-e49391552b07">
+                <item type="txt" lang="wbl">diʃt</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">diʃ</item>
+                    <item type="cf" lang="wbl">diʃ</item>
+                    <item type="gls" lang="en">know</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">-t</item>
+                    <item type="cf" lang="wbl">-t</item>
+                    <item type="hn" lang="wbl">1</item>
+                    <item type="gls" lang="en">-3SG.NPST</item>
+                    <item type="msa" lang="en">v:Tns/Agr</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">know</item>
+              </word>
+              <word guid="20acf367-807a-44db-9f22-b8f6abcbbc63">
+                <item type="txt" lang="wbl">jaw</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">j</item>
+                    <item type="cf" lang="wbl">j</item>
+                    <item type="gls" lang="en">DEM</item>
+                    <item type="msa" lang="en">det</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">-a</item>
+                    <item type="cf" lang="wbl">-a</item>
+                    <item type="hn" lang="wbl">2</item>
+                    <item type="gls" lang="en">-MED</item>
+                    <item type="msa" lang="en">det&gt;det</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">-w</item>
+                    <item type="cf" lang="wbl">-w</item>
+                    <item type="gls" lang="en">PRO</item>
+                    <item type="msa" lang="en">det&gt;pro</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en"></item>
+              </word>
+              <word guid="8e100412-8030-4c31-8531-3da5c9ddcf8a">
+                <item type="txt" lang="wbl">qadri</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">qadr</item>
+                    <item type="cf" lang="wbl">qadr</item>
+                    <item type="gls" lang="en">value</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">=i</item>
+                    <item type="cf" lang="wbl">=i</item>
+                    <item type="gls" lang="en">==3SG</item>
+                    <item type="msa" lang="en">TAM</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="923d403d-49a1-4e12-927e-c38635c399d6">
+                <item type="txt" lang="wbl">çatət</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">ça</item>
+                    <item type="cf" lang="wbl">çan</item>
+                    <item type="gls" lang="en">say</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">-t</item>
+                    <item type="cf" lang="wbl">-t</item>
+                    <item type="hn" lang="wbl">2</item>
+                    <item type="gls" lang="en">-PST</item>
+                    <item type="msa" lang="en">v:Pst1</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">=ət</item>
+                    <item type="cf" lang="wbl">=ət</item>
+                    <item type="hn" lang="wbl">1</item>
+                    <item type="gls" lang="en">=and</item>
+                    <item type="msa" lang="en">conn</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="8e100412-8030-4c31-8531-3da5c9ddcf8a">
+                <item type="txt" lang="wbl">qadri</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">qadr</item>
+                    <item type="cf" lang="wbl">qadr</item>
+                    <item type="gls" lang="en">value</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">=i</item>
+                    <item type="cf" lang="wbl">=i</item>
+                    <item type="gls" lang="en">==3SG</item>
+                    <item type="msa" lang="en">TAM</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="a23bd1ea-6341-4781-9c4e-dba5818ec510">
+                <item type="txt" lang="wbl">pləngəʂt</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">pləngəʂt</item>
+                    <item type="cf" lang="wbl">pləngəʂt</item>
+                    <item type="gls" lang="en">ring</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">ring</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">,</item>
+              </word>
+              <word guid="746d2c51-df39-4d6c-a8d8-557285d73171">
+                <item type="txt" lang="wbl">wuzəm</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">wuz</item>
+                    <item type="cf" lang="wbl">wuz</item>
+                    <item type="gls" lang="en">1SG.NOM</item>
+                    <item type="msa" lang="en">pronom</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">=əm</item>
+                    <item type="cf" lang="wbl">=əm</item>
+                    <item type="gls" lang="en">==1SG</item>
+                    <item type="msa" lang="en">TAM</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="f2d91943-318e-485d-ab2c-88465442c15b">
+                <item type="txt" lang="wbl">bixbar</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">bi-</item>
+                    <item type="cf" lang="wbl">bi-</item>
+                    <item type="hn" lang="wbl">1</item>
+                    <item type="gls" lang="en">without</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">xəbar</item>
+                    <item type="cf" lang="wbl">xabar</item>
+                    <item type="variantTypes" lang="en">+unspec. var. of</item>
+                    <item type="gls" lang="en">news</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">news</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">When will she value herself and the ring, I am unaware. </item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="4b0c975a-625f-4456-8373-29c7ab2cc111">
+        <phrases>
+          <phrase guid="4013a384-21a0-4a70-948f-75325035ca0c">
+            <item type="segnum" lang="en">13</item>
+            <words>
+              <word guid="db5a4ee0-5033-493b-b62a-4351c7fac06f">
+                <item type="txt" lang="wbl">ej</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">əj</item>
+                    <item type="cf" lang="wbl">e</item>
+                    <item type="gls" lang="en">hey</item>
+                    <item type="msa" lang="en">interj</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">hey</item>
+              </word>
+              <word guid="84c9795b-46eb-44b2-85ac-a1adb08a5c19">
+                <item type="txt" lang="wbl">saodatʃo</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="wbl">saodatʃo</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word>
+                <item type="punct" lang="en">,</item>
+              </word>
+              <word guid="660c716b-f6de-41a6-9d79-02e03bb76f4b">
+                <item type="txt" lang="wbl">dʒəwonət</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">dʒəwon</item>
+                    <item type="cf" lang="wbl">dʒuwon</item>
+                    <item type="variantTypes" lang="en">+dial. var. of</item>
+                    <item type="gls" lang="en">young</item>
+                    <item type="msa" lang="en">adj</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">=ət</item>
+                    <item type="cf" lang="wbl">=ət</item>
+                    <item type="hn" lang="wbl">2</item>
+                    <item type="gls" lang="en">==2SG</item>
+                    <item type="msa" lang="en">TAM</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">young</item>
+              </word>
+              <word guid="6c2902b1-098c-41eb-aab0-801f2d55c2c8">
+                <item type="txt" lang="wbl">niv</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">niv</item>
+                    <item type="cf" lang="wbl">niv</item>
+                    <item type="gls" lang="en">now</item>
+                    <item type="msa" lang="en">adv</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">now</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">,</item>
+              </word>
+              <word guid="81680601-238b-40ec-95a4-dd50fb239890">
+                <item type="txt" lang="wbl">dʒəwoni</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">dʒəwon</item>
+                    <item type="cf" lang="wbl">dʒuwon</item>
+                    <item type="variantTypes" lang="en">+dial. var. of</item>
+                    <item type="gls" lang="en">young</item>
+                    <item type="msa" lang="en">adj</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">-i</item>
+                    <item type="cf" lang="wbl">-i</item>
+                    <item type="hn" lang="wbl">3</item>
+                    <item type="gls" lang="en">-OBL</item>
+                    <item type="msa" lang="en">n:(Case1)</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="2c54c3ee-87df-487b-b78c-739c9d2daed7">
+                <item type="txt" lang="wbl">tsar</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">tsar</item>
+                    <item type="cf" lang="wbl">tsar</item>
+                    <item type="gls" lang="en">do</item>
+                    <item type="msa" lang="en">LightV</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">-∅</item>
+                    <item type="cf" lang="wbl">-∅</item>
+                    <item type="gls" lang="en">-2SG.NPST</item>
+                    <item type="msa" lang="en">v:Tns/Agr</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word>
+                <item type="punct" lang="en">,</item>
+              </word>
+              <word guid="6ec7f473-3e3f-4428-8493-827bd6ade6c6">
+                <item type="txt" lang="wbl">tu</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">tu</item>
+                    <item type="cf" lang="wbl">tu</item>
+                    <item type="gls" lang="en">2SG.NOM</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">you</item>
+              </word>
+              <word guid="a501a5c8-c666-429c-a456-9d21e47fa932">
+                <item type="txt" lang="wbl">diʃ</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">diʃ</item>
+                    <item type="cf" lang="wbl">diʃ</item>
+                    <item type="gls" lang="en">know</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">-∅</item>
+                    <item type="cf" lang="wbl">-∅</item>
+                    <item type="gls" lang="en">-2SG.NPST</item>
+                    <item type="msa" lang="en">v:Tns/Agr</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word>
+                <item type="punct" lang="en">,</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">Hey Saodacho, you are young now, enjoy being young. </item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="f147f5b1-70b5-4e48-a2cf-c3b33051bde5">
+        <phrases>
+          <phrase guid="1295313d-58b4-49e2-83f0-b25efb41ec6a">
+            <item type="segnum" lang="en">14</item>
+            <words>
+              <word guid="ad37f344-8cbe-4e54-9f70-9fbfd97efc6b">
+                <item type="txt" lang="wbl">rəʂt</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">rəʂ</item>
+                    <item type="cf" lang="wbl">retʂ</item>
+                    <item type="gls" lang="en">go</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">-t</item>
+                    <item type="cf" lang="wbl">-t</item>
+                    <item type="hn" lang="wbl">1</item>
+                    <item type="gls" lang="en">-3SG.NPST</item>
+                    <item type="msa" lang="en">v:Tns/Agr</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">go</item>
+              </word>
+              <word guid="047061b1-0ace-46bb-beab-0c922f407ab1">
+                <item type="txt" lang="wbl">joʃi</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">joʃ</item>
+                    <item type="cf" lang="wbl">joʃ</item>
+                    <item type="gls" lang="en">young</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">-i</item>
+                    <item type="cf" lang="wbl">-iʝ</item>
+                    <item type="variantTypes" lang="en">+fr. var. of</item>
+                    <item type="gls" lang="en">-ness</item>
+                    <item type="msa" lang="en">???&gt;n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">young</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">,</item>
+              </word>
+              <word guid="c953ace0-2366-4e71-843e-f732ee390e8a">
+                <item type="txt" lang="wbl">jodi</item>
+              </word>
+              <word guid="20acf367-807a-44db-9f22-b8f6abcbbc63">
+                <item type="txt" lang="wbl">jaw</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">j</item>
+                    <item type="cf" lang="wbl">j</item>
+                    <item type="gls" lang="en">DEM</item>
+                    <item type="msa" lang="en">det</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">-a</item>
+                    <item type="cf" lang="wbl">-a</item>
+                    <item type="hn" lang="wbl">2</item>
+                    <item type="gls" lang="en">-MED</item>
+                    <item type="msa" lang="en">det&gt;det</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">-w</item>
+                    <item type="cf" lang="wbl">-w</item>
+                    <item type="gls" lang="en">PRO</item>
+                    <item type="msa" lang="en">det&gt;pro</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en"></item>
+              </word>
+              <word guid="448cdde8-2f9b-483f-aa95-9ad7a113a2ae">
+                <item type="txt" lang="wbl">wərəʂt</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">wərətʂ</item>
+                    <item type="cf" lang="wbl">wərətʂ</item>
+                    <item type="gls" lang="en">stay</item>
+                    <item type="msa" lang="en">v  (nPast)</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">-t</item>
+                    <item type="cf" lang="wbl">-t</item>
+                    <item type="hn" lang="wbl">1</item>
+                    <item type="gls" lang="en">-3SG.NPST</item>
+                    <item type="msa" lang="en">v:Tns/Agr</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word>
+                <item type="punct" lang="en">,</item>
+              </word>
+              <word guid="746d2c51-df39-4d6c-a8d8-557285d73171">
+                <item type="txt" lang="wbl">wuzəm</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">wuz</item>
+                    <item type="cf" lang="wbl">wuz</item>
+                    <item type="gls" lang="en">1SG.NOM</item>
+                    <item type="msa" lang="en">pronom</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">=əm</item>
+                    <item type="cf" lang="wbl">=əm</item>
+                    <item type="gls" lang="en">==1SG</item>
+                    <item type="msa" lang="en">TAM</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="f2d91943-318e-485d-ab2c-88465442c15b">
+                <item type="txt" lang="wbl">bixbar</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">bi-</item>
+                    <item type="cf" lang="wbl">bi-</item>
+                    <item type="hn" lang="wbl">1</item>
+                    <item type="gls" lang="en">without</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="wbl">xəbar</item>
+                    <item type="cf" lang="wbl">xabar</item>
+                    <item type="variantTypes" lang="en">+unspec. var. of</item>
+                    <item type="gls" lang="en">news</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">news</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">Youth will pass and only memories will stay, and I am unaware. </item>
+          </phrase>
+        </phrases>
+      </paragraph>
+    </paragraphs>
+    <languages>
+      <language lang="en" font="Times New Roman" vernacular="true" />
+      <language lang="wbl" font="Charis SIL" vernacular="true" />
+      <language lang="wbl-Qaaa-TJ-x-Zipa" font="Charis SIL" />
+      <language lang="fr" font="Times New Roman" />
+    </languages>
+  </interlinear-text>
+  
+</document>
