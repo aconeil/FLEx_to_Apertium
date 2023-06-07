@@ -9,7 +9,7 @@ with open("maj_wordforms.csv", "w", newline = "") as csvfile:
 	writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 	for form in root.iter('form'):
 		form = form.text
-#		writer.writerow({'Wordform':form.text})
+		writer.writerow({'Wordform':form.text})
 	for pos in root.iter('category'):
 		pos = pos.text
 	writer.writerow({'Wordform':form, 'Part_of_Speech':pos})
