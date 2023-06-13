@@ -1,0 +1,1574 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document version="2">
+<interlinear-text guid="82c5429f-ca99-43f9-a5c5-eb4d7e25aed4">
+    <item type="title" lang="amu">AMU-2010_09_12a</item>
+    <item type="title-abbreviation" lang="amu">AMU_2010_09_12a</item>
+    <paragraphs>
+      <paragraph guid="bad148c1-c937-4b48-9d5c-2dd80ae589af">
+        <phrases>
+          <phrase guid="350e3596-0a1c-4f26-966e-cc0f033836f6">
+            <item type="segnum" lang="en">1</item>
+            <words>
+              <word guid="1f34df70-5252-4357-936d-c625d058f3be">
+                <item type="txt" lang="amu-fonipa">ha</item>
+                <item type="pos" lang="es">pron.</item>
+                <item type="gls" lang="es">yo</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">ha</item>
+                    <item type="cf" lang="amu-fonipa">ha</item>
+                    <item type="hn" lang="amu-fonipa">2</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="97431738-2247-4525-9142-254176c216d0">
+                <item type="txt" lang="amu-fonipa">hnɟu-ja</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">hnɟu</item>
+                    <item type="cf" lang="amu-fonipa">hnɟu</item>
+                    <item type="hn" lang="amu-fonipa">1</item>
+                    <item type="msa" lang="es">v. est.</item>
+                    <item type="gls" lang="es">llamarse</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">-ja</item>
+                    <item type="cf" lang="amu-fonipa">-ja</item>
+                    <item type="hn" lang="amu-fonipa">2</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                    <item type="gls" lang="es"/>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="8eda17cb-430e-4ee0-849c-da134870d7e0">
+                <item type="txt" lang="amu-fonipa">Jesus</item>
+              </word>
+              <word guid="7abb8af2-2fec-4406-b4a5-90c5ff54c510">
+                <item type="txt" lang="amu-fonipa">Santana</item>
+              </word>
+            </words>
+            <item type="gls" lang="es">mi nombre es Jesús Santana</item>
+            <item type="gls" lang="en">my name is Jesus Santana</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="11264621-9fa7-4b9e-b5b5-87672e785e3e">
+        <phrases>
+          <phrase guid="2c5ed6f5-d68b-43ed-810c-bc969f179967">
+            <item type="segnum" lang="en">2</item>
+            <words>
+              <word guid="ea41339b-d761-454f-bf7e-3eed6e65173d">
+                <item type="txt" lang="amu-fonipa">mʔaã-ja</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">mʔaã</item>
+                    <item type="cf" lang="amu-fonipa">mʔaã</item>
+                    <item type="hn" lang="amu-fonipa">1</item>
+                    <item type="msa" lang="es">v. est.</item>
+                    <item type="gls" lang="es">vivir; estar establicido; estar ubicado</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">-ja</item>
+                    <item type="cf" lang="amu-fonipa">-ja</item>
+                    <item type="hn" lang="amu-fonipa">2</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                    <item type="gls" lang="es"/>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="fb442542-08e5-4598-bd39-8de65b79e606">
+                <item type="txt" lang="amu-fonipa">lhooɲe</item>
+                <item type="pos" lang="es">adv.</item>
+                <item type="gls" lang="es">aquí</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">lhooɲe</item>
+                    <item type="cf" lang="amu-fonipa">lhoo</item>
+                    <item type="hn" lang="amu-fonipa">1</item>
+                    <item type="variantTypes" lang="es">+var. de</item>
+                    <item type="msa" lang="es">adv.</item>
+                    <item type="gls" lang="es">aquí</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="c82d4779-4ed7-48b7-b711-958bc7a85448">
+                <item type="txt" lang="amu-fonipa">na</item>
+                <item type="pos" lang="es">part.</item>
+                <item type="gls" lang="es">comp.</item>
+                <morphemes>
+                  <morph type="particle" guid="56db04bf-3d58-44cc-b292-4c8aa68538f4">
+                    <item type="txt" lang="amu-fonipa">na</item>
+                    <item type="cf" lang="amu-fonipa">na</item>
+                    <item type="msa" lang="es">part.</item>
+                    <item type="gls" lang="es">comp.</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="93d53ec7-e8a0-4d9e-9d6e-e8a7d85a31c2">
+                <item type="txt" lang="amu-fonipa">maheʔnɟo</item>
+                <item type="pos" lang="es">adv.</item>
+                <item type="gls" lang="es">inmediatamente; en seguida</item>
+                <morphemes>
+                  <morph type="phrase" guid="a23b6faa-1052-4f4d-984b-4b338bdaf95f">
+                    <item type="txt" lang="amu-fonipa">maheʔnɟo</item>
+                    <item type="cf" lang="amu-fonipa">maheʔ</item>
+                    <item type="variantTypes" lang="es">+var. de</item>
+                    <item type="msa" lang="es">adv.</item>
+                    <item type="gls" lang="es">inmediatamente; en seguida</item>
+                  </morph>
+                </morphemes>
+              </word>
+            </words>
+            <item type="gls" lang="es">estamos aqui en este momento</item>
+            <item type="gls" lang="en">we are here now</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="88483639-83f2-4663-8773-e5a486628ee5">
+        <phrases>
+          <phrase guid="bfbd8d82-9b66-40fc-a261-188078fa6464">
+            <item type="segnum" lang="en">3</item>
+            <words>
+              <word guid="d31ff843-53b2-4ef4-ad41-195bff13f3f6">
+                <item type="txt" lang="amu-fonipa">kwilʔa-ja</item>
+                <item type="pos" lang="es">v. intr.</item>
+                <item type="gls" lang="es">tener la intención; proponerse</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">kwilʔa</item>
+                    <item type="cf" lang="amu-fonipa">matʃʔee</item>
+                    <item type="hn" lang="amu-fonipa">1</item>
+                    <item type="variantTypes" lang="es">+***</item>
+                    <item type="msa" lang="es">v. bitr.</item>
+                    <item type="gls" lang="es">hacer</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">-ja</item>
+                    <item type="cf" lang="amu-fonipa">-ja</item>
+                    <item type="hn" lang="amu-fonipa">2</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                    <item type="gls" lang="es"/>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="bcbb863a-cd5d-4db2-b37d-db24dadcef3b">
+                <item type="txt" lang="amu-fonipa">grabacion</item>
+              </word>
+              <word guid="4f8011bd-6932-4f04-8af2-1a9ac02f2a2e">
+                <item type="txt" lang="amu-fonipa">ɲhaã</item>
+                <item type="pos" lang="es">adv.</item>
+                <item type="gls" lang="es">aca; aquí</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">ɲhaã</item>
+                    <item type="cf" lang="amu-fonipa">ɲhaã</item>
+                    <item type="msa" lang="es">adv.</item>
+                    <item type="gls" lang="es">aca; aquí</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="03c28e46-c14d-4207-87db-3cb9b493e7f5">
+                <item type="txt" lang="amu-fonipa">nakiiʔ</item>
+                <item type="pos" lang="es">prep.</item>
+                <item type="gls" lang="es">adentro</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">nakiiʔ</item>
+                    <item type="cf" lang="amu-fonipa">nakiiʔ</item>
+                    <item type="msa" lang="es">prep.</item>
+                    <item type="gls" lang="es">adentro</item>
+                  </morph>
+                </morphemes>
+              </word>
+            </words>
+            <item type="gls" lang="es">estamos haciendo grabacion en</item>
+            <item type="gls" lang="en">we are making a recording in</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="92b9b71d-7baf-4dab-a855-66a61ede4545">
+        <phrases>
+          <phrase guid="cd1a5c05-15ab-43a0-bedf-7f5c9656ac4b">
+            <item type="segnum" lang="en">4</item>
+            <words>
+              <word guid="5e11c9aa-92e3-4791-9afc-bf47147992e5">
+                <item type="txt" lang="amu-fonipa">programa</item>
+              </word>
+              <word guid="c82d4779-4ed7-48b7-b711-958bc7a85448">
+                <item type="txt" lang="amu-fonipa">na</item>
+                <item type="pos" lang="es">part.</item>
+                <item type="gls" lang="es">comp.</item>
+                <morphemes>
+                  <morph type="particle" guid="56db04bf-3d58-44cc-b292-4c8aa68538f4">
+                    <item type="txt" lang="amu-fonipa">na</item>
+                    <item type="cf" lang="amu-fonipa">na</item>
+                    <item type="msa" lang="es">part.</item>
+                    <item type="gls" lang="es">comp.</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="da6b8b03-05b6-4caa-80cd-af772821bb82">
+                <item type="txt" lang="amu-fonipa">hnɟu</item>
+                <item type="pos" lang="es">v. est.</item>
+                <item type="gls" lang="es">llamarse</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">hnɟu</item>
+                    <item type="cf" lang="amu-fonipa">hnɟu</item>
+                    <item type="hn" lang="amu-fonipa">1</item>
+                    <item type="msa" lang="es">v. est.</item>
+                    <item type="gls" lang="es">llamarse</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="3685c936-c09b-466e-a9ba-47a4c73e7308">
+                <item type="txt" lang="amu-fonipa">Alianza</item>
+              </word>
+            </words>
+            <item type="gls" lang="es">programa que se llama "Alianza</item>
+            <item type="gls" lang="en">the program that's called </item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="e3478331-7151-40ff-a70a-fdbd407bd415">
+        <phrases>
+          <phrase guid="d6f16786-8731-4ff6-bbcc-345ff516fd29">
+            <item type="segnum" lang="en">5</item>
+            <words>
+              <word guid="87c2629c-6745-4d64-b025-9d09822eeb77">
+                <item type="txt" lang="amu-fonipa">de</item>
+              </word>
+              <word guid="f9a7b8d4-6dd5-42b5-80c6-fda9b86e9158">
+                <item type="txt" lang="amu-fonipa">Lenguas</item>
+              </word>
+              <word guid="a4fa0927-9731-474a-8cfe-6564cb25b3d7">
+                <item type="txt" lang="amu-fonipa">en</item>
+              </word>
+              <word guid="aaaefbec-a3c9-4396-a087-6d744cf538ce">
+                <item type="txt" lang="amu-fonipa">Peligro</item>
+              </word>
+            </words>
+            <item type="gls" lang="es">de Lenguas en Peligro"</item>
+            <item type="gls" lang="en">"Endangered Language Alliance"</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="25c7a103-3869-44b5-b49b-3dff71aba8e0">
+        <phrases>
+          <phrase guid="c0a05669-d363-40eb-af4a-63888cd42809">
+            <item type="segnum" lang="en">6</item>
+            <words>
+              <word guid="b0f02195-48ea-4c5b-830d-c638ef4cf909">
+                <item type="txt" lang="amu-fonipa">kwii</item>
+                <item type="pos" lang="es">adj.</item>
+                <item type="gls" lang="es">uno</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">kwii</item>
+                    <item type="cf" lang="amu-fonipa">kwii</item>
+                    <item type="hn" lang="amu-fonipa">2</item>
+                    <item type="msa" lang="es">adj.</item>
+                    <item type="gls" lang="es">uno</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="6847cca8-a9ab-4dc3-bda4-1eac48009ca1">
+                <item type="txt" lang="amu-fonipa">proyekto</item>
+              </word>
+            </words>
+            <item type="gls" lang="es">un proyecto</item>
+            <item type="gls" lang="en">a project</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="d5eafc2f-4011-4833-92e1-7ab0dedd9e81">
+        <phrases>
+          <phrase guid="d088454a-d86e-402b-b590-191738229e1a">
+            <item type="segnum" lang="en">7</item>
+            <words>
+              <word guid="15c3de68-e283-457a-bd80-e7d7a7b171db">
+                <item type="txt" lang="amu-fonipa">juu</item>
+                <item type="pos" lang="es">adv.</item>
+                <item type="gls" lang="es">¿dónde?; ¿adónde?</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">juu</item>
+                    <item type="cf" lang="amu-fonipa">juu</item>
+                    <item type="msa" lang="es">adv.</item>
+                    <item type="gls" lang="es">¿dónde?; ¿adónde?</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="c82d4779-4ed7-48b7-b711-958bc7a85448">
+                <item type="txt" lang="amu-fonipa">na</item>
+                <item type="pos" lang="es">part.</item>
+                <item type="gls" lang="es">comp.</item>
+                <morphemes>
+                  <morph type="particle" guid="56db04bf-3d58-44cc-b292-4c8aa68538f4">
+                    <item type="txt" lang="amu-fonipa">na</item>
+                    <item type="cf" lang="amu-fonipa">na</item>
+                    <item type="msa" lang="es">part.</item>
+                    <item type="gls" lang="es">comp.</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="9320e04a-40d7-457e-aca2-b5bf7aebf88f">
+                <item type="txt" lang="amu-fonipa">nnʔã</item>
+                <item type="pos" lang="es">sust.</item>
+                <item type="gls" lang="es">gente; personas</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">nnʔã</item>
+                    <item type="cf" lang="amu-fonipa">nnʔã</item>
+                    <item type="hn" lang="amu-fonipa">1</item>
+                    <item type="msa" lang="es">sust.</item>
+                    <item type="gls" lang="es">gente; personas</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="c82d4779-4ed7-48b7-b711-958bc7a85448">
+                <item type="txt" lang="amu-fonipa">na</item>
+                <item type="pos" lang="es">part.</item>
+                <item type="gls" lang="es">comp.</item>
+                <morphemes>
+                  <morph type="particle" guid="56db04bf-3d58-44cc-b292-4c8aa68538f4">
+                    <item type="txt" lang="amu-fonipa">na</item>
+                    <item type="cf" lang="amu-fonipa">na</item>
+                    <item type="msa" lang="es">part.</item>
+                    <item type="gls" lang="es">comp.</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="1735667a-c79d-4edb-b28d-38b0828ab2a3">
+                <item type="txt" lang="amu-fonipa">mʔaã</item>
+                <item type="pos" lang="es">v. est.</item>
+                <item type="gls" lang="es">haber; ser; existir</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">mʔaã</item>
+                    <item type="cf" lang="amu-fonipa">mʔaã</item>
+                    <item type="hn" lang="amu-fonipa">1</item>
+                    <item type="msa" lang="es">v. est.</item>
+                    <item type="gls" lang="es">haber; ser; existir</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="03c28e46-c14d-4207-87db-3cb9b493e7f5">
+                <item type="txt" lang="amu-fonipa">nakiiʔ</item>
+                <item type="pos" lang="es">prep.</item>
+                <item type="gls" lang="es">adentro</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">nakiiʔ</item>
+                    <item type="cf" lang="amu-fonipa">nakiiʔ</item>
+                    <item type="msa" lang="es">prep.</item>
+                    <item type="gls" lang="es">adentro</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="1ab7ecea-9316-4872-aaa3-209913317a45">
+                <item type="txt" lang="amu-fonipa">tmaãʔ</item>
+                <item type="pos" lang="es">sust.</item>
+                <item type="gls" lang="es">grupo; multitud</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">tmaãʔ</item>
+                    <item type="cf" lang="amu-fonipa">tmaãʔ</item>
+                    <item type="hn" lang="amu-fonipa">3</item>
+                    <item type="msa" lang="es">sust.</item>
+                    <item type="gls" lang="es">grupo; multitud</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="b1db1831-1f1f-4609-b96c-80f144872ed7">
+                <item type="txt" lang="amu-fonipa">waa-ɲe</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">waa</item>
+                    <item type="cf" lang="amu-fonipa">waa</item>
+                    <item type="hn" lang="amu-fonipa">1</item>
+                    <item type="msa" lang="es">v. intr.</item>
+                    <item type="gls" lang="es">ser; existir; haber</item>
+                  </morph>
+                  <morph>
+                    <item type="txt" lang="amu-fonipa">ɲe</item>
+                  </morph>
+                </morphemes>
+              </word>
+            </words>
+            <item type="gls" lang="es">donde las personas se reunen en este grupo</item>
+            <item type="gls" lang="en">where the people in this group come together</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="d148174f-eb83-4fd0-8454-e6cdced76ba4">
+        <phrases>
+          <phrase guid="3aad6e4b-e7d0-4d26-8035-33b853a43045">
+            <item type="segnum" lang="en">8</item>
+            <words>
+              <word guid="c82d4779-4ed7-48b7-b711-958bc7a85448">
+                <item type="txt" lang="amu-fonipa">na</item>
+                <item type="pos" lang="es">part.</item>
+                <item type="gls" lang="es">comp.</item>
+                <morphemes>
+                  <morph type="particle" guid="56db04bf-3d58-44cc-b292-4c8aa68538f4">
+                    <item type="txt" lang="amu-fonipa">na</item>
+                    <item type="cf" lang="amu-fonipa">na</item>
+                    <item type="msa" lang="es">part.</item>
+                    <item type="gls" lang="es">comp.</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="d1f0aa23-78ef-4371-ba78-803a9cd67284">
+                <item type="txt" lang="amu-fonipa">kwilʔuee-na</item>
+                <item type="pos" lang="es">v. tr.</item>
+                <item type="gls" lang="es">buscar</item>
+                <morphemes>
+                  <morph type="phrase" guid="a23b6faa-1052-4f4d-984b-4b338bdaf95f">
+                    <item type="txt" lang="amu-fonipa">kwilʔuee</item>
+                    <item type="cf" lang="amu-fonipa">malʔue</item>
+                    <item type="hn" lang="amu-fonipa">1</item>
+                    <item type="variantTypes" lang="es"/>
+                    <item type="msa" lang="es">v. tr.</item>
+                    <item type="gls" lang="es">buscar</item>
+                    <item type="glsAppend" lang="en"/>
+                  </morph>
+                  <morph>
+                    <item type="txt" lang="amu-fonipa">na</item>
+                  </morph>
+                </morphemes>
+              </word>
+            </words>
+            <item type="gls" lang="es">donde ellos buscan</item>
+            <item type="gls" lang="en">where they look for</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="7d960eb6-4dfd-4209-85e4-327158e0f614">
+        <phrases>
+          <phrase guid="463de54f-761b-46a0-8744-7e22692f069c">
+            <item type="segnum" lang="en">9</item>
+            <words>
+              <word guid="9320e04a-40d7-457e-aca2-b5bf7aebf88f">
+                <item type="txt" lang="amu-fonipa">nnʔã</item>
+                <item type="pos" lang="es">sust.</item>
+                <item type="gls" lang="es">gente; personas</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">nnʔã</item>
+                    <item type="cf" lang="amu-fonipa">nnʔã</item>
+                    <item type="hn" lang="amu-fonipa">1</item>
+                    <item type="msa" lang="es">sust.</item>
+                    <item type="gls" lang="es">gente; personas</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="c82d4779-4ed7-48b7-b711-958bc7a85448">
+                <item type="txt" lang="amu-fonipa">na</item>
+                <item type="pos" lang="es">part.</item>
+                <item type="gls" lang="es">comp.</item>
+                <morphemes>
+                  <morph type="particle" guid="56db04bf-3d58-44cc-b292-4c8aa68538f4">
+                    <item type="txt" lang="amu-fonipa">na</item>
+                    <item type="cf" lang="amu-fonipa">na</item>
+                    <item type="msa" lang="es">part.</item>
+                    <item type="gls" lang="es">comp.</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="3df4b0f7-c99c-41e4-8758-d60bfa7e2ff1">
+                <item type="txt" lang="amu-fonipa">kwilaʔneĩ</item>
+                <item type="pos" lang="es">v. tr.</item>
+                <item type="gls" lang="es">hablar</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">kwilaʔneĩ</item>
+                    <item type="cf" lang="amu-fonipa">matseineĩ</item>
+                    <item type="variantTypes" lang="es">+***</item>
+                    <item type="msa" lang="es">v. tr.</item>
+                    <item type="gls" lang="es">hablar</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="7adb9507-487d-4ebb-b366-096182ca3956">
+                <item type="txt" lang="amu-fonipa">ɲõndaa</item>
+                <item type="pos" lang="es">sust.</item>
+                <item type="gls" lang="es">amuzgo</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">ɲõndaa</item>
+                    <item type="cf" lang="amu-fonipa">ɲõndaa</item>
+                    <item type="hn" lang="amu-fonipa">1</item>
+                    <item type="msa" lang="es">sust.</item>
+                    <item type="gls" lang="es">amuzgo</item>
+                  </morph>
+                </morphemes>
+              </word>
+            </words>
+            <item type="gls" lang="es">personas que hablan alguna lengua</item>
+            <item type="gls" lang="en">people who speak a language</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="04c0e7fd-dfbb-444c-872b-e8e7b5b67962">
+        <phrases>
+          <phrase guid="5eb01b10-1866-43e8-bee4-a1daa86c9bdf">
+            <item type="segnum" lang="en">10</item>
+            <words>
+              <word guid="f250087e-f9f5-45b0-925e-9c4d8f701562">
+                <item type="txt" lang="amu-fonipa">makiaʔ</item>
+              </word>
+              <word guid="a77525c5-9d61-492e-a782-84e790bf6a62">
+                <item type="txt" lang="amu-fonipa">ɲʔoõ</item>
+                <item type="pos" lang="es">sust.</item>
+                <item type="gls" lang="es">idioma; lengua</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">ɲʔoõ</item>
+                    <item type="cf" lang="amu-fonipa">ɲʔoõ</item>
+                    <item type="hn" lang="amu-fonipa">4</item>
+                    <item type="msa" lang="es">sust.</item>
+                    <item type="gls" lang="es">idioma; lengua</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="c0c952fe-fd7d-4dde-aabf-78b1c2a7019f">
+                <item type="txt" lang="amu-fonipa">luu</item>
+              </word>
+            </words>
+            <item type="gls" lang="es">u otra lengua</item>
+            <item type="gls" lang="en">or another language</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="ebb1809b-37ca-4682-8d57-bc7ba36460b0">
+        <phrases>
+          <phrase guid="d8f7968a-0923-4f09-82f6-028bc391413e">
+            <item type="segnum" lang="en">11</item>
+            <words>
+              <word guid="68f83614-a642-46bd-802b-5621a08ac16a">
+                <item type="txt" lang="amu-fonipa">kancha</item>
+                <item type="pos" lang="es">conj.</item>
+                <item type="gls" lang="es">porque; debido a que; por la razón de que</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">kancha</item>
+                    <item type="cf" lang="amu-fonipa">kancha</item>
+                    <item type="msa" lang="es">conj.</item>
+                    <item type="gls" lang="es">porque; debido a que; por la razón de que</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="c82d4779-4ed7-48b7-b711-958bc7a85448">
+                <item type="txt" lang="amu-fonipa">na</item>
+                <item type="pos" lang="es">part.</item>
+                <item type="gls" lang="es">comp.</item>
+                <morphemes>
+                  <morph type="particle" guid="56db04bf-3d58-44cc-b292-4c8aa68538f4">
+                    <item type="txt" lang="amu-fonipa">na</item>
+                    <item type="cf" lang="amu-fonipa">na</item>
+                    <item type="msa" lang="es">part.</item>
+                    <item type="gls" lang="es">comp.</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="c82d4779-4ed7-48b7-b711-958bc7a85448">
+                <item type="txt" lang="amu-fonipa">na</item>
+                <item type="pos" lang="es">part.</item>
+                <item type="gls" lang="es">comp.</item>
+                <morphemes>
+                  <morph type="particle" guid="56db04bf-3d58-44cc-b292-4c8aa68538f4">
+                    <item type="txt" lang="amu-fonipa">na</item>
+                    <item type="cf" lang="amu-fonipa">na</item>
+                    <item type="msa" lang="es">part.</item>
+                    <item type="gls" lang="es">comp.</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="4e55e471-449f-4569-995a-6d8279a9ceb8">
+                <item type="txt" lang="amu-fonipa">hnde</item>
+                <item type="pos" lang="es">adj.</item>
+                <item type="gls" lang="es">mucho, muchos</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">hnɟe</item>
+                    <item type="cf" lang="amu-fonipa">hnɟe</item>
+                    <item type="hn" lang="amu-fonipa">2</item>
+                    <item type="msa" lang="es">adj.</item>
+                    <item type="gls" lang="es">mucho, muchos</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="9320e04a-40d7-457e-aca2-b5bf7aebf88f">
+                <item type="txt" lang="amu-fonipa">nnʔã</item>
+                <item type="pos" lang="es">sust.</item>
+                <item type="gls" lang="es">gente; personas</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">nnʔã</item>
+                    <item type="cf" lang="amu-fonipa">nnʔã</item>
+                    <item type="hn" lang="amu-fonipa">1</item>
+                    <item type="msa" lang="es">sust.</item>
+                    <item type="gls" lang="es">gente; personas</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="2830c546-4a2a-456f-a3bd-6a3245e6c3b1">
+                <item type="txt" lang="amu-fonipa">kwilaʔneĩ</item>
+                <item type="pos" lang="es">v. tr.</item>
+                <item type="gls" lang="es">hablar</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">kwilaʔneĩ</item>
+                    <item type="cf" lang="amu-fonipa">matseineĩ</item>
+                    <item type="variantTypes" lang="es">+***</item>
+                    <item type="msa" lang="es">v. tr.</item>
+                    <item type="gls" lang="es">hablar</item>
+                  </morph>
+                </morphemes>
+              </word>
+            </words>
+            <item type="gls" lang="es">porque muchas personas hablan</item>
+            <item type="gls" lang="en">because many people speak</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="47020e35-7832-4052-9d15-9887113d1928">
+        <phrases>
+          <phrase guid="77087aea-894a-41a9-aef5-9ecae8d7bffa">
+            <item type="segnum" lang="en">12</item>
+            <words>
+              <word guid="558cb462-6c96-468f-a956-bd9189d45688">
+                <item type="txt" lang="amu-fonipa">ɲʔoõ</item>
+                <item type="pos" lang="es">sust.</item>
+                <item type="gls" lang="es">idioma; lengua</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">ɲʔoõ</item>
+                    <item type="cf" lang="amu-fonipa">ɲʔoõ</item>
+                    <item type="hn" lang="amu-fonipa">4</item>
+                    <item type="msa" lang="es">sust.</item>
+                    <item type="gls" lang="es">idioma; lengua</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="db8cb589-ca65-4a0d-85b1-a0c1b6b89bec">
+                <item type="txt" lang="amu-fonipa">lʔuu</item>
+              </word>
+              <word guid="7ca3e092-5813-4b22-944f-413cf152b94e">
+                <item type="txt" lang="amu-fonipa">tʃaʔʃhẽ</item>
+                <item type="pos" lang="es">adv.</item>
+                <item type="gls" lang="es">así; como; tal como; así como</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">tʃaʔʃhẽ</item>
+                    <item type="cf" lang="amu-fonipa">tʃaʔʃhẽ</item>
+                    <item type="msa" lang="es">adv.</item>
+                    <item type="gls" lang="es">así; como; tal como; así como</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="c82d4779-4ed7-48b7-b711-958bc7a85448">
+                <item type="txt" lang="amu-fonipa">na</item>
+                <item type="pos" lang="es">part.</item>
+                <item type="gls" lang="es">comp.</item>
+                <morphemes>
+                  <morph type="particle" guid="56db04bf-3d58-44cc-b292-4c8aa68538f4">
+                    <item type="txt" lang="amu-fonipa">na</item>
+                    <item type="cf" lang="amu-fonipa">na</item>
+                    <item type="msa" lang="es">part.</item>
+                    <item type="gls" lang="es">comp.</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="674c76e5-9fb5-4544-983d-175411af4aec">
+                <item type="txt" lang="amu-fonipa">lote-ja</item>
+                <item type="pos" lang="es">s. pos.</item>
+                <item type="gls" lang="es">papá; padre</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">loce</item>
+                    <item type="cf" lang="amu-fonipa">tsoce</item>
+                    <item type="hn" lang="amu-fonipa">1</item>
+                    <item type="msa" lang="es">s. pos.</item>
+                    <item type="gls" lang="es">papá; padre</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">-ja</item>
+                    <item type="cf" lang="amu-fonipa">-ja</item>
+                    <item type="hn" lang="amu-fonipa">2</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                    <item type="gls" lang="es"/>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="db8cb589-ca65-4a0d-85b1-a0c1b6b89bec">
+                <item type="txt" lang="amu-fonipa">lʔuu</item>
+              </word>
+            </words>
+            <item type="gls" lang="es">lenguas como nuestros padres</item>
+            <item type="gls" lang="en">languages like our fathers'</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="ec09f63e-b556-4b2b-adb4-de0c8f905c14">
+        <phrases>
+          <phrase guid="afbe57d0-38ff-4c88-a08e-fc7c2e458c71">
+            <item type="segnum" lang="en">13</item>
+            <words>
+              <word guid="7183f593-b0cd-4437-a79d-fabe47817d26">
+                <item type="txt" lang="amu-fonipa">hoonaʔ</item>
+                <item type="pos" lang="es">pron.</item>
+                <item type="gls" lang="es">ellos; ellas</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">hoonaʔ</item>
+                    <item type="cf" lang="amu-fonipa">hoonaʔ</item>
+                    <item type="msa" lang="es">pron.</item>
+                    <item type="gls" lang="es">ellos; ellas</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="737f29ed-31ea-4717-a477-f86b1d7f9a83">
+                <item type="txt" lang="amu-fonipa">ndɛɛ</item>
+                <item type="pos" lang="es">sust.</item>
+                <item type="gls" lang="es">caras</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">ndɛɛ</item>
+                    <item type="cf" lang="amu-fonipa">kwikandɛɛ</item>
+                    <item type="hn" lang="amu-fonipa">1</item>
+                    <item type="variantTypes" lang="es">+***</item>
+                    <item type="msa" lang="es">v proc</item>
+                    <item type="gls" lang="es">poder; lograr</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="023ace13-2d85-4cc3-b679-95a602815e17">
+                <item type="txt" lang="amu-fonipa">laʔneĩ-na</item>
+                <item type="pos" lang="es">v. tr.</item>
+                <item type="gls" lang="es">hablar</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">laʔneĩ</item>
+                    <item type="cf" lang="amu-fonipa">matseineĩ</item>
+                    <item type="variantTypes" lang="es">+***</item>
+                    <item type="msa" lang="es">v. tr.</item>
+                    <item type="gls" lang="es">hablar</item>
+                  </morph>
+                  <morph>
+                    <item type="txt" lang="amu-fonipa">na</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="ec579341-dd41-4a2c-8ff6-fd59399e56a8">
+                <item type="txt" lang="amu-fonipa">sɛɛ</item>
+                <item type="pos" lang="es">conj.</item>
+                <item type="gls" lang="es">pero; mas</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">sɛɛ</item>
+                    <item type="cf" lang="amu-fonipa">sɛɛ</item>
+                    <item type="hn" lang="amu-fonipa">1</item>
+                    <item type="variantTypes" lang="es">+var. de</item>
+                    <item type="msa" lang="es">conj.</item>
+                    <item type="gls" lang="es">pero; mas</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="80ee122c-2595-47fb-b686-9803a8af307b">
+                <item type="txt" lang="amu-fonipa">ha</item>
+                <item type="pos" lang="es">pron.</item>
+                <item type="gls" lang="es">yo</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">ha</item>
+                    <item type="cf" lang="amu-fonipa">ha</item>
+                    <item type="hn" lang="amu-fonipa">2</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="663192bd-12b3-4096-b85b-85f0c99364cc">
+                <item type="txt" lang="amu-fonipa">mʔa</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">mʔaã</item>
+                    <item type="cf" lang="amu-fonipa">mʔaã</item>
+                    <item type="hn" lang="amu-fonipa">1</item>
+                    <item type="msa" lang="es">v. est.</item>
+                    <item type="gls" lang="es">vivir; estar establicido; estar ubicado</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="37f8489f-8d5c-49ec-883b-a52ef5829659">
+                <item type="txt" lang="amu-fonipa">nda-ja</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">nda</item>
+                    <item type="cf" lang="amu-fonipa">nda</item>
+                    <item type="msa" lang="es">s. pos.</item>
+                    <item type="gls" lang="es">hijo; hijos</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">-ja</item>
+                    <item type="cf" lang="amu-fonipa">-ja</item>
+                    <item type="hn" lang="amu-fonipa">2</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                    <item type="gls" lang="es"/>
+                  </morph>
+                </morphemes>
+              </word>
+            </words>
+            <item type="gls" lang="es">ellos pueden hablar pero nuestros hijos</item>
+            <item type="gls" lang="en">they can speak but our children</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="4f673efa-91e7-456d-aba5-d749740b2b58">
+        <phrases>
+          <phrase guid="201bd927-4099-4095-abe1-6bf3d31abce6">
+            <item type="segnum" lang="en">14</item>
+            <words>
+              <word guid="ccf6f2ed-0cb4-429a-8575-e260338103cc">
+                <item type="txt" lang="amu-fonipa">ti</item>
+                <item type="pos" lang="es">sust.</item>
+                <item type="gls" lang="es"/>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">ti</item>
+                    <item type="cf" lang="amu-fonipa">ti</item>
+                    <item type="msa" lang="es">sust.</item>
+                    <item type="gls" lang="es">semilla</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="71b2593d-9519-43f4-8c6f-e5aee8aa94e8">
+                <item type="txt" lang="amu-fonipa">ʃo</item>
+              </word>
+              <word guid="183be18a-1c76-4f69-b6ad-b0c6570e0c29">
+                <item type="txt" lang="amu-fonipa">ndɛɛ</item>
+                <item type="pos" lang="es">sust.</item>
+                <item type="gls" lang="es">caras</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">ndɛɛ</item>
+                    <item type="cf" lang="amu-fonipa">kwikandɛɛ</item>
+                    <item type="hn" lang="amu-fonipa">1</item>
+                    <item type="variantTypes" lang="es">+***</item>
+                    <item type="msa" lang="es">v proc</item>
+                    <item type="gls" lang="es">poder; lograr</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="56014949-d9b1-4817-beda-d3e5863e804a">
+                <item type="txt" lang="amu-fonipa">laʔneĩ-na</item>
+                <item type="pos" lang="es">v. tr.</item>
+                <item type="gls" lang="es">hablar</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">laʔneĩ</item>
+                    <item type="cf" lang="amu-fonipa">matseineĩ</item>
+                    <item type="variantTypes" lang="es">+***</item>
+                    <item type="msa" lang="es">v. tr.</item>
+                    <item type="gls" lang="es">hablar</item>
+                  </morph>
+                  <morph>
+                    <item type="txt" lang="amu-fonipa">na</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="4ccc43d9-ec05-4de8-ab62-b4b56bdf5607">
+                <item type="txt" lang="amu-fonipa">hoʔ</item>
+                <item type="pos" lang="es">conj.</item>
+                <item type="gls" lang="es">por eso; por lo tanto; pues</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">hoʔ</item>
+                    <item type="cf" lang="amu-fonipa">hoʔ</item>
+                    <item type="hn" lang="amu-fonipa">3</item>
+                    <item type="msa" lang="es">conj.</item>
+                    <item type="gls" lang="es">por eso; por lo tanto; pues</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="c82d4779-4ed7-48b7-b711-958bc7a85448">
+                <item type="txt" lang="amu-fonipa">na</item>
+                <item type="pos" lang="es">part.</item>
+                <item type="gls" lang="es">comp.</item>
+                <morphemes>
+                  <morph type="particle" guid="56db04bf-3d58-44cc-b292-4c8aa68538f4">
+                    <item type="txt" lang="amu-fonipa">na</item>
+                    <item type="cf" lang="amu-fonipa">na</item>
+                    <item type="msa" lang="es">part.</item>
+                    <item type="gls" lang="es">comp.</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="d7c1a5e6-ce43-474f-8b40-656f5407bf04">
+                <item type="txt" lang="amu-fonipa">matʃʔeenaʔ</item>
+                <item type="pos" lang="es">v. est.</item>
+                <item type="gls" lang="es">suceder; acontecer; ocurrir</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">matʃʔeenaʔ</item>
+                    <item type="cf" lang="amu-fonipa">matʃʔeenaʔ</item>
+                    <item type="msa" lang="es">v. est.</item>
+                    <item type="gls" lang="es">suceder; acontecer; ocurrir</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="c82d4779-4ed7-48b7-b711-958bc7a85448">
+                <item type="txt" lang="amu-fonipa">na</item>
+                <item type="pos" lang="es">part.</item>
+                <item type="gls" lang="es">comp.</item>
+                <morphemes>
+                  <morph type="particle" guid="56db04bf-3d58-44cc-b292-4c8aa68538f4">
+                    <item type="txt" lang="amu-fonipa">na</item>
+                    <item type="cf" lang="amu-fonipa">na</item>
+                    <item type="msa" lang="es">part.</item>
+                    <item type="gls" lang="es">comp.</item>
+                  </morph>
+                </morphemes>
+              </word>
+            </words>
+            <item type="gls" lang="es">no pueden hablar por eso</item>
+            <item type="gls" lang="en">cannot speak and for that reason</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="4d399418-8115-4aff-86d2-881cd305ed4c">
+        <phrases>
+          <phrase guid="92826a89-ec7d-4fb3-b5c1-bfc25862731b">
+            <item type="segnum" lang="en">15</item>
+            <words>
+              <word guid="7a2978b7-4408-4241-9e37-ac069e126b67">
+                <item type="txt" lang="amu-fonipa">kwinckwii</item>
+                <item type="pos" lang="es">v proc</item>
+                <item type="gls" lang="es">disminuirse; achicarse</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">kwinckwii</item>
+                    <item type="cf" lang="amu-fonipa">kwinckwii</item>
+                    <item type="hn" lang="amu-fonipa">1</item>
+                    <item type="msa" lang="es">v proc</item>
+                    <item type="gls" lang="es">disminuirse; achicarse</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="db8cb589-ca65-4a0d-85b1-a0c1b6b89bec">
+                <item type="txt" lang="amu-fonipa">lʔuu</item>
+              </word>
+              <word guid="a8075767-c341-4952-9af7-169bae9832cc">
+                <item type="txt" lang="amu-fonipa">ɲʔoõ-ja</item>
+                <item type="pos" lang="es">sust.</item>
+                <item type="gls" lang="es">idioma; lengua</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">ɲʔoõ</item>
+                    <item type="cf" lang="amu-fonipa">ɲʔoõ</item>
+                    <item type="hn" lang="amu-fonipa">4</item>
+                    <item type="msa" lang="es">sust.</item>
+                    <item type="gls" lang="es">idioma; lengua</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">-ja</item>
+                    <item type="cf" lang="amu-fonipa">-ja</item>
+                    <item type="hn" lang="amu-fonipa">2</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                    <item type="gls" lang="es"/>
+                  </morph>
+                </morphemes>
+              </word>
+            </words>
+            <item type="gls" lang="es">se pierde nuestra lengua</item>
+            <item type="gls" lang="en">our language is lost</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="17dfffac-fa0b-40a9-a95f-15d13a2a18e2">
+        <phrases>
+          <phrase guid="e5415a4c-e6fc-4466-b032-88fe42c11c28">
+            <item type="segnum" lang="en">16</item>
+            <words>
+              <word guid="60f0dc4f-e745-412c-9f35-2bf629b6e3c1">
+                <item type="txt" lang="amu-fonipa">ndoʔ</item>
+                <item type="pos" lang="es">conj.</item>
+                <item type="gls" lang="es">y</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">ndoʔ</item>
+                    <item type="cf" lang="amu-fonipa">ndoʔ</item>
+                    <item type="hn" lang="amu-fonipa">1</item>
+                    <item type="msa" lang="es">conj.</item>
+                    <item type="gls" lang="es">y</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="8dedd63c-ad07-4298-9489-70a8045a49e0">
+                <item type="txt" lang="amu-fonipa">hoʔ</item>
+                <item type="pos" lang="es">conj.</item>
+                <item type="gls" lang="es">por eso; por lo tanto; pues</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">hoʔ</item>
+                    <item type="cf" lang="amu-fonipa">hoʔ</item>
+                    <item type="hn" lang="amu-fonipa">3</item>
+                    <item type="msa" lang="es">conj.</item>
+                    <item type="gls" lang="es">por eso; por lo tanto; pues</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="67ad2c2e-8827-4741-b302-b27378f3da8a">
+                <item type="txt" lang="amu-fonipa">tsʔiaãʔ</item>
+                <item type="pos" lang="es">s. pos.</item>
+                <item type="gls" lang="es">trabajo; oficio</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">tsʔiaãʔ</item>
+                    <item type="cf" lang="amu-fonipa">tsʔiaãʔ</item>
+                    <item type="msa" lang="es">s. pos.</item>
+                    <item type="gls" lang="es">trabajo; oficio</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="48b05e09-7163-45b6-a307-4b5681c48161">
+                <item type="txt" lang="amu-fonipa">tmaãʔ</item>
+                <item type="pos" lang="es">sust.</item>
+                <item type="gls" lang="es">grupo; multitud</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">tmaãʔ</item>
+                    <item type="cf" lang="amu-fonipa">tmaãʔ</item>
+                    <item type="hn" lang="amu-fonipa">3</item>
+                    <item type="msa" lang="es">sust.</item>
+                    <item type="gls" lang="es">grupo; multitud</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="141453e9-cb09-475d-abd8-eb359dd1c9ef">
+                <item type="txt" lang="amu-fonipa">waa-ne</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">waa</item>
+                    <item type="cf" lang="amu-fonipa">waa</item>
+                    <item type="hn" lang="amu-fonipa">1</item>
+                    <item type="msa" lang="es">v. intr.</item>
+                    <item type="gls" lang="es">ser; existir; haber</item>
+                  </morph>
+                  <morph>
+                    <item type="txt" lang="amu-fonipa">ne</item>
+                  </morph>
+                </morphemes>
+              </word>
+            </words>
+            <item type="gls" lang="es">y este grupo está</item>
+            <item type="gls" lang="en">and this group is</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="5e03bc4f-a057-429b-b326-6ad76e9b9e6a">
+        <phrases>
+          <phrase guid="fa3ff14c-13df-49aa-8463-53b76b0f29e1">
+            <item type="segnum" lang="en">17</item>
+            <words>
+              <word guid="c82d4779-4ed7-48b7-b711-958bc7a85448">
+                <item type="txt" lang="amu-fonipa">na</item>
+                <item type="pos" lang="es">part.</item>
+                <item type="gls" lang="es">comp.</item>
+                <morphemes>
+                  <morph type="particle" guid="56db04bf-3d58-44cc-b292-4c8aa68538f4">
+                    <item type="txt" lang="amu-fonipa">na</item>
+                    <item type="cf" lang="amu-fonipa">na</item>
+                    <item type="msa" lang="es">part.</item>
+                    <item type="gls" lang="es">comp.</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="c6eb6168-db7b-44c9-aefe-8c444c571c8b">
+                <item type="txt" lang="amu-fonipa">mʔaã</item>
+                <item type="pos" lang="es">v. est.</item>
+                <item type="gls" lang="es">haber; ser; existir</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">mʔaã</item>
+                    <item type="cf" lang="amu-fonipa">mʔaã</item>
+                    <item type="hn" lang="amu-fonipa">1</item>
+                    <item type="msa" lang="es">v. est.</item>
+                    <item type="gls" lang="es">haber; ser; existir</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="c82d4779-4ed7-48b7-b711-958bc7a85448">
+                <item type="txt" lang="amu-fonipa">na</item>
+                <item type="pos" lang="es">part.</item>
+                <item type="gls" lang="es">comp.</item>
+                <morphemes>
+                  <morph type="particle" guid="56db04bf-3d58-44cc-b292-4c8aa68538f4">
+                    <item type="txt" lang="amu-fonipa">na</item>
+                    <item type="cf" lang="amu-fonipa">na</item>
+                    <item type="msa" lang="es">part.</item>
+                    <item type="gls" lang="es">comp.</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="082c0ad0-bc38-41f1-9aec-79a6056c9250">
+                <item type="txt" lang="amu-fonipa">lhoo</item>
+                <item type="pos" lang="es">adv.</item>
+                <item type="gls" lang="es">aquí</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">lhoo</item>
+                    <item type="cf" lang="amu-fonipa">lhoo</item>
+                    <item type="hn" lang="amu-fonipa">1</item>
+                    <item type="msa" lang="es">adv.</item>
+                    <item type="gls" lang="es">aquí</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="09f4ef71-25fe-460a-b65a-52aa4f63a70f">
+                <item type="txt" lang="amu-fonipa">ne</item>
+              </word>
+            </words>
+            <item type="gls" lang="es">aquí</item>
+            <item type="gls" lang="en">here</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="f9b56e4f-b419-443e-9aaf-8010c3b95596">
+        <phrases>
+          <phrase guid="8e9265f0-7e1c-4f31-bc9c-380c1e359c00">
+            <item type="segnum" lang="en">18</item>
+            <words>
+              <word guid="6598ce97-3916-4b0b-958b-3b726d224b18">
+                <item type="txt" lang="amu-fonipa">kwilaʔthõ-nɟɔ</item>
+                <item type="pos" lang="es">v. tr.</item>
+                <item type="gls" lang="es">reunir; juntar</item>
+                <morphemes>
+                  <morph type="phrase" guid="a23b6faa-1052-4f4d-984b-4b338bdaf95f">
+                    <item type="txt" lang="amu-fonipa">kwilaʔthõ</item>
+                    <item type="cf" lang="amu-fonipa">matseithõ</item>
+                    <item type="hn" lang="amu-fonipa">1</item>
+                    <item type="variantTypes" lang="es"/>
+                    <item type="msa" lang="es">v. tr.</item>
+                    <item type="gls" lang="es">reunir; juntar</item>
+                    <item type="glsAppend" lang="en"/>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">-nɟɔ</item>
+                    <item type="cf" lang="amu-fonipa">-nɟɔ</item>
+                    <item type="hn" lang="amu-fonipa">1</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                    <item type="gls" lang="es"/>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="a9694337-fb18-4844-83d4-f66b223080ba">
+                <item type="txt" lang="amu-fonipa">lhoo</item>
+                <item type="pos" lang="es">adv.</item>
+                <item type="gls" lang="es">aquí</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">lhoo</item>
+                    <item type="cf" lang="amu-fonipa">lhoo</item>
+                    <item type="hn" lang="amu-fonipa">1</item>
+                    <item type="msa" lang="es">adv.</item>
+                    <item type="gls" lang="es">aquí</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="09f4ef71-25fe-460a-b65a-52aa4f63a70f">
+                <item type="txt" lang="amu-fonipa">ne</item>
+              </word>
+            </words>
+            <item type="gls" lang="es">nos reunimos</item>
+            <item type="gls" lang="en">we've come together</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="08e9b0e4-5e8b-4f86-8cbb-78ca0fcc1f96">
+        <phrases>
+          <phrase guid="5310fe8e-c158-4a10-b9fa-1c0ed0346295">
+            <item type="segnum" lang="en">19</item>
+            <words>
+              <word guid="c82d4779-4ed7-48b7-b711-958bc7a85448">
+                <item type="txt" lang="amu-fonipa">na</item>
+                <item type="pos" lang="es">part.</item>
+                <item type="gls" lang="es">comp.</item>
+                <morphemes>
+                  <morph type="particle" guid="56db04bf-3d58-44cc-b292-4c8aa68538f4">
+                    <item type="txt" lang="amu-fonipa">na</item>
+                    <item type="cf" lang="amu-fonipa">na</item>
+                    <item type="msa" lang="es">part.</item>
+                    <item type="gls" lang="es">comp.</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="fbf172e6-5dea-4857-b46c-e22277ac9947">
+                <item type="txt" lang="amu-fonipa">nda-ja</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">nda</item>
+                    <item type="cf" lang="amu-fonipa">nda</item>
+                    <item type="msa" lang="es">s. pos.</item>
+                    <item type="gls" lang="es">hijo; hijos</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">-ja</item>
+                    <item type="cf" lang="amu-fonipa">-ja</item>
+                    <item type="hn" lang="amu-fonipa">2</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                    <item type="gls" lang="es"/>
+                  </morph>
+                </morphemes>
+              </word>
+            </words>
+            <item type="gls" lang="es">para que nuestros hijos</item>
+            <item type="gls" lang="en">so that our children</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="430ec8b7-d719-45b3-b796-bffd39ccaff8">
+        <phrases>
+          <phrase guid="4c76a081-0efc-44a3-baee-407e8d6ac4a3">
+            <item type="segnum" lang="en">20</item>
+            <words>
+              <word guid="60f0dc4f-e745-412c-9f35-2bf629b6e3c1">
+                <item type="txt" lang="amu-fonipa">ndoʔ</item>
+                <item type="pos" lang="es">conj.</item>
+                <item type="gls" lang="es">y</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">ndoʔ</item>
+                    <item type="cf" lang="amu-fonipa">ndoʔ</item>
+                    <item type="hn" lang="amu-fonipa">1</item>
+                    <item type="msa" lang="es">conj.</item>
+                    <item type="gls" lang="es">y</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="272cb010-c34e-4209-a596-c2ce6434ce65">
+                <item type="txt" lang="amu-fonipa">nda</item>
+                <item type="pos" lang="es">s. pos.</item>
+                <item type="gls" lang="es">hijo; hijos</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">nda</item>
+                    <item type="cf" lang="amu-fonipa">nda</item>
+                    <item type="msa" lang="es">s. pos.</item>
+                    <item type="gls" lang="es">hijo; hijos</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="f39435b4-eaba-435b-aa2a-6b61762d3a00">
+                <item type="txt" lang="amu-fonipa">hoona</item>
+                <item type="pos" lang="es">pron.</item>
+                <item type="gls" lang="es">ellos; ellas</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">hoona</item>
+                    <item type="cf" lang="amu-fonipa">hoona</item>
+                    <item type="hn" lang="amu-fonipa">1</item>
+                    <item type="msa" lang="es">pron.</item>
+                    <item type="gls" lang="es">ellos; ellas</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="c82d4779-4ed7-48b7-b711-958bc7a85448">
+                <item type="txt" lang="amu-fonipa">na</item>
+                <item type="pos" lang="es">part.</item>
+                <item type="gls" lang="es">comp.</item>
+                <morphemes>
+                  <morph type="particle" guid="56db04bf-3d58-44cc-b292-4c8aa68538f4">
+                    <item type="txt" lang="amu-fonipa">na</item>
+                    <item type="cf" lang="amu-fonipa">na</item>
+                    <item type="msa" lang="es">part.</item>
+                    <item type="gls" lang="es">comp.</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="ccf6f2ed-0cb4-429a-8575-e260338103cc">
+                <item type="txt" lang="amu-fonipa">ti</item>
+                <item type="pos" lang="es">sust.</item>
+                <item type="gls" lang="es"/>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">ti</item>
+                    <item type="cf" lang="amu-fonipa">ti</item>
+                    <item type="msa" lang="es">sust.</item>
+                    <item type="gls" lang="es">semilla</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="8e456ce0-1832-4b4c-9ff8-0bb7a9d8135d">
+                <item type="txt" lang="amu-fonipa">nckwiiʔ</item>
+                <item type="pos" lang="es">v. est.</item>
+                <item type="gls" lang="es">ser conservativo; ser moderado; ser frugal; parco</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">nckwiiʔ</item>
+                    <item type="cf" lang="amu-fonipa">nckwiiʔ</item>
+                    <item type="hn" lang="amu-fonipa">1</item>
+                    <item type="msa" lang="es">v. est.</item>
+                    <item type="gls" lang="es">ser conservativo; ser moderado; ser frugal; parco</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="558cb462-6c96-468f-a956-bd9189d45688">
+                <item type="txt" lang="amu-fonipa">ɲʔoõ</item>
+                <item type="pos" lang="es">sust.</item>
+                <item type="gls" lang="es">idioma; lengua</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">ɲʔoõ</item>
+                    <item type="cf" lang="amu-fonipa">ɲʔoõ</item>
+                    <item type="hn" lang="amu-fonipa">4</item>
+                    <item type="msa" lang="es">sust.</item>
+                    <item type="gls" lang="es">idioma; lengua</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="382df281-5db2-4f0a-bad2-243c01449498">
+                <item type="txt" lang="amu-fonipa">wa</item>
+              </word>
+              <word guid="10fa9ec4-ce48-48c6-b33c-c5d0fee93a5a">
+                <item type="txt" lang="amu-fonipa">maʃhẽ</item>
+                <item type="pos" lang="es">adv.</item>
+                <item type="gls" lang="es">de todas maneras; en todo caso</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">maʃhẽ</item>
+                    <item type="cf" lang="amu-fonipa">maʃhẽ</item>
+                    <item type="msa" lang="es">adv.</item>
+                    <item type="gls" lang="es">de todas maneras; en todo caso</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="bffe4096-a44b-4643-9287-0c3bd4e107ba">
+                <item type="txt" lang="amu-fonipa">nggwana</item>
+              </word>
+              <word guid="db8cb589-ca65-4a0d-85b1-a0c1b6b89bec">
+                <item type="txt" lang="amu-fonipa">lʔuu</item>
+              </word>
+              <word guid="c82d4779-4ed7-48b7-b711-958bc7a85448">
+                <item type="txt" lang="amu-fonipa">na</item>
+                <item type="pos" lang="es">part.</item>
+                <item type="gls" lang="es">comp.</item>
+                <morphemes>
+                  <morph type="particle" guid="56db04bf-3d58-44cc-b292-4c8aa68538f4">
+                    <item type="txt" lang="amu-fonipa">na</item>
+                    <item type="cf" lang="amu-fonipa">na</item>
+                    <item type="msa" lang="es">part.</item>
+                    <item type="gls" lang="es">comp.</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="e1a37092-a940-4369-8c81-406f699208c5">
+                <item type="txt" lang="amu-fonipa">ndɛ</item>
+                <item type="pos" lang="es">sust.</item>
+                <item type="gls" lang="es">frijol</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">ndɛ</item>
+                    <item type="cf" lang="amu-fonipa">ndɛ</item>
+                    <item type="hn" lang="amu-fonipa">1</item>
+                    <item type="msa" lang="es">sust.</item>
+                    <item type="gls" lang="es">frijol</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="56014949-d9b1-4817-beda-d3e5863e804a">
+                <item type="txt" lang="amu-fonipa">laʔneĩ-na</item>
+                <item type="pos" lang="es">v. tr.</item>
+                <item type="gls" lang="es">hablar</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">laʔneĩ</item>
+                    <item type="cf" lang="amu-fonipa">matseineĩ</item>
+                    <item type="variantTypes" lang="es">+***</item>
+                    <item type="msa" lang="es">v. tr.</item>
+                    <item type="gls" lang="es">hablar</item>
+                  </morph>
+                  <morph>
+                    <item type="txt" lang="amu-fonipa">na</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="84e4b8ae-ab51-49e9-b1df-b69514b8b45f">
+                <item type="txt" lang="amu-fonipa">asta</item>
+              </word>
+              <word guid="48a80716-5b0d-4c3f-a654-a7d5609cb91d">
+                <item type="txt" lang="amu-fonipa">hndɛ</item>
+                <item type="pos" lang="es">sust.</item>
+                <item type="gls" lang="es">zacate</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">hndɛ</item>
+                    <item type="cf" lang="amu-fonipa">hndɛ</item>
+                    <item type="hn" lang="amu-fonipa">4</item>
+                    <item type="msa" lang="es">sust.</item>
+                    <item type="gls" lang="es">zacate</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="cef18ae7-9a84-45c8-8a8e-52482e91cba9">
+                <item type="txt" lang="amu-fonipa">laʔlheii-na</item>
+                <item type="pos" lang="es">v. tr.</item>
+                <item type="gls" lang="es">escribir</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">laʔlheii</item>
+                    <item type="cf" lang="amu-fonipa">matseilheii</item>
+                    <item type="hn" lang="amu-fonipa">1</item>
+                    <item type="variantTypes" lang="es">+***</item>
+                    <item type="msa" lang="es">v. tr.</item>
+                    <item type="gls" lang="es">escribir</item>
+                  </morph>
+                  <morph>
+                    <item type="txt" lang="amu-fonipa">na</item>
+                  </morph>
+                </morphemes>
+              </word>
+            </words>
+            <item type="gls" lang="es">y los hijos de ellos no terminan de hablar sino que sigue hablando o escribiendo</item>
+            <item type="gls" lang="en">and their children don't stop speaking but instead they continue speaking or writing</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="8742d0b5-da21-4f9e-8bda-1b887e59432c">
+        <phrases>
+          <phrase guid="efd64454-d142-44d4-98ac-ddbae84fd853">
+            <item type="segnum" lang="en">21</item>
+            <words>
+              <word guid="1be23cf3-eec2-4f46-aedf-182656f6dd19">
+                <item type="txt" lang="amu-fonipa">ɲhõ</item>
+                <item type="pos" lang="es">adv.</item>
+                <item type="gls" lang="es">de una vez</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">ɲhõ</item>
+                    <item type="cf" lang="amu-fonipa">ɲhõ</item>
+                    <item type="hn" lang="amu-fonipa">1</item>
+                    <item type="msa" lang="es">adv.</item>
+                    <item type="gls" lang="es">de una vez</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="bc1bcfe7-af3b-4244-9ae8-229c37e528c1">
+                <item type="txt" lang="amu-fonipa">meiĩ</item>
+                <item type="pos" lang="es">conj.</item>
+                <item type="gls" lang="es">aunque</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">meiĩ</item>
+                    <item type="cf" lang="amu-fonipa">meiĩ</item>
+                    <item type="hn" lang="amu-fonipa">2</item>
+                    <item type="msa" lang="es">conj.</item>
+                    <item type="gls" lang="es">aunque</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="8dedd63c-ad07-4298-9489-70a8045a49e0">
+                <item type="txt" lang="amu-fonipa">hoʔ</item>
+                <item type="pos" lang="es">conj.</item>
+                <item type="gls" lang="es">por eso; por lo tanto; pues</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">hoʔ</item>
+                    <item type="cf" lang="amu-fonipa">hoʔ</item>
+                    <item type="hn" lang="amu-fonipa">3</item>
+                    <item type="msa" lang="es">conj.</item>
+                    <item type="gls" lang="es">por eso; por lo tanto; pues</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="c82d4779-4ed7-48b7-b711-958bc7a85448">
+                <item type="txt" lang="amu-fonipa">na</item>
+                <item type="pos" lang="es">part.</item>
+                <item type="gls" lang="es">comp.</item>
+                <morphemes>
+                  <morph type="particle" guid="56db04bf-3d58-44cc-b292-4c8aa68538f4">
+                    <item type="txt" lang="amu-fonipa">na</item>
+                    <item type="cf" lang="amu-fonipa">na</item>
+                    <item type="msa" lang="es">part.</item>
+                    <item type="gls" lang="es">comp.</item>
+                  </morph>
+                </morphemes>
+              </word>
+            </words>
+            <item type="gls" lang="es">por eso</item>
+            <item type="gls" lang="en">for that reason</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="ef6b40bb-2ac2-4cdf-818d-5a28eb7ecec2">
+        <phrases>
+          <phrase guid="1feb9dbb-9e04-4978-bcd8-89cb67991895">
+            <item type="segnum" lang="en">22</item>
+            <words>
+              <word guid="d31ff843-53b2-4ef4-ad41-195bff13f3f6">
+                <item type="txt" lang="amu-fonipa">kwilʔa-ja</item>
+                <item type="pos" lang="es">v. intr.</item>
+                <item type="gls" lang="es">tener la intención; proponerse</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">kwilʔa</item>
+                    <item type="cf" lang="amu-fonipa">matʃʔee</item>
+                    <item type="hn" lang="amu-fonipa">1</item>
+                    <item type="variantTypes" lang="es">+***</item>
+                    <item type="msa" lang="es">v. bitr.</item>
+                    <item type="gls" lang="es">hacer</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="amu-fonipa">-ja</item>
+                    <item type="cf" lang="amu-fonipa">-ja</item>
+                    <item type="hn" lang="amu-fonipa">2</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                    <item type="gls" lang="es"/>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="bcbb863a-cd5d-4db2-b37d-db24dadcef3b">
+                <item type="txt" lang="amu-fonipa">grabacion</item>
+              </word>
+              <word guid="c82d4779-4ed7-48b7-b711-958bc7a85448">
+                <item type="txt" lang="amu-fonipa">na</item>
+                <item type="pos" lang="es">part.</item>
+                <item type="gls" lang="es">comp.</item>
+                <morphemes>
+                  <morph type="particle" guid="56db04bf-3d58-44cc-b292-4c8aa68538f4">
+                    <item type="txt" lang="amu-fonipa">na</item>
+                    <item type="cf" lang="amu-fonipa">na</item>
+                    <item type="msa" lang="es">part.</item>
+                    <item type="gls" lang="es">comp.</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="93d53ec7-e8a0-4d9e-9d6e-e8a7d85a31c2">
+                <item type="txt" lang="amu-fonipa">maheʔnɟo</item>
+                <item type="pos" lang="es">adv.</item>
+                <item type="gls" lang="es">inmediatamente; en seguida</item>
+                <morphemes>
+                  <morph type="phrase" guid="a23b6faa-1052-4f4d-984b-4b338bdaf95f">
+                    <item type="txt" lang="amu-fonipa">maheʔnɟo</item>
+                    <item type="cf" lang="amu-fonipa">maheʔ</item>
+                    <item type="variantTypes" lang="es">+var. de</item>
+                    <item type="msa" lang="es">adv.</item>
+                    <item type="gls" lang="es">inmediatamente; en seguida</item>
+                  </morph>
+                </morphemes>
+              </word>
+            </words>
+            <item type="gls" lang="es">estamos grabando en este momento</item>
+            <item type="gls" lang="en">we are recording right now</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+    </paragraphs>
+    <languages>
+      <language lang="amu" font="Charis SIL AmArea" vernacular="true"/>
+      <language lang="en" font="Times New Roman"/>
+      <language lang="amu-fonipa" font="Charis SIL" vernacular="true"/>
+      <language lang="es" font="Times New Roman"/>
+    </languages>
+  </interlinear-text>
+</document>

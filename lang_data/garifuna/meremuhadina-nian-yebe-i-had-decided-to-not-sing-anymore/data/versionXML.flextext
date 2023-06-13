@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document version="2">
+<interlinear-text guid="2aa341ce-b997-4ac5-be3b-ce8b1a018ce9">
+    <item type="title" lang="cab">Meremuhadina nian yebe</item>
+    <item type="title" lang="en">I had decided to not sing anymore</item>
+    <item type="title-abbreviation" lang="en">UNESCO</item>
+    <item type="source" lang="en">"UNESCO Declaration", in Ávila, Tomás Alberto (ed.). 2009. Black Caribs - Garifuna, Saint Vincent's Exiled People and the Origin of the Garifuna: A Historical Compilation.</item>
+    <item type="comment" lang="en">Encoded by Kalvin Hartwig</item>
+    <paragraphs>
+      <paragraph guid="ffd40856-2d4e-441f-805f-5aaada9dac0d">
+        <phrases>
+          <phrase guid="155c4eb7-2e26-4bee-8d8a-c28dd7ca558e">
+            <item type="segnum" lang="en">1</item>
+            <words>
+              <word guid="07364821-515f-4a00-bc13-b2473a786c7f">
+                <item type="txt" lang="cab">Meremuhadina</item>
+              </word>
+              <word guid="76514143-189c-4b58-9e3d-a07bfa1d5324">
+                <item type="txt" lang="cab">nian</item>
+              </word>
+              <word guid="1a48c2a5-ffd4-4e67-a808-9d860e92f00d">
+                <item type="txt" lang="cab">yebe</item>
+                <morphemes>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">=yebe</item>
+                    <item type="cf" lang="cab">=yebe</item>
+                    <item type="gls" lang="en">=to.nothing</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">to.nothing</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">,</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">I had decided to not sing anymore</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="4720fc13-8655-46b6-8500-d63adb419dd2">
+        <phrases>
+          <phrase guid="5690c558-7663-4bbf-ad82-77390532535a">
+            <item type="segnum" lang="en">2</item>
+            <words>
+              <word guid="8c635870-2c6a-4b11-a1a7-866a048c904b">
+                <item type="txt" lang="cab">Chülüha</item>
+              </word>
+              <word guid="75181bbd-03b5-413d-814d-9925143d1131">
+                <item type="txt" lang="cab">dan</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">dan</item>
+                    <item type="cf" lang="cab">dan</item>
+                    <item type="gls" lang="en">time</item>
+                    <item type="msa" lang="en">n-m</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">time</item>
+                <item type="pos" lang="en">n-m</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">,</item>
+              </word>
+              <word guid="61273675-8b35-43a1-86c4-f027f7238f34">
+                <item type="txt" lang="cab">au</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">au</item>
+                    <item type="cf" lang="cab">au</item>
+                    <item type="hn" lang="cab">2</item>
+                    <item type="gls" lang="en">I</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">I</item>
+                <item type="pos" lang="en">pro</item>
+              </word>
+              <word guid="73464d84-9469-43cb-9547-37b136dc9214">
+                <item type="txt" lang="cab">neremuhaba</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">But the time has come, I will sing.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+    </paragraphs>
+    <languages>
+      <language lang="cab" font="Charis SIL" vernacular="true"/>
+      <language lang="en" font="Times New Roman" vernacular="true"/>
+      <language lang="es" font="Times New Roman"/>
+    </languages>
+  </interlinear-text>
+</document>

@@ -1,0 +1,1992 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document version="2">
+<interlinear-text guid="ca2bc02d-3cc3-4a6d-8bb7-cbb99b9e43c6">
+    <item type="title" lang="en">CAUS VI</item>
+    <paragraphs>
+      <paragraph guid="f6785380-a94f-450d-8850-ac734a728cc4">
+        <phrases>
+          <phrase guid="0ef9e43f-cb85-4eee-9e44-bf30beb8d1b4">
+            <item type="segnum" lang="en">1</item>
+            <words>
+              <word guid="a3caa412-438d-4d0f-bc8c-02e528c36fa4">
+                <item type="txt" lang="cdz">maiŋ</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="cdz">maiŋ</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">mother</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="38e30f0c-3d79-4fcb-ae75-0afc41590f90">
+                <item type="txt" lang="cdz">hɔnʈakɛ</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">hɔn</item>
+                    <item type="cf" lang="cdz">hɔn</item>
+                    <item type="cf" lang="bn"></item>
+                    <item type="gls" lang="en">kid</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">-ʈa</item>
+                    <item type="cf" lang="cdz">-ʈa</item>
+                    <item type="cf" lang="bn">-ʈa</item>
+                    <item type="gls" lang="en">DEF</item>
+                    <item type="msa" lang="en">n:Any</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">-kɛ</item>
+                    <item type="cf" lang="cdz">-kɛ</item>
+                    <item type="hn" lang="cdz">1</item>
+                    <item type="cf" lang="bn">-kɛ</item>
+                    <item type="hn" lang="cdz">1</item>
+                    <item type="gls" lang="en">OBJ</item>
+                    <item type="msa" lang="en">n:Any</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="76078811-d615-4061-97cf-dac65c4f70b2">
+                <item type="txt" lang="cdz">kuramrɛn</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">kuram</item>
+                    <item type="cf" lang="cdz">kuram</item>
+                    <item type="cf" lang="bn"></item>
+                    <item type="gls" lang="en">chest</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">-rɛn</item>
+                    <item type="cf" lang="cdz">-rɛn</item>
+                    <item type="cf" lang="bn">-</item>
+                    <item type="gls" lang="en">GEN.INAN</item>
+                    <item type="msa" lang="en">n:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">chest</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="70f33e1d-a30f-4ad5-88b2-7e6a49570842">
+                <item type="txt" lang="cdz">tɔwa</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">tɔua</item>
+                    <item type="cf" lang="cdz">tɔua</item>
+                    <item type="cf" lang="bn"></item>
+                    <item type="gls" lang="en">milk</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">milk</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="4f43406f-7fed-4c46-9d68-f0c20ad89c4d">
+                <item type="txt" lang="cdz">kʰawajʔtɛ</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">kʰawa</item>
+                    <item type="cf" lang="cdz">kʰawa</item>
+                    <item type="cf" lang="bn">kʰawa</item>
+                    <item type="gls" lang="en">feed</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">-j</item>
+                    <item type="cf" lang="cdz">-iʔ</item>
+                    <item type="cf" lang="bn">-</item>
+                    <item type="gls" lang="en">3SG.ANM.OBJ</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">-t</item>
+                    <item type="cf" lang="cdz">-ta</item>
+                    <item type="cf" lang="bn">-</item>
+                    <item type="gls" lang="en">PRES.PROG</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">=ɛ</item>
+                    <item type="cf" lang="cdz">=ɛ</item>
+                    <item type="cf" lang="bn">=</item>
+                    <item type="gls" lang="en">=3SG.SBJ</item>
+                    <item type="msa" lang="en">pro-form</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">feed</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">Mother is breastfeeding the child.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="d090b46a-79b6-4746-b695-96733ae61a5d">
+        <phrases>
+          <phrase guid="a5796d55-1070-44e5-84ec-6926c11d63d6">
+            <item type="segnum" lang="en">2</item>
+            <words>
+              <word guid="e2c391f2-1b87-4072-93d0-5a5292b337ee">
+                <item type="txt" lang="cdz">hɔnʈa</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">hɔn</item>
+                    <item type="cf" lang="cdz">hɔn</item>
+                    <item type="cf" lang="bn"></item>
+                    <item type="gls" lang="en">kid</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">-ʈa</item>
+                    <item type="cf" lang="cdz">-ʈa</item>
+                    <item type="cf" lang="bn">-ʈa</item>
+                    <item type="gls" lang="en">DEF</item>
+                    <item type="msa" lang="en">n:Any</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="76078811-d615-4061-97cf-dac65c4f70b2">
+                <item type="txt" lang="cdz">kuramrɛn</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">kuram</item>
+                    <item type="cf" lang="cdz">kuram</item>
+                    <item type="cf" lang="bn"></item>
+                    <item type="gls" lang="en">chest</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">-rɛn</item>
+                    <item type="cf" lang="cdz">-rɛn</item>
+                    <item type="cf" lang="bn">-</item>
+                    <item type="gls" lang="en">GEN.INAN</item>
+                    <item type="msa" lang="en">n:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">chest</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="70f33e1d-a30f-4ad5-88b2-7e6a49570842">
+                <item type="txt" lang="cdz">tɔwa</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">tɔua</item>
+                    <item type="cf" lang="cdz">tɔua</item>
+                    <item type="cf" lang="bn"></item>
+                    <item type="gls" lang="en">milk</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">milk</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="35800c53-c049-4c1b-a6ac-1d13dad8f044">
+                <item type="txt" lang="cdz">nujʔtɛ</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">nu</item>
+                    <item type="cf" lang="cdz">nu</item>
+                    <item type="cf" lang="bn"></item>
+                    <item type="gls" lang="en">drink</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">-ɛʔ</item>
+                    <item type="cf" lang="cdz">-ɛʔ</item>
+                    <item type="cf" lang="bn">-</item>
+                    <item type="gls" lang="en">TR.A</item>
+                    <item type="msa" lang="en">v&gt;v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">-t</item>
+                    <item type="cf" lang="cdz">-ta</item>
+                    <item type="cf" lang="bn">-</item>
+                    <item type="gls" lang="en">PRES.PROG</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">=ɛ</item>
+                    <item type="cf" lang="cdz">=ɛ</item>
+                    <item type="cf" lang="bn">=</item>
+                    <item type="gls" lang="en">=3SG.SBJ</item>
+                    <item type="msa" lang="en">pro-form</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">drink</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">The child is suckling. </item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="ed8ff9a0-c6f0-432f-a14c-2d71f36bf7cc">
+        <phrases>
+          <phrase guid="4a2ce35f-8b90-4dbe-be1a-720a3a72d488">
+            <item type="segnum" lang="en">3</item>
+            <words>
+              <word guid="6ef3f799-6c8f-4792-a6ce-b77d6fd5983f">
+                <item type="txt" lang="cdz">ajʔ</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">ajʔ</item>
+                    <item type="cf" lang="cdz">ac</item>
+                    <item type="cf" lang="bn"></item>
+                    <item type="gls" lang="en">3SG</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">3SG</item>
+                <item type="pos" lang="en">pro</item>
+              </word>
+              <word guid="ded61103-8d78-4fb3-944d-a96813a0760d">
+                <item type="txt" lang="cdz">iŋkɛ</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">iŋ</item>
+                    <item type="cf" lang="cdz">iŋ</item>
+                    <item type="cf" lang="bn"></item>
+                    <item type="gls" lang="en">1SG</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">-kɛ</item>
+                    <item type="cf" lang="cdz">-kɛ</item>
+                    <item type="hn" lang="cdz">1</item>
+                    <item type="cf" lang="bn">-kɛ</item>
+                    <item type="hn" lang="cdz">1</item>
+                    <item type="gls" lang="en">OBJ</item>
+                    <item type="msa" lang="en">n:Any</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="a820ca48-ca0c-4c17-864c-d3523e90d2ea">
+                <item type="txt" lang="cdz">ca</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">ca</item>
+                    <item type="cf" lang="cdz">ca</item>
+                    <item type="cf" lang="bn">ca</item>
+                    <item type="gls" lang="en">tea</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">tea</item>
+              </word>
+              <word guid="c10f52e4-d1ad-48fc-b22a-955e2ed0ec23">
+                <item type="txt" lang="cdz">kʰawaiŋɛ</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">kʰawa</item>
+                    <item type="cf" lang="cdz">kʰawa</item>
+                    <item type="cf" lang="bn">kʰawa</item>
+                    <item type="gls" lang="en">feed</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">-iŋ</item>
+                    <item type="cf" lang="cdz">-iŋ</item>
+                    <item type="cf" lang="bn">-</item>
+                    <item type="gls" lang="en">1SG.OBJ</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">=ɛ</item>
+                    <item type="cf" lang="cdz">=ɛ</item>
+                    <item type="cf" lang="bn">=</item>
+                    <item type="gls" lang="en">=3SG.SBJ</item>
+                    <item type="msa" lang="en">pro-form</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">feed</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">He will treat me to tea</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="db04df16-f908-42ee-8d51-663898f2fb46">
+        <phrases>
+          <phrase guid="278f6914-7fcf-4e09-90ac-8844013ac0c3">
+            <item type="segnum" lang="en">4</item>
+            <words>
+              <word guid="5b1b5abe-617f-49bd-b4b1-3da889eb1842">
+                <item type="txt" lang="cdz">am</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">am</item>
+                    <item type="cf" lang="cdz">am</item>
+                    <item type="hn" lang="cdz">1</item>
+                    <item type="cf" lang="bn"></item>
+                    <item type="hn" lang="cdz">1</item>
+                    <item type="gls" lang="en">2SG</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">2sg</item>
+                <item type="pos" lang="en">pro</item>
+              </word>
+              <word guid="ded61103-8d78-4fb3-944d-a96813a0760d">
+                <item type="txt" lang="cdz">iŋkɛ</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">iŋ</item>
+                    <item type="cf" lang="cdz">iŋ</item>
+                    <item type="cf" lang="bn"></item>
+                    <item type="gls" lang="en">1SG</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">-kɛ</item>
+                    <item type="cf" lang="cdz">-kɛ</item>
+                    <item type="hn" lang="cdz">1</item>
+                    <item type="cf" lang="bn">-kɛ</item>
+                    <item type="hn" lang="cdz">1</item>
+                    <item type="gls" lang="en">OBJ</item>
+                    <item type="msa" lang="en">n:Any</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="a820ca48-ca0c-4c17-864c-d3523e90d2ea">
+                <item type="txt" lang="cdz">ca</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">ca</item>
+                    <item type="cf" lang="cdz">ca</item>
+                    <item type="cf" lang="bn">ca</item>
+                    <item type="gls" lang="en">tea</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">tea</item>
+              </word>
+              <word guid="ad290adb-5c9c-4980-be58-313b844c3831">
+                <item type="txt" lang="cdz">kʰawaiŋam</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">kʰawa</item>
+                    <item type="cf" lang="cdz">kʰawa</item>
+                    <item type="cf" lang="bn">kʰawa</item>
+                    <item type="gls" lang="en">feed</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">-iŋ</item>
+                    <item type="cf" lang="cdz">-iŋ</item>
+                    <item type="cf" lang="bn">-</item>
+                    <item type="gls" lang="en">1SG.OBJ</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">-a</item>
+                    <item type="cf" lang="cdz">-a</item>
+                    <item type="cf" lang="bn">-</item>
+                    <item type="gls" lang="en">IND</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">=m</item>
+                    <item type="cf" lang="cdz">=m</item>
+                    <item type="cf" lang="bn">=</item>
+                    <item type="gls" lang="en">=2SG.SBJ</item>
+                    <item type="msa" lang="en">pro-form</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">feed</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">You will treat me to tea</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="e9d9bc51-e27c-4bd7-a02a-01960f5cf4e4">
+        <phrases>
+          <phrase guid="3ff86d3d-57e8-42e0-b31d-41171a552eca">
+            <item type="segnum" lang="en">5</item>
+            <words>
+              <word guid="ded61103-8d78-4fb3-944d-a96813a0760d">
+                <item type="txt" lang="cdz">iŋkɛ</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">iŋ</item>
+                    <item type="cf" lang="cdz">iŋ</item>
+                    <item type="cf" lang="bn"></item>
+                    <item type="gls" lang="en">1SG</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">-kɛ</item>
+                    <item type="cf" lang="cdz">-kɛ</item>
+                    <item type="hn" lang="cdz">1</item>
+                    <item type="cf" lang="bn">-kɛ</item>
+                    <item type="hn" lang="cdz">1</item>
+                    <item type="gls" lang="en">OBJ</item>
+                    <item type="msa" lang="en">n:Any</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="9bd91b7d-f635-472b-af78-ab5b230cdb08">
+                <item type="txt" lang="cdz">ama</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">am</item>
+                    <item type="cf" lang="cdz">am</item>
+                    <item type="hn" lang="cdz">1</item>
+                    <item type="cf" lang="bn"></item>
+                    <item type="hn" lang="cdz">1</item>
+                    <item type="gls" lang="en">2SG</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">-aʔ</item>
+                    <item type="cf" lang="cdz">-aʔ</item>
+                    <item type="hn" lang="cdz">1</item>
+                    <item type="cf" lang="bn">-</item>
+                    <item type="hn" lang="cdz">1</item>
+                    <item type="gls" lang="en">GEN.PRON</item>
+                    <item type="msa" lang="en">pro:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">2sg</item>
+                <item type="pos" lang="en">pro</item>
+              </word>
+              <word guid="af1da436-7ed4-4c30-b0fd-e9ca52adf6c0">
+                <item type="txt" lang="cdz">nawa</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">nawa</item>
+                    <item type="cf" lang="cdz">nɔua</item>
+                    <item type="cf" lang="bn"></item>
+                    <item type="gls" lang="en">new</item>
+                    <item type="msa" lang="en">adj</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">new</item>
+                <item type="pos" lang="en">adj</item>
+              </word>
+              <word guid="4e6798d2-747f-421e-99c1-3a3cba7ea56f">
+                <item type="txt" lang="cdz">ɟamaʈa</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">ɟama</item>
+                    <item type="cf" lang="cdz">ɟama</item>
+                    <item type="cf" lang="bn">ɟama</item>
+                    <item type="gls" lang="en">shirt</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">-ʈa</item>
+                    <item type="cf" lang="cdz">-ʈa</item>
+                    <item type="cf" lang="bn">-ʈa</item>
+                    <item type="gls" lang="en">DEF</item>
+                    <item type="msa" lang="en">n:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">shirt</item>
+              </word>
+              <word guid="c2c18986-57cc-41e4-9885-6d81cd6db1f9">
+                <item type="txt" lang="cdz">uduʔiŋɛ</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">udug</item>
+                    <item type="cf" lang="cdz">udug</item>
+                    <item type="cf" lang="bn"></item>
+                    <item type="gls" lang="en">show</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">-iŋ</item>
+                    <item type="cf" lang="cdz">-iŋ</item>
+                    <item type="cf" lang="bn">-</item>
+                    <item type="gls" lang="en">1SG.OBJ</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">=ɛ</item>
+                    <item type="cf" lang="cdz">=ɛ</item>
+                    <item type="cf" lang="bn">=</item>
+                    <item type="gls" lang="en">=3SG.SBJ</item>
+                    <item type="msa" lang="en">pro-form</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">show</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">Show me the new shirt</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="b7902f90-86d8-4d0b-8436-f2bf2afc39f7">
+        <phrases>
+          <phrase guid="684ca6ab-f3b8-47c8-a5da-08d8dc41164d">
+            <item type="segnum" lang="en">6</item>
+            <words>
+              <word guid="8cd31b54-bf06-4407-ab26-74338aa2be96">
+                <item type="txt" lang="cdz">kʰarap</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">kʰarap</item>
+                    <item type="cf" lang="cdz">kʰarap</item>
+                    <item type="cf" lang="bn">kʰarap</item>
+                    <item type="gls" lang="en">bad</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">bad</item>
+              </word>
+              <word guid="f1e76899-e3a0-4927-8527-a6954896f25d">
+                <item type="txt" lang="cdz">boj</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">boi</item>
+                    <item type="cf" lang="cdz">boi</item>
+                    <item type="cf" lang="bn">boi</item>
+                    <item type="gls" lang="en">film</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">film</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="d158bf49-c4a1-4ad5-9769-f22c596ffff0">
+                <item type="txt" lang="cdz">lɛl</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">lɛl</item>
+                    <item type="cf" lang="cdz">lɛl</item>
+                    <item type="cf" lang="bn"></item>
+                    <item type="gls" lang="en">see</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">see</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word guid="67d6c0b7-fbbe-4166-9cd0-ba7700b98c1c">
+                <item type="txt" lang="cdz">bugin</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">bugin</item>
+                    <item type="cf" lang="cdz">bugin</item>
+                    <item type="cf" lang="bn"></item>
+                    <item type="gls" lang="en">good</item>
+                    <item type="msa" lang="en">adj</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">good</item>
+                <item type="pos" lang="en">adj</item>
+              </word>
+              <word guid="a3d9ca1f-2b73-4367-ba30-c699a3cd77f7">
+                <item type="txt" lang="cdz">lɔhɔɛ</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">lɔhɔɛ</item>
+                    <item type="cf" lang="cdz">lɔhɔɛ</item>
+                    <item type="cf" lang="bn"></item>
+                    <item type="gls" lang="en">NEG.COP</item>
+                    <item type="msa" lang="en">Neg</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">NEG.COPL</item>
+                <item type="pos" lang="en">Neg</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">It's not good to see bad films</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="e01daff5-646a-403c-b393-6b1ff432eeda">
+        <phrases>
+          <phrase guid="170d26bb-7f40-479d-92b6-c252e0fbceed">
+            <item type="segnum" lang="en">7</item>
+            <words>
+              <word guid="ae7b7ebd-9d1f-4f70-b6a1-d72f05d55143">
+                <item type="txt" lang="cdz">dɔ</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">dɔ</item>
+                    <item type="cf" lang="cdz">tɔ</item>
+                    <item type="cf" lang="bn">tɔ</item>
+                    <item type="gls" lang="en">so</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">so</item>
+              </word>
+              <word guid="69b39f80-8ac6-44eb-9657-a2b31a2597a1">
+                <item type="txt" lang="cdz">amkɛ</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">am</item>
+                    <item type="cf" lang="cdz">am</item>
+                    <item type="hn" lang="cdz">1</item>
+                    <item type="cf" lang="bn"></item>
+                    <item type="hn" lang="cdz">1</item>
+                    <item type="gls" lang="en">2SG</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">-kɛ</item>
+                    <item type="cf" lang="cdz">-kɛ</item>
+                    <item type="hn" lang="cdz">1</item>
+                    <item type="cf" lang="bn">-kɛ</item>
+                    <item type="hn" lang="cdz">1</item>
+                    <item type="gls" lang="en">OBJ</item>
+                    <item type="msa" lang="en">n:Any</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="f1e76899-e3a0-4927-8527-a6954896f25d">
+                <item type="txt" lang="cdz">boj</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">boi</item>
+                    <item type="cf" lang="cdz">boi</item>
+                    <item type="cf" lang="bn">boi</item>
+                    <item type="gls" lang="en">film</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">film</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="8838f68d-df93-430f-9508-addc141b8b24">
+                <item type="txt" lang="cdz">udugamɛiŋ</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">udug</item>
+                    <item type="cf" lang="cdz">udug</item>
+                    <item type="cf" lang="bn"></item>
+                    <item type="gls" lang="en">show</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">-aʔ</item>
+                    <item type="cf" lang="cdz">-aʔ</item>
+                    <item type="hn" lang="cdz">2</item>
+                    <item type="cf" lang="bn">-</item>
+                    <item type="hn" lang="cdz">2</item>
+                    <item type="gls" lang="en">APPL</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">-mɛ</item>
+                    <item type="cf" lang="cdz">-mɛ</item>
+                    <item type="cf" lang="bn">-</item>
+                    <item type="gls" lang="en">2SG.OBJ</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">=iŋ</item>
+                    <item type="cf" lang="cdz">=iŋ</item>
+                    <item type="cf" lang="bn">=</item>
+                    <item type="gls" lang="en">=1SG.SBJ</item>
+                    <item type="msa" lang="en">pro-form</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">show</item>
+                <item type="pos" lang="en">pro-form</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">So, I will take you to see a movie</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="ab38aa30-dfc1-4ce0-97fc-f6a516f9ef16">
+        <phrases>
+          <phrase guid="6ee756f9-0e74-4c4a-b253-9a0e6034bc47">
+            <item type="segnum" lang="en">8</item>
+            <words>
+              <word guid="ae7b7ebd-9d1f-4f70-b6a1-d72f05d55143">
+                <item type="txt" lang="cdz">dɔ</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">dɔ</item>
+                    <item type="cf" lang="cdz">tɔ</item>
+                    <item type="cf" lang="bn">tɔ</item>
+                    <item type="gls" lang="en">so</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">so</item>
+              </word>
+              <word guid="e40460f9-cbe7-4d81-a666-14a5aef5f9a7">
+                <item type="txt" lang="cdz">apɛkɛ</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">apɛ</item>
+                    <item type="cf" lang="cdz">apɛ</item>
+                    <item type="cf" lang="bn"></item>
+                    <item type="gls" lang="en">2PL</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">-kɛ</item>
+                    <item type="cf" lang="cdz">-kɛ</item>
+                    <item type="hn" lang="cdz">1</item>
+                    <item type="cf" lang="bn">-kɛ</item>
+                    <item type="hn" lang="cdz">1</item>
+                    <item type="gls" lang="en">OBJ</item>
+                    <item type="msa" lang="en">n:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">2pl</item>
+                <item type="pos" lang="en">pro</item>
+              </word>
+              <word guid="ee362a59-4c78-4a8c-ab15-c43e518076a3">
+                <item type="txt" lang="cdz">boj</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">boi</item>
+                    <item type="cf" lang="cdz">boi</item>
+                    <item type="cf" lang="bn">boi</item>
+                    <item type="gls" lang="en">film</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">books</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="7bc9cae3-d50d-414b-aea9-85508a641b33">
+                <item type="txt" lang="cdz">udugapɛiŋ</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">udug</item>
+                    <item type="cf" lang="cdz">udug</item>
+                    <item type="cf" lang="bn"></item>
+                    <item type="gls" lang="en">show</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">-aʔ</item>
+                    <item type="cf" lang="cdz">-aʔ</item>
+                    <item type="hn" lang="cdz">2</item>
+                    <item type="cf" lang="bn">-</item>
+                    <item type="hn" lang="cdz">2</item>
+                    <item type="gls" lang="en">APPL</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">-pɛ</item>
+                    <item type="cf" lang="cdz">-pɛ</item>
+                    <item type="cf" lang="bn">-</item>
+                    <item type="gls" lang="en">2PL.OBJ</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">=iŋ</item>
+                    <item type="cf" lang="cdz">=iŋ</item>
+                    <item type="cf" lang="bn">=</item>
+                    <item type="gls" lang="en">=1SG.SBJ</item>
+                    <item type="msa" lang="en">pro-form</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">show</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">So, I will take you all to a movie</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="49f5805f-e9b1-4059-8497-ced045c52aa1">
+        <phrases>
+          <phrase guid="790202bc-b3d5-4ba3-8859-ec21a3f0801b">
+            <item type="segnum" lang="en">9</item>
+            <words>
+              <word guid="ae7b7ebd-9d1f-4f70-b6a1-d72f05d55143">
+                <item type="txt" lang="cdz">dɔ</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">dɔ</item>
+                    <item type="cf" lang="cdz">tɔ</item>
+                    <item type="cf" lang="bn">tɔ</item>
+                    <item type="gls" lang="en">so</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">so</item>
+              </word>
+              <word guid="f15fdbef-337b-49fb-977c-db736095c06b">
+                <item type="txt" lang="cdz">ʈibi</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">ʈibi</item>
+                    <item type="cf" lang="cdz">ʈibi</item>
+                    <item type="cf" lang="bn">ʈibi</item>
+                    <item type="gls" lang="en">television</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">television</item>
+              </word>
+              <word guid="03aac900-7950-4887-897b-81af884464b9">
+                <item type="txt" lang="cdz">lɛlɛabu</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">lɛl</item>
+                    <item type="cf" lang="cdz">lɛl</item>
+                    <item type="cf" lang="bn"></item>
+                    <item type="gls" lang="en">see</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">-ɛʔ</item>
+                    <item type="cf" lang="cdz">-ɛʔ</item>
+                    <item type="cf" lang="bn">-</item>
+                    <item type="gls" lang="en">TR.A</item>
+                    <item type="msa" lang="en">v&gt;v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">-a</item>
+                    <item type="cf" lang="cdz">-a</item>
+                    <item type="cf" lang="bn">-</item>
+                    <item type="gls" lang="en">IND</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">=bu</item>
+                    <item type="cf" lang="cdz">=bu</item>
+                    <item type="cf" lang="bn">=</item>
+                    <item type="gls" lang="en">=1PL.INCL.SBJ</item>
+                    <item type="msa" lang="en">pro-form</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">see</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">So we will watch television</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="663a041f-2a06-4f25-bc4d-e2ea3e0f2ff5">
+        <phrases>
+          <phrase guid="e3c44821-44e5-4840-894c-38cdef8643bc">
+            <item type="segnum" lang="en">10</item>
+            <words>
+              <word guid="f070d6c5-650a-4864-b428-6c9d7c828a27">
+                <item type="txt" lang="cdz">iŋ</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">iŋ</item>
+                    <item type="cf" lang="cdz">iŋ</item>
+                    <item type="cf" lang="bn"></item>
+                    <item type="gls" lang="en">1SG</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">1sg</item>
+                <item type="pos" lang="en">pro</item>
+              </word>
+              <word guid="9cedcdd6-c1fa-4cc7-8dea-6accc7126a8a">
+                <item type="txt" lang="cdz">uricʈakɛ</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">uric</item>
+                    <item type="cf" lang="cdz">uriɟ</item>
+                    <item type="cf" lang="bn"></item>
+                    <item type="gls" lang="en">cow</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">-ʈa</item>
+                    <item type="cf" lang="cdz">-ʈa</item>
+                    <item type="cf" lang="bn">-ʈa</item>
+                    <item type="gls" lang="en">DEF</item>
+                    <item type="msa" lang="en">n:Any</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">-kɛ</item>
+                    <item type="cf" lang="cdz">-kɛ</item>
+                    <item type="hn" lang="cdz">1</item>
+                    <item type="cf" lang="bn">-kɛ</item>
+                    <item type="hn" lang="cdz">1</item>
+                    <item type="gls" lang="en">OBJ</item>
+                    <item type="msa" lang="en">n:Any</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="e5f4ef0a-7e06-4f14-af82-6d96788a3cc1">
+                <item type="txt" lang="cdz">gʰaʃar</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">gʰaʃar</item>
+                    <item type="cf" lang="cdz">gʰaʃar</item>
+                    <item type="cf" lang="bn">gash</item>
+                    <item type="gls" lang="en">grass</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">grass</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="55758b7c-b838-443d-8c8e-835ca06741a6">
+                <item type="txt" lang="cdz">kʰawajtaiŋ</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">kʰawa</item>
+                    <item type="cf" lang="cdz">kʰawa</item>
+                    <item type="cf" lang="bn">kʰawa</item>
+                    <item type="gls" lang="en">feed</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">-iʔ</item>
+                    <item type="cf" lang="cdz">-iʔ</item>
+                    <item type="cf" lang="bn">-</item>
+                    <item type="gls" lang="en">3SG.ANM.OBJ</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">-t</item>
+                    <item type="cf" lang="cdz">-ta</item>
+                    <item type="cf" lang="bn">-</item>
+                    <item type="gls" lang="en">PRES.PROG</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">-a</item>
+                    <item type="cf" lang="cdz">-a</item>
+                    <item type="cf" lang="bn">-</item>
+                    <item type="gls" lang="en">IND</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">=iŋ</item>
+                    <item type="cf" lang="cdz">=iŋ</item>
+                    <item type="cf" lang="bn">=</item>
+                    <item type="gls" lang="en">=1SG.SBJ</item>
+                    <item type="msa" lang="en">pro-form</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">feed</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">I am feeding grass to the cow.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="d6b4b0e3-05ba-40d9-82db-1b13fe1631d8">
+        <phrases>
+          <phrase guid="e98cd4c5-c13b-4c0b-b6fb-b419e8aad523">
+            <item type="segnum" lang="en">11</item>
+            <words>
+              <word guid="199945e3-32d0-4b6c-a786-930999ef51a1">
+                <item type="txt" lang="cdz">ʈaka</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">ʈaka</item>
+                    <item type="cf" lang="cdz">ʈaka</item>
+                    <item type="cf" lang="bn">taka</item>
+                    <item type="gls" lang="en">money</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">money</item>
+              </word>
+              <word guid="306e34f6-3b76-49ea-8395-d2ee92330064">
+                <item type="txt" lang="cdz">udu</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">udug</item>
+                    <item type="cf" lang="cdz">udug</item>
+                    <item type="cf" lang="bn"></item>
+                    <item type="gls" lang="en">show</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">show</item>
+              </word>
+              <word guid="67d6c0b7-fbbe-4166-9cd0-ba7700b98c1c">
+                <item type="txt" lang="cdz">bugin</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">bugin</item>
+                    <item type="cf" lang="cdz">bugin</item>
+                    <item type="cf" lang="bn"></item>
+                    <item type="gls" lang="en">good</item>
+                    <item type="msa" lang="en">adj</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">good</item>
+                <item type="pos" lang="en">adj</item>
+              </word>
+              <word guid="a3d9ca1f-2b73-4367-ba30-c699a3cd77f7">
+                <item type="txt" lang="cdz">lɔhɔɛ</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">lɔhɔɛ</item>
+                    <item type="cf" lang="cdz">lɔhɔɛ</item>
+                    <item type="cf" lang="bn"></item>
+                    <item type="gls" lang="en">NEG.COP</item>
+                    <item type="msa" lang="en">Neg</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">NEG.COPL</item>
+                <item type="pos" lang="en">Neg</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">It's not good to brag about your money (wealth)</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="810b5dfd-caa8-458c-a47f-e1ed555e0920">
+        <phrases>
+          <phrase guid="1ee8c510-aa8a-4a76-a8cd-ced85cd1df26">
+            <item type="segnum" lang="en">12</item>
+            <words>
+              <word guid="f3e663cd-0cb8-4958-89d0-18bd95d78dd6">
+                <item type="txt" lang="cdz">dadu</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">dadu</item>
+                    <item type="cf" lang="cdz">dadu</item>
+                    <item type="cf" lang="bn">dadu</item>
+                    <item type="gls" lang="en">grandpa</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">grandpa</item>
+              </word>
+              <word guid="ded61103-8d78-4fb3-944d-a96813a0760d">
+                <item type="txt" lang="cdz">iŋkɛ</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">iŋ</item>
+                    <item type="cf" lang="cdz">iŋ</item>
+                    <item type="cf" lang="bn"></item>
+                    <item type="gls" lang="en">1SG</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">-kɛ</item>
+                    <item type="cf" lang="cdz">-kɛ</item>
+                    <item type="hn" lang="cdz">1</item>
+                    <item type="cf" lang="bn">-kɛ</item>
+                    <item type="hn" lang="cdz">1</item>
+                    <item type="gls" lang="en">OBJ</item>
+                    <item type="msa" lang="en">n:Any</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="629277a4-e11e-41eb-a574-1383b23b4205">
+                <item type="txt" lang="cdz">tirmara</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">tirmara</item>
+                    <item type="cf" lang="cdz">tirmara</item>
+                    <item type="cf" lang="bn">tirmara</item>
+                    <item type="gls" lang="en">archery</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">archery</item>
+              </word>
+              <word guid="e81d642c-1bfa-4bb6-acb4-9528b83a97ac">
+                <item type="txt" lang="cdz">ituʔiŋtɛ</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">ituʔ</item>
+                    <item type="cf" lang="cdz">ituʔ</item>
+                    <item type="cf" lang="bn"></item>
+                    <item type="gls" lang="en">teach</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">-iŋ</item>
+                    <item type="cf" lang="cdz">-iŋ</item>
+                    <item type="cf" lang="bn">-</item>
+                    <item type="gls" lang="en">1SG.OBJ</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">-t</item>
+                    <item type="cf" lang="cdz">-ta</item>
+                    <item type="cf" lang="bn">-</item>
+                    <item type="gls" lang="en">PRES.PROG</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">=ɛ</item>
+                    <item type="cf" lang="cdz">=ɛ</item>
+                    <item type="cf" lang="bn">=</item>
+                    <item type="gls" lang="en">=3SG.SBJ</item>
+                    <item type="msa" lang="en">pro-form</item>
+                  </morph>
+                </morphemes>
+              </word>
+            </words>
+            <item type="gls" lang="en">Grandpa is teaching me how to shoot arrows</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="a7787b9b-c048-4bd3-8c22-e96f8e37c305">
+        <phrases>
+          <phrase guid="e61b12dc-200b-4a6c-aff2-4423880e4bed">
+            <item type="segnum" lang="en">13</item>
+            <words>
+              <word guid="30592516-ab01-4a9e-8629-f1cb52cb580c">
+                <item type="txt" lang="cdz">tirmara</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">tirmara</item>
+                    <item type="cf" lang="cdz">tirmara</item>
+                    <item type="cf" lang="bn">tirmara</item>
+                    <item type="gls" lang="en">archery</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">archery</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="2a2e9a4a-8919-4ef2-b47d-6d3c819fb947">
+                <item type="txt" lang="cdz">itu</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">itu</item>
+                    <item type="cf" lang="cdz">ituʔ</item>
+                    <item type="cf" lang="bn"></item>
+                    <item type="gls" lang="en">teach</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">teach</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word guid="67d6c0b7-fbbe-4166-9cd0-ba7700b98c1c">
+                <item type="txt" lang="cdz">bugin</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">bugin</item>
+                    <item type="cf" lang="cdz">bugin</item>
+                    <item type="cf" lang="bn"></item>
+                    <item type="gls" lang="en">good</item>
+                    <item type="msa" lang="en">adj</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">good</item>
+                <item type="pos" lang="en">adj</item>
+              </word>
+              <word guid="a3d9ca1f-2b73-4367-ba30-c699a3cd77f7">
+                <item type="txt" lang="cdz">lɔhɔɛ</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">lɔhɔɛ</item>
+                    <item type="cf" lang="cdz">lɔhɔɛ</item>
+                    <item type="cf" lang="bn"></item>
+                    <item type="gls" lang="en">NEG.COP</item>
+                    <item type="msa" lang="en">Neg</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">NEG.COPL</item>
+                <item type="pos" lang="en">Neg</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">It's not good to teach how to shoot arrows </item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="6ad168e3-1f37-4c8a-936c-5ecc01c51dbe">
+        <phrases>
+          <phrase guid="c0a3aa6a-cb27-4a15-bfb4-3f44c9108a8c">
+            <item type="segnum" lang="en">14</item>
+            <words>
+              <word guid="f070d6c5-650a-4864-b428-6c9d7c828a27">
+                <item type="txt" lang="cdz">iŋ</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">iŋ</item>
+                    <item type="cf" lang="cdz">iŋ</item>
+                    <item type="cf" lang="bn"></item>
+                    <item type="gls" lang="en">1SG</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">1sg</item>
+                <item type="pos" lang="en">pro</item>
+              </word>
+              <word guid="30592516-ab01-4a9e-8629-f1cb52cb580c">
+                <item type="txt" lang="cdz">tirmara</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">tirmara</item>
+                    <item type="cf" lang="cdz">tirmara</item>
+                    <item type="cf" lang="bn">tirmara</item>
+                    <item type="gls" lang="en">archery</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">archery</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="260f5c8b-ba8e-40e7-b409-0fa9da2c7680">
+                <item type="txt" lang="cdz">ituʔkutaiŋ</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">ituʔ</item>
+                    <item type="cf" lang="cdz">ituʔ</item>
+                    <item type="cf" lang="bn"></item>
+                    <item type="gls" lang="en">teach</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">-ku</item>
+                    <item type="cf" lang="cdz">-ku</item>
+                    <item type="hn" lang="cdz">1</item>
+                    <item type="cf" lang="bn">-</item>
+                    <item type="hn" lang="cdz">1</item>
+                    <item type="gls" lang="en">1/3PL.ANM.OBJ</item>
+                    <item type="msa" lang="en">Verb</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">-t</item>
+                    <item type="cf" lang="cdz">-ta</item>
+                    <item type="cf" lang="bn">-</item>
+                    <item type="gls" lang="en">PRES.PROG</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">-a</item>
+                    <item type="cf" lang="cdz">-a</item>
+                    <item type="cf" lang="bn">-</item>
+                    <item type="gls" lang="en">IND</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">=iŋ</item>
+                    <item type="cf" lang="cdz">=iŋ</item>
+                    <item type="cf" lang="bn">=</item>
+                    <item type="gls" lang="en">=1SG.SBJ</item>
+                    <item type="msa" lang="en">pro-form</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">teach</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">I am teaching them how to shoot arrows</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="727e0cf3-3423-4fa0-8074-395f8d7512ba">
+        <phrases>
+          <phrase guid="8067fa03-e51e-478b-b705-d85701125e93">
+            <item type="segnum" lang="en">15</item>
+            <words>
+              <word guid="f070d6c5-650a-4864-b428-6c9d7c828a27">
+                <item type="txt" lang="cdz">iŋ</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">iŋ</item>
+                    <item type="cf" lang="cdz">iŋ</item>
+                    <item type="cf" lang="bn"></item>
+                    <item type="gls" lang="en">1SG</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">1sg</item>
+                <item type="pos" lang="en">pro</item>
+              </word>
+              <word guid="30592516-ab01-4a9e-8629-f1cb52cb580c">
+                <item type="txt" lang="cdz">tirmara</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">tirmara</item>
+                    <item type="cf" lang="cdz">tirmara</item>
+                    <item type="cf" lang="bn">tirmara</item>
+                    <item type="gls" lang="en">archery</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">archery</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="ccf2e6b5-1008-4d38-8e0e-9cdbc1c941c6">
+                <item type="txt" lang="cdz">ituʔtaiŋ</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">ituʔ</item>
+                    <item type="cf" lang="cdz">ituʔ</item>
+                    <item type="cf" lang="bn"></item>
+                    <item type="gls" lang="en">learn</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">-t</item>
+                    <item type="cf" lang="cdz">-ta</item>
+                    <item type="cf" lang="bn">-</item>
+                    <item type="gls" lang="en">PRES.PROG</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">-a</item>
+                    <item type="cf" lang="cdz">-a</item>
+                    <item type="cf" lang="bn">-</item>
+                    <item type="gls" lang="en">IND</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">=iŋ</item>
+                    <item type="cf" lang="cdz">=iŋ</item>
+                    <item type="cf" lang="bn">=</item>
+                    <item type="gls" lang="en">=1SG.SBJ</item>
+                    <item type="msa" lang="en">pro-form</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">learn</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">I am learning how to shoot arrows</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="439a23ce-8d24-42c3-be4c-c07ce4e34a85">
+        <phrases>
+          <phrase guid="ad603c10-6b44-4a96-b58b-0015203c3e86">
+            <item type="segnum" lang="en">16</item>
+            <words>
+              <word guid="f070d6c5-650a-4864-b428-6c9d7c828a27">
+                <item type="txt" lang="cdz">iŋ</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">iŋ</item>
+                    <item type="cf" lang="cdz">iŋ</item>
+                    <item type="cf" lang="bn"></item>
+                    <item type="gls" lang="en">1SG</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">1sg</item>
+                <item type="pos" lang="en">pro</item>
+              </word>
+              <word guid="ffc5053b-86f1-4500-9a54-47af7f6de8e1">
+                <item type="txt" lang="cdz">orunkɛ</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">orun</item>
+                    <item type="cf" lang="cdz">orun</item>
+                    <item type="cf" lang="bn">orun</item>
+                    <item type="gls" lang="en">Arun</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">-kɛ</item>
+                    <item type="cf" lang="cdz">-kɛ</item>
+                    <item type="hn" lang="cdz">1</item>
+                    <item type="cf" lang="bn">-kɛ</item>
+                    <item type="hn" lang="cdz">1</item>
+                    <item type="gls" lang="en">OBJ</item>
+                    <item type="msa" lang="en">n:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">Arun</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="30592516-ab01-4a9e-8629-f1cb52cb580c">
+                <item type="txt" lang="cdz">tirmara</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">tirmara</item>
+                    <item type="cf" lang="cdz">tirmara</item>
+                    <item type="cf" lang="bn">tirmara</item>
+                    <item type="gls" lang="en">archery</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">archery</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="fcc074db-4f3e-4a9d-87ab-e960950e0af5">
+                <item type="txt" lang="cdz">ituʔitaiŋ</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">ituʔ</item>
+                    <item type="cf" lang="cdz">ituʔ</item>
+                    <item type="cf" lang="bn"></item>
+                    <item type="gls" lang="en">teach</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">-iʔ</item>
+                    <item type="cf" lang="cdz">-iʔ</item>
+                    <item type="cf" lang="bn">-</item>
+                    <item type="gls" lang="en">3SG.ANM.OBJ</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">-t</item>
+                    <item type="cf" lang="cdz">-ta</item>
+                    <item type="cf" lang="bn">-</item>
+                    <item type="gls" lang="en">PRES.PROG</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">-a</item>
+                    <item type="cf" lang="cdz">-a</item>
+                    <item type="cf" lang="bn">-</item>
+                    <item type="gls" lang="en">IND</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">=iŋ</item>
+                    <item type="cf" lang="cdz">=iŋ</item>
+                    <item type="cf" lang="bn">=</item>
+                    <item type="gls" lang="en">=1SG.SBJ</item>
+                    <item type="msa" lang="en">pro-form</item>
+                  </morph>
+                </morphemes>
+              </word>
+            </words>
+            <item type="gls" lang="en">I am teaching Arun how to shoot arrows</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="cc3de3c4-678c-41f0-b9eb-ab2dc52f0d2e">
+        <phrases>
+          <phrase guid="09fd971b-0da2-41e7-a336-9117cf48ca8b">
+            <item type="segnum" lang="en">17</item>
+            <words>
+              <word guid="f070d6c5-650a-4864-b428-6c9d7c828a27">
+                <item type="txt" lang="cdz">iŋ</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">iŋ</item>
+                    <item type="cf" lang="cdz">iŋ</item>
+                    <item type="cf" lang="bn"></item>
+                    <item type="gls" lang="en">1SG</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">1sg</item>
+                <item type="pos" lang="en">pro</item>
+              </word>
+              <word guid="91ddd89e-8f73-4fc6-b016-de0be7000c5a">
+                <item type="txt" lang="cdz">ʃɔhag</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">ʃɔhag</item>
+                    <item type="cf" lang="cdz">ʃɔhag</item>
+                    <item type="cf" lang="bn">Shohag</item>
+                    <item type="gls" lang="en">Shohag</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">Shohag</item>
+              </word>
+              <word guid="73cce8bf-af70-4905-92b7-0ae21cf5226a">
+                <item type="txt" lang="cdz">ʈʰin</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">ʈʰin</item>
+                    <item type="cf" lang="cdz">ʈʰin</item>
+                    <item type="cf" lang="bn"></item>
+                    <item type="gls" lang="en">to</item>
+                    <item type="msa" lang="en">post</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">from</item>
+              </word>
+              <word guid="30592516-ab01-4a9e-8629-f1cb52cb580c">
+                <item type="txt" lang="cdz">tirmara</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">tirmara</item>
+                    <item type="cf" lang="cdz">tirmara</item>
+                    <item type="cf" lang="bn">tirmara</item>
+                    <item type="gls" lang="en">archery</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">archery</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="ccf2e6b5-1008-4d38-8e0e-9cdbc1c941c6">
+                <item type="txt" lang="cdz">ituʔtaiŋ</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">ituʔ</item>
+                    <item type="cf" lang="cdz">ituʔ</item>
+                    <item type="cf" lang="bn"></item>
+                    <item type="gls" lang="en">learn</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">-t</item>
+                    <item type="cf" lang="cdz">-ta</item>
+                    <item type="cf" lang="bn">-</item>
+                    <item type="gls" lang="en">PRES.PROG</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">-a</item>
+                    <item type="cf" lang="cdz">-a</item>
+                    <item type="cf" lang="bn">-</item>
+                    <item type="gls" lang="en">IND</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">=iŋ</item>
+                    <item type="cf" lang="cdz">=iŋ</item>
+                    <item type="cf" lang="bn">=</item>
+                    <item type="gls" lang="en">=1SG.SBJ</item>
+                    <item type="msa" lang="en">pro-form</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">learn</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">I am teaching Shohag how to shoot arrows</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="fae78b7d-1850-43e0-a5ab-e1f443ef004f">
+        <phrases>
+          <phrase guid="3172fc18-784e-4c19-9ac0-d0a80691dfd9">
+            <item type="segnum" lang="en">18</item>
+            <words>
+              <word guid="367a87c9-959d-40ee-8265-6aa8e09c3e2c">
+                <item type="txt" lang="cdz">maʃʈar</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">maʃʈar</item>
+                    <item type="cf" lang="cdz">maʃʈar</item>
+                    <item type="cf" lang="bn"></item>
+                    <item type="gls" lang="en">master/teacher</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">master/teacher</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="ded61103-8d78-4fb3-944d-a96813a0760d">
+                <item type="txt" lang="cdz">iŋkɛ</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">iŋ</item>
+                    <item type="cf" lang="cdz">iŋ</item>
+                    <item type="cf" lang="bn"></item>
+                    <item type="gls" lang="en">1SG</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">-kɛ</item>
+                    <item type="cf" lang="cdz">-kɛ</item>
+                    <item type="hn" lang="cdz">1</item>
+                    <item type="cf" lang="bn">-kɛ</item>
+                    <item type="hn" lang="cdz">1</item>
+                    <item type="gls" lang="en">OBJ</item>
+                    <item type="msa" lang="en">n:Any</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="da41e45d-2d20-4f33-b7d2-066e8a9dc6da">
+                <item type="txt" lang="cdz">parha</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">parha</item>
+                    <item type="cf" lang="cdz">parha</item>
+                    <item type="cf" lang="bn">pora</item>
+                    <item type="gls" lang="en">lesson</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">lesson</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word guid="ba41a647-9bb8-45a8-9ada-e1cf645ecba2">
+                <item type="txt" lang="cdz">ituʔtiŋɛ</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">ituʔ</item>
+                    <item type="cf" lang="cdz">ituʔ</item>
+                    <item type="cf" lang="bn"></item>
+                    <item type="gls" lang="en">teach</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">-t</item>
+                    <item type="cf" lang="cdz">-ta</item>
+                    <item type="cf" lang="bn">-</item>
+                    <item type="gls" lang="en">PRES.PROG</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">-iŋ</item>
+                    <item type="cf" lang="cdz">-iŋ</item>
+                    <item type="cf" lang="bn">-</item>
+                    <item type="gls" lang="en">1SG.OBJ</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">=ɛ</item>
+                    <item type="cf" lang="cdz">=ɛ</item>
+                    <item type="cf" lang="bn">=</item>
+                    <item type="gls" lang="en">=3SG.SBJ</item>
+                    <item type="msa" lang="en">pro-form</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="b86c5cf8-bf35-410f-9db4-a89a82220922">
+                <item type="txt" lang="cdz">ʃɛtaʔrɛ</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">ʃɛtag</item>
+                    <item type="cf" lang="cdz">ʃɛtag</item>
+                    <item type="cf" lang="bn"></item>
+                    <item type="gls" lang="en">morning</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">-rɛ</item>
+                    <item type="cf" lang="cdz">-rɛ</item>
+                    <item type="cf" lang="bn">-</item>
+                    <item type="gls" lang="en">LOC</item>
+                    <item type="msa" lang="en">n:Any</item>
+                  </morph>
+                </morphemes>
+              </word>
+            </words>
+            <item type="gls" lang="en">The teacher tutors me in the morning</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="dc2c0971-df2f-4c4d-8701-db187c00cb49">
+        <phrases>
+          <phrase guid="953ef5bb-69b2-4f5b-a8dd-befc27231889">
+            <item type="segnum" lang="en">19</item>
+            <words>
+              <word guid="367a87c9-959d-40ee-8265-6aa8e09c3e2c">
+                <item type="txt" lang="cdz">maʃʈar</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">maʃʈar</item>
+                    <item type="cf" lang="cdz">maʃʈar</item>
+                    <item type="cf" lang="bn"></item>
+                    <item type="gls" lang="en">master/teacher</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">master/teacher</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="0ec1ad24-f29f-4420-b2f8-631cdf161a17">
+                <item type="txt" lang="cdz">akukɛ</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">aku</item>
+                    <item type="cf" lang="cdz">aku</item>
+                    <item type="cf" lang="bn"></item>
+                    <item type="gls" lang="en">3PL</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">-kɛ</item>
+                    <item type="cf" lang="cdz">-kɛ</item>
+                    <item type="hn" lang="cdz">1</item>
+                    <item type="cf" lang="bn">-kɛ</item>
+                    <item type="hn" lang="cdz">1</item>
+                    <item type="gls" lang="en">OBJ</item>
+                    <item type="msa" lang="en">n:Any</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="da41e45d-2d20-4f33-b7d2-066e8a9dc6da">
+                <item type="txt" lang="cdz">parha</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">parha</item>
+                    <item type="cf" lang="cdz">parha</item>
+                    <item type="cf" lang="bn">pora</item>
+                    <item type="gls" lang="en">lesson</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">lesson</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word guid="aa40268e-7f35-4fbe-86bb-f742ee7431d3">
+                <item type="txt" lang="cdz">ituʔtukuɛ</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">ituʔ</item>
+                    <item type="cf" lang="cdz">ituʔ</item>
+                    <item type="cf" lang="bn"></item>
+                    <item type="gls" lang="en">teach</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">-tu</item>
+                    <item type="cf" lang="cdz">-ta</item>
+                    <item type="cf" lang="bn">-</item>
+                    <item type="gls" lang="en">PRES.PROG</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">-ku</item>
+                    <item type="cf" lang="cdz">-ku</item>
+                    <item type="hn" lang="cdz">1</item>
+                    <item type="cf" lang="bn">-</item>
+                    <item type="hn" lang="cdz">1</item>
+                    <item type="gls" lang="en">1/3PL.ANM.OBJ</item>
+                    <item type="msa" lang="en">Verb</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">=ɛ</item>
+                    <item type="cf" lang="cdz">=ɛ</item>
+                    <item type="cf" lang="bn">=</item>
+                    <item type="gls" lang="en">=3SG.SBJ</item>
+                    <item type="msa" lang="en">pro-form</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">teach</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word guid="b86c5cf8-bf35-410f-9db4-a89a82220922">
+                <item type="txt" lang="cdz">ʃɛtaʔrɛ</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">ʃɛtag</item>
+                    <item type="cf" lang="cdz">ʃɛtag</item>
+                    <item type="cf" lang="bn"></item>
+                    <item type="gls" lang="en">morning</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">-rɛ</item>
+                    <item type="cf" lang="cdz">-rɛ</item>
+                    <item type="cf" lang="bn">-</item>
+                    <item type="gls" lang="en">LOC</item>
+                    <item type="msa" lang="en">n:Any</item>
+                  </morph>
+                </morphemes>
+              </word>
+            </words>
+            <item type="gls" lang="en">The teacher tutors them in the morning</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="de7e046e-535e-4588-940b-425ee2dbdab9">
+        <phrases>
+          <phrase guid="5a608473-1c4a-4be4-aa03-b20597da6aa6">
+            <item type="segnum" lang="en">20</item>
+            <words>
+              <word guid="367a87c9-959d-40ee-8265-6aa8e09c3e2c">
+                <item type="txt" lang="cdz">maʃʈar</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">maʃʈar</item>
+                    <item type="cf" lang="cdz">maʃʈar</item>
+                    <item type="cf" lang="bn"></item>
+                    <item type="gls" lang="en">master/teacher</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">master/teacher</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="f0681e28-af1d-4d23-b9f4-c7314464fc07">
+                <item type="txt" lang="cdz">gapa</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">gapa</item>
+                    <item type="cf" lang="cdz">gapa</item>
+                    <item type="cf" lang="bn"></item>
+                    <item type="gls" lang="en">tomorrow</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">tomorrow</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="0ec1ad24-f29f-4420-b2f8-631cdf161a17">
+                <item type="txt" lang="cdz">akukɛ</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">aku</item>
+                    <item type="cf" lang="cdz">aku</item>
+                    <item type="cf" lang="bn"></item>
+                    <item type="gls" lang="en">3PL</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">-kɛ</item>
+                    <item type="cf" lang="cdz">-kɛ</item>
+                    <item type="hn" lang="cdz">1</item>
+                    <item type="cf" lang="bn">-kɛ</item>
+                    <item type="hn" lang="cdz">1</item>
+                    <item type="gls" lang="en">OBJ</item>
+                    <item type="msa" lang="en">n:Any</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="da41e45d-2d20-4f33-b7d2-066e8a9dc6da">
+                <item type="txt" lang="cdz">parha</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">parha</item>
+                    <item type="cf" lang="cdz">parha</item>
+                    <item type="cf" lang="bn">pora</item>
+                    <item type="gls" lang="en">lesson</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">lesson</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word guid="0b45ceb2-bd78-44a0-a76b-5e27c2d882c7">
+                <item type="txt" lang="cdz">ituʔkuɛ</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">ituʔ</item>
+                    <item type="cf" lang="cdz">ituʔ</item>
+                    <item type="cf" lang="bn"></item>
+                    <item type="gls" lang="en">teach</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">-ku</item>
+                    <item type="cf" lang="cdz">-ku</item>
+                    <item type="hn" lang="cdz">1</item>
+                    <item type="cf" lang="bn">-</item>
+                    <item type="hn" lang="cdz">1</item>
+                    <item type="gls" lang="en">1/3PL.ANM.OBJ</item>
+                    <item type="msa" lang="en">Verb</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">=ɛ</item>
+                    <item type="cf" lang="cdz">=ɛ</item>
+                    <item type="cf" lang="bn">=</item>
+                    <item type="gls" lang="en">=3SG.SBJ</item>
+                    <item type="msa" lang="en">pro-form</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">teach</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">The teacher will tutor them tomorrow </item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="2ab91ebd-76b2-449d-8032-54eb8f774434">
+        <phrases>
+          <phrase guid="e7cd7b60-f9b7-4ac0-bebe-1a46c7c79b5b">
+            <item type="segnum" lang="en">21</item>
+            <words>
+              <word guid="367a87c9-959d-40ee-8265-6aa8e09c3e2c">
+                <item type="txt" lang="cdz">maʃʈar</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">maʃʈar</item>
+                    <item type="cf" lang="cdz">maʃʈar</item>
+                    <item type="cf" lang="bn"></item>
+                    <item type="gls" lang="en">master/teacher</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">master/teacher</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="0ec1ad24-f29f-4420-b2f8-631cdf161a17">
+                <item type="txt" lang="cdz">akukɛ</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">aku</item>
+                    <item type="cf" lang="cdz">aku</item>
+                    <item type="cf" lang="bn"></item>
+                    <item type="gls" lang="en">3PL</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">-kɛ</item>
+                    <item type="cf" lang="cdz">-kɛ</item>
+                    <item type="hn" lang="cdz">1</item>
+                    <item type="cf" lang="bn">-kɛ</item>
+                    <item type="hn" lang="cdz">1</item>
+                    <item type="gls" lang="en">OBJ</item>
+                    <item type="msa" lang="en">n:Any</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="07874286-4a10-46db-b3c0-3457a621f30f">
+                <item type="txt" lang="cdz">pɔtiɖin</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">potidin</item>
+                    <item type="cf" lang="cdz">potidin</item>
+                    <item type="cf" lang="bn">potidin</item>
+                    <item type="gls" lang="en">daily</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">daily</item>
+              </word>
+              <word guid="da41e45d-2d20-4f33-b7d2-066e8a9dc6da">
+                <item type="txt" lang="cdz">parha</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">parha</item>
+                    <item type="cf" lang="cdz">parha</item>
+                    <item type="cf" lang="bn">pora</item>
+                    <item type="gls" lang="en">lesson</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">lesson</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word guid="faa17d41-dbb3-4253-a7e7-eaadc0fad4fc">
+                <item type="txt" lang="cdz">itukutɛ</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">itu</item>
+                    <item type="cf" lang="cdz">ituʔ</item>
+                    <item type="cf" lang="bn"></item>
+                    <item type="gls" lang="en">teach</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">-ku</item>
+                    <item type="cf" lang="cdz">-ku</item>
+                    <item type="hn" lang="cdz">1</item>
+                    <item type="cf" lang="bn">-</item>
+                    <item type="hn" lang="cdz">1</item>
+                    <item type="gls" lang="en">1/3PL.ANM.OBJ</item>
+                    <item type="msa" lang="en">Verb</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">-t</item>
+                    <item type="cf" lang="cdz">-ta</item>
+                    <item type="cf" lang="bn">-</item>
+                    <item type="gls" lang="en">PRES.PROG</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">=ɛ</item>
+                    <item type="cf" lang="cdz">=ɛ</item>
+                    <item type="cf" lang="bn">=</item>
+                    <item type="gls" lang="en">=3SG.SBJ</item>
+                    <item type="msa" lang="en">pro-form</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">teach</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">The teacher tutors them everyday.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+    </paragraphs>
+    <languages>
+      <language lang="en" font="Times New Roman" />
+      <language lang="cdz" font="Charis SIL" vernacular="true" />
+    </languages>
+  </interlinear-text>
+  
+</document>

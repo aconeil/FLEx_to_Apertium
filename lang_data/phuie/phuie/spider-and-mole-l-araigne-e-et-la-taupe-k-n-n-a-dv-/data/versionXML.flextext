@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document version="2">
+<interlinear-text guid="f69544c1-f009-463e-a3af-ca6b3a80599a">
+    <item type="title" lang="en">Spider and Mole</item>
+    <item type="title" lang="fr">L'Araignée et la Taupe</item>
+    <item type="title" lang="pug-BF">Kɔ̀ɔnɩ̀ɔ nɩ̀ a Ɗʋɛ̀ɛ</item>
+    <paragraphs>
+      <paragraph guid="858c9f6c-f656-4e2e-9c93-b15f0106b38f">
+        <phrases>
+          <phrase guid="0255859f-ac37-4fc5-b205-c8ef787bd071">
+            <item type="segnum" lang="en">1.1</item>
+            <words>
+              <word guid="0d868369-80db-461d-908e-819be17977c3">
+                <item type="txt" lang="pug-BF">A</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="pug-BF">a</item>
+                    <item type="cf" lang="pug-BF">a</item>
+                    <item type="hn" lang="pug-BF">1</item>
+                    <item type="gls" lang="en">the</item>
+                    <item type="msa" lang="en">def</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">the</item>
+                <item type="pos" lang="en">def</item>
+              </word>
+              <word guid="16e13024-8701-4a99-bea6-c83df2e0b838">
+                <item type="txt" lang="pug-BF">Kɔ̀ɔnɩ̀ɔ̃</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="pug-BF">Kɔ̀ɔnɩ̀ɔ̃</item>
+                    <item type="cf" lang="pug-BF">Kɔ̀ɔnɩ̀ɔ̃</item>
+                    <item type="gls" lang="en">Spider</item>
+                    <item type="msa" lang="en">nprop</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">Spider</item>
+                <item type="pos" lang="en">nprop</item>
+              </word>
+              <word guid="b173017d-31fc-4a23-afcb-2f8eb6d00dcb">
+                <item type="txt" lang="pug-BF">nɩ̀</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="pug-BF">nɩ̀</item>
+                    <item type="cf" lang="pug-BF">nɩ̀</item>
+                    <item type="gls" lang="en">and</item>
+                    <item type="msa" lang="fr">Coord</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">and</item>
+                <item type="pos" lang="fr">Coord</item>
+              </word>
+              <word guid="0d868369-80db-461d-908e-819be17977c3">
+                <item type="txt" lang="pug-BF">a</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="pug-BF">a</item>
+                    <item type="cf" lang="pug-BF">a</item>
+                    <item type="hn" lang="pug-BF">1</item>
+                    <item type="gls" lang="en">the</item>
+                    <item type="msa" lang="en">def</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">the</item>
+                <item type="pos" lang="en">def</item>
+              </word>
+              <word guid="2796e5a8-fcc1-4419-a7ef-bbaf00e283e1">
+                <item type="txt" lang="pug-BF">Ɗʋɛ̀ɛ</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="pug-BF">ɗʋɛ̀ɛ</item>
+                    <item type="cf" lang="pug-BF">ɗʋɛ̀ɛ</item>
+                    <item type="gls" lang="en">Mole</item>
+                    <item type="msa" lang="en">nprop</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">Mole</item>
+                <item type="pos" lang="en">nprop</item>
+              </word>
+              <word guid="2057bb67-3a96-4eb0-b252-20d0834e9c7c">
+                <item type="txt" lang="pug-BF">kɛ̃̀</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="pug-BF">kɛ̃̀</item>
+                    <item type="cf" lang="pug-BF">kɛ̃̀</item>
+                    <item type="gls" lang="en">PROG</item>
+                    <item type="msa" lang="en">verbprt</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">PROG</item>
+                <item type="pos" lang="en">verbprt</item>
+              </word>
+              <word guid="9f0b0f9b-907e-4ba5-8743-7b0ba2ca1cd9">
+                <item type="txt" lang="pug-BF">dʋ</item>
+                <morphemes>
+                  <morph type="bound stem" guid="d7f713e7-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="pug-BF">dʋ</item>
+                    <item type="cf" lang="pug-BF">dʋ</item>
+                    <item type="gls" lang="en">put</item>
+                    <item type="msa" lang="en">v  (-ɩ̀)</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="pug-BF">-ɩ̀</item>
+                    <item type="cf" lang="pug-BF">-ɩ̀</item>
+                    <item type="gls" lang="en">INCMP</item>
+                    <item type="msa" lang="en">v:ASP</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">put</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word guid="0d868369-80db-461d-908e-819be17977c3">
+                <item type="txt" lang="pug-BF">a</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="pug-BF">a</item>
+                    <item type="cf" lang="pug-BF">a</item>
+                    <item type="hn" lang="pug-BF">1</item>
+                    <item type="gls" lang="en">the</item>
+                    <item type="msa" lang="en">def</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">the</item>
+                <item type="pos" lang="en">def</item>
+              </word>
+              <word guid="b9571458-af0a-4c32-b375-ad2b5ec5013b">
+                <item type="txt" lang="pug-BF">wɩɩ</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="pug-BF">wɩɩ</item>
+                    <item type="cf" lang="pug-BF">wɩɩ</item>
+                    <item type="gls" lang="en">mutual help</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">mutual help</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word>
+                <item type="punct" lang="pug-BF">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">Spider and Mole helped each other with their work.</item>
+          </phrase>
+          <phrase guid="483d12e9-e51f-4467-9eac-a993f88e5ba8">
+            <item type="segnum" lang="en">1.2</item>
+            <words>
+              <word guid="a56e7dbf-cb8f-43c6-961b-514a3a933e59">
+                <item type="txt" lang="pug-BF">Nɩ̀</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="pug-BF">nɩ̀</item>
+                    <item type="cf" lang="pug-BF">nɩ̀</item>
+                    <item type="gls" lang="en">when</item>
+                    <item type="msa" lang="en">conj-time</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">when</item>
+                <item type="pos" lang="en">conj-time</item>
+              </word>
+              <word guid="af3c5dab-0a94-4a4f-9b7c-a60484933de1">
+                <item type="txt" lang="pug-BF">ɓà</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="pug-BF">ɓà</item>
+                    <item type="cf" lang="pug-BF">ɓà</item>
+                    <item type="gls" lang="en">3P</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">they</item>
+                <item type="pos" lang="en">pro</item>
+              </word>
+              <word guid="75e26092-a279-4f28-a637-7c72b39b3b3a">
+                <item type="txt" lang="pug-BF">kʋ̀</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="pug-BF">kʋ̀</item>
+                    <item type="cf" lang="pug-BF">kʋ</item>
+                    <item type="variantTypes" lang="en">+sp. var. of</item>
+                    <item type="gls" lang="en">come</item>
+                    <item type="msa" lang="en">verbprt</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">??</item>
+                <item type="pos" lang="en">verbprt</item>
+              </word>
+              <word guid="eb33d0bf-c662-4493-a356-5e13fc50b17d">
+                <item type="txt" lang="pug-BF">lège</item>
+                <morphemes>
+                  <morph type="bound stem" guid="d7f713e7-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="pug-BF">làgɩ</item>
+                    <item type="cf" lang="pug-BF">làgɩ</item>
+                    <item type="gls" lang="en">go</item>
+                    <item type="msa" lang="en">v  (-ɩ̀)</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="pug-BF">-ɛ́</item>
+                    <item type="cf" lang="pug-BF">-ɛ́</item>
+                    <item type="gls" lang="en">COMP</item>
+                    <item type="msa" lang="en">v:ASP</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">went</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word guid="0d868369-80db-461d-908e-819be17977c3">
+                <item type="txt" lang="pug-BF">a</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="pug-BF">a</item>
+                    <item type="cf" lang="pug-BF">a</item>
+                    <item type="hn" lang="pug-BF">1</item>
+                    <item type="gls" lang="en">the</item>
+                    <item type="msa" lang="en">def</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">the</item>
+                <item type="pos" lang="en">def</item>
+              </word>
+              <word guid="539ceec4-1655-4575-b2c8-1ce3d5be2405">
+                <item type="txt" lang="pug-BF">Ɗʋɛ̀ɛ</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="pug-BF">ɗʋɛ̀ɛ</item>
+                    <item type="cf" lang="pug-BF">ɗʋɛ̀ɛ</item>
+                    <item type="gls" lang="en">Mole</item>
+                    <item type="msa" lang="en">nprop</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">Mole</item>
+                <item type="pos" lang="en">nprop</item>
+              </word>
+              <word guid="855dc0a8-1e37-4d29-a427-49d5bf161f05">
+                <item type="txt" lang="pug-BF">kome</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="pug-BF">kome</item>
+                    <item type="cf" lang="pug-BF">kome</item>
+                    <item type="gls" lang="en">field</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">field</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="925ff46b-1987-4117-bea4-2898a7fa11e0">
+                <item type="txt" lang="pug-BF">kɛ̃ɛ́</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="pug-BF">kɛ̃ɛ́</item>
+                    <item type="cf" lang="pug-BF">kɛ̃ɛ́</item>
+                    <item type="gls" lang="en">???</item>
+                    <item type="msa" lang="en">verbprt</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">??</item>
+                <item type="pos" lang="en">verbprt</item>
+              </word>
+              <word guid="b448a314-5bee-4023-afbe-b9dab0f84092">
+                <item type="txt" lang="pug-BF">dueé</item>
+                <morphemes>
+                  <morph type="bound stem" guid="d7f713e7-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="pug-BF">dʋa</item>
+                    <item type="cf" lang="pug-BF">dʋa</item>
+                    <item type="gls" lang="en">work ground</item>
+                    <item type="msa" lang="en">v  (-ɩ̀)</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="pug-BF">-ɛ́</item>
+                    <item type="cf" lang="pug-BF">-ɛ́</item>
+                    <item type="gls" lang="en">COMP</item>
+                    <item type="msa" lang="en">v:ASP</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">worked ground</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word>
+                <item type="punct" lang="pug-BF">,</item>
+              </word>
+              <word guid="0d868369-80db-461d-908e-819be17977c3">
+                <item type="txt" lang="pug-BF">a</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="pug-BF">a</item>
+                    <item type="cf" lang="pug-BF">a</item>
+                    <item type="hn" lang="pug-BF">1</item>
+                    <item type="gls" lang="en">the</item>
+                    <item type="msa" lang="en">def</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">the</item>
+                <item type="pos" lang="en">def</item>
+              </word>
+              <word guid="539ceec4-1655-4575-b2c8-1ce3d5be2405">
+                <item type="txt" lang="pug-BF">Ɗʋɛ̀ɛ</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="pug-BF">ɗʋɛ̀ɛ</item>
+                    <item type="cf" lang="pug-BF">ɗʋɛ̀ɛ</item>
+                    <item type="gls" lang="en">Mole</item>
+                    <item type="msa" lang="en">nprop</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">Mole</item>
+                <item type="pos" lang="en">nprop</item>
+              </word>
+              <word guid="3b6ec0b7-0dd3-46e8-a0ca-33112637b879">
+                <item type="txt" lang="pug-BF">thʋ̀mɛ</item>
+                <morphemes>
+                  <morph type="bound stem" guid="d7f713e7-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="pug-BF">thʋ̀m</item>
+                    <item type="cf" lang="pug-BF">thʋ̀m</item>
+                    <item type="gls" lang="en">send</item>
+                    <item type="msa" lang="en">v  (-ɩ̀)</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="pug-BF">-ɛ́</item>
+                    <item type="cf" lang="pug-BF">-ɛ́</item>
+                    <item type="gls" lang="en">COMP</item>
+                    <item type="msa" lang="en">v:ASP</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">sent (message)</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word guid="83e49948-e402-4e73-aac7-ab5f73a480dc">
+                <item type="txt" lang="pug-BF">ʋ̀</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="pug-BF">ʋ̀</item>
+                    <item type="cf" lang="pug-BF">ʋ̀</item>
+                    <item type="gls" lang="en">3S</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">his</item>
+                <item type="pos" lang="en">pro</item>
+              </word>
+              <word guid="173c0cf9-de00-4753-9a03-1cf550cfbf4f">
+                <item type="txt" lang="pug-BF">halʋ́</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="pug-BF">halʋ́</item>
+                    <item type="cf" lang="pug-BF">halʋ́</item>
+                    <item type="gls" lang="en">wife</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">wife</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="5f474277-f542-4f60-98f8-4eb00ca43a3c">
+                <item type="txt" lang="pug-BF">rɛ</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="pug-BF">rɛ</item>
+                    <item type="cf" lang="pug-BF">rɛ</item>
+                    <item type="gls" lang="en">ASSERTIVE</item>
+                    <item type="msa" lang="fr">ASSERT</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">ASSERTIVE</item>
+                <item type="pos" lang="fr">ASSERT</item>
+              </word>
+              <word guid="9aeab4dc-1457-44a1-b2d8-69bffbc87ac1">
+                <item type="txt" lang="pug-BF">s'ʋ</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="pug-BF">s'ʋ</item>
+                    <item type="cf" lang="pug-BF">s'ʋ</item>
+                    <item type="gls" lang="en">that +3S</item>
+                    <item type="msa" lang="en">conj-ind speech</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">that she</item>
+                <item type="pos" lang="en">conj-ind speech</item>
+              </word>
+              <word guid="3afc9a46-a43e-441f-939d-e2beb6b48436">
+                <item type="txt" lang="pug-BF">cɔ̃</item>
+                <morphemes>
+                  <morph type="bound stem" guid="d7f713e7-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="pug-BF">cɔ̃</item>
+                    <item type="cf" lang="pug-BF">cɔ̃</item>
+                    <item type="gls" lang="en">cook</item>
+                    <item type="msa" lang="en">v  (-ɩ̀)</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="pug-BF">-ɩ̀</item>
+                    <item type="cf" lang="pug-BF">-ɩ̀</item>
+                    <item type="gls" lang="en">INCMP</item>
+                    <item type="msa" lang="en">v:ASP</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">cook</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word guid="3cb3bb6f-81b8-4d23-b43f-b48ede6e5115">
+                <item type="txt" lang="pug-BF">sɔna</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="pug-BF">sɔna</item>
+                    <item type="cf" lang="pug-BF">sone</item>
+                    <item type="variantTypes" lang="en"/>
+                    <item type="gls" lang="en">bean</item>
+                    <item type="glsAppend" lang="en"> (PL)</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">beans</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="a45d4e56-1a89-45d4-a300-ee6ada1dd337">
+                <item type="txt" lang="pug-BF">la</item>
+                <morphemes>
+                  <morph type="bound stem" guid="d7f713e7-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="pug-BF">la</item>
+                    <item type="cf" lang="pug-BF">lalà</item>
+                    <item type="gls" lang="en">take hold</item>
+                    <item type="msa" lang="en">v  (-ɩ̀)</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="pug-BF">-ɩ̀</item>
+                    <item type="cf" lang="pug-BF">-ɩ̀</item>
+                    <item type="gls" lang="en">INCMP</item>
+                    <item type="msa" lang="en">v:ASP</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">take hold</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word guid="ab3bb0b9-f53f-4585-907d-235f5fa401a3">
+                <item type="txt" lang="pug-BF">cʋɩ̀</item>
+                <morphemes>
+                  <morph type="bound stem" guid="d7f713e7-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="pug-BF">cʋɩ̀</item>
+                    <item type="cf" lang="pug-BF">cʋɩ̀</item>
+                    <item type="gls" lang="en">set down</item>
+                    <item type="msa" lang="en">v  (-ɩ̀)</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="pug-BF">-ɩ̀</item>
+                    <item type="cf" lang="pug-BF">-ɩ̀</item>
+                    <item type="gls" lang="en">INCMP</item>
+                    <item type="msa" lang="en">v:ASP</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">set down (from fire)</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word guid="5a97b448-c8a2-455a-ad3d-76a3df47dfd8">
+                <item type="txt" lang="pug-BF">cɩ̀</item>
+                <morphemes>
+                  <morph type="bound stem" guid="d7f713e7-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="pug-BF">cɩ̀</item>
+                    <item type="cf" lang="pug-BF">cɩ̀</item>
+                    <item type="gls" lang="en">set upright</item>
+                    <item type="msa" lang="en">v  (-ɩ̀)</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="pug-BF">-ɩ̀</item>
+                    <item type="cf" lang="pug-BF">-ɩ̀</item>
+                    <item type="gls" lang="en">INCMP</item>
+                    <item type="msa" lang="en">v:ASP</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">set upright (on ground)</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word>
+                <item type="punct" lang="pug-BF">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">When they went to Mole's field and worked the ground, Mole told his wife that she should cook beans (in a pot) and set the pot aside for them.</item>
+          </phrase>
+          <phrase guid="0925eeea-3383-4483-b738-d9d91803ac83">
+            <item type="segnum" lang="en">1.3</item>
+            <words>
+              <word guid="bef34416-d5de-4852-b728-8c4384a72f83">
+                <item type="txt" lang="pug-BF">Nɩ̀</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="pug-BF">nɩ̀</item>
+                    <item type="cf" lang="pug-BF">nɩ̀</item>
+                    <item type="gls" lang="en">so</item>
+                    <item type="msa" lang="en">conj-conseq</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">so</item>
+                <item type="pos" lang="en">conj-conseq</item>
+              </word>
+              <word guid="8b6f0325-487a-41e1-9a92-98431de5b0ce">
+                <item type="txt" lang="pug-BF">ʋ̀</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="pug-BF">ʋ̀</item>
+                    <item type="cf" lang="pug-BF">ʋ̀</item>
+                    <item type="gls" lang="en">3S</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">she</item>
+                <item type="pos" lang="en">pro</item>
+              </word>
+              <word guid="3afc9a46-a43e-441f-939d-e2beb6b48436">
+                <item type="txt" lang="pug-BF">cɔ̃</item>
+                <morphemes>
+                  <morph type="bound stem" guid="d7f713e7-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="pug-BF">cɔ̃</item>
+                    <item type="cf" lang="pug-BF">cɔ̃</item>
+                    <item type="gls" lang="en">cook</item>
+                    <item type="msa" lang="en">v  (-ɩ̀)</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="pug-BF">-ɩ̀</item>
+                    <item type="cf" lang="pug-BF">-ɩ̀</item>
+                    <item type="gls" lang="en">INCMP</item>
+                    <item type="msa" lang="en">v:ASP</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">cook</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word guid="df9fd878-2bf1-42fe-80ca-51f2a278c8e9">
+                <item type="txt" lang="pug-BF">à</item>
+                <morphemes>
+                  <morph type="bound stem" guid="d7f713e7-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="pug-BF">à</item>
+                    <item type="cf" lang="pug-BF">à</item>
+                    <item type="gls" lang="en">do</item>
+                    <item type="msa" lang="en">v  (-ɩ̀)</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="pug-BF">-ɩ̀</item>
+                    <item type="cf" lang="pug-BF">-ɩ̀</item>
+                    <item type="gls" lang="en">INCMP</item>
+                    <item type="msa" lang="en">v:ASP</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">do</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word guid="3cb3bb6f-81b8-4d23-b43f-b48ede6e5115">
+                <item type="txt" lang="pug-BF">sɔna</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="pug-BF">sɔna</item>
+                    <item type="cf" lang="pug-BF">sone</item>
+                    <item type="variantTypes" lang="en"/>
+                    <item type="gls" lang="en">bean</item>
+                    <item type="glsAppend" lang="en"> (PL)</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">beans</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="a45d4e56-1a89-45d4-a300-ee6ada1dd337">
+                <item type="txt" lang="pug-BF">la</item>
+                <morphemes>
+                  <morph type="bound stem" guid="d7f713e7-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="pug-BF">la</item>
+                    <item type="cf" lang="pug-BF">lalà</item>
+                    <item type="gls" lang="en">take hold</item>
+                    <item type="msa" lang="en">v  (-ɩ̀)</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="pug-BF">-ɩ̀</item>
+                    <item type="cf" lang="pug-BF">-ɩ̀</item>
+                    <item type="gls" lang="en">INCMP</item>
+                    <item type="msa" lang="en">v:ASP</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">take hold</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word guid="ab3bb0b9-f53f-4585-907d-235f5fa401a3">
+                <item type="txt" lang="pug-BF">cʋɩ̀</item>
+                <morphemes>
+                  <morph type="bound stem" guid="d7f713e7-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="pug-BF">cʋɩ̀</item>
+                    <item type="cf" lang="pug-BF">cʋɩ̀</item>
+                    <item type="gls" lang="en">set down</item>
+                    <item type="msa" lang="en">v  (-ɩ̀)</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="pug-BF">-ɩ̀</item>
+                    <item type="cf" lang="pug-BF">-ɩ̀</item>
+                    <item type="gls" lang="en">INCMP</item>
+                    <item type="msa" lang="en">v:ASP</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">set down (from fire)</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word guid="5a97b448-c8a2-455a-ad3d-76a3df47dfd8">
+                <item type="txt" lang="pug-BF">cɩ̀</item>
+                <morphemes>
+                  <morph type="bound stem" guid="d7f713e7-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="pug-BF">cɩ̀</item>
+                    <item type="cf" lang="pug-BF">cɩ̀</item>
+                    <item type="gls" lang="en">set upright</item>
+                    <item type="msa" lang="en">v  (-ɩ̀)</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="pug-BF">-ɩ̀</item>
+                    <item type="cf" lang="pug-BF">-ɩ̀</item>
+                    <item type="gls" lang="en">INCMP</item>
+                    <item type="msa" lang="en">v:ASP</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">set upright (on ground)</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word>
+                <item type="punct" lang="pug-BF">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">So she cooked beans and set the pot aside for them.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+    </paragraphs>
+    <languages>
+      <language lang="en" font="Times New Roman"/>
+      <language lang="fr" font="Times New Roman"/>
+      <language lang="pug-BF" font="Charis SIL" vernacular="true"/>
+    </languages>
+  </interlinear-text>
+</document>

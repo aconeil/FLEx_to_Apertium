@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document version="2">
+<interlinear-text guid="fde444e3-b5b3-4724-8205-4f318c28d1e5">
+    <item type="title" lang="en">Tapangu XX</item>
+    <paragraphs>
+      <paragraph guid="abd33ce8-dce8-429e-8f53-a2547987ad8a">
+        <phrases>
+          <phrase guid="74c8723d-becd-4e76-9c2c-c3057d28ccf0">
+            <item type="segnum" lang="en">1.1</item>
+            <words>
+              <word guid="f29bdc33-7e1a-4e39-9635-83171dce9e6a">
+                <item type="txt" lang="tsu">ina</item>
+              </word>
+              <word guid="5883d828-a773-47b9-b9f5-91cce67ce596">
+                <item type="txt" lang="tsu">nia</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">nia</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">late</item>
+              </word>
+              <word guid="9c5cc578-7db2-4c6c-895f-3ad3a34b0d90">
+                <item type="txt" lang="tsu">la</item>
+              </word>
+              <word guid="091e3ae7-728d-424d-9894-4ac39fe41535">
+                <item type="txt" lang="tsu">meefúcu</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">meefúcu</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">Dwarf</item>
+              </word>
+              <word guid="eb7a7114-0d38-457d-9f5a-f3a2f67776de">
+                <item type="txt" lang="tsu">moso</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tsu">moso</item>
+                    <item type="cf" lang="tsu">moso</item>
+                    <item type="gls" lang="en">AV.PST</item>
+                    <item type="msa" lang="en">b.</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en"></item>
+                <item type="pos" lang="en">b.</item>
+              </word>
+              <word guid="94ae4824-52b9-4b5b-be73-1dcbe3e9bdde">
+                <item type="txt" lang="tsu">cʔo</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">cʔo</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">only</item>
+              </word>
+              <word guid="9c5cc578-7db2-4c6c-895f-3ad3a34b0d90">
+                <item type="txt" lang="tsu">la</item>
+              </word>
+              <word guid="8bbafc77-0db0-41c1-b43c-36233d6fefa3">
+                <item type="txt" lang="tsu">oeovoecʉ́vcʉ</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">oeovoecʉ́vcʉ</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">lived-in-the-dark</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">The ancient Dwarf only lived-in-the-dark. </item>
+            <item type="gls" lang="zh-CN">古代的矮人族只生活在黑夜中。</item>
+          </phrase>
+          <phrase guid="d4d9341d-3cf1-4b36-a65d-e89bbce194eb">
+            <item type="segnum" lang="en">1.2</item>
+            <words>
+              <word guid="1394921d-31c6-489f-b29f-d21e7ca25fc7">
+                <item type="txt" lang="tsu">ihoci</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">ihoci</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">if</item>
+              </word>
+              <word guid="57bc3ef2-610e-47c5-adb2-fec45d7eaf90">
+                <item type="txt" lang="tsu">aepʉ́ŋa</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">aepʉ́ŋa</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">finished</item>
+              </word>
+              <word guid="e4e1959e-d4d8-45ec-acce-ed98d6c42b97">
+                <item type="txt" lang="tsu">aaŋáeza</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">aaŋáeza</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">divide</item>
+              </word>
+              <word guid="a2bf7ee6-5a8e-4159-addd-6857da7e2548">
+                <item type="txt" lang="tsu">na</item>
+              </word>
+              <word guid="df87c0ba-d075-4190-b841-4aa39db08c25">
+                <item type="txt" lang="tsu">fóu</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">fóu</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">preys</item>
+              </word>
+              <word guid="e581ce46-4fc0-420e-86b2-cb06e61747ab">
+                <item type="txt" lang="tsu">ho</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tsu">ho</item>
+                    <item type="cf" lang="tsu">ho</item>
+                    <item type="gls" lang="en">when</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">when</item>
+              </word>
+              <word guid="85e22ff0-ddbd-4113-81c4-9a64fc3102cd">
+                <item type="txt" lang="tsu">cu</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">cu</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">already</item>
+              </word>
+              <word guid="409fdeab-d5a5-4498-bf9a-75603bc84605">
+                <item type="txt" lang="tsu">fáeni</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">fáeni</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">others</item>
+              </word>
+              <word guid="0ba4de24-3019-43e2-a2c4-47bf69387583">
+                <item type="txt" lang="tsu">no</item>
+              </word>
+              <word guid="e33ecee8-a7c2-4d69-b942-bc6e15fbbce6">
+                <item type="txt" lang="tsu">mócmo</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">mócmo</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">other</item>
+              </word>
+              <word guid="a697c5ff-05b0-4517-9bcf-69da4dd829c7">
+                <item type="txt" lang="tsu">hoci</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">hoci</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">if</item>
+              </word>
+              <word guid="4c00a8d2-f9b1-4d2e-9d4d-2b02d41d8f7f">
+                <item type="txt" lang="tsu">óʔte</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tsu">óʔte</item>
+                    <item type="cf" lang="tsu">óʔte</item>
+                    <item type="gls" lang="en">not</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">not</item>
+              </word>
+              <word guid="f4c91cab-f7bb-456f-ba6b-83f31001137f">
+                <item type="txt" lang="tsu">eupʉ́ŋi</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">eupʉ́ŋi</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">sufficient</item>
+              </word>
+              <word guid="79036b5b-3b57-4377-a016-c21882c9bf13">
+                <item type="txt" lang="tsu">pan</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">pan</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">there-is</item>
+              </word>
+              <word guid="0ba4de24-3019-43e2-a2c4-47bf69387583">
+                <item type="txt" lang="tsu">no</item>
+              </word>
+              <word guid="9adc59f5-c7db-4476-82a0-72893dc5bb5c">
+                <item type="txt" lang="tsu">meefúcu</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">meefúcu</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">Dwarf</item>
+              </word>
+              <word guid="996a7ec6-b590-42fb-8186-d3a172f990e1">
+                <item type="txt" lang="tsu">ci</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">ci</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">RELT</item>
+              </word>
+              <word guid="9c5cc578-7db2-4c6c-895f-3ad3a34b0d90">
+                <item type="txt" lang="tsu">la</item>
+              </word>
+              <word guid="abe28120-d70f-489f-8ca7-79e5d58e2155">
+                <item type="txt" lang="tsu">moúpu</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">moúpu</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">taking</item>
+              </word>
+              <word guid="810c48aa-798a-482e-a90b-787fcb4bd56e">
+                <item type="txt" lang="tsu">máeo</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">máeo</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">caught</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">If (one) finished dividing the meat and gave to others ['members of the family'] (and) if (it) was not sufficient, there-was the Dwarf taking-part-in taking (the meat).</item>
+            <item type="gls" lang="zh-CN">如果（一個人）分完了事物并給了別人（家庭的其他成員），如果不夠分，矮人族的人就會來把肉拿走。（？）</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="eb8ccaf9-bf76-4dde-a141-712ffb0af679" />
+    </paragraphs>
+    <languages>
+      <language lang="en" font="Times New Roman" vernacular="true" />
+      <language lang="tsu" font="Charis SIL" vernacular="true" />
+      <language lang="zh-CN" font="SimSun" vernacular="true" />
+      <language lang="zh-Qaaa-CN-x-Piny" font="Andika" vernacular="true" />
+    </languages>
+  </interlinear-text>
+  
+</document>

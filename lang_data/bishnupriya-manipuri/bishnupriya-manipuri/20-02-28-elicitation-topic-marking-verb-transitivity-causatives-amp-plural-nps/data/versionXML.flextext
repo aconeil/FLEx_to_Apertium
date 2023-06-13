@@ -1,0 +1,3091 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document version="2">
+<interlinear-text guid="c9599ad9-5c8b-41d2-8255-a8f4c8c22970">
+    <item type="title" lang="en">20-02-28 Elicitation - Topic marking, verb transitivity, causatives, &amp; plural NPs</item>
+    <item type="source" lang="en">Uttam Singha</item>
+    <paragraphs>
+      <paragraph guid="f70d68bf-4338-4fd6-99e9-277cd619de17">
+        <phrases>
+          <phrase guid="b92e121a-31b4-4383-ab61-b0b27ea5d337">
+            <item type="segnum" lang="en">1</item>
+            <words>
+              <word guid="bb212741-759c-4f57-b25d-1dbc261488a6">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">parasitete</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">parasite</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-te</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-te</item>
+                    <item type="hn" lang="bpy-Latn-BD">2</item>
+                    <item type="gls" lang="en">FOC</item>
+                    <item type="msa" lang="en">Inflects any category</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">Parasite-te</item>
+              </word>
+              <word guid="6f11517e-a39d-497e-938b-b4205bfbfb8f">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">hoba</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">hoba</item>
+                    <item type="gls" lang="en">good</item>
+                    <item type="msa" lang="en">adj</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">good</item>
+                <item type="pos" lang="en">adj</item>
+              </word>
+              <word guid="464809e3-1a32-4b73-a9d8-11efdea18719">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">movie</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">movie</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">movie</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="8a179e18-eee0-41aa-b910-2971cf29cbd1">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">hannai</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">han</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">han</item>
+                    <item type="hn" lang="bpy-Latn-BD">1</item>
+                    <item type="gls" lang="en">CLF</item>
+                    <item type="msa" lang="en">clf</item>
+                  </morph>
+                  <morph>
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">nai</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word>
+                <item type="punct" lang="bpy-Latn-BD">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">Parasite is a good movie (in response to "Did you like Parasite?")</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="be66f1cc-7ecf-45d5-9398-ab339d38eefb">
+        <phrases>
+          <phrase guid="513409a1-ac92-45f8-9b17-ee580ab51c44">
+            <item type="segnum" lang="en">2</item>
+            <words>
+              <word guid="55506c32-5ffc-4085-ac00-7994b9bdd9df">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">ohante</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">o</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">o</item>
+                    <item type="hn" lang="bpy-Latn-BD">1</item>
+                    <item type="gls" lang="en">DEM.DIST</item>
+                    <item type="msa" lang="en">adj</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">han</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">han</item>
+                    <item type="hn" lang="bpy-Latn-BD">1</item>
+                    <item type="gls" lang="en">CLF</item>
+                    <item type="msa" lang="en">clf</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-te</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-te</item>
+                    <item type="hn" lang="bpy-Latn-BD">2</item>
+                    <item type="gls" lang="en">FOC</item>
+                    <item type="msa" lang="en">Inflects any category</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">DEM.DIST-CLF-FOC</item>
+                <item type="pos" lang="en">clf</item>
+              </word>
+              <word guid="6f11517e-a39d-497e-938b-b4205bfbfb8f">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">hoba</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">hoba</item>
+                    <item type="gls" lang="en">good</item>
+                    <item type="msa" lang="en">adj</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">good</item>
+                <item type="pos" lang="en">adj</item>
+              </word>
+              <word guid="464809e3-1a32-4b73-a9d8-11efdea18719">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">movie</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">movie</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">movie</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="8a179e18-eee0-41aa-b910-2971cf29cbd1">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">hannai</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">han</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">han</item>
+                    <item type="hn" lang="bpy-Latn-BD">1</item>
+                    <item type="gls" lang="en">CLF</item>
+                    <item type="msa" lang="en">clf</item>
+                  </morph>
+                  <morph>
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">nai</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word>
+                <item type="punct" lang="bpy-Latn-BD">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">That is a good movie (in response to "Did you like Parasite?")</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="4accc06f-b408-446c-b8a7-d5de24037bc3">
+        <phrases>
+          <phrase guid="c26238cd-59b7-4895-adec-a3a597137cdd">
+            <item type="segnum" lang="en">3</item>
+            <words>
+              <word guid="637d8a66-ed9a-4ccf-a0aa-e257d8e625f2">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">parasite</item>
+              </word>
+              <word guid="d363762f-a182-4bb7-ae41-8a8eebda1651">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">ohan</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">o</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">o</item>
+                    <item type="hn" lang="bpy-Latn-BD">1</item>
+                    <item type="gls" lang="en">DEM.DIST</item>
+                    <item type="msa" lang="en">adj</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">han</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">han</item>
+                    <item type="hn" lang="bpy-Latn-BD">1</item>
+                    <item type="gls" lang="en">CLF</item>
+                    <item type="msa" lang="en">clf</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">DEM.DIST-CLF</item>
+                <item type="pos" lang="en">pro</item>
+              </word>
+              <word guid="6f11517e-a39d-497e-938b-b4205bfbfb8f">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">hoba</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">hoba</item>
+                    <item type="gls" lang="en">good</item>
+                    <item type="msa" lang="en">adj</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">good</item>
+                <item type="pos" lang="en">adj</item>
+              </word>
+              <word guid="464809e3-1a32-4b73-a9d8-11efdea18719">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">movie</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">movie</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">movie</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="4aae1779-119c-4612-8cfb-cb4cc61b928b">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">han</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">han</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">han</item>
+                    <item type="hn" lang="bpy-Latn-BD">1</item>
+                    <item type="gls" lang="en">CLF</item>
+                    <item type="msa" lang="en">clf</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">CLF</item>
+                <item type="pos" lang="en">clf</item>
+              </word>
+              <word>
+                <item type="punct" lang="bpy-Latn-BD">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">Parasite is a good movie (in response to "What's a good movie?")</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="d863856f-6853-4217-ba21-3276b90a331f">
+        <phrases>
+          <phrase guid="9e6762fa-50e2-49eb-b434-46a73b6a564f">
+            <item type="segnum" lang="en">4</item>
+            <words>
+              <word>
+                <item type="punct" lang="bpy-Latn-BD">*</item>
+              </word>
+              <word guid="189cb2b2-8b69-4b3b-a0e3-e884612a13d2">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">parasitete</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">parasite</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-te</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-te</item>
+                    <item type="hn" lang="bpy-Latn-BD">2</item>
+                    <item type="gls" lang="en">FOC</item>
+                    <item type="msa" lang="en">Inflects any category</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">Parasite-te</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="d363762f-a182-4bb7-ae41-8a8eebda1651">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">ohan</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">o</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">o</item>
+                    <item type="hn" lang="bpy-Latn-BD">1</item>
+                    <item type="gls" lang="en">DEM.DIST</item>
+                    <item type="msa" lang="en">adj</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">han</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">han</item>
+                    <item type="hn" lang="bpy-Latn-BD">1</item>
+                    <item type="gls" lang="en">CLF</item>
+                    <item type="msa" lang="en">clf</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">DEM.DIST-CLF</item>
+                <item type="pos" lang="en">pro</item>
+              </word>
+              <word guid="6f11517e-a39d-497e-938b-b4205bfbfb8f">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">hoba</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">hoba</item>
+                    <item type="gls" lang="en">good</item>
+                    <item type="msa" lang="en">adj</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">good</item>
+                <item type="pos" lang="en">adj</item>
+              </word>
+              <word guid="464809e3-1a32-4b73-a9d8-11efdea18719">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">movie</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">movie</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">movie</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="4aae1779-119c-4612-8cfb-cb4cc61b928b">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">han</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">han</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">han</item>
+                    <item type="hn" lang="bpy-Latn-BD">1</item>
+                    <item type="gls" lang="en">CLF</item>
+                    <item type="msa" lang="en">clf</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">CLF</item>
+                <item type="pos" lang="en">clf</item>
+              </word>
+              <word>
+                <item type="punct" lang="bpy-Latn-BD">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">*Parasite is a good movie (in response to "What's a good movie?")</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="32b349e2-2c29-480e-b225-c55127832702">
+        <phrases>
+          <phrase guid="5b62a409-2606-4ab5-9157-1f707d0bb3de">
+            <item type="segnum" lang="en">5</item>
+            <words>
+              <word guid="04eb35d8-e47d-421d-b4ac-729533bb4be5">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">ubasil</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">ub</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">ub</item>
+                    <item type="gls" lang="en">stand</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-as</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">as</item>
+                    <item type="gls" lang="en">be</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-il</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-l</item>
+                    <item type="gls" lang="en">3SG.PST</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">stand-PRF-3SG.PST</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">he stood</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="972f9a50-2644-4c55-83e1-eb1800fe6568">
+        <phrases>
+          <phrase guid="4d9c23b7-7298-4f49-9bc4-cf20802779a2">
+            <item type="segnum" lang="en">6</item>
+            <words>
+              <word guid="0d9afe3b-4ef8-43d1-a2ac-3245b1319101">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">ubaisil</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">uba</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">ub</item>
+                    <item type="gls" lang="en">stand</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-is</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">is</item>
+                    <item type="gls" lang="en">be</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-l</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-l</item>
+                    <item type="gls" lang="en">3SG.PST</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">stand-PRF-3SG.PST</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">he stood (same meaning as above)</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="561acb17-6228-4a17-bfab-d05fc9644261">
+        <phrases>
+          <phrase guid="4c8de356-097d-499b-ad33-19e557bf20fe">
+            <item type="segnum" lang="en">7</item>
+            <words>
+              <word guid="6f2766c1-c052-4a6b-82f1-66f79c3c1260">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">manu</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">manu</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">manu</item>
+                    <item type="gls" lang="en">man</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">man</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="e5b0b451-fb55-41e4-b573-895078ba2da7">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">goe</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">go</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">go</item>
+                    <item type="gls" lang="en">CLF</item>
+                    <item type="msa" lang="en">clf</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-e</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-e</item>
+                    <item type="hn" lang="bpy-Latn-BD">2</item>
+                    <item type="gls" lang="en">AGT</item>
+                    <item type="msa" lang="en">n:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">CLF-AGT</item>
+                <item type="pos" lang="en">clf</item>
+              </word>
+              <word guid="0aa0cf25-2cc9-4d25-8f2e-262881366080">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">tejre</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">tej</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">tej</item>
+                    <item type="gls" lang="en">3SG.F</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-re</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-re</item>
+                    <item type="gls" lang="en">DAT/ACC</item>
+                    <item type="msa" lang="en">n:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">3SG.F-DAT/ACC</item>
+                <item type="pos" lang="en">pro</item>
+              </word>
+              <word guid="8c01e6db-0248-41b9-a97b-7ec9f2475958">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">uba</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">uba</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">uba</item>
+                    <item type="gls" lang="en">standing</item>
+                    <item type="msa" lang="en">adj</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">standing</item>
+                <item type="pos" lang="en">adj</item>
+              </word>
+              <word guid="21f549f1-0932-45a1-a144-108b23329548">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">ona</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">o</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">o</item>
+                    <item type="hn" lang="bpy-Latn-BD">2</item>
+                    <item type="gls" lang="en">become</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-na</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-na</item>
+                    <item type="gls" lang="en">INF</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">be-INF</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word guid="a82d8cf6-daad-4262-ace4-da35e8ef1097">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">paŋkorlo</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">paŋ</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">paŋ</item>
+                    <item type="gls" lang="en">help</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">kor</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">kor</item>
+                    <item type="gls" lang="en">do</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-lo</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-lo</item>
+                    <item type="hn" lang="bpy-Latn-BD">1</item>
+                    <item type="gls" lang="en">3SG.PST</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">help-do-3SG.PST</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word>
+                <item type="punct" lang="bpy-Latn-BD">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">The man helped her stand up.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="72d51724-8d1d-4887-8572-9c8c321568cf">
+        <phrases>
+          <phrase guid="7d9c5bbe-d54f-499b-926e-a000a1855c2e">
+            <item type="segnum" lang="en">8</item>
+            <words>
+              <word guid="6f2766c1-c052-4a6b-82f1-66f79c3c1260">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">manu</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">manu</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">manu</item>
+                    <item type="gls" lang="en">man</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">man</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="e5b0b451-fb55-41e4-b573-895078ba2da7">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">goe</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">go</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">go</item>
+                    <item type="gls" lang="en">CLF</item>
+                    <item type="msa" lang="en">clf</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-e</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-e</item>
+                    <item type="hn" lang="bpy-Latn-BD">2</item>
+                    <item type="gls" lang="en">AGT</item>
+                    <item type="msa" lang="en">n:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">CLF-AGT</item>
+                <item type="pos" lang="en">clf</item>
+              </word>
+              <word guid="0aa0cf25-2cc9-4d25-8f2e-262881366080">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">tejre</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">tej</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">tej</item>
+                    <item type="gls" lang="en">3SG.F</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-re</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-re</item>
+                    <item type="gls" lang="en">DAT/ACC</item>
+                    <item type="msa" lang="en">n:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">3SG.F-DAT/ACC</item>
+                <item type="pos" lang="en">pro</item>
+              </word>
+              <word guid="8c01e6db-0248-41b9-a97b-7ec9f2475958">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">uba</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">uba</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">uba</item>
+                    <item type="gls" lang="en">standing</item>
+                    <item type="msa" lang="en">adj</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">standing</item>
+                <item type="pos" lang="en">adj</item>
+              </word>
+              <word guid="3ffe6a7f-77ac-402f-afad-3bda3e370b6d">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">kore</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">kor</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">kor</item>
+                    <item type="gls" lang="en">do</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-e</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-ia</item>
+                    <item type="gls" lang="en">PTCP</item>
+                    <item type="msa" lang="en">Verb</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">do-PTCP</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word guid="799862be-e9c9-4e65-9b86-c5aee566ead2">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">dilo</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">di</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">de</item>
+                    <item type="hn" lang="bpy-Latn-BD">1</item>
+                    <item type="gls" lang="en">give</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-lo</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-lo</item>
+                    <item type="hn" lang="bpy-Latn-BD">1</item>
+                    <item type="gls" lang="en">3SG.PST</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">give-3SG..PST</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word>
+                <item type="punct" lang="bpy-Latn-BD">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">The man got her up / stood her up (lit).</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="aabe4d88-0350-4a9c-a0aa-1883ca4888be">
+        <phrases>
+          <phrase guid="e8afd14f-7b25-4a6f-ab13-2648396bffcb">
+            <item type="segnum" lang="en">9</item>
+            <words>
+              <word guid="6f2766c1-c052-4a6b-82f1-66f79c3c1260">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">manu</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">manu</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">manu</item>
+                    <item type="gls" lang="en">man</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">man</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="6ea247b7-89b3-4aa7-96c3-0f49c63c9707">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">go</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">go</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">go</item>
+                    <item type="gls" lang="en">CLF</item>
+                    <item type="msa" lang="en">clf</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">CLF</item>
+                <item type="pos" lang="en">clf</item>
+              </word>
+              <word guid="559d4858-cdbb-46b4-a7ea-a2f3e0ef2210">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">buder</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">bud</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">bud</item>
+                    <item type="gls" lang="en">drown</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-er</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-er</item>
+                    <item type="gls" lang="en">3SG.PRS</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">drown-3SG.PRS</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word>
+                <item type="punct" lang="bpy-Latn-BD">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">The man drowned.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="f51a566b-a376-4cb0-b010-6d91541d1327">
+        <phrases>
+          <phrase guid="486968d8-6a9d-480c-b9d4-db84a0964a8a">
+            <item type="segnum" lang="en">10</item>
+            <words>
+              <word guid="7be4ae5e-d6b0-4e3d-b3f8-d4b59afc6dcb">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">gula</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">gula</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">gula</item>
+                    <item type="gls" lang="en">flood</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">flood</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="b5792454-d1bc-4d79-93c4-26680337467b">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">hane</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">han</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">han</item>
+                    <item type="hn" lang="bpy-Latn-BD">1</item>
+                    <item type="gls" lang="en">CLF</item>
+                    <item type="msa" lang="en">clf</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-e</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-e</item>
+                    <item type="hn" lang="bpy-Latn-BD">2</item>
+                    <item type="gls" lang="en">AGT</item>
+                    <item type="msa" lang="en">n:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">CLF-AGT</item>
+              </word>
+              <word guid="736f5fe5-d4de-4e7e-8e85-d1d3c2ccb55b">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">gaŋ</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">gaŋ</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">gaŋ</item>
+                    <item type="gls" lang="en">village</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">village</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="4aae1779-119c-4612-8cfb-cb4cc61b928b">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">han</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">han</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">han</item>
+                    <item type="hn" lang="bpy-Latn-BD">1</item>
+                    <item type="gls" lang="en">CLF</item>
+                    <item type="msa" lang="en">clf</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">CLF</item>
+                <item type="pos" lang="en">clf</item>
+              </word>
+              <word guid="a3e3d542-8780-4b04-8c32-ad94ac88702f">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">budar</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">bud</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">bud</item>
+                    <item type="gls" lang="en">drown</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-a</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-a</item>
+                    <item type="hn" lang="bpy-Latn-BD">3</item>
+                    <item type="gls" lang="en">CAUS</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-r</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-er</item>
+                    <item type="gls" lang="en">3SG.PRS</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">drown-CAUS-3SG.PRS</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word>
+                <item type="punct" lang="bpy-Latn-BD">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">The flood drowned/flooded the village.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="2bb1a38e-7446-436f-8d0d-dd380b082369">
+        <phrases>
+          <phrase guid="e066d4a6-26a0-4cfe-a142-394f51fa507e">
+            <item type="segnum" lang="en">11</item>
+            <words>
+              <word guid="2f04d064-11c5-43ee-ac5e-61b3179cac3f">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">ta</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">ta</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">ta</item>
+                    <item type="hn" lang="bpy-Latn-BD">1</item>
+                    <item type="gls" lang="en">3SG.M</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">3SG.M</item>
+                <item type="pos" lang="en">pro</item>
+              </word>
+              <word guid="bba5ecc1-35d2-4d0e-aaad-b96ac30cec40">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">kʰamuil</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">kʰam</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">kʰam</item>
+                    <item type="hn" lang="bpy-Latn-BD">1</item>
+                    <item type="gls" lang="en">stop</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-u</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-u</item>
+                    <item type="hn" lang="bpy-Latn-BD">1</item>
+                    <item type="gls" lang="en">CAUS</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-il</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-l</item>
+                    <item type="gls" lang="en">3SG.PST</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">stop</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word>
+                <item type="punct" lang="bpy-Latn-BD">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">He stopped (MG).</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="7e30cedc-f639-482e-b142-c2dfaef9c44b">
+        <phrases>
+          <phrase guid="c50e1e00-42a8-44d0-8b6d-bb366abb1e41">
+            <item type="segnum" lang="en">12</item>
+            <words>
+              <word guid="2f04d064-11c5-43ee-ac5e-61b3179cac3f">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">ta</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">ta</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">ta</item>
+                    <item type="hn" lang="bpy-Latn-BD">1</item>
+                    <item type="gls" lang="en">3SG.M</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">3SG.M</item>
+                <item type="pos" lang="en">pro</item>
+              </word>
+              <word guid="7d72f11d-d809-4afd-9cc9-43bc50ffa6f4">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">kʰamoil</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">kʰam</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">kʰam</item>
+                    <item type="hn" lang="bpy-Latn-BD">1</item>
+                    <item type="gls" lang="en">stop</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph>
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-o</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-il</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-l</item>
+                    <item type="gls" lang="en">3SG.PST</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word>
+                <item type="punct" lang="bpy-Latn-BD">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">He stopped (RG).</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="c091db78-633a-4f45-8922-0ceac832d90f">
+        <phrases>
+          <phrase guid="db93c0c9-9b1e-4818-9e3d-f378b68d74df">
+            <item type="segnum" lang="en">13</item>
+            <words>
+              <word guid="2f04d064-11c5-43ee-ac5e-61b3179cac3f">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">ta</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">ta</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">ta</item>
+                    <item type="hn" lang="bpy-Latn-BD">1</item>
+                    <item type="gls" lang="en">3SG.M</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">3SG.M</item>
+                <item type="pos" lang="en">pro</item>
+              </word>
+              <word guid="0aa0cf25-2cc9-4d25-8f2e-262881366080">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">tejre</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">tej</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">tej</item>
+                    <item type="gls" lang="en">3SG.F</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-re</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-re</item>
+                    <item type="gls" lang="en">DAT/ACC</item>
+                    <item type="msa" lang="en">n:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">3SG.F-DAT/ACC</item>
+                <item type="pos" lang="en">pro</item>
+              </word>
+              <word guid="871d31d9-f357-423a-a20f-ff6dd02f8bb9">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">kʰam</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">kʰam</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">kʰam</item>
+                    <item type="hn" lang="bpy-Latn-BD">1</item>
+                    <item type="gls" lang="en">stop</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">stop</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word guid="018aca7e-d39b-40ae-81da-252c38b95028">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">korlo</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">kor</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">kor</item>
+                    <item type="gls" lang="en">do</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-lo</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-lo</item>
+                    <item type="hn" lang="bpy-Latn-BD">1</item>
+                    <item type="gls" lang="en">3SG.PST</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">do-3SG.PST</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word>
+                <item type="punct" lang="bpy-Latn-BD">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">He stopped her.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="60612a42-1945-4162-aa0a-a0e0ba3352da">
+        <phrases>
+          <phrase guid="48b62119-1589-4b4c-8a71-d2442b27a552">
+            <item type="segnum" lang="en">14</item>
+            <words>
+              <word>
+                <item type="punct" lang="bpy-Latn-BD">*</item>
+              </word>
+              <word guid="2f04d064-11c5-43ee-ac5e-61b3179cac3f">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">ta</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">ta</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">ta</item>
+                    <item type="hn" lang="bpy-Latn-BD">1</item>
+                    <item type="gls" lang="en">3SG.M</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">3SG.M</item>
+                <item type="pos" lang="en">pro</item>
+              </word>
+              <word guid="0aa0cf25-2cc9-4d25-8f2e-262881366080">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">tejre</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">tej</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">tej</item>
+                    <item type="gls" lang="en">3SG.F</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-re</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-re</item>
+                    <item type="gls" lang="en">DAT/ACC</item>
+                    <item type="msa" lang="en">n:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">3SG.F-DAT/ACC</item>
+                <item type="pos" lang="en">pro</item>
+              </word>
+              <word guid="a127a835-bfa7-4f8b-8837-aa0211a8833c">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">kʰamuilo</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">kʰam</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">kʰam</item>
+                    <item type="hn" lang="bpy-Latn-BD">1</item>
+                    <item type="gls" lang="en">stop</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-u</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-u</item>
+                    <item type="hn" lang="bpy-Latn-BD">1</item>
+                    <item type="gls" lang="en">CAUS</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-ilo</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-lo</item>
+                    <item type="hn" lang="bpy-Latn-BD">1</item>
+                    <item type="gls" lang="en">3SG.PST</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">stop-CAUS-3SG.PST</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word>
+                <item type="punct" lang="bpy-Latn-BD">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">*He stopped her.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="46feaa06-bb5a-4c79-a88f-6e3e6baab109">
+        <phrases>
+          <phrase guid="829b078c-a40e-4de8-adfc-8058ca8ea08c">
+            <item type="segnum" lang="en">15</item>
+            <words>
+              <word guid="2f04d064-11c5-43ee-ac5e-61b3179cac3f">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">ta</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">ta</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">ta</item>
+                    <item type="hn" lang="bpy-Latn-BD">1</item>
+                    <item type="gls" lang="en">3SG.M</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">3SG.M</item>
+                <item type="pos" lang="en">pro</item>
+              </word>
+              <word guid="81934e8f-e2d6-4dfe-b42b-e54ec06e7b21">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">hoɟakil</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">hoɟak</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">hoɟak</item>
+                    <item type="gls" lang="en">wake.up</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-il</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-l</item>
+                    <item type="gls" lang="en">3SG.PST</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">wake.up-3SG.PST</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word>
+                <item type="punct" lang="bpy-Latn-BD">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">He woke up.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="4a384534-7f22-4eb6-a37a-3ed9ed38c2cd">
+        <phrases>
+          <phrase guid="847814b9-ee18-4a20-b43f-5f9ca7e281ea">
+            <item type="segnum" lang="en">16</item>
+            <words>
+              <word guid="2f04d064-11c5-43ee-ac5e-61b3179cac3f">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">ta</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">ta</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">ta</item>
+                    <item type="hn" lang="bpy-Latn-BD">1</item>
+                    <item type="gls" lang="en">3SG.M</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">3SG.M</item>
+                <item type="pos" lang="en">pro</item>
+              </word>
+              <word guid="4307cf1d-5e56-45f6-91fa-58cbf6f48e43">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">hoɟakilo</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">hoɟak</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">hoɟak</item>
+                    <item type="gls" lang="en">wake.up</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-ilo</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-lo</item>
+                    <item type="hn" lang="bpy-Latn-BD">1</item>
+                    <item type="gls" lang="en">3SG.PST</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">wake.up-3SG.PST</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word>
+                <item type="punct" lang="bpy-Latn-BD">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">He woke up (emph).</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="21fa7551-d560-4ff0-99b6-3e41c1d6356c">
+        <phrases>
+          <phrase guid="00ff1c3a-cc81-4038-9693-8a9e001eb971">
+            <item type="segnum" lang="en">17</item>
+            <words>
+              <word guid="2f04d064-11c5-43ee-ac5e-61b3179cac3f">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">ta</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">ta</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">ta</item>
+                    <item type="hn" lang="bpy-Latn-BD">1</item>
+                    <item type="gls" lang="en">3SG.M</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">3SG.M</item>
+                <item type="pos" lang="en">pro</item>
+              </word>
+              <word guid="036bcd51-60c7-45a7-a264-7d9c43497714">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">more</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">mo</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">mi</item>
+                    <item type="gls" lang="en">1SG</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-re</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-re</item>
+                    <item type="gls" lang="en">DAT/ACC</item>
+                    <item type="msa" lang="en">n:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">1SG-DAT/ACC</item>
+                <item type="pos" lang="en">pro</item>
+              </word>
+              <word guid="4c498c5f-13c5-4a2c-9be0-a34e9fa130bc">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">hoɟak</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">hoɟak</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">hoɟak</item>
+                    <item type="gls" lang="en">wake.up</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">wake.up</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word guid="018aca7e-d39b-40ae-81da-252c38b95028">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">korlo</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">kor</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">kor</item>
+                    <item type="gls" lang="en">do</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-lo</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-lo</item>
+                    <item type="hn" lang="bpy-Latn-BD">1</item>
+                    <item type="gls" lang="en">3SG.PST</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">do-3SG.PST</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word>
+                <item type="punct" lang="bpy-Latn-BD">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">He woke me up.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="c5e24afe-5a45-428d-9e60-26d5a009db0f">
+        <phrases>
+          <phrase guid="f37772af-94d1-427d-a8f9-09e31af2f28f">
+            <item type="segnum" lang="en">18</item>
+            <words>
+              <word guid="2f04d064-11c5-43ee-ac5e-61b3179cac3f">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">ta</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">ta</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">ta</item>
+                    <item type="hn" lang="bpy-Latn-BD">1</item>
+                    <item type="gls" lang="en">3SG.M</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">3SG.M</item>
+                <item type="pos" lang="en">pro</item>
+              </word>
+              <word guid="036bcd51-60c7-45a7-a264-7d9c43497714">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">more</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">mo</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">mi</item>
+                    <item type="gls" lang="en">1SG</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-re</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-re</item>
+                    <item type="gls" lang="en">DAT/ACC</item>
+                    <item type="msa" lang="en">n:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">1SG-DAT/ACC</item>
+                <item type="pos" lang="en">pro</item>
+              </word>
+              <word guid="b76052ef-ee4b-49de-8d71-34fa47e357d2">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">kaduilo</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">kad</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">kad</item>
+                    <item type="gls" lang="en">cry</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-u</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-u</item>
+                    <item type="hn" lang="bpy-Latn-BD">1</item>
+                    <item type="gls" lang="en">CAUS</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-ilo</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-lo</item>
+                    <item type="hn" lang="bpy-Latn-BD">1</item>
+                    <item type="gls" lang="en">3SG.PST</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">cry-CAUS-3SG.PST</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word>
+                <item type="punct" lang="bpy-Latn-BD">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">He made me cry.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="266ec9a2-4b14-41ad-bf69-2a7fc2d292eb">
+        <phrases>
+          <phrase guid="2e453840-416f-4028-8b1f-54e808a7d1a1">
+            <item type="segnum" lang="en">19</item>
+            <words>
+              <word guid="2f04d064-11c5-43ee-ac5e-61b3179cac3f">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">ta</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">ta</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">ta</item>
+                    <item type="hn" lang="bpy-Latn-BD">1</item>
+                    <item type="gls" lang="en">3SG.M</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">3SG.M</item>
+                <item type="pos" lang="en">pro</item>
+              </word>
+              <word guid="9d7f2b15-c06e-41e2-ab0d-d24b166105bf">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">kadlo</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">kad</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">kad</item>
+                    <item type="gls" lang="en">cry</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-lo</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-lo</item>
+                    <item type="hn" lang="bpy-Latn-BD">1</item>
+                    <item type="gls" lang="en">3SG.PST</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">cry-3SG.PST</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word>
+                <item type="punct" lang="bpy-Latn-BD">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">He cried.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="f7303c38-a955-422b-ada3-4bb00fb326dd">
+        <phrases>
+          <phrase guid="837dd56d-f9e7-44fc-9f13-86f45a7b8a57">
+            <item type="segnum" lang="en">20</item>
+            <words>
+              <word guid="824dacf0-2908-4dab-aec5-58894e5e041c">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">pakʰia</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">pakʰia</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">pahia</item>
+                    <item type="gls" lang="en">bird</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">bird</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="528c2053-8bef-4655-a710-1e82c3bbea20">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">gi</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">g</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">go</item>
+                    <item type="gls" lang="en">CLF</item>
+                    <item type="msa" lang="en">clf</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-i</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-i</item>
+                    <item type="hn" lang="bpy-Latn-BD">1</item>
+                    <item type="gls" lang="en">PL</item>
+                    <item type="msa" lang="en">clf:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">CLF-PL</item>
+                <item type="pos" lang="en">clf</item>
+              </word>
+              <word guid="4704a049-8837-49d5-8a3e-1685be71ec20">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">ɸurdia</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">ɸur</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">ɸur</item>
+                    <item type="gls" lang="en">fly</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">di</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">de</item>
+                    <item type="hn" lang="bpy-Latn-BD">1</item>
+                    <item type="gls" lang="en">give</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-a</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-ia</item>
+                    <item type="gls" lang="en">PTCP</item>
+                    <item type="msa" lang="en">Verb</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">fly-give-PTCP</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word guid="0dc4482f-cb91-4d86-b4ea-c0f8c0fe42dc">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">gelaga</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">ge</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">ɟa</item>
+                    <item type="hn" lang="bpy-Latn-BD">1</item>
+                    <item type="variantTypes" lang="en" />
+                    <item type="gls" lang="en">go</item>
+                    <item type="glsAppend" lang="en">.pst</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-la</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-la</item>
+                    <item type="gls" lang="en">3PL.PST</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-ga</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-ga</item>
+                    <item type="gls" lang="en">PROG</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">go-3PL.PST-PROG</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word>
+                <item type="punct" lang="bpy-Latn-BD">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">The birds flew away (MG),</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="550e087c-d39b-43d8-9236-6de69c890cf6">
+        <phrases>
+          <phrase guid="88e67eef-339f-4ad1-a9b6-5e7b1152ba1d">
+            <item type="segnum" lang="en">21</item>
+            <words>
+              <word guid="824dacf0-2908-4dab-aec5-58894e5e041c">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">pakʰia</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">pakʰia</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">pahia</item>
+                    <item type="gls" lang="en">bird</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">bird</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="528c2053-8bef-4655-a710-1e82c3bbea20">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">gi</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">g</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">go</item>
+                    <item type="gls" lang="en">CLF</item>
+                    <item type="msa" lang="en">clf</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-i</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-i</item>
+                    <item type="hn" lang="bpy-Latn-BD">1</item>
+                    <item type="gls" lang="en">PL</item>
+                    <item type="msa" lang="en">clf:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">CLF-PL</item>
+                <item type="pos" lang="en">clf</item>
+              </word>
+              <word guid="fd12245f-83e5-4c25-bc63-307b1e83f011">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">ɸordia</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">ɸor</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">ɸor</item>
+                    <item type="gls" lang="en">fly</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">di</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">de</item>
+                    <item type="hn" lang="bpy-Latn-BD">1</item>
+                    <item type="gls" lang="en">give</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-a</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-ia</item>
+                    <item type="gls" lang="en">PTCP</item>
+                    <item type="msa" lang="en">Verb</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">fly-give-PTCP</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word guid="0dc4482f-cb91-4d86-b4ea-c0f8c0fe42dc">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">gelaga</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">ge</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">ɟa</item>
+                    <item type="hn" lang="bpy-Latn-BD">1</item>
+                    <item type="variantTypes" lang="en" />
+                    <item type="gls" lang="en">go</item>
+                    <item type="glsAppend" lang="en">.pst</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-la</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-la</item>
+                    <item type="gls" lang="en">3PL.PST</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-ga</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-ga</item>
+                    <item type="gls" lang="en">PROG</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">go-3PL.PST-PROG</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word>
+                <item type="punct" lang="bpy-Latn-BD">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">The birds flew away (RG).</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="45e7b327-de7b-4a77-8a97-fe21be6a3ba6">
+        <phrases>
+          <phrase guid="3bb5e1f8-a736-4b25-8ddf-367ea309670b">
+            <item type="segnum" lang="en">22</item>
+            <words>
+              <word guid="740f7e5d-fd05-4dcf-9f11-cdf6f076e120">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">mor</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">mo</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">mi</item>
+                    <item type="gls" lang="en">1SG</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-r</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-r</item>
+                    <item type="gls" lang="en">GEN</item>
+                    <item type="msa" lang="en">Noun</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">1SG-GEN</item>
+                <item type="pos" lang="en">pro</item>
+              </word>
+              <word guid="1c7494f0-f8f5-42d6-8514-9ecc781a71f3">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">marup</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">marup</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">marup</item>
+                    <item type="gls" lang="en">friend</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">friend</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="528c2053-8bef-4655-a710-1e82c3bbea20">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">gi</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">g</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">go</item>
+                    <item type="gls" lang="en">CLF</item>
+                    <item type="msa" lang="en">clf</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-i</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-i</item>
+                    <item type="hn" lang="bpy-Latn-BD">1</item>
+                    <item type="gls" lang="en">PL</item>
+                    <item type="msa" lang="en">clf:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">CLF-PL</item>
+                <item type="pos" lang="en">clf</item>
+              </word>
+              <word guid="8bbe71ee-78b1-4dbe-93eb-e79d040df18a">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">gum</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">gum</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">gum</item>
+                    <item type="hn" lang="bpy-Latn-BD">1</item>
+                    <item type="gls" lang="en">sleep</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">sleep</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word guid="672ab6ed-c8e6-4b07-bb8d-da46b1a41b7b">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">ahisil</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">ah</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">ah</item>
+                    <item type="hn" lang="bpy-Latn-BD">1</item>
+                    <item type="gls" lang="en">come</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-is</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">is</item>
+                    <item type="gls" lang="en">be</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-l</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-l</item>
+                    <item type="gls" lang="en">3SG.PST</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">come-PRF-3SG.PST</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word>
+                <item type="punct" lang="bpy-Latn-BD">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">My friends were sleepy.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="c21840e6-0ba8-4aa9-be36-bd168ce23847">
+        <phrases>
+          <phrase guid="efde837c-35dc-4220-8f37-9e78dd649806">
+            <item type="segnum" lang="en">23</item>
+            <words>
+              <word guid="740f7e5d-fd05-4dcf-9f11-cdf6f076e120">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">mor</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">mo</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">mi</item>
+                    <item type="gls" lang="en">1SG</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-r</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-r</item>
+                    <item type="gls" lang="en">GEN</item>
+                    <item type="msa" lang="en">Noun</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">1SG-GEN</item>
+                <item type="pos" lang="en">pro</item>
+              </word>
+              <word guid="0d13e61d-9bb7-4da9-a714-8f2285ee0ab8">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">maruporta</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">marup</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">marup</item>
+                    <item type="gls" lang="en">friend</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-or</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-r</item>
+                    <item type="gls" lang="en">GEN</item>
+                    <item type="msa" lang="en">Noun</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">ta</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">ta</item>
+                    <item type="hn" lang="bpy-Latn-BD">2</item>
+                    <item type="gls" lang="en">CLF</item>
+                    <item type="msa" lang="en">clf</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">friend-GEN-CLF</item>
+              </word>
+              <word guid="8bbe71ee-78b1-4dbe-93eb-e79d040df18a">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">gum</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">gum</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">gum</item>
+                    <item type="hn" lang="bpy-Latn-BD">1</item>
+                    <item type="gls" lang="en">sleep</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">sleep</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word guid="55a67cfc-83fc-4f5d-b0ce-272831ee5d31">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">ahise</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">ah</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">ah</item>
+                    <item type="hn" lang="bpy-Latn-BD">1</item>
+                    <item type="gls" lang="en">come</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-is</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">is</item>
+                    <item type="gls" lang="en">be</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-e</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-e</item>
+                    <item type="hn" lang="bpy-Latn-BD">2</item>
+                    <item type="gls" lang="en">3SG.PRS</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">come-PRF-3SG.PRS</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word>
+                <item type="punct" lang="bpy-Latn-BD">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">My friends are sleepy.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="20f4712b-4c0d-4c49-a894-c91e6fc14cf9">
+        <phrases>
+          <phrase guid="963b5e5b-dffc-4b95-8cc2-62c0a1de33ed">
+            <item type="segnum" lang="en">24</item>
+            <words>
+              <word guid="9b0a2dbe-afc2-4444-b572-e0c24b3e9374">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">otitʰi</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">otitʰi</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">otitʰi</item>
+                    <item type="gls" lang="en">guest</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">guest</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="41a9a098-b7df-48f1-af4c-af12371b05c9">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">koto</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">koto</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">koto</item>
+                    <item type="gls" lang="en">some</item>
+                    <item type="msa" lang="en">quant</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">some</item>
+                <item type="pos" lang="en">quant</item>
+              </word>
+              <word guid="6ea247b7-89b3-4aa7-96c3-0f49c63c9707">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">go</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">go</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">go</item>
+                    <item type="gls" lang="en">CLF</item>
+                    <item type="msa" lang="en">clf</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">CLF</item>
+                <item type="pos" lang="en">clf</item>
+              </word>
+              <word guid="a44f1eff-085d-4962-9c35-de1a1d76dd26">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">ahila</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">ah</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">ah</item>
+                    <item type="hn" lang="bpy-Latn-BD">1</item>
+                    <item type="gls" lang="en">come</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-ila</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-la</item>
+                    <item type="gls" lang="en">3PL.PST</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">come-3PL.PST</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word>
+                <item type="punct" lang="bpy-Latn-BD">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">Some guests arrived.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="0c3f302b-38c2-4d46-b5b7-76d07cb4a806">
+        <phrases>
+          <phrase guid="2d2ddf65-28cf-4c5f-bbc0-b3b713b316c3">
+            <item type="segnum" lang="en">25</item>
+            <words>
+              <word>
+                <item type="punct" lang="bpy-Latn-BD">*</item>
+              </word>
+              <word guid="9b0a2dbe-afc2-4444-b572-e0c24b3e9374">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">otitʰi</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">otitʰi</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">otitʰi</item>
+                    <item type="gls" lang="en">guest</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">guest</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="41a9a098-b7df-48f1-af4c-af12371b05c9">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">koto</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">koto</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">koto</item>
+                    <item type="gls" lang="en">some</item>
+                    <item type="msa" lang="en">quant</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">some</item>
+                <item type="pos" lang="en">quant</item>
+              </word>
+              <word guid="528c2053-8bef-4655-a710-1e82c3bbea20">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">gi</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">g</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">go</item>
+                    <item type="gls" lang="en">CLF</item>
+                    <item type="msa" lang="en">clf</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-i</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-i</item>
+                    <item type="hn" lang="bpy-Latn-BD">1</item>
+                    <item type="gls" lang="en">PL</item>
+                    <item type="msa" lang="en">clf:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">CLF-PL</item>
+                <item type="pos" lang="en">clf</item>
+              </word>
+              <word guid="a44f1eff-085d-4962-9c35-de1a1d76dd26">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">ahila</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">ah</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">ah</item>
+                    <item type="hn" lang="bpy-Latn-BD">1</item>
+                    <item type="gls" lang="en">come</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-ila</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-la</item>
+                    <item type="gls" lang="en">3PL.PST</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">come-3PL.PST</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word>
+                <item type="punct" lang="bpy-Latn-BD">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">*Some guests arrived. (gi implies definite NP)</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="cbeb6659-0295-462c-b474-6c746eb46050">
+        <phrases>
+          <phrase guid="f8d66903-6eaf-4831-a0f5-8428b8b8d774">
+            <item type="segnum" lang="en">26</item>
+            <words>
+              <word guid="9b0a2dbe-afc2-4444-b572-e0c24b3e9374">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">otitʰi</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">otitʰi</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">otitʰi</item>
+                    <item type="gls" lang="en">guest</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">guest</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="ba6e3810-0218-464a-a63a-a55287ad8bff">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">ago</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">a</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">a</item>
+                    <item type="gls" lang="en">one</item>
+                    <item type="msa" lang="en">quant</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">go</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">go</item>
+                    <item type="gls" lang="en">CLF</item>
+                    <item type="msa" lang="en">clf</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">one-CLF</item>
+              </word>
+              <word guid="a5c78c30-4a6c-4e02-9b0f-dfe8fc99ad59">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">ahil</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">ah</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">ah</item>
+                    <item type="hn" lang="bpy-Latn-BD">1</item>
+                    <item type="gls" lang="en">come</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-il</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-l</item>
+                    <item type="gls" lang="en">3SG.PST</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">come-3SG.PST</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word>
+                <item type="punct" lang="bpy-Latn-BD">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">A guest arrived.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="590c3078-b609-46a6-8a81-9baa5b81f68b">
+        <phrases>
+          <phrase guid="71bc5ff4-06f4-4fa9-af76-e4051d529bf0">
+            <item type="segnum" lang="en">27</item>
+            <words>
+              <word guid="a4325cf3-709b-4141-817e-e310bf470a57">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">mi</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">mi</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">mi</item>
+                    <item type="gls" lang="en">1SG</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">1SG</item>
+                <item type="pos" lang="en">pro</item>
+              </word>
+              <word guid="740f7e5d-fd05-4dcf-9f11-cdf6f076e120">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">mor</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">mo</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">mi</item>
+                    <item type="gls" lang="en">1SG</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-r</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-r</item>
+                    <item type="gls" lang="en">GEN</item>
+                    <item type="msa" lang="en">Noun</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">1SG-GEN</item>
+                <item type="pos" lang="en">pro</item>
+              </word>
+              <word guid="4ebf811b-124d-4518-8012-666c9c7d461b">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">marupor</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">marup</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">marup</item>
+                    <item type="gls" lang="en">friend</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-or</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-r</item>
+                    <item type="gls" lang="en">GEN</item>
+                    <item type="msa" lang="en">Noun</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">friend-GEN</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="12cf0847-ee3a-4c3d-b0d3-732ce0c05c12">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">loge</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">loge</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">loge</item>
+                    <item type="gls" lang="en">COM</item>
+                    <item type="msa" lang="en">post</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">COM</item>
+                <item type="pos" lang="en">post</item>
+              </word>
+              <word guid="f065682a-f111-44f8-87ba-c4365c3126cb">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">otallo</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">otar</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">otar</item>
+                    <item type="gls" lang="en">talk</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-lo</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-lo</item>
+                    <item type="hn" lang="bpy-Latn-BD">1</item>
+                    <item type="gls" lang="en">3SG.PST</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">talk-3SG.PST</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word>
+                <item type="punct" lang="bpy-Latn-BD">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">I talked to my friends. (Plural because there is no classifier).</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="534e1535-01a6-4ab4-9762-88c4d5faa4dd">
+        <phrases>
+          <phrase guid="7475da14-c690-47b5-a6ca-455ae0921f38">
+            <item type="segnum" lang="en">28</item>
+            <words>
+              <word guid="a4325cf3-709b-4141-817e-e310bf470a57">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">mi</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">mi</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">mi</item>
+                    <item type="gls" lang="en">1SG</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">1SG</item>
+                <item type="pos" lang="en">pro</item>
+              </word>
+              <word guid="ee0def76-9a4c-4b4a-bed4-f79b132bd183">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">kupaŋ</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">kupaŋ</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">kupaŋ</item>
+                    <item type="gls" lang="en">plate</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">plate</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="cb6f4588-7b5b-43de-858d-7f05b2529a6c">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">hani</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">han</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">han</item>
+                    <item type="hn" lang="bpy-Latn-BD">1</item>
+                    <item type="gls" lang="en">CLF</item>
+                    <item type="msa" lang="en">clf</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-i</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-i</item>
+                    <item type="hn" lang="bpy-Latn-BD">1</item>
+                    <item type="gls" lang="en">PL</item>
+                    <item type="msa" lang="en">clf:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">CLF-PL</item>
+                <item type="pos" lang="en">clf</item>
+              </word>
+              <word guid="79395b29-899b-427c-85dc-81413ed001d8">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">anlu</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">an</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">an</item>
+                    <item type="gls" lang="en">bring</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-lu</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-lu</item>
+                    <item type="gls" lang="en">1SG.PST</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">bring-1SG.PST</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word>
+                <item type="punct" lang="bpy-Latn-BD">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">I brought the plates.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="ca035280-2f09-4aa5-af27-7882f7fa1032">
+        <phrases>
+          <phrase guid="b1deb53b-00f3-4391-b48d-6bd872917361">
+            <item type="segnum" lang="en">29</item>
+            <words>
+              <word guid="a4325cf3-709b-4141-817e-e310bf470a57">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">mi</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">mi</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">mi</item>
+                    <item type="gls" lang="en">1SG</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">1SG</item>
+                <item type="pos" lang="en">pro</item>
+              </word>
+              <word guid="f48ff726-728f-4341-abf4-f0084c1c55f4">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">ela</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">ela</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">ela</item>
+                    <item type="gls" lang="en">song</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">song</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="cb6f4588-7b5b-43de-858d-7f05b2529a6c">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">hani</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">han</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">han</item>
+                    <item type="hn" lang="bpy-Latn-BD">1</item>
+                    <item type="gls" lang="en">CLF</item>
+                    <item type="msa" lang="en">clf</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-i</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-i</item>
+                    <item type="hn" lang="bpy-Latn-BD">1</item>
+                    <item type="gls" lang="en">PL</item>
+                    <item type="msa" lang="en">clf:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">CLF-PL</item>
+                <item type="pos" lang="en">clf</item>
+              </word>
+              <word guid="e12c527b-c44b-45de-9b53-f5cabea9e85c">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">dilu</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">de</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">de</item>
+                    <item type="hn" lang="bpy-Latn-BD">1</item>
+                    <item type="gls" lang="en">give</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-lu</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-lu</item>
+                    <item type="gls" lang="en">1SG.PST</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">give-1SG.PST</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word>
+                <item type="punct" lang="bpy-Latn-BD">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">I sang some (particular) songs.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="d33ab45d-bbf5-495c-a743-114c764867f5">
+        <phrases>
+          <phrase guid="7bb7253d-337c-4a54-a286-f2c1890d43ec">
+            <item type="segnum" lang="en">30</item>
+            <words>
+              <word guid="a4325cf3-709b-4141-817e-e310bf470a57">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">mi</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">mi</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">mi</item>
+                    <item type="gls" lang="en">1SG</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">1SG</item>
+                <item type="pos" lang="en">pro</item>
+              </word>
+              <word guid="f48ff726-728f-4341-abf4-f0084c1c55f4">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">ela</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">ela</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">ela</item>
+                    <item type="gls" lang="en">song</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">song</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="41a9a098-b7df-48f1-af4c-af12371b05c9">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">koto</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">koto</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">koto</item>
+                    <item type="gls" lang="en">some</item>
+                    <item type="msa" lang="en">quant</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">some</item>
+                <item type="pos" lang="en">quant</item>
+              </word>
+              <word guid="4aae1779-119c-4612-8cfb-cb4cc61b928b">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">han</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">han</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">han</item>
+                    <item type="hn" lang="bpy-Latn-BD">1</item>
+                    <item type="gls" lang="en">CLF</item>
+                    <item type="msa" lang="en">clf</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">CLF</item>
+                <item type="pos" lang="en">clf</item>
+              </word>
+              <word guid="e12c527b-c44b-45de-9b53-f5cabea9e85c">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">dilu</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">de</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">de</item>
+                    <item type="hn" lang="bpy-Latn-BD">1</item>
+                    <item type="gls" lang="en">give</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-lu</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-lu</item>
+                    <item type="gls" lang="en">1SG.PST</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">give-1SG.PST</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word>
+                <item type="punct" lang="bpy-Latn-BD">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">I sang some songs.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="620166d5-338c-4292-a5bf-76603033ecf6">
+        <phrases>
+          <phrase guid="93b4273d-b28e-4324-bdf0-26b26875431c">
+            <item type="segnum" lang="en">31</item>
+            <words>
+              <word guid="a4325cf3-709b-4141-817e-e310bf470a57">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">mi</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">mi</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">mi</item>
+                    <item type="gls" lang="en">1SG</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">1SG</item>
+                <item type="pos" lang="en">pro</item>
+              </word>
+              <word guid="82d6c020-1e21-4747-aa02-88cb8e391bb1">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">cʰatri</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">cʰatri</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">cʰatri</item>
+                    <item type="gls" lang="en">student.F</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">student.F</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="7d6e7754-4065-46d5-a0c6-2c3818a63133">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">gire</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">g</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">go</item>
+                    <item type="gls" lang="en">CLF</item>
+                    <item type="msa" lang="en">clf</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-i</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-i</item>
+                    <item type="hn" lang="bpy-Latn-BD">1</item>
+                    <item type="gls" lang="en">PL</item>
+                    <item type="msa" lang="en">clf:Any</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-re</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-re</item>
+                    <item type="gls" lang="en">DAT/ACC</item>
+                    <item type="msa" lang="en">n:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">CLF-PL-DAT/ACC</item>
+                <item type="pos" lang="en">clf</item>
+              </word>
+              <word guid="0ec13f43-771f-411e-bf43-391f384f6e13">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">deklu</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">dekʰ</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">dekʰ</item>
+                    <item type="gls" lang="en">see</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-lu</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-lu</item>
+                    <item type="gls" lang="en">1SG.PST</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">see-1SG.PST</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word>
+                <item type="punct" lang="bpy-Latn-BD">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">I saw the students (f).</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="a60a4607-3066-444d-a72d-cfe7e95dabd6">
+        <phrases>
+          <phrase guid="1b152a6d-ce77-42cf-a7e1-36b333b0f742">
+            <item type="segnum" lang="en">32</item>
+            <words>
+              <word guid="a4325cf3-709b-4141-817e-e310bf470a57">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">mi</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">mi</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">mi</item>
+                    <item type="gls" lang="en">1SG</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">1SG</item>
+                <item type="pos" lang="en">pro</item>
+              </word>
+              <word guid="2a94f19c-86ef-4b54-9110-e77ef60dbffb">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">porua</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">porua</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">porua</item>
+                    <item type="gls" lang="en">student</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">student</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="7d6e7754-4065-46d5-a0c6-2c3818a63133">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">gire</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">g</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">go</item>
+                    <item type="gls" lang="en">CLF</item>
+                    <item type="msa" lang="en">clf</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-i</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-i</item>
+                    <item type="hn" lang="bpy-Latn-BD">1</item>
+                    <item type="gls" lang="en">PL</item>
+                    <item type="msa" lang="en">clf:Any</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-re</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-re</item>
+                    <item type="gls" lang="en">DAT/ACC</item>
+                    <item type="msa" lang="en">n:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">CLF-PL-DAT/ACC</item>
+                <item type="pos" lang="en">clf</item>
+              </word>
+              <word guid="0ec13f43-771f-411e-bf43-391f384f6e13">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">deklu</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">dekʰ</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">dekʰ</item>
+                    <item type="gls" lang="en">see</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-lu</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-lu</item>
+                    <item type="gls" lang="en">1SG.PST</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">see-1SG.PST</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word>
+                <item type="punct" lang="bpy-Latn-BD">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">I saw the students.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="8be9befa-70a7-4ffa-a0d2-40b46fa1a70a">
+        <phrases>
+          <phrase guid="3ec94afc-ae9f-4d58-baa0-d81cf22769e2">
+            <item type="segnum" lang="en">33</item>
+            <words>
+              <word guid="f534d9e9-705f-4c7b-a340-13920fd86e17">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">bador</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">bador</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">bador</item>
+                    <item type="gls" lang="en">monkey</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">monkey</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="1cfeb335-7566-4331-9ff5-21cc69ccf1e4">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">goi</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">go</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">go</item>
+                    <item type="gls" lang="en">CLF</item>
+                    <item type="msa" lang="en">clf</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-i</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-e</item>
+                    <item type="hn" lang="bpy-Latn-BD">2</item>
+                    <item type="gls" lang="en">AGT</item>
+                    <item type="msa" lang="en">n:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">CLF-AGT</item>
+                <item type="pos" lang="en">clf</item>
+              </word>
+              <word guid="d0ba4528-f514-42ce-8514-8ed78b40cece">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">pani</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">pani</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">pani</item>
+                    <item type="gls" lang="en">water</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">water</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="699a5a6d-f9ec-454c-aa63-d55759025097">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">pier</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">pi</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">pi</item>
+                    <item type="gls" lang="en">drink</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-er</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-er</item>
+                    <item type="gls" lang="en">3SG.PRS</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">drink-3SG.PRS</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word>
+                <item type="punct" lang="bpy-Latn-BD">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">The monkey drinks water.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="64332dd2-25ac-4d28-bfc2-311e6c5b7a06">
+        <phrases>
+          <phrase guid="e24d9351-156b-4a51-882f-4950324b51de">
+            <item type="segnum" lang="en">34</item>
+            <words>
+              <word>
+                <item type="punct" lang="bpy-Latn-BD">*</item>
+              </word>
+              <word guid="9c531b57-6551-440e-9837-ce38f2b4dcf1">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">badore</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">bador</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">bador</item>
+                    <item type="gls" lang="en">monkey</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-e</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-e</item>
+                    <item type="hn" lang="bpy-Latn-BD">2</item>
+                    <item type="gls" lang="en">AGT</item>
+                    <item type="msa" lang="en">n:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">monkey-AGT</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="d0ba4528-f514-42ce-8514-8ed78b40cece">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">pani</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">pani</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">pani</item>
+                    <item type="gls" lang="en">water</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">water</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="699a5a6d-f9ec-454c-aa63-d55759025097">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">pier</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">pi</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">pi</item>
+                    <item type="gls" lang="en">drink</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-er</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-er</item>
+                    <item type="gls" lang="en">3SG.PRS</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">drink-3SG.PRS</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word>
+                <item type="punct" lang="bpy-Latn-BD">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">*The monkey(s) drink(s) water.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="69ea202d-2c35-4da6-afd4-179f80053399">
+        <phrases>
+          <phrase guid="6b9fea66-7a68-4309-b5da-b80541a7f0f5">
+            <item type="segnum" lang="en">35</item>
+            <words>
+              <word guid="9c531b57-6551-440e-9837-ce38f2b4dcf1">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">badore</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">bador</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">bador</item>
+                    <item type="gls" lang="en">monkey</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-e</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-e</item>
+                    <item type="hn" lang="bpy-Latn-BD">2</item>
+                    <item type="gls" lang="en">AGT</item>
+                    <item type="msa" lang="en">n:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">monkey-AGT</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="d0ba4528-f514-42ce-8514-8ed78b40cece">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">pani</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">pani</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">pani</item>
+                    <item type="gls" lang="en">water</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">water</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="4161fac4-175b-4151-8c66-5916a21a7328">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">pitara</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">pi</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">pi</item>
+                    <item type="gls" lang="en">drink</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-tara</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-tara</item>
+                    <item type="gls" lang="en">3PL.PRS</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">drink-3PL.PRS</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word>
+                <item type="punct" lang="bpy-Latn-BD">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">Monkeys drink water. (must be plural)</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="a9e11b5d-d173-4180-9bdf-32fbfc3a1777">
+        <phrases>
+          <phrase guid="a8353f98-7094-47c6-b1b7-9a50f36f17a8">
+            <item type="segnum" lang="en">36</item>
+            <words>
+              <word>
+                <item type="punct" lang="bpy-Latn-BD">*</item>
+              </word>
+              <word guid="9c531b57-6551-440e-9837-ce38f2b4dcf1">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">badore</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">bador</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">bador</item>
+                    <item type="gls" lang="en">monkey</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-e</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-e</item>
+                    <item type="hn" lang="bpy-Latn-BD">2</item>
+                    <item type="gls" lang="en">AGT</item>
+                    <item type="msa" lang="en">n:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">monkey-AGT</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="e698b23b-0f77-4577-96d6-f00817c30267">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">uttomore</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">uttom</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-ore</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-re</item>
+                    <item type="gls" lang="en">DAT/ACC</item>
+                    <item type="msa" lang="en">n:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">Uttam-DAT/ACC</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="7c19e292-984a-4a34-bc05-a64046c1b6e5">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">tik</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">tik</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">tik</item>
+                    <item type="gls" lang="en">top.of.head</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">head</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="c8bb6192-f594-4fa7-be6d-1c71c4e79627">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">sow</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">sow</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">sow</item>
+                    <item type="hn" lang="bpy-Latn-BD">1</item>
+                    <item type="gls" lang="en">angry</item>
+                    <item type="msa" lang="en">adj</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">angry</item>
+                <item type="pos" lang="en">adj</item>
+              </word>
+              <word guid="018aca7e-d39b-40ae-81da-252c38b95028">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">korlo</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">kor</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">kor</item>
+                    <item type="gls" lang="en">do</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-lo</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-lo</item>
+                    <item type="hn" lang="bpy-Latn-BD">1</item>
+                    <item type="gls" lang="en">3SG.PST</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">do-3SG.PST</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word>
+                <item type="punct" lang="bpy-Latn-BD">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">*Monkey(s) angered Uttam.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="ad73c6f8-c9e8-420c-9119-2f65f7397a26">
+        <phrases>
+          <phrase guid="27d0a43a-5c0d-403e-b445-a8b199e25129">
+            <item type="segnum" lang="en">37</item>
+            <words>
+              <word guid="9c531b57-6551-440e-9837-ce38f2b4dcf1">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">badore</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">bador</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">bador</item>
+                    <item type="gls" lang="en">monkey</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-e</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-e</item>
+                    <item type="hn" lang="bpy-Latn-BD">2</item>
+                    <item type="gls" lang="en">AGT</item>
+                    <item type="msa" lang="en">n:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">monkey-AGT</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="95a8715b-5cbb-468d-8d9d-d52234181ed7">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">uttomore</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">uttom</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-ore</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-re</item>
+                    <item type="gls" lang="en">DAT/ACC</item>
+                    <item type="msa" lang="en">n:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">Uttam-DAT/ACC</item>
+              </word>
+              <word guid="7c19e292-984a-4a34-bc05-a64046c1b6e5">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">tik</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">tik</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">tik</item>
+                    <item type="gls" lang="en">top.of.head</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">head</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="c8bb6192-f594-4fa7-be6d-1c71c4e79627">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">sow</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">sow</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">sow</item>
+                    <item type="hn" lang="bpy-Latn-BD">1</item>
+                    <item type="gls" lang="en">angry</item>
+                    <item type="msa" lang="en">adj</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">angry</item>
+                <item type="pos" lang="en">adj</item>
+              </word>
+              <word guid="5a413471-2174-436e-b09f-9040608e6f2f">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">korla</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">kor</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">kor</item>
+                    <item type="gls" lang="en">do</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-la</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-la</item>
+                    <item type="gls" lang="en">3PL.PST</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">do-3PL.PST</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word>
+                <item type="punct" lang="bpy-Latn-BD">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">Monkeys angered Uttam. (must be plural)</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="9323a3ae-4ed1-4d39-8470-d9cd2ec7c219">
+        <phrases>
+          <phrase guid="58ea43e4-1aa5-4095-ae20-57cc142aba21">
+            <item type="segnum" lang="en">38</item>
+            <words>
+              <word guid="54507e84-f0bf-4fe3-bd1f-9aba627d4e9f">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">manue</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">manu</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">manu</item>
+                    <item type="gls" lang="en">man</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-e</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-e</item>
+                    <item type="hn" lang="bpy-Latn-BD">2</item>
+                    <item type="gls" lang="en">AGT</item>
+                    <item type="msa" lang="en">n:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">man-AGT</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="d39cbfe9-e07e-421e-8036-6635cf0529ec">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">kʰejtara</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">kʰe</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">kʰa</item>
+                    <item type="hn" lang="bpy-Latn-BD">1</item>
+                    <item type="gls" lang="en">eat</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-jtara</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-tara</item>
+                    <item type="gls" lang="en">3PL.PRS</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">eat-3PL.PRS</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word>
+                <item type="punct" lang="bpy-Latn-BD">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">Men eat/are eating.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="d327bc55-8b81-4634-92fb-c16e60a54dd0">
+        <phrases>
+          <phrase guid="0a1f3a61-f0a8-4617-8f29-daf115ae7411">
+            <item type="segnum" lang="en">39</item>
+            <words>
+              <word>
+                <item type="punct" lang="bpy-Latn-BD">*</item>
+              </word>
+              <word guid="54507e84-f0bf-4fe3-bd1f-9aba627d4e9f">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">manue</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">manu</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">manu</item>
+                    <item type="gls" lang="en">man</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-e</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-e</item>
+                    <item type="hn" lang="bpy-Latn-BD">2</item>
+                    <item type="gls" lang="en">AGT</item>
+                    <item type="msa" lang="en">n:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">man-AGT</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="f3454317-54ac-4dbf-8ec1-e820030f4f90">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">kʰar</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">kʰa</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">kʰa</item>
+                    <item type="hn" lang="bpy-Latn-BD">1</item>
+                    <item type="gls" lang="en">eat</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-r</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-er</item>
+                    <item type="gls" lang="en">3SG.PRS</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">eat-3SG.PRS</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word>
+                <item type="punct" lang="bpy-Latn-BD">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">A/the/(null) man eats/is eating.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="8028a503-1f93-4e3a-9f16-b5eb05957b45">
+        <phrases>
+          <phrase guid="973fbb18-b58c-43e5-9dc1-e99369793a38">
+            <item type="segnum" lang="en">40</item>
+            <words>
+              <word>
+                <item type="punct" lang="bpy-Latn-BD">*</item>
+              </word>
+              <word guid="6f2766c1-c052-4a6b-82f1-66f79c3c1260">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">manu</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">manu</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">manu</item>
+                    <item type="gls" lang="en">man</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">man</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="9b423e74-54a3-4ea1-939a-ee0b6a066a41">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">porisil</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">por</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">poɹ</item>
+                    <item type="gls" lang="en">fall</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-is</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">is</item>
+                    <item type="gls" lang="en">be</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-l</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-l</item>
+                    <item type="gls" lang="en">3SG.PST</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">fall-PRF-3SG.PST</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word>
+                <item type="punct" lang="bpy-Latn-BD">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">A/the/(null) man fell.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="4bc0a176-f556-459b-a6f6-224a9296bb0a">
+        <phrases>
+          <phrase guid="4b2e4b8e-5e5c-49a8-b6ba-9d6294b4e7a9">
+            <item type="segnum" lang="en">41</item>
+            <words>
+              <word guid="6f2766c1-c052-4a6b-82f1-66f79c3c1260">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">manu</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">manu</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">manu</item>
+                    <item type="gls" lang="en">man</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">man</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="98d56466-9693-4247-bf83-8a378772413d">
+                <item type="txt" lang="bpy-Qaaa-x-BIPA">porisila</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">por</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">poɹ</item>
+                    <item type="gls" lang="en">fall</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-is</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">is</item>
+                    <item type="gls" lang="en">be</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="bpy-Qaaa-x-BIPA">-ila</item>
+                    <item type="cf" lang="bpy-Qaaa-x-BIPA">-la</item>
+                    <item type="gls" lang="en">3PL.PST</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">fall-PRF-3PL.PST</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word>
+                <item type="punct" lang="bpy-Latn-BD">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">Men fell.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+    </paragraphs>
+    <languages>
+      <language lang="en" font="Times New Roman" />
+      <language lang="bpy-Qaaa-x-BIPA" font="Charis SIL" vernacular="true" />
+      <language lang="bpy-Latn-BD" font="Charis SIL" vernacular="true" />
+    </languages>
+  </interlinear-text>
+  
+</document>

@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document version="2">
+<interlinear-text guid="6cee4f98-0eb6-486a-9e58-8e1a5886c0dd">
+    <item type="title" lang="en">C4_170718_01b</item>
+    <paragraphs>
+      <paragraph guid="596c520f-fe97-41bc-be0f-82f16ecd73f3">
+        <phrases>
+          <phrase guid="33aff228-0887-4ddd-9fcf-b3bb4503da65">
+            <item type="segnum" lang="en">1</item>
+            <words>
+              <word guid="c30abc96-526e-4e6e-92c4-acd89ab72f2d">
+                <item type="txt" lang="en">Normu</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">normu</item>
+                    <item type="gls" lang="en">number</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">number</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="f7909836-9e8f-478f-81d0-da5ec55b14f0">
+                <item type="txt" lang="en">1imik</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">1i</item>
+                    <item type="gls" lang="en">one</item>
+                    <item type="msa" lang="en">num</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">-mik</item>
+                    <item type="gls" lang="en">INS.SG</item>
+                    <item type="msa" lang="en">n:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">one</item>
+                <item type="pos" lang="en">num</item>
+              </word>
+              <word guid="5eb62fcf-987a-47a9-9348-713155395961">
+                <item type="txt" lang="en">taavara</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">taa</item>
+                    <item type="gls" lang="en">mention</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">-vara</item>
+                    <item type="gls" lang="en">IND.1.SG/3.SG</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">I call it</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+            </words>
+            <item type="gls" lang="en"/>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="8dc98d50-38ee-4dd0-96f3-340aa509c31e">
+        <phrases>
+          <phrase guid="e9b49097-a1e5-41d8-8b1a-2537d5eefe87">
+            <item type="segnum" lang="en">2</item>
+            <words>
+              <word guid="5cdded8a-4e39-465b-9334-8970fbaa19a7">
+                <item type="txt" lang="en">Takusinnaavara</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">taku</item>
+                    <item type="gls" lang="en">see</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="infix" guid="d7f713da-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">-sinnaa-</item>
+                    <item type="gls" lang="en">can</item>
+                    <item type="msa" lang="en">v&gt;v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">-vara</item>
+                    <item type="gls" lang="en">IND.1.SG/3.SG</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">I can see</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word guid="263d08ea-1ef5-4bac-9551-6f430a38c735">
+                <item type="txt" lang="en">nukappiaraq</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">nukappiaraq</item>
+                    <item type="gls" lang="en">boy</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">boy</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="8f4488a2-ed19-413f-91c6-5591640347e5">
+                <item type="txt" lang="en">arsaq</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">arsaq</item>
+                    <item type="gls" lang="en">ball</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">ball</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="4a06322f-8495-4439-9971-98dba18b880a">
+                <item type="txt" lang="en">isimmikkaa</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">isimmi</item>
+                    <item type="gls" lang="en">kick</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">-kkaa</item>
+                    <item type="gls" lang="en">PTC.3.SG/3.SG</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">kicking it</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+            </words>
+            <item type="gls" lang="en"/>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="6253632a-8dca-4f24-a1f0-1fabd72a2ed6">
+        <phrases>
+          <phrase guid="964795ab-10e3-4c14-ae53-24a0991cd5bf">
+            <item type="segnum" lang="en">3</item>
+            <words>
+              <word guid="9927af9a-5bfe-40ef-9632-1028371866ef">
+                <item type="txt" lang="en">Isimminneranilu</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">isimmi</item>
+                    <item type="gls" lang="en">kick</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="infix" guid="d7f713da-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">-nner-</item>
+                    <item type="gls" lang="en">Nzer</item>
+                    <item type="msa" lang="en">v&gt;n</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">-ani</item>
+                    <item type="gls" lang="en">3.SG.POSS.LOC</item>
+                    <item type="msa" lang="en">n:Any</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">=lu</item>
+                    <item type="gls" lang="en">=and</item>
+                    <item type="msa" lang="en">coordconn</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">and while he kicks it</item>
+              </word>
+              <word guid="a93b3ed4-a1ea-47ff-b586-f7405905f328">
+                <item type="txt" lang="en">kisianni</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">kisianni</item>
+                    <item type="gls" lang="en">but</item>
+                    <item type="msa" lang="en">adv</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">but</item>
+                <item type="pos" lang="en">adv</item>
+              </word>
+              <word guid="e1203dd5-4fee-4b8f-b412-440cba640535">
+                <item type="txt" lang="en">igalaamut</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">igalaa</item>
+                    <item type="gls" lang="en">window</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">-mut</item>
+                    <item type="gls" lang="en">TRM</item>
+                    <item type="msa" lang="en">n:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">to the window</item>
+              </word>
+              <word guid="3b106716-fb17-4bf4-bd7a-741635484ad5">
+                <item type="txt" lang="en">igalaaq</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">igalaaq</item>
+                    <item type="gls" lang="en">window</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">window</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="1e006bc0-6bef-4d1f-9d85-19e14904108c">
+                <item type="txt" lang="en">eqqortoorlugu</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">eqqor</item>
+                    <item type="gls" lang="en">hit</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="infix" guid="d7f713da-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">-toor-</item>
+                    <item type="gls" lang="en">accidentally</item>
+                    <item type="msa" lang="en">v&gt;v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">-lugu</item>
+                    <item type="gls" lang="en">3.SG.CONT</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">he hits it accidentally</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word guid="aa66d515-5420-4bba-9270-e1ccf9590481">
+                <item type="txt" lang="en">aserorlugu</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">aseror</item>
+                    <item type="gls" lang="en">break</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">-lugu</item>
+                    <item type="gls" lang="en">3.SG.CONT</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">he breaks it</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+            </words>
+            <item type="gls" lang="en"/>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="f2ca31c3-c5b1-42c9-bfb0-e1d13dc3f2a0">
+        <phrases>
+          <phrase guid="33912e8d-bf32-4f54-a18b-d856bf092059">
+            <item type="segnum" lang="en">4</item>
+            <words>
+              <word guid="60876093-35c5-43fa-a989-e8ed15b50339">
+                <item type="txt" lang="en">Taava</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">taava</item>
+                    <item type="gls" lang="en">then</item>
+                    <item type="msa" lang="en">coordconn</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">then</item>
+                <item type="pos" lang="en">coordconn</item>
+              </word>
+              <word guid="f7dcd501-bc9d-48c7-af90-c7c513fc5071">
+                <item type="txt" lang="en">illup</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">illu</item>
+                    <item type="gls" lang="en">house</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">-p</item>
+                    <item type="gls" lang="en">ERG</item>
+                    <item type="msa" lang="en">n:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">the house's</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="c17d68ae-63d8-4f61-9dfb-662362712cb4">
+                <item type="txt" lang="en">iluani</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">ilu</item>
+                    <item type="gls" lang="en">inside</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">-ani</item>
+                    <item type="gls" lang="en">3.SG.POSS.LOC</item>
+                    <item type="msa" lang="en">n:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">inside</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="34fc8af6-379c-4fbd-81ed-282ef22a7f2d">
+                <item type="txt" lang="en">angut</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">angut</item>
+                    <item type="gls" lang="en">man.ABS</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">man</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="6e17f306-d25c-4fe0-baa7-6e243ebfb809">
+                <item type="txt" lang="en">issialluni</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">issia</item>
+                    <item type="gls" lang="en">sit</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">-lluni</item>
+                    <item type="gls" lang="en">4.SG.CONT</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">while he sits</item>
+              </word>
+              <word guid="fdea55b3-4cd6-4ef3-ac3e-0218d620883a">
+                <item type="txt" lang="en">tupattorujussuuvoq</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">tupa</item>
+                    <item type="gls" lang="en">is surprised</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="infix" guid="d7f713da-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">-ttorujussuu-</item>
+                    <item type="gls" lang="en">extremely</item>
+                    <item type="msa" lang="en">v&gt;v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">-voq</item>
+                    <item type="gls" lang="en">IND.3.SG.</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">he's very shocked</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word guid="8f4488a2-ed19-413f-91c6-5591640347e5">
+                <item type="txt" lang="en">arsaq</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">arsaq</item>
+                    <item type="gls" lang="en">ball</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">ball</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="d8d027b3-bf94-4ed2-b953-bd6e90b7ca40">
+                <item type="txt" lang="en">arsap</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">arsa</item>
+                    <item type="gls" lang="en">ball</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">-p</item>
+                    <item type="gls" lang="en">ERG</item>
+                    <item type="msa" lang="en">n:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">ball</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="337bb387-709e-4919-990b-c7d0c2e81375">
+                <item type="txt" lang="en">eqqormani</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">eqqor</item>
+                    <item type="gls" lang="en">hit</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">-mani</item>
+                    <item type="gls" lang="en">SBJV.3.SG/4.SG</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">because it hits him</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+            </words>
+            <item type="gls" lang="en"/>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="e98fcc58-c82f-496a-aee0-6b1de80e50f5">
+        <phrases>
+          <phrase guid="e46b2161-3668-43eb-9091-6cd34b5bca43">
+            <item type="segnum" lang="en">5</item>
+            <words>
+              <word guid="7d95125c-7385-4ce1-8139-69e3c94c061d">
+                <item type="txt" lang="en">Taavalu</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">taava</item>
+                    <item type="gls" lang="en">then</item>
+                    <item type="msa" lang="en">coordconn</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">=lu</item>
+                    <item type="gls" lang="en">=and</item>
+                    <item type="msa" lang="en">coordconn</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">and then</item>
+                <item type="pos" lang="en">coordconn</item>
+              </word>
+              <word guid="2146e290-775c-4eb2-889c-ed34cfdd899d">
+                <item type="txt" lang="en">igalaakkut</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">igalaa</item>
+                    <item type="gls" lang="en">window</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">-kkut</item>
+                    <item type="gls" lang="en">VIA</item>
+                    <item type="msa" lang="en">n:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">through the window</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="3b106716-fb17-4bf4-bd7a-741635484ad5">
+                <item type="txt" lang="en">igalaaq</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">igalaaq</item>
+                    <item type="gls" lang="en">window</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">window</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="ab5d4cd4-6695-4f97-8be6-c7c74081d5c7">
+                <item type="txt" lang="en">aserorsimasoq</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">aserorsima</item>
+                    <item type="gls" lang="en">is broken</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">-soq</item>
+                    <item type="gls" lang="en">SG.PTC</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">is broken</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word guid="12adaf66-c4bc-4af3-9578-9b082e5f23f9">
+                <item type="txt" lang="en">qiviarlugu</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">qiviar</item>
+                    <item type="gls" lang="en">turn head</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">-lugu</item>
+                    <item type="gls" lang="en">3.SG.CONT</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">while he turns his head</item>
+              </word>
+              <word guid="5d5ad9ad-5b55-43e8-b96b-397948dd290e">
+                <item type="txt" lang="en">silammut</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">sila</item>
+                    <item type="gls" lang="en">outside</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="infix" guid="d7f713da-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">-mmut-</item>
+                    <item type="gls" lang="en">TRM</item>
+                    <item type="msa" lang="en">n:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">towards outside</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="0def0da6-9349-4ea1-b21c-5eef31661ccf">
+                <item type="txt" lang="en">tassami</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">tassami</item>
+                    <item type="gls" lang="en">in any case</item>
+                    <item type="msa" lang="en">adv</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">for (as we can see)</item>
+                <item type="pos" lang="en">adv</item>
+              </word>
+              <word guid="4c1b7637-9c73-48f2-82d2-a1eff99d0584">
+                <item type="txt" lang="en">silammut</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">sila</item>
+                    <item type="gls" lang="en">outside</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="infix" guid="d7f713da-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">-mmut-</item>
+                    <item type="gls" lang="en">TRM</item>
+                    <item type="msa" lang="en">n:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">outside</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="25be8672-b9c7-4e75-97e0-548b1c6b8b1d">
+                <item type="txt" lang="en">qiviarpoq</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">qiviar</item>
+                    <item type="gls" lang="en">turn head</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">-poq</item>
+                    <item type="gls" lang="en">IND.3.SG.</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">turn head towards</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word guid="ae45f4e4-5f46-4a9c-8ef4-31718a5cffdf">
+                <item type="txt" lang="en">immaarqa</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">immaarqa</item>
+                    <item type="gls" lang="en">maybe</item>
+                    <item type="msa" lang="en">adv</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">maybe</item>
+                <item type="pos" lang="en">adv</item>
+              </word>
+              <word guid="3060ab22-d268-41bc-9dcf-d025347d9596">
+                <item type="txt" lang="en">takuniarlugu</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">taku</item>
+                    <item type="gls" lang="en">see</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="infix" guid="d7f713da-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">-niar-</item>
+                    <item type="gls" lang="en">try to V</item>
+                    <item type="msa" lang="en">v&gt;v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">-lugu</item>
+                    <item type="gls" lang="en">3.SG.CONT</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">he wants to see</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word guid="e89b5c92-0169-437c-987f-ed3d6b2544ec">
+                <item type="txt" lang="en">kina</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">kina</item>
+                    <item type="gls" lang="en">who</item>
+                    <item type="msa" lang="en">???</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">who</item>
+                <item type="pos" lang="en"/>
+              </word>
+              <word guid="c59d31c2-abee-44b1-9bad-83c7085914b4">
+                <item type="txt" lang="en">taamaasiornersoq</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">taamaasior</item>
+                    <item type="gls" lang="en">do like that</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="infix" guid="d7f713da-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">-ner-</item>
+                    <item type="gls" lang="en">I wonder</item>
+                    <item type="msa" lang="en">v&gt;v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">-soq</item>
+                    <item type="gls" lang="en">SG.PTC</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">is doing that thing</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+            </words>
+            <item type="gls" lang="en"/>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="7b529ee5-13fa-49c4-826a-a5d44d9ea8b3">
+        <phrases>
+          <phrase guid="9f471bea-b925-4d6c-ae9c-ed271de2491c">
+            <item type="segnum" lang="en">6</item>
+            <words>
+              <word guid="bae95a64-d94a-4bcb-b119-be671eee2999">
+                <item type="txt" lang="en">Tassa</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">tassa</item>
+                    <item type="gls" lang="en">like that</item>
+                    <item type="msa" lang="en">prt</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">like that</item>
+                <item type="pos" lang="en">prt</item>
+              </word>
+            </words>
+            <item type="gls" lang="en"/>
+          </phrase>
+        </phrases>
+      </paragraph>
+    </paragraphs>
+    <languages>
+      <language lang="en" font="Times New Roman" vernacular="true"/>
+    </languages>
+  </interlinear-text>
+</document>

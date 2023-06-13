@@ -1,0 +1,1750 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document version="2">
+<interlinear-text guid="969bd774-7750-4d64-9127-213511a61bad">
+    <item type="title" lang="en">GRAMMAR (-sho, -she, -shine)</item>
+    <paragraphs>
+      <paragraph guid="25e96c49-c2e6-4302-9ab5-c630c36a3869">
+        <phrases>
+          <phrase guid="860f4b8a-9989-49d3-8663-c3f631f49969">
+            <item type="segnum" lang="en">1</item>
+            <words>
+              <word guid="86f8d408-094d-42b7-a26e-e270d2f9da18">
+                <item type="txt" lang="skj">nga ze</item>
+              </word>
+              <word guid="bad39f07-a750-4eed-afbb-601e60700986">
+                <item type="txt" lang="skj">tsitsa</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">tsitsa</item>
+                    <item type="cf" lang="skj">tsitsa</item>
+                    <item type="gls" lang="en">salt</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">salt  </item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="7d5c56ca-8dce-4170-a446-d1e23592ba09">
+                <item type="txt" lang="skj">tsasho</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">tsa</item>
+                    <item type="cf" lang="skj">tsa</item>
+                    <item type="gls" lang="en">eat</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">-sho</item>
+                    <item type="cf" lang="skj">-sho</item>
+                    <item type="hn" lang="skj">1</item>
+                    <item type="gls" lang="en">FUT</item>
+                    <item type="msa" lang="en">Verb</item>
+                  </morph>
+                </morphemes>
+                <item type="pos" lang="en">v</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">I will eat the salt</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="e9ed2d89-7aca-4cfb-b30c-245709a94140" />
+      <paragraph guid="fce072b7-ff04-4428-bb78-372a17c3099d">
+        <phrases>
+          <phrase guid="b5e29cbf-607c-403b-864b-21dc22178fbd">
+            <item type="segnum" lang="en">3</item>
+            <words>
+              <word guid="4102bf4b-48ac-43a8-b97f-76b408b584f1">
+                <item type="txt" lang="skj">gya</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">gya</item>
+                    <item type="cf" lang="skj">gya</item>
+                    <item type="hn" lang="skj">1</item>
+                    <item type="gls" lang="en">2SG (you)</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">2SG</item>
+                <item type="pos" lang="en">pro</item>
+              </word>
+              <word guid="1eab26dd-bd57-4f69-b291-2322a2716d04">
+                <item type="txt" lang="skj">phize</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">phize</item>
+                    <item type="cf" lang="skj">phize</item>
+                    <item type="gls" lang="en">outside</item>
+                    <item type="msa" lang="en">adv</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">outside  </item>
+                <item type="pos" lang="en">adv</item>
+              </word>
+              <word guid="a52fe457-06de-4d06-a2dd-b58771304bfc">
+                <item type="txt" lang="skj">yashe</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">ya</item>
+                    <item type="cf" lang="skj">ya</item>
+                    <item type="gls" lang="en">go</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">-she</item>
+                    <item type="cf" lang="skj">-she</item>
+                    <item type="gls" lang="en">INCH</item>
+                    <item type="msa" lang="en">Verb</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word>
+                <item type="punct" lang="skj">?</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">Do you want to go outside?</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="1666313e-9f8b-4ca9-bf18-e3a2a4636be6">
+        <phrases>
+          <phrase guid="8aa238c6-ee25-468c-b6fa-d6005621ad68">
+            <item type="segnum" lang="en">4</item>
+            <words>
+              <word guid="da1222ac-758d-445c-9175-301dc197a25e">
+                <item type="txt" lang="skj">nga</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">nga</item>
+                    <item type="cf" lang="skj">nga</item>
+                    <item type="hn" lang="skj">2</item>
+                    <item type="gls" lang="en">1SG (I)</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">I (1SG)  </item>
+                <item type="pos" lang="en">pro</item>
+              </word>
+              <word guid="1eab26dd-bd57-4f69-b291-2322a2716d04">
+                <item type="txt" lang="skj">phize</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">phize</item>
+                    <item type="cf" lang="skj">phize</item>
+                    <item type="gls" lang="en">outside</item>
+                    <item type="msa" lang="en">adv</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">outside  </item>
+                <item type="pos" lang="en">adv</item>
+              </word>
+              <word guid="ffd58cc1-04e4-4ce1-a778-9db9d1eb42b2">
+                <item type="txt" lang="skj">hayashe</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">ha-</item>
+                    <item type="cf" lang="skj">ha-</item>
+                    <item type="gls" lang="en">NEG</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">ya</item>
+                    <item type="cf" lang="skj">ya</item>
+                    <item type="gls" lang="en">go</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">-she</item>
+                    <item type="cf" lang="skj">-she</item>
+                    <item type="gls" lang="en">INCH</item>
+                    <item type="msa" lang="en">Verb</item>
+                  </morph>
+                </morphemes>
+              </word>
+            </words>
+            <item type="gls" lang="en">I do not want to go outside. </item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="5b489b6d-e407-48f1-a089-8727f90c0096">
+        <phrases>
+          <phrase guid="42f32844-9249-418d-8010-ab83bea9deef">
+            <item type="segnum" lang="en">5</item>
+            <words>
+              <word guid="592e6601-196d-431f-b408-bca1716ae580">
+                <item type="txt" lang="skj">taze</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">ta</item>
+                    <item type="cf" lang="skj">ta</item>
+                    <item type="hn" lang="skj">1</item>
+                    <item type="gls" lang="en">become</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">-ze</item>
+                    <item type="cf" lang="skj">-ze</item>
+                    <item type="gls" lang="en">SEQ</item>
+                    <item type="msa" lang="en">Verb</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">become  </item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word guid="e7d49274-0096-42d3-a6a9-b10bf5b85d5b">
+                <item type="txt" lang="skj">za</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="skj">za</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="06ff968f-5826-4618-8549-3d6c4678c483">
+                <item type="txt" lang="skj">tsashe</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">tsa</item>
+                    <item type="cf" lang="skj">tsa</item>
+                    <item type="gls" lang="en">eat</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">-she</item>
+                    <item type="cf" lang="skj">-she</item>
+                    <item type="gls" lang="en">INCH</item>
+                    <item type="msa" lang="en">Verb</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word>
+                <item type="punct" lang="skj">?</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">??</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="64395260-ee63-4c10-b3b4-22e5fa9906c4" />
+      <paragraph guid="b658db8a-5e67-423b-aaa1-d1a8a79e5ce8">
+        <phrases>
+          <phrase guid="44faa233-60b9-41e2-93f4-e9ee559741d6">
+            <item type="segnum" lang="en">7</item>
+            <words>
+              <word guid="941d939f-73f8-4903-817a-6b7c52657928">
+                <item type="txt" lang="skj">nga</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">nga</item>
+                    <item type="cf" lang="skj">nga</item>
+                    <item type="hn" lang="skj">2</item>
+                    <item type="gls" lang="en">1SG (I)</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">I (1SG)  </item>
+                <item type="pos" lang="en">pro</item>
+              </word>
+              <word guid="591da802-3c03-456f-93b7-383870ee94ca">
+                <item type="txt" lang="skj">nya</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">nya</item>
+                    <item type="cf" lang="skj">nya</item>
+                    <item type="gls" lang="en">fish</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">fish  </item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="06ff968f-5826-4618-8549-3d6c4678c483">
+                <item type="txt" lang="skj">tsashe</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">tsa</item>
+                    <item type="cf" lang="skj">tsa</item>
+                    <item type="gls" lang="en">eat</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">-she</item>
+                    <item type="cf" lang="skj">-she</item>
+                    <item type="gls" lang="en">INCH</item>
+                    <item type="msa" lang="en">Verb</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="2fecbd2b-2dde-4ed5-b25b-b6ae076c5f4b">
+                <item type="txt" lang="skj">lawin</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">la</item>
+                    <item type="cf" lang="skj">la</item>
+                    <item type="gls" lang="en">do</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">-win</item>
+                    <item type="cf" lang="skj">-win</item>
+                  </morph>
+                </morphemes>
+                <item type="pos" lang="en">v</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">I'm about to eat fish ??</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="3ce6a72a-91eb-45ad-a8b5-d7d98a4d92ea">
+        <phrases>
+          <phrase guid="94333c3b-c7c0-4dd2-8dbd-d05607dca160">
+            <item type="segnum" lang="en">8</item>
+            <words>
+              <word guid="da1222ac-758d-445c-9175-301dc197a25e">
+                <item type="txt" lang="skj">nga</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">nga</item>
+                    <item type="cf" lang="skj">nga</item>
+                    <item type="hn" lang="skj">2</item>
+                    <item type="gls" lang="en">1SG (I)</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">I (1SG)  </item>
+                <item type="pos" lang="en">pro</item>
+              </word>
+              <word guid="591da802-3c03-456f-93b7-383870ee94ca">
+                <item type="txt" lang="skj">nya</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">nya</item>
+                    <item type="cf" lang="skj">nya</item>
+                    <item type="gls" lang="en">fish</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">fish  </item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="06ff968f-5826-4618-8549-3d6c4678c483">
+                <item type="txt" lang="skj">tsashe</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">tsa</item>
+                    <item type="cf" lang="skj">tsa</item>
+                    <item type="gls" lang="en">eat</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">-she</item>
+                    <item type="cf" lang="skj">-she</item>
+                    <item type="gls" lang="en">INCH</item>
+                    <item type="msa" lang="en">Verb</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="cacacef3-6a61-47f7-be28-e5edc66f7ab2">
+                <item type="txt" lang="skj">lam</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">la</item>
+                    <item type="cf" lang="skj">la</item>
+                    <item type="gls" lang="en">do</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">-m</item>
+                    <item type="cf" lang="skj">-m</item>
+                    <item type="gls" lang="en">CONT</item>
+                    <item type="msa" lang="en">Verb</item>
+                  </morph>
+                </morphemes>
+              </word>
+            </words>
+            <item type="gls" lang="en">I'm about to eat fish ??</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="33caaeac-37e0-4338-9c7c-375d51333987">
+        <phrases>
+          <phrase guid="eed72c96-1692-45c7-9a78-4ba35324e5db">
+            <item type="segnum" lang="en">9</item>
+            <words>
+              <word guid="da1222ac-758d-445c-9175-301dc197a25e">
+                <item type="txt" lang="skj">nga</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">nga</item>
+                    <item type="cf" lang="skj">nga</item>
+                    <item type="hn" lang="skj">2</item>
+                    <item type="gls" lang="en">1SG (I)</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">I (1SG)  </item>
+                <item type="pos" lang="en">pro</item>
+              </word>
+              <word guid="591da802-3c03-456f-93b7-383870ee94ca">
+                <item type="txt" lang="skj">nya</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">nya</item>
+                    <item type="cf" lang="skj">nya</item>
+                    <item type="gls" lang="en">fish</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">fish  </item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="06ff968f-5826-4618-8549-3d6c4678c483">
+                <item type="txt" lang="skj">tsashe</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">tsa</item>
+                    <item type="cf" lang="skj">tsa</item>
+                    <item type="gls" lang="en">eat</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">-she</item>
+                    <item type="cf" lang="skj">-she</item>
+                    <item type="gls" lang="en">INCH</item>
+                    <item type="msa" lang="en">Verb</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="763f53b9-dcfa-4567-97ed-439a7fef79d8">
+                <item type="txt" lang="skj">laze</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">la</item>
+                    <item type="cf" lang="skj">la</item>
+                    <item type="gls" lang="en">do</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">-ze</item>
+                    <item type="cf" lang="skj">-ze</item>
+                    <item type="gls" lang="en">SEQ</item>
+                    <item type="msa" lang="en">Verb</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">do</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word guid="17fa6bcb-ced3-489a-9eef-442dbe8010a9">
+                <item type="txt" lang="skj">mum</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">mu</item>
+                    <item type="cf" lang="skj">mu</item>
+                    <item type="gls" lang="en">COP</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">-m</item>
+                    <item type="cf" lang="skj">-m</item>
+                    <item type="gls" lang="en">CONT</item>
+                    <item type="msa" lang="en">Verb</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">COP</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">I'm about to be eating fish ??</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="f3d10b4f-a879-4a7b-beef-cf70e768bdc2">
+        <phrases>
+          <phrase guid="b77c929d-2587-4996-8890-ae98a542812a">
+            <item type="segnum" lang="en">10</item>
+            <words>
+              <word guid="0116f68f-adcc-4d29-b69f-848927c25933">
+                <item type="txt" lang="skj">the</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">the</item>
+                    <item type="cf" lang="skj">the</item>
+                    <item type="gls" lang="en">he/she (3SG)</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">he/she (3SG)  </item>
+                <item type="pos" lang="en">pro</item>
+              </word>
+              <word guid="591da802-3c03-456f-93b7-383870ee94ca">
+                <item type="txt" lang="skj">nya</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">nya</item>
+                    <item type="cf" lang="skj">nya</item>
+                    <item type="gls" lang="en">fish</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">fish  </item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="06ff968f-5826-4618-8549-3d6c4678c483">
+                <item type="txt" lang="skj">tsashe</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">tsa</item>
+                    <item type="cf" lang="skj">tsa</item>
+                    <item type="gls" lang="en">eat</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">-she</item>
+                    <item type="cf" lang="skj">-she</item>
+                    <item type="gls" lang="en">INCH</item>
+                    <item type="msa" lang="en">Verb</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="cacacef3-6a61-47f7-be28-e5edc66f7ab2">
+                <item type="txt" lang="skj">lam</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">la</item>
+                    <item type="cf" lang="skj">la</item>
+                    <item type="gls" lang="en">do</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">-m</item>
+                    <item type="cf" lang="skj">-m</item>
+                    <item type="gls" lang="en">CONT</item>
+                    <item type="msa" lang="en">Verb</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word>
+                <item type="punct" lang="skj">??</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">Is he about to eat fish?</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="fa57df45-e2e8-47be-91dc-03e3900d9ebb">
+        <phrases>
+          <phrase guid="a9b15598-da50-426f-927c-a6ad3604fe05">
+            <item type="segnum" lang="en">11</item>
+            <words>
+              <word guid="da1222ac-758d-445c-9175-301dc197a25e">
+                <item type="txt" lang="skj">nga</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">nga</item>
+                    <item type="cf" lang="skj">nga</item>
+                    <item type="hn" lang="skj">2</item>
+                    <item type="gls" lang="en">1SG (I)</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">I (1SG)  </item>
+                <item type="pos" lang="en">pro</item>
+              </word>
+              <word guid="ddf52b46-0295-45b9-bf86-595f72e350ca">
+                <item type="txt" lang="skj">brawari</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">bra</item>
+                    <item type="cf" lang="skj">bra</item>
+                    <item type="gls" lang="en">walk</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">-wa</item>
+                    <item type="cf" lang="skj">-wa</item>
+                    <item type="gls" lang="en">NMZ</item>
+                    <item type="msa" lang="en">Verb</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">ri</item>
+                    <item type="cf" lang="skj">ri</item>
+                    <item type="hn" lang="skj">1</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">walk  </item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word guid="a52fe457-06de-4d06-a2dd-b58771304bfc">
+                <item type="txt" lang="skj">yashe</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">ya</item>
+                    <item type="cf" lang="skj">ya</item>
+                    <item type="gls" lang="en">go</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">-she</item>
+                    <item type="cf" lang="skj">-she</item>
+                    <item type="gls" lang="en">INCH</item>
+                    <item type="msa" lang="en">Verb</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="afcdcd78-c585-4812-a514-0df90e00edf1">
+                <item type="txt" lang="skj">lawin</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">la</item>
+                    <item type="cf" lang="skj">la</item>
+                    <item type="gls" lang="en">do</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">-win</item>
+                    <item type="cf" lang="skj">-win</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">do  </item>
+                <item type="pos" lang="en">v</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">I'm going for a walk/I'm about to go for a walk..</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="cf42090c-a7cd-4774-bbaf-50208fe08327">
+        <phrases>
+          <phrase guid="b08756ca-529b-489a-a22b-a29c9f66b964">
+            <item type="segnum" lang="en">12</item>
+            <words>
+              <word guid="4102bf4b-48ac-43a8-b97f-76b408b584f1">
+                <item type="txt" lang="skj">gya</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">gya</item>
+                    <item type="cf" lang="skj">gya</item>
+                    <item type="hn" lang="skj">1</item>
+                    <item type="gls" lang="en">2SG (you)</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">2SG</item>
+                <item type="pos" lang="en">pro</item>
+              </word>
+              <word guid="fe5e9087-de7c-432a-8d75-409c6e5471cc">
+                <item type="txt" lang="skj">khiri</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">khiri</item>
+                    <item type="cf" lang="skj">khiri</item>
+                    <item type="gls" lang="en">where</item>
+                    <item type="msa" lang="en">interrog</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">where</item>
+                <item type="pos" lang="en">interrog</item>
+              </word>
+              <word guid="a52fe457-06de-4d06-a2dd-b58771304bfc">
+                <item type="txt" lang="skj">yashe</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">ya</item>
+                    <item type="cf" lang="skj">ya</item>
+                    <item type="gls" lang="en">go</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">-she</item>
+                    <item type="cf" lang="skj">-she</item>
+                    <item type="gls" lang="en">INCH</item>
+                    <item type="msa" lang="en">Verb</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="aa8209a0-ad33-450f-9904-31e50f975410">
+                <item type="txt" lang="skj">lawa</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">la</item>
+                    <item type="cf" lang="skj">la</item>
+                    <item type="gls" lang="en">do</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">-wa</item>
+                    <item type="cf" lang="skj">-wa</item>
+                    <item type="gls" lang="en">NMZ</item>
+                    <item type="msa" lang="en">Verb</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word>
+                <item type="punct" lang="skj">?</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">Where are you going?</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="150c1d4f-9c3a-4d7f-94de-06be064ea1bd" />
+      <paragraph guid="d93acf23-0aa7-495f-9298-5d547ed31c3c">
+        <phrases>
+          <phrase guid="db2321b4-4c64-42ba-9b9d-efbe4c3c203c">
+            <item type="segnum" lang="en">14</item>
+            <words>
+              <word guid="97f1b1f7-ecd9-4eb4-b890-e3e2447896fc">
+                <item type="txt" lang="skj">khuju</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">khuju</item>
+                    <item type="cf" lang="skj">khuju</item>
+                    <item type="gls" lang="en">how</item>
+                    <item type="msa" lang="en">interrog</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">how</item>
+                <item type="pos" lang="en">interrog</item>
+              </word>
+              <word guid="716a81e7-7516-428b-bc15-4d6066985e01">
+                <item type="txt" lang="skj">laze</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">la</item>
+                    <item type="cf" lang="skj">la</item>
+                    <item type="gls" lang="en">do</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">-ze</item>
+                    <item type="cf" lang="skj">-ze</item>
+                    <item type="gls" lang="en">SEQ</item>
+                    <item type="msa" lang="en">Verb</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">do</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word guid="eecf8bbf-5862-48b0-a639-fb25d932ceb4">
+                <item type="txt" lang="skj">lashe</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">la</item>
+                    <item type="cf" lang="skj">la</item>
+                    <item type="gls" lang="en">do</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">-she</item>
+                    <item type="cf" lang="skj">-she</item>
+                    <item type="gls" lang="en">INCH</item>
+                    <item type="msa" lang="en">Verb</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="7dbd85a4-a2a3-49d0-abcf-f55b30d63a5a">
+                <item type="txt" lang="skj">yin</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">yin</item>
+                    <item type="cf" lang="skj">yin</item>
+                    <item type="gls" lang="en">COP</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">COP</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word guid="4015e9c5-3b27-4946-a4bc-a807a77b8c43">
+                <item type="txt" lang="skj">a</item>
+                <morphemes>
+                  <morph type="particle" guid="56db04bf-3d58-44cc-b292-4c8aa68538f4">
+                    <item type="txt" lang="skj">a</item>
+                    <item type="cf" lang="skj">a</item>
+                    <item type="gls" lang="en">Q</item>
+                    <item type="msa" lang="en">prt</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">Q</item>
+                <item type="pos" lang="en">prt</item>
+              </word>
+              <word>
+                <item type="punct" lang="skj">?</item>
+              </word>
+            </words>
+            <item type="gls" lang="en"></item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="2cd1459d-6867-483d-b44d-ea56658bba94">
+        <phrases>
+          <phrase guid="fa5e7508-40dc-42af-9ff5-e3432d376b95">
+            <item type="segnum" lang="en">15</item>
+            <words>
+              <word guid="da1222ac-758d-445c-9175-301dc197a25e">
+                <item type="txt" lang="skj">nga</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">nga</item>
+                    <item type="cf" lang="skj">nga</item>
+                    <item type="hn" lang="skj">2</item>
+                    <item type="gls" lang="en">1SG (I)</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">I (1SG)  </item>
+                <item type="pos" lang="en">pro</item>
+              </word>
+              <word guid="ddf52b46-0295-45b9-bf86-595f72e350ca">
+                <item type="txt" lang="skj">brawari</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">bra</item>
+                    <item type="cf" lang="skj">bra</item>
+                    <item type="gls" lang="en">walk</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">-wa</item>
+                    <item type="cf" lang="skj">-wa</item>
+                    <item type="gls" lang="en">NMZ</item>
+                    <item type="msa" lang="en">Verb</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">ri</item>
+                    <item type="cf" lang="skj">ri</item>
+                    <item type="hn" lang="skj">1</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">walk  </item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word guid="a52fe457-06de-4d06-a2dd-b58771304bfc">
+                <item type="txt" lang="skj">yashe</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">ya</item>
+                    <item type="cf" lang="skj">ya</item>
+                    <item type="gls" lang="en">go</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">-she</item>
+                    <item type="cf" lang="skj">-she</item>
+                    <item type="gls" lang="en">INCH</item>
+                    <item type="msa" lang="en">Verb</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="af899c0f-82c2-4704-8afa-50261920fed7">
+                <item type="txt" lang="skj">yin</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">yin</item>
+                    <item type="cf" lang="skj">yin</item>
+                    <item type="gls" lang="en">COP</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">COP</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">I'm going for a walk/I'm about to go for a walk.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="8130feb4-327b-47ce-8690-dfd618880f59">
+        <phrases>
+          <phrase guid="68fc94f8-be05-4769-8387-a583f7d94ead">
+            <item type="segnum" lang="en">16</item>
+            <words>
+              <word guid="1eab26dd-bd57-4f69-b291-2322a2716d04">
+                <item type="txt" lang="skj">phize</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">phize</item>
+                    <item type="cf" lang="skj">phize</item>
+                    <item type="gls" lang="en">outside</item>
+                    <item type="msa" lang="en">adv</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">outside  </item>
+                <item type="pos" lang="en">adv</item>
+              </word>
+              <word guid="c2a1afdd-7566-4a08-9013-2f265ade97e1">
+                <item type="txt" lang="skj">nyase</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">nyase</item>
+                    <item type="cf" lang="skj">nyase</item>
+                    <item type="gls" lang="en">future</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">future</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="271653d4-7464-4706-a5aa-b938e6f2b05e">
+                <item type="txt" lang="skj">tali</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">ta</item>
+                    <item type="cf" lang="skj">ta</item>
+                    <item type="hn" lang="skj">1</item>
+                    <item type="gls" lang="en">become</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">li</item>
+                    <item type="cf" lang="skj">li</item>
+                    <item type="hn" lang="skj">1</item>
+                    <item type="gls" lang="en">if (COND)</item>
+                    <item type="msa" lang="en">subordconn</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="4102bf4b-48ac-43a8-b97f-76b408b584f1">
+                <item type="txt" lang="skj">gya</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">gya</item>
+                    <item type="cf" lang="skj">gya</item>
+                    <item type="hn" lang="skj">1</item>
+                    <item type="gls" lang="en">2SG (you)</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">2SG</item>
+                <item type="pos" lang="en">pro</item>
+              </word>
+              <word guid="cc127b52-64c5-4dc8-b58b-9f2c51cf6a39">
+                <item type="txt" lang="skj">nukpala</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">nuk</item>
+                    <item type="cf" lang="skj">nuk</item>
+                    <item type="gls" lang="en">sleep, lie down, rest</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">-pa</item>
+                    <item type="cf" lang="skj">-pa</item>
+                    <item type="gls" lang="en">person</item>
+                    <item type="msa" lang="en">Noun</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">-la</item>
+                    <item type="cf" lang="skj">-la</item>
+                    <item type="gls" lang="en">place</item>
+                    <item type="msa" lang="en">Verb</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="d6b7a8e2-02a7-46b6-b324-0a2fa5511873">
+                <item type="txt" lang="skj">ri</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">ri</item>
+                    <item type="cf" lang="skj">ri</item>
+                    <item type="hn" lang="skj">1</item>
+                    <item type="gls" lang="en">LOC</item>
+                    <item type="msa" lang="en">adp</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">LOC</item>
+                <item type="pos" lang="en">adp</item>
+              </word>
+              <word guid="a52fe457-06de-4d06-a2dd-b58771304bfc">
+                <item type="txt" lang="skj">yashe</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">ya</item>
+                    <item type="cf" lang="skj">ya</item>
+                    <item type="gls" lang="en">go</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">-she</item>
+                    <item type="cf" lang="skj">-she</item>
+                    <item type="gls" lang="en">INCH</item>
+                    <item type="msa" lang="en">Verb</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="7dbd85a4-a2a3-49d0-abcf-f55b30d63a5a">
+                <item type="txt" lang="skj">yin</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">yin</item>
+                    <item type="cf" lang="skj">yin</item>
+                    <item type="gls" lang="en">COP</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">COP</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word guid="98278965-1107-4474-87af-e1028ba1af23">
+                <item type="txt" lang="skj">e</item>
+                <morphemes>
+                  <morph type="particle" guid="56db04bf-3d58-44cc-b292-4c8aa68538f4">
+                    <item type="txt" lang="skj">e</item>
+                    <item type="cf" lang="skj">e</item>
+                    <item type="gls" lang="en">POL</item>
+                    <item type="msa" lang="en">prt</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">POL</item>
+                <item type="pos" lang="en">prt</item>
+              </word>
+              <word>
+                <item type="punct" lang="skj">?</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">When it gets dark outside, will you go to bed?</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="d3781b4a-a1d8-40e8-a3de-a6ebdd85fab7">
+        <phrases>
+          <phrase guid="f43cc7be-25ab-4fd2-8c4b-a9453258eeb0">
+            <item type="segnum" lang="en">17</item>
+            <words>
+              <word guid="354a6a2a-7d22-48e1-bda9-863488c4ac15">
+                <item type="txt" lang="skj">ngami</item>
+                <morphemes>
+                  <morph type="phrase" guid="a23b6faa-1052-4f4d-984b-4b338bdaf95f">
+                    <item type="txt" lang="skj">ngami</item>
+                    <item type="cf" lang="skj">ngami</item>
+                    <item type="gls" lang="en">we (1PL)</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">we  </item>
+                <item type="pos" lang="en">pro</item>
+              </word>
+              <word guid="649b9997-0ff3-4cbc-b591-a0514fd9bcc6">
+                <item type="txt" lang="skj">tini</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">tini</item>
+                    <item type="cf" lang="skj">tini</item>
+                    <item type="gls" lang="en">today</item>
+                    <item type="msa" lang="en">adv</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">today  </item>
+                <item type="pos" lang="en">adv</item>
+              </word>
+              <word guid="a52fe457-06de-4d06-a2dd-b58771304bfc">
+                <item type="txt" lang="skj">yashe</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">ya</item>
+                    <item type="cf" lang="skj">ya</item>
+                    <item type="gls" lang="en">go</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">-she</item>
+                    <item type="cf" lang="skj">-she</item>
+                    <item type="gls" lang="en">INCH</item>
+                    <item type="msa" lang="en">Verb</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="a3345d3a-0ba8-49a5-b9a8-6d13b71ff9ba">
+                <item type="txt" lang="skj">hayin</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">ha-</item>
+                    <item type="cf" lang="skj">ha-</item>
+                    <item type="gls" lang="en">NEG</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">yin</item>
+                    <item type="cf" lang="skj">yin</item>
+                    <item type="gls" lang="en">COP</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                </morphemes>
+              </word>
+            </words>
+            <item type="gls" lang="en">[??]</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="875392bc-2fca-4dba-ac0e-3bca4e56d130">
+        <phrases>
+          <phrase guid="8aa428b3-5a94-40f4-8417-ac6a987cd141">
+            <item type="segnum" lang="en">18</item>
+            <words>
+              <word guid="354a6a2a-7d22-48e1-bda9-863488c4ac15">
+                <item type="txt" lang="skj">ngami</item>
+                <morphemes>
+                  <morph type="phrase" guid="a23b6faa-1052-4f4d-984b-4b338bdaf95f">
+                    <item type="txt" lang="skj">ngami</item>
+                    <item type="cf" lang="skj">ngami</item>
+                    <item type="gls" lang="en">we (1PL)</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">we  </item>
+                <item type="pos" lang="en">pro</item>
+              </word>
+              <word guid="649b9997-0ff3-4cbc-b591-a0514fd9bcc6">
+                <item type="txt" lang="skj">tini</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">tini</item>
+                    <item type="cf" lang="skj">tini</item>
+                    <item type="gls" lang="en">today</item>
+                    <item type="msa" lang="en">adv</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">today  </item>
+                <item type="pos" lang="en">adv</item>
+              </word>
+              <word guid="e7376280-21ed-41f5-bfe9-a1de1c155a87">
+                <item type="txt" lang="skj">hayashe</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">ha-</item>
+                    <item type="cf" lang="skj">ha-</item>
+                    <item type="gls" lang="en">NEG</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">ya</item>
+                    <item type="cf" lang="skj">ya</item>
+                    <item type="gls" lang="en">go</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">-she</item>
+                    <item type="cf" lang="skj">-she</item>
+                    <item type="gls" lang="en">INCH</item>
+                    <item type="msa" lang="en">Verb</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="7dbd85a4-a2a3-49d0-abcf-f55b30d63a5a">
+                <item type="txt" lang="skj">yin</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">yin</item>
+                    <item type="cf" lang="skj">yin</item>
+                    <item type="gls" lang="en">COP</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">COP</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">[??]</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="e4b5e66b-8bc8-4a55-89ba-fdedd2800e78">
+        <phrases>
+          <phrase guid="9b4c9bd4-4d1e-4cae-8679-70ee96edf918">
+            <item type="segnum" lang="en">19</item>
+            <words>
+              <word guid="da1222ac-758d-445c-9175-301dc197a25e">
+                <item type="txt" lang="skj">nga</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">nga</item>
+                    <item type="cf" lang="skj">nga</item>
+                    <item type="hn" lang="skj">2</item>
+                    <item type="gls" lang="en">1SG (I)</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">I (1SG)  </item>
+                <item type="pos" lang="en">pro</item>
+              </word>
+              <word guid="2df6d4f7-cf56-4501-b22d-7f522ad85fa3">
+                <item type="txt" lang="skj">tsu</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">tsu</item>
+                    <item type="cf" lang="skj">tsu</item>
+                    <item type="gls" lang="en">this</item>
+                    <item type="msa" lang="en">dem</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">this  </item>
+                <item type="pos" lang="en">dem</item>
+              </word>
+              <word guid="c5d04ac6-8b2f-4db9-b03e-1bd1813957dc">
+                <item type="txt" lang="skj">dim</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">dim</item>
+                    <item type="cf" lang="skj">dim</item>
+                    <item type="gls" lang="en">home</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">home  </item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="d6b7a8e2-02a7-46b6-b324-0a2fa5511873">
+                <item type="txt" lang="skj">ri</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">ri</item>
+                    <item type="cf" lang="skj">ri</item>
+                    <item type="hn" lang="skj">1</item>
+                    <item type="gls" lang="en">LOC</item>
+                    <item type="msa" lang="en">adp</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">LOC</item>
+                <item type="pos" lang="en">adp</item>
+              </word>
+              <word guid="628125ce-7e0b-49f4-9904-82cf64a7c39d">
+                <item type="txt" lang="skj">ni</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="skj">ni</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">two  </item>
+                <item type="pos" lang="en">num</item>
+              </word>
+              <word guid="a4389347-a289-4d08-bf41-6cbd17a6e4a7">
+                <item type="txt" lang="skj">ra</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">ra</item>
+                    <item type="cf" lang="skj">ra</item>
+                    <item type="hn" lang="skj">1</item>
+                    <item type="gls" lang="en">goat</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">goat  </item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="6619c1cd-f2d5-40be-81a3-5f0b9b0f3605">
+                <item type="txt" lang="skj">trushe</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">tru</item>
+                    <item type="cf" lang="skj">tru</item>
+                    <item type="gls" lang="en">stay, remain; live</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">-she</item>
+                    <item type="cf" lang="skj">-she</item>
+                    <item type="gls" lang="en">INCH</item>
+                    <item type="msa" lang="en">Verb</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">stay, remain; live</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word guid="7dbd85a4-a2a3-49d0-abcf-f55b30d63a5a">
+                <item type="txt" lang="skj">yin</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">yin</item>
+                    <item type="cf" lang="skj">yin</item>
+                    <item type="gls" lang="en">COP</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">COP</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">Two [of my??] goats live in this house.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="df4fd907-fe99-4e3a-b27e-c61ea5c2fe7c">
+        <phrases>
+          <phrase guid="c868568b-5f21-49e9-adc2-3450d426d456">
+            <item type="segnum" lang="en">20</item>
+            <words>
+              <word guid="46fdda42-1a64-455b-8cad-afa8dd4df759">
+                <item type="txt" lang="skj">nga</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">nga</item>
+                    <item type="cf" lang="skj">nga</item>
+                    <item type="hn" lang="skj">2</item>
+                    <item type="gls" lang="en">1SG (I)</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">I (1SG)  </item>
+                <item type="pos" lang="en">pro</item>
+              </word>
+              <word guid="40747619-0bdb-43d9-9cf0-43136612f6a7">
+                <item type="txt" lang="skj">ze</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">ze</item>
+                    <item type="cf" lang="skj">ze</item>
+                    <item type="hn" lang="skj">1</item>
+                    <item type="gls" lang="en">ERG</item>
+                    <item type="msa" lang="en">adp</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">ERG</item>
+                <item type="pos" lang="en">prt</item>
+              </word>
+              <word guid="5c14d76e-9ecf-4add-9053-624189322164">
+                <item type="txt" lang="skj">ta</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">taa</item>
+                    <item type="cf" lang="skj">taa</item>
+                    <item type="gls" lang="en">what</item>
+                    <item type="msa" lang="en">interrog</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">what</item>
+                <item type="pos" lang="en">interrog</item>
+              </word>
+              <word guid="17ce6b2d-4c4a-4404-b2ab-b7baf7525d37">
+                <item type="txt" lang="skj">sheli</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">she</item>
+                    <item type="cf" lang="skj">se</item>
+                    <item type="gls" lang="en">kill</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">li</item>
+                    <item type="cf" lang="skj">li</item>
+                    <item type="hn" lang="skj">1</item>
+                    <item type="gls" lang="en">if (COND)</item>
+                    <item type="msa" lang="en">subordconn</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="da1222ac-758d-445c-9175-301dc197a25e">
+                <item type="txt" lang="skj">nga</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">nga</item>
+                    <item type="cf" lang="skj">nga</item>
+                    <item type="hn" lang="skj">2</item>
+                    <item type="gls" lang="en">1SG (I)</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">I (1SG)  </item>
+                <item type="pos" lang="en">pro</item>
+              </word>
+              <word guid="06ff968f-5826-4618-8549-3d6c4678c483">
+                <item type="txt" lang="skj">tsashe</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">tsa</item>
+                    <item type="cf" lang="skj">tsa</item>
+                    <item type="gls" lang="en">eat</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">-she</item>
+                    <item type="cf" lang="skj">-she</item>
+                    <item type="gls" lang="en">INCH</item>
+                    <item type="msa" lang="en">Verb</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="af899c0f-82c2-4704-8afa-50261920fed7">
+                <item type="txt" lang="skj">yin</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">yin</item>
+                    <item type="cf" lang="skj">yin</item>
+                    <item type="gls" lang="en">COP</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">COP</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">Whatever I kill, I'm going to eat it. </item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="b1d8ace3-8bbf-4a47-91ac-3490e3e690c6">
+        <phrases>
+          <phrase guid="e6918478-14c7-4535-bc11-d993f766304c">
+            <item type="segnum" lang="en">21</item>
+            <words>
+              <word guid="0b63f550-bd8e-4fef-b3ba-24b44dbff960">
+                <item type="txt" lang="skj">thimiza</item>
+                <morphemes>
+                  <morph type="phrase" guid="a23b6faa-1052-4f4d-984b-4b338bdaf95f">
+                    <item type="txt" lang="skj">thimiza</item>
+                    <item type="cf" lang="skj">thimiza</item>
+                    <item type="gls" lang="en">they (3PL)</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">-za</item>
+                    <item type="cf" lang="skj">-za</item>
+                    <item type="gls" lang="en">INDFPL</item>
+                    <item type="msa" lang="en">Noun</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">they (3PL)  </item>
+                <item type="pos" lang="en">pro</item>
+              </word>
+              <word guid="a52fe457-06de-4d06-a2dd-b58771304bfc">
+                <item type="txt" lang="skj">yashe</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">ya</item>
+                    <item type="cf" lang="skj">ya</item>
+                    <item type="gls" lang="en">go</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">-she</item>
+                    <item type="cf" lang="skj">-she</item>
+                    <item type="gls" lang="en">INCH</item>
+                    <item type="msa" lang="en">Verb</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="af899c0f-82c2-4704-8afa-50261920fed7">
+                <item type="txt" lang="skj">yin</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">yin</item>
+                    <item type="cf" lang="skj">yin</item>
+                    <item type="gls" lang="en">COP</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">COP</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">Those people are going to go. </item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="1acbbfe8-a87b-40ad-b05a-ee6e12008b86">
+        <phrases>
+          <phrase guid="f55e1251-9cab-4dd2-9ede-2b30384b38f3">
+            <item type="segnum" lang="en">22</item>
+            <words>
+              <word guid="2df6d4f7-cf56-4501-b22d-7f522ad85fa3">
+                <item type="txt" lang="skj">tsu</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">tsu</item>
+                    <item type="cf" lang="skj">tsu</item>
+                    <item type="gls" lang="en">this</item>
+                    <item type="msa" lang="en">dem</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">this  </item>
+                <item type="pos" lang="en">dem</item>
+              </word>
+              <word guid="b7bf5d93-3c55-42ee-ad14-eee2c4a02be8">
+                <item type="txt" lang="skj">lari</item>
+                <morphemes>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">-la</item>
+                    <item type="cf" lang="skj">-la</item>
+                    <item type="gls" lang="en">place</item>
+                    <item type="msa" lang="en">Verb</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">ri</item>
+                    <item type="cf" lang="skj">ri</item>
+                    <item type="hn" lang="skj">1</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="da1222ac-758d-445c-9175-301dc197a25e">
+                <item type="txt" lang="skj">nga</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">nga</item>
+                    <item type="cf" lang="skj">nga</item>
+                    <item type="hn" lang="skj">2</item>
+                    <item type="gls" lang="en">1SG (I)</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">I (1SG)  </item>
+                <item type="pos" lang="en">pro</item>
+              </word>
+              <word guid="649b9997-0ff3-4cbc-b591-a0514fd9bcc6">
+                <item type="txt" lang="skj">tini</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">tini</item>
+                    <item type="cf" lang="skj">tini</item>
+                    <item type="gls" lang="en">today</item>
+                    <item type="msa" lang="en">adv</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">today  </item>
+                <item type="pos" lang="en">adv</item>
+              </word>
+              <word guid="a52fe457-06de-4d06-a2dd-b58771304bfc">
+                <item type="txt" lang="skj">yashe</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">ya</item>
+                    <item type="cf" lang="skj">ya</item>
+                    <item type="gls" lang="en">go</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">-she</item>
+                    <item type="cf" lang="skj">-she</item>
+                    <item type="gls" lang="en">INCH</item>
+                    <item type="msa" lang="en">Verb</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="310b5b7e-0fe5-4fd9-b8c8-ae92961841be">
+                <item type="txt" lang="skj">na</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">nga</item>
+                    <item type="cf" lang="skj">nga</item>
+                    <item type="hn" lang="skj">2</item>
+                    <item type="gls" lang="en">1SG (I)</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">nose  </item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="730d4b49-8f0f-4243-aa14-216fbf0507c3">
+                <item type="txt" lang="skj">yawin</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">ya</item>
+                    <item type="cf" lang="skj">ya</item>
+                    <item type="gls" lang="en">go</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">-win</item>
+                    <item type="cf" lang="skj">-win</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en"></item>
+                <item type="pos" lang="en">v</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">I go to this place every day. </item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="db2d6971-32d7-469e-8dff-a8bf38415284" />
+      <paragraph guid="1004975d-bf07-442b-98da-1627d8e924c6">
+        <phrases>
+          <phrase guid="b2fe4a87-335f-4e32-94da-2134bfc1cca9">
+            <item type="segnum" lang="en">24</item>
+            <words>
+              <word guid="46dcc6f3-e005-4ede-8bd8-79d65bbc980d">
+                <item type="txt" lang="skj">te</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">the</item>
+                    <item type="cf" lang="skj">the</item>
+                    <item type="gls" lang="en">he/she (3SG)</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                </morphemes>
+                <item type="pos" lang="en">dem</item>
+              </word>
+              <word guid="ed41e084-9b52-4b4e-bb4b-28cba1fffe61">
+                <item type="txt" lang="skj">nukshe</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">nuk</item>
+                    <item type="cf" lang="skj">nuk</item>
+                    <item type="gls" lang="en">sleep, lie down, rest</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">-she</item>
+                    <item type="cf" lang="skj">-she</item>
+                    <item type="gls" lang="en">INCH</item>
+                    <item type="msa" lang="en">Verb</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="17fa6bcb-ced3-489a-9eef-442dbe8010a9">
+                <item type="txt" lang="skj">mum</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">mu</item>
+                    <item type="cf" lang="skj">mu</item>
+                    <item type="gls" lang="en">COP</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">-m</item>
+                    <item type="cf" lang="skj">-m</item>
+                    <item type="gls" lang="en">CONT</item>
+                    <item type="msa" lang="en">Verb</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">COP</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">He is sleeping [about to sleep/fall asleep?]. </item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="803f6216-5e10-421e-901a-37f2dbe600f5">
+        <phrases>
+          <phrase guid="62280181-4e5c-4cec-9cbb-e4e7fe9ae5cc">
+            <item type="segnum" lang="en">25</item>
+            <words>
+              <word guid="46dcc6f3-e005-4ede-8bd8-79d65bbc980d">
+                <item type="txt" lang="skj">te</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">the</item>
+                    <item type="cf" lang="skj">the</item>
+                    <item type="gls" lang="en">he/she (3SG)</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                </morphemes>
+                <item type="pos" lang="en">dem</item>
+              </word>
+              <word guid="d8179706-2aa1-4868-a736-540e91bd09cf">
+                <item type="txt" lang="skj">nukshe</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">nuk</item>
+                    <item type="cf" lang="skj">nuk</item>
+                    <item type="gls" lang="en">sleep, lie down, rest</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">-she</item>
+                    <item type="cf" lang="skj">-she</item>
+                    <item type="gls" lang="en">INCH</item>
+                    <item type="msa" lang="en">Verb</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="7528bbe4-57bd-4151-ad06-e78868ef0851">
+                <item type="txt" lang="skj">mum</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">mu</item>
+                    <item type="cf" lang="skj">mu</item>
+                    <item type="gls" lang="en">COP</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">-m</item>
+                    <item type="cf" lang="skj">-m</item>
+                    <item type="gls" lang="en">CONT</item>
+                    <item type="msa" lang="en">Verb</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">COP</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word guid="98278965-1107-4474-87af-e1028ba1af23">
+                <item type="txt" lang="skj">e</item>
+                <morphemes>
+                  <morph type="particle" guid="56db04bf-3d58-44cc-b292-4c8aa68538f4">
+                    <item type="txt" lang="skj">e</item>
+                    <item type="cf" lang="skj">e</item>
+                    <item type="gls" lang="en">POL</item>
+                    <item type="msa" lang="en">prt</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">POL</item>
+                <item type="pos" lang="en">prt</item>
+              </word>
+              <word>
+                <item type="punct" lang="skj">?</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">Is he sleeping?</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="de565e09-6a81-4780-b684-5c3bdeb34b02" />
+      <paragraph guid="49959e4e-756c-4863-95dd-c380a8b308aa">
+        <phrases>
+          <phrase guid="6997ffab-7ee9-42ab-9530-90f44cbd7f71">
+            <item type="segnum" lang="en">27</item>
+            <words>
+              <word guid="9e04d6f4-f0ed-43de-9238-3d4972f71582">
+                <item type="txt" lang="skj">yashin</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">ya</item>
+                    <item type="cf" lang="skj">ya</item>
+                    <item type="gls" lang="en">go</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">-sho</item>
+                    <item type="cf" lang="skj">-sho</item>
+                    <item type="hn" lang="skj">1</item>
+                    <item type="gls" lang="en">FUT</item>
+                    <item type="msa" lang="en">Verb</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="skj">yin</item>
+                    <item type="cf" lang="skj">yin</item>
+                    <item type="gls" lang="en">COP</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">go</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word guid="98278965-1107-4474-87af-e1028ba1af23">
+                <item type="txt" lang="skj">e</item>
+                <morphemes>
+                  <morph type="particle" guid="56db04bf-3d58-44cc-b292-4c8aa68538f4">
+                    <item type="txt" lang="skj">e</item>
+                    <item type="cf" lang="skj">e</item>
+                    <item type="gls" lang="en">POL</item>
+                    <item type="msa" lang="en">prt</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">POL</item>
+                <item type="pos" lang="en">prt</item>
+              </word>
+              <word>
+                <item type="punct" lang="skj">?</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">are we going ???</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+    </paragraphs>
+    <languages>
+      <language lang="en" font="Times New Roman" />
+      <language lang="skj" font="Charis SIL" vernacular="true" />
+    </languages>
+  </interlinear-text>
+  
+</document>

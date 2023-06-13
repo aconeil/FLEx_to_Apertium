@@ -1,0 +1,2498 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document version="2">
+<interlinear-text guid="67dee827-68a9-4eaa-8f63-da5e9ada0b20">
+    <item type="title" lang="cab">Másaraga luma mesu</item>
+    <item type="title-abbreviation" lang="en">Walagante</item>
+    <item type="source" lang="en">Sabio, Fernando (ed.). 2000. Walagante. La Ceiba: Associasion Missonera Garifuna.</item>
+    <item type="comment" lang="en">Encoded by Kalvin Hartwig</item>
+    <paragraphs>
+      <paragraph guid="36b97d6b-e0db-41a3-bffb-6ded028c260a">
+        <phrases>
+          <phrase guid="947b19e8-c7e1-4387-9f62-5be6cb4777f6">
+            <item type="segnum" lang="en">1.1</item>
+            <words>
+              <word guid="63a98a93-d075-4126-923a-e60d65742e9d">
+                <item type="txt" lang="cab">Luagu</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">l-</item>
+                    <item type="cf" lang="cab">l-</item>
+                    <item type="gls" lang="en">P3M.SG</item>
+                    <item type="msa" lang="en">v:(person/negation)</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">uagu</item>
+                    <item type="cf" lang="cab">uagu</item>
+                    <item type="gls" lang="en">on</item>
+                    <item type="msa" lang="en">prep</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">on.m</item>
+                <item type="pos" lang="en">prep</item>
+              </word>
+              <word guid="effc64d5-40e7-427c-9187-239a0590beb3">
+                <item type="txt" lang="cab">aban</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">aban</item>
+                    <item type="cf" lang="cab">aban</item>
+                    <item type="gls" lang="en">one</item>
+                    <item type="msa" lang="en">cardnum</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">one</item>
+                <item type="pos" lang="en">cardnum</item>
+              </word>
+              <word guid="75181bbd-03b5-413d-814d-9925143d1131">
+                <item type="txt" lang="cab">dan</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">dan</item>
+                    <item type="cf" lang="cab">dan</item>
+                    <item type="gls" lang="en">time</item>
+                    <item type="msa" lang="en">n-m</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">time</item>
+                <item type="pos" lang="en">n-m</item>
+              </word>
+              <word guid="bde87b55-f14b-4fa7-a14d-352bff4352a9">
+                <item type="txt" lang="cab">aba</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">aba</item>
+                    <item type="cf" lang="cab">aba</item>
+                    <item type="gls" lang="en">then</item>
+                    <item type="msa" lang="en">adv</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">then</item>
+                <item type="pos" lang="en">adv</item>
+              </word>
+              <word guid="c862641f-f1fa-42e3-b058-f78f6bd1f8f4">
+                <item type="txt" lang="cab">lerederun</item>
+              </word>
+              <word guid="d99c5188-34f6-4cd8-8997-adfc339c6f84">
+                <item type="txt" lang="cab">másaraga</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">másaraga</item>
+                    <item type="cf" lang="cab">másaraga</item>
+                    <item type="gls" lang="en">rabbit</item>
+                    <item type="msa" lang="en">n-mf</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">rabbit</item>
+                <item type="pos" lang="en">n-mf</item>
+              </word>
+              <word guid="18f454f3-a270-4de5-a105-6b36117f8d99">
+                <item type="txt" lang="cab">luma</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">luma</item>
+                    <item type="cf" lang="cab">luma</item>
+                    <item type="gls" lang="en">and</item>
+                    <item type="msa" lang="en">prep</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">and</item>
+                <item type="pos" lang="en">prep</item>
+              </word>
+              <word guid="12aee625-3f23-44c8-a489-0476b79497ea">
+                <item type="txt" lang="cab">mesu</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">mesu</item>
+                    <item type="cf" lang="cab">mesu</item>
+                    <item type="hn" lang="cab">1</item>
+                    <item type="gls" lang="en">muscle</item>
+                    <item type="msa" lang="en">n-f</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">cat</item>
+                <item type="pos" lang="en">n-f</item>
+              </word>
+              <word guid="24dcacc5-f1f5-4809-85e3-01c54636e8dc">
+                <item type="txt" lang="cab">lidan</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">lidan</item>
+                    <item type="cf" lang="cab">lidan</item>
+                    <item type="gls" lang="en">in</item>
+                    <item type="msa" lang="en">prep</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">in</item>
+                <item type="pos" lang="en">prep</item>
+              </word>
+              <word guid="effc64d5-40e7-427c-9187-239a0590beb3">
+                <item type="txt" lang="cab">aban</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">aban</item>
+                    <item type="cf" lang="cab">aban</item>
+                    <item type="gls" lang="en">one</item>
+                    <item type="msa" lang="en">cardnum</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">one</item>
+                <item type="pos" lang="en">cardnum</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">Once upon a time  the rabbit and the cat resided in one place</item>
+          </phrase>
+          <phrase guid="6c02b127-2024-451e-b347-8122e37d7944">
+            <item type="segnum" lang="en">1.2</item>
+            <words>
+              <word guid="bf96544e-eb17-4c53-9d2b-9224b55e54b7">
+                <item type="txt" lang="cab">Gama</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">gama</item>
+                    <item type="cf" lang="cab">gama</item>
+                    <item type="gls" lang="en">propertied</item>
+                    <item type="msa" lang="en">adj</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">propertied</item>
+                <item type="pos" lang="en">adj</item>
+              </word>
+              <word guid="a73a94f1-feb0-41c8-98dd-a0185a9ce0d6">
+                <item type="txt" lang="cab">lumoun</item>
+              </word>
+              <word guid="986c52fc-cdaf-4ac6-a476-cd7a2b61a468">
+                <item type="txt" lang="cab">súnwandan</item>
+              </word>
+              <word guid="4472d5cc-81c3-4c2f-8782-8c4cd55e36b4">
+                <item type="txt" lang="cab">lasafaragun</item>
+              </word>
+              <word guid="d99c5188-34f6-4cd8-8997-adfc339c6f84">
+                <item type="txt" lang="cab">másaraga</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">másaraga</item>
+                    <item type="cf" lang="cab">másaraga</item>
+                    <item type="gls" lang="en">rabbit</item>
+                    <item type="msa" lang="en">n-mf</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">rabbit</item>
+                <item type="pos" lang="en">n-mf</item>
+              </word>
+              <word guid="871a3678-f8db-42a5-8079-a3c2754408cd">
+                <item type="txt" lang="cab">ladüga</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">ladüga</item>
+                    <item type="cf" lang="cab">ladüga</item>
+                    <item type="gls" lang="en">because</item>
+                    <item type="msa" lang="en">prep</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">because</item>
+                <item type="pos" lang="en">prep</item>
+              </word>
+              <word guid="4509762f-efdd-4e3a-b5a1-4c8b86f2c525">
+                <item type="txt" lang="cab">léigini</item>
+              </word>
+              <word guid="12aee625-3f23-44c8-a489-0476b79497ea">
+                <item type="txt" lang="cab">mesu</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">mesu</item>
+                    <item type="cf" lang="cab">mesu</item>
+                    <item type="hn" lang="cab">1</item>
+                    <item type="gls" lang="en">muscle</item>
+                    <item type="msa" lang="en">n-f</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">cat</item>
+                <item type="pos" lang="en">n-f</item>
+              </word>
+              <word guid="2ba1bbd6-f034-4b99-b192-296659867af0">
+                <item type="txt" lang="cab">éigini</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">éigini</item>
+                    <item type="cf" lang="cab">éigini</item>
+                    <item type="gls" lang="en">food</item>
+                    <item type="msa" lang="en">n-m</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">food</item>
+                <item type="pos" lang="en">n-m</item>
+              </word>
+              <word guid="1dcf157b-2e59-4ec2-a048-1568ef606929">
+                <item type="txt" lang="cab">lárigiñe</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">l-</item>
+                    <item type="cf" lang="cab">l-</item>
+                    <item type="gls" lang="en">P3M.SG</item>
+                    <item type="msa" lang="en">v:(person/negation)</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">árigi</item>
+                    <item type="cf" lang="cab">árigi</item>
+                    <item type="hn" lang="cab">2</item>
+                    <item type="gls" lang="en">after</item>
+                    <item type="msa" lang="en">prep</item>
+                  </morph>
+                  <morph>
+                    <item type="txt" lang="cab">-ñe</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">after</item>
+                <item type="pos" lang="en">prep</item>
+              </word>
+              <word guid="bde87b55-f14b-4fa7-a14d-352bff4352a9">
+                <item type="txt" lang="cab">aba</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">aba</item>
+                    <item type="cf" lang="cab">aba</item>
+                    <item type="gls" lang="en">then</item>
+                    <item type="msa" lang="en">adv</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">then</item>
+                <item type="pos" lang="en">adv</item>
+              </word>
+              <word guid="c87b9882-c9f0-4027-a6c7-17ed01979fdb">
+                <item type="txt" lang="cab">ladügün</item>
+              </word>
+              <word guid="d45c60cf-135c-4a6f-ac44-a5a22124b593">
+                <item type="txt" lang="cab">kamá</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">kamá</item>
+                    <item type="cf" lang="cab">kamá</item>
+                    <item type="gls" lang="en">as.if</item>
+                    <item type="msa" lang="en">conn</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">as.if</item>
+                <item type="pos" lang="en">conn</item>
+              </word>
+              <word guid="5d107100-9d14-4a8a-9009-057027b606a2">
+                <item type="txt" lang="cab">mama</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">mama</item>
+                    <item type="cf" lang="cab">mama</item>
+                    <item type="gls" lang="en">mother</item>
+                    <item type="msa" lang="en">n-f</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">mother</item>
+                <item type="pos" lang="en">n-f</item>
+              </word>
+              <word guid="0cb1a4c8-3b5d-4575-83a9-26ba3063ece4">
+                <item type="txt" lang="cab">ligía</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">ligía</item>
+                    <item type="cf" lang="cab">ligía</item>
+                    <item type="gls" lang="en">3m</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">3m</item>
+                <item type="pos" lang="en">pro</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">Everytime the rabbit  would get unsettled or upset because the cat would eat the food and pretend as if it was not him</item>
+          </phrase>
+          <phrase guid="8f5c0f64-afbe-4180-bcb2-afb3a8bf6c04">
+            <item type="segnum" lang="en">1.3</item>
+            <words>
+              <word guid="63a98a93-d075-4126-923a-e60d65742e9d">
+                <item type="txt" lang="cab">Luagu</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">l-</item>
+                    <item type="cf" lang="cab">l-</item>
+                    <item type="gls" lang="en">P3M.SG</item>
+                    <item type="msa" lang="en">v:(person/negation)</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">uagu</item>
+                    <item type="cf" lang="cab">uagu</item>
+                    <item type="gls" lang="en">on</item>
+                    <item type="msa" lang="en">prep</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">on.m</item>
+                <item type="pos" lang="en">prep</item>
+              </word>
+              <word guid="effc64d5-40e7-427c-9187-239a0590beb3">
+                <item type="txt" lang="cab">aban</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">aban</item>
+                    <item type="cf" lang="cab">aban</item>
+                    <item type="gls" lang="en">one</item>
+                    <item type="msa" lang="en">cardnum</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">one</item>
+                <item type="pos" lang="en">cardnum</item>
+              </word>
+              <word guid="a14c3bb0-2b5d-4c7f-a8e5-8fd5edae4e23">
+                <item type="txt" lang="cab">weyu</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">weyu</item>
+                    <item type="cf" lang="cab">weyu</item>
+                    <item type="gls" lang="en">sun</item>
+                    <item type="msa" lang="en">n-m</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">sun</item>
+                <item type="pos" lang="en">n-m</item>
+              </word>
+              <word guid="bde87b55-f14b-4fa7-a14d-352bff4352a9">
+                <item type="txt" lang="cab">aba</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">aba</item>
+                    <item type="cf" lang="cab">aba</item>
+                    <item type="gls" lang="en">then</item>
+                    <item type="msa" lang="en">adv</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">then</item>
+                <item type="pos" lang="en">adv</item>
+              </word>
+              <word guid="e0ddabc4-80a4-43ad-bf84-3fb43895cb8c">
+                <item type="txt" lang="cab">lábougun</item>
+              </word>
+              <word guid="d99c5188-34f6-4cd8-8997-adfc339c6f84">
+                <item type="txt" lang="cab">másaraga</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">másaraga</item>
+                    <item type="cf" lang="cab">másaraga</item>
+                    <item type="gls" lang="en">rabbit</item>
+                    <item type="msa" lang="en">n-mf</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">rabbit</item>
+                <item type="pos" lang="en">n-mf</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">,</item>
+              </word>
+              <word guid="1dcf157b-2e59-4ec2-a048-1568ef606929">
+                <item type="txt" lang="cab">lárigiñe</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">l-</item>
+                    <item type="cf" lang="cab">l-</item>
+                    <item type="gls" lang="en">P3M.SG</item>
+                    <item type="msa" lang="en">v:(person/negation)</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">árigi</item>
+                    <item type="cf" lang="cab">árigi</item>
+                    <item type="hn" lang="cab">2</item>
+                    <item type="gls" lang="en">after</item>
+                    <item type="msa" lang="en">prep</item>
+                  </morph>
+                  <morph>
+                    <item type="txt" lang="cab">-ñe</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">after</item>
+                <item type="pos" lang="en">prep</item>
+              </word>
+              <word guid="c575ec51-e59c-44af-bb9a-62cfb59a6b39">
+                <item type="txt" lang="cab">léfedun</item>
+              </word>
+              <word guid="2ba1bbd6-f034-4b99-b192-296659867af0">
+                <item type="txt" lang="cab">éigini</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">éigini</item>
+                    <item type="cf" lang="cab">éigini</item>
+                    <item type="gls" lang="en">food</item>
+                    <item type="msa" lang="en">n-m</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">food</item>
+                <item type="pos" lang="en">n-m</item>
+              </word>
+              <word guid="bde87b55-f14b-4fa7-a14d-352bff4352a9">
+                <item type="txt" lang="cab">aba</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">aba</item>
+                    <item type="cf" lang="cab">aba</item>
+                    <item type="gls" lang="en">then</item>
+                    <item type="msa" lang="en">adv</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">then</item>
+                <item type="pos" lang="en">adv</item>
+              </word>
+              <word guid="53469c0b-474c-446b-b891-ce496ea72119">
+                <item type="txt" lang="cab">láfuridun</item>
+              </word>
+              <word guid="121e652a-07ab-4893-a2c0-a89de9183871">
+                <item type="txt" lang="cab">ebeluha</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">ebeluha</item>
+                    <item type="cf" lang="cab">ebeluha</item>
+                    <item type="gls" lang="en">visit</item>
+                    <item type="msa" lang="en">vi</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">visit</item>
+                <item type="pos" lang="en">vi</item>
+              </word>
+              <word guid="871a3678-f8db-42a5-8079-a3c2754408cd">
+                <item type="txt" lang="cab">ladüga</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">ladüga</item>
+                    <item type="cf" lang="cab">ladüga</item>
+                    <item type="gls" lang="en">because</item>
+                    <item type="msa" lang="en">prep</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">because</item>
+                <item type="pos" lang="en">prep</item>
+              </word>
+              <word guid="03009b6c-79eb-4b6b-ad9a-14b9636be7e4">
+                <item type="txt" lang="cab">machülügili</item>
+              </word>
+              <word guid="5b080eff-cfae-4d82-9808-003d4a05a0d9">
+                <item type="txt" lang="cab">buga</item>
+                <morphemes>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">=buga</item>
+                    <item type="cf" lang="cab">=buga</item>
+                    <item type="gls" lang="en">=earlier</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">earlier</item>
+              </word>
+              <word guid="12aee625-3f23-44c8-a489-0476b79497ea">
+                <item type="txt" lang="cab">mesu</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">mesu</item>
+                    <item type="cf" lang="cab">mesu</item>
+                    <item type="hn" lang="cab">1</item>
+                    <item type="gls" lang="en">muscle</item>
+                    <item type="msa" lang="en">n-f</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">cat</item>
+                <item type="pos" lang="en">n-f</item>
+              </word>
+              <word guid="a18309ba-dbf8-4717-b382-21a51e0a510f">
+                <item type="txt" lang="cab">ani</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">ani</item>
+                    <item type="cf" lang="cab">ani</item>
+                    <item type="gls" lang="en">and</item>
+                    <item type="msa" lang="en">conn</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">and</item>
+                <item type="pos" lang="en">conn</item>
+              </word>
+              <word guid="a716f08e-fad3-432c-80c1-c0f17dc90680">
+                <item type="txt" lang="cab">lóuguagili</item>
+              </word>
+              <word guid="5b080eff-cfae-4d82-9808-003d4a05a0d9">
+                <item type="txt" lang="cab">buga</item>
+                <morphemes>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">=buga</item>
+                    <item type="cf" lang="cab">=buga</item>
+                    <item type="gls" lang="en">=earlier</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">earlier</item>
+              </word>
+              <word guid="a51d2419-0099-4bec-a503-62fec28b743c">
+                <item type="txt" lang="cab">lilama</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">So one day the rabbit cooked a meal,  after the meal was cooked  he went to take a walk because the cat had not arrived and he was not that hungry</item>
+          </phrase>
+          <phrase guid="54647464-8845-4718-8666-62dfb05e2f02">
+            <item type="segnum" lang="en">1.4</item>
+            <words>
+              <word guid="3c745cde-fe70-4dd9-adba-4b5c135af2ab">
+                <item type="txt" lang="cab">Lachülürünbei</item>
+              </word>
+              <word guid="d99c5188-34f6-4cd8-8997-adfc339c6f84">
+                <item type="txt" lang="cab">másaraga</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">másaraga</item>
+                    <item type="cf" lang="cab">másaraga</item>
+                    <item type="gls" lang="en">rabbit</item>
+                    <item type="msa" lang="en">n-mf</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">rabbit</item>
+                <item type="pos" lang="en">n-mf</item>
+              </word>
+              <word guid="fd73e67a-b7e2-48a4-8887-bb63364c69a8">
+                <item type="txt" lang="cab">lun</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">l-</item>
+                    <item type="cf" lang="cab">l-</item>
+                    <item type="gls" lang="en">P3M.SG</item>
+                    <item type="msa" lang="en">v:(person/negation)</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">un</item>
+                    <item type="cf" lang="cab">un</item>
+                    <item type="gls" lang="en">to</item>
+                    <item type="msa" lang="en">prep</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">to.m</item>
+                <item type="pos" lang="en">prep</item>
+              </word>
+              <word guid="812ed552-8e4c-4c35-b4fa-1e0bd393540e">
+                <item type="txt" lang="cab">ladigini</item>
+              </word>
+              <word guid="2ba1bbd6-f034-4b99-b192-296659867af0">
+                <item type="txt" lang="cab">éigini</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">éigini</item>
+                    <item type="cf" lang="cab">éigini</item>
+                    <item type="gls" lang="en">food</item>
+                    <item type="msa" lang="en">n-m</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">food</item>
+                <item type="pos" lang="en">n-m</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">,</item>
+              </word>
+              <word guid="a502ab68-9cb6-48d6-8811-28450186bcad">
+                <item type="txt" lang="cab">anihán</item>
+              </word>
+              <word guid="12aee625-3f23-44c8-a489-0476b79497ea">
+                <item type="txt" lang="cab">mesu</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">mesu</item>
+                    <item type="cf" lang="cab">mesu</item>
+                    <item type="hn" lang="cab">1</item>
+                    <item type="gls" lang="en">muscle</item>
+                    <item type="msa" lang="en">n-f</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">cat</item>
+                <item type="pos" lang="en">n-f</item>
+              </word>
+              <word guid="203af40d-bc4e-4232-8598-3c760da628c3">
+                <item type="txt" lang="cab">huñulugu</item>
+              </word>
+              <word guid="324781f7-b253-4303-8469-1d81dea5711e">
+                <item type="txt" lang="cab">tidan</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">t-</item>
+                    <item type="cf" lang="cab">t-</item>
+                    <item type="gls" lang="en">P3F.SG</item>
+                    <item type="msa" lang="en">v:(person/negation)</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">idan</item>
+                    <item type="cf" lang="cab">idan</item>
+                    <item type="gls" lang="en">in</item>
+                    <item type="msa" lang="en">prep</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="2fcc6919-bf8b-48f4-9657-f8f4564cc76e">
+                <item type="txt" lang="cab">lǘgüra</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">When the rabbit got back to dish out his food, the cat was just there lying in his hammock</item>
+          </phrase>
+          <phrase guid="a3f0ae88-8f08-4a0c-b996-0a880411034f">
+            <item type="segnum" lang="en">1.5</item>
+            <words>
+              <word guid="b1a84a3c-fb9f-4117-91af-cf5883552110">
+                <item type="txt" lang="cab">Danbei</item>
+              </word>
+              <word guid="1a48c2a5-ffd4-4e67-a808-9d860e92f00d">
+                <item type="txt" lang="cab">yebe</item>
+                <morphemes>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">=yebe</item>
+                    <item type="cf" lang="cab">=yebe</item>
+                    <item type="gls" lang="en">=to.nothing</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">to.nothing</item>
+              </word>
+              <word guid="2f5ad586-636f-4ab1-9236-48387a0cad62">
+                <item type="txt" lang="cab">ladaaruni</item>
+              </word>
+              <word guid="d99c5188-34f6-4cd8-8997-adfc339c6f84">
+                <item type="txt" lang="cab">másaraga</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">másaraga</item>
+                    <item type="cf" lang="cab">másaraga</item>
+                    <item type="gls" lang="en">rabbit</item>
+                    <item type="msa" lang="en">n-mf</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">rabbit</item>
+                <item type="pos" lang="en">n-mf</item>
+              </word>
+              <word guid="73f979e2-81f2-4b56-8256-291e2a71e9f1">
+                <item type="txt" lang="cab">sóudieru</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">sóudieru</item>
+                    <item type="cf" lang="cab">sóudieru</item>
+                    <item type="gls" lang="en">pot</item>
+                    <item type="msa" lang="en">n-m</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">pot</item>
+                <item type="pos" lang="en">n-m</item>
+              </word>
+              <word guid="4c4e8f90-506b-4248-952f-32e036ffedd2">
+                <item type="txt" lang="cab">úaali</item>
+              </word>
+              <word guid="2ba1bbd6-f034-4b99-b192-296659867af0">
+                <item type="txt" lang="cab">éigini</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">éigini</item>
+                    <item type="cf" lang="cab">éigini</item>
+                    <item type="gls" lang="en">food</item>
+                    <item type="msa" lang="en">n-m</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">food</item>
+                <item type="pos" lang="en">n-m</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">,</item>
+              </word>
+              <word guid="43aecf85-5a5c-4c9c-a979-d6fa6e36b03e">
+                <item type="txt" lang="cab">ábati</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">ábati</item>
+                    <item type="cf" lang="cab">ábati</item>
+                    <item type="gls" lang="en">then</item>
+                    <item type="msa" lang="en">adv</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">then</item>
+                <item type="pos" lang="en">adv</item>
+              </word>
+              <word guid="a45c2a51-93d4-458d-8217-4de31e7f4144">
+                <item type="txt" lang="cab">lariñagun</item>
+              </word>
+              <word guid="fd73e67a-b7e2-48a4-8887-bb63364c69a8">
+                <item type="txt" lang="cab">lun</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">l-</item>
+                    <item type="cf" lang="cab">l-</item>
+                    <item type="gls" lang="en">P3M.SG</item>
+                    <item type="msa" lang="en">v:(person/negation)</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">un</item>
+                    <item type="cf" lang="cab">un</item>
+                    <item type="gls" lang="en">to</item>
+                    <item type="msa" lang="en">prep</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">to.m</item>
+                <item type="pos" lang="en">prep</item>
+              </word>
+              <word guid="12aee625-3f23-44c8-a489-0476b79497ea">
+                <item type="txt" lang="cab">mesu</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">mesu</item>
+                    <item type="cf" lang="cab">mesu</item>
+                    <item type="hn" lang="cab">1</item>
+                    <item type="gls" lang="en">muscle</item>
+                    <item type="msa" lang="en">n-f</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">cat</item>
+                <item type="pos" lang="en">n-f</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">:</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">When the rabbit opened the pot, there was no more food, he then said to the cat</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="690e7cef-f90d-4f23-928e-a723ce93987f">
+        <phrases>
+          <phrase guid="e7905617-1b50-4e62-b18c-9d6d1f8095ae">
+            <item type="segnum" lang="en">2</item>
+            <words>
+              <word guid="707820f6-de16-4c56-ada8-ffa9e22a2ee4">
+                <item type="txt" lang="cab">--</item>
+              </word>
+              <word guid="05204fb1-6db8-467b-85b2-9e508f119e6f">
+                <item type="txt" lang="cab">Beigin</item>
+              </word>
+              <word guid="ead9472b-c5ee-47e6-a98e-8c809eff007e">
+                <item type="txt" lang="cab">san</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">san</item>
+                    <item type="cf" lang="cab">san</item>
+                    <item type="gls" lang="en">hundred</item>
+                    <item type="msa" lang="en">cardnum</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">hundred</item>
+                <item type="pos" lang="en">cardnum</item>
+              </word>
+              <word guid="df3531dc-b367-4ffc-9a8d-0395e7cdd0fe">
+                <item type="txt" lang="cab">sun</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">sun</item>
+                    <item type="cf" lang="cab">sun</item>
+                    <item type="gls" lang="en">all</item>
+                    <item type="msa" lang="en">quant</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">all</item>
+                <item type="pos" lang="en">quant</item>
+              </word>
+              <word guid="2ba1bbd6-f034-4b99-b192-296659867af0">
+                <item type="txt" lang="cab">éigini</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">éigini</item>
+                    <item type="cf" lang="cab">éigini</item>
+                    <item type="gls" lang="en">food</item>
+                    <item type="msa" lang="en">n-m</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">food</item>
+                <item type="pos" lang="en">n-m</item>
+              </word>
+              <word guid="527d0d82-fa68-418d-8614-4d88d42a7fc9">
+                <item type="txt" lang="cab">bürá</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">bürá</item>
+                    <item type="cf" lang="cab">bürá</item>
+                    <item type="gls" lang="en">brother</item>
+                    <item type="msa" lang="en">interj</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">brother</item>
+                <item type="pos" lang="en">interj</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">?</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">Did you eat all this food brother?</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="19ac5bfb-7ebf-4c94-a41e-276c44b6e11e">
+        <phrases>
+          <phrase guid="69b98228-c5a1-4f89-b0a8-47641205cfe4">
+            <item type="segnum" lang="en">3</item>
+            <words>
+              <word guid="ba01d795-e22b-403d-96f8-78ed89f1243c">
+                <item type="txt" lang="cab">Lariñaga</item>
+              </word>
+              <word guid="12aee625-3f23-44c8-a489-0476b79497ea">
+                <item type="txt" lang="cab">mesu</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">mesu</item>
+                    <item type="cf" lang="cab">mesu</item>
+                    <item type="hn" lang="cab">1</item>
+                    <item type="gls" lang="en">muscle</item>
+                    <item type="msa" lang="en">n-f</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">cat</item>
+                <item type="pos" lang="en">n-f</item>
+              </word>
+              <word guid="fd73e67a-b7e2-48a4-8887-bb63364c69a8">
+                <item type="txt" lang="cab">lun</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">l-</item>
+                    <item type="cf" lang="cab">l-</item>
+                    <item type="gls" lang="en">P3M.SG</item>
+                    <item type="msa" lang="en">v:(person/negation)</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">un</item>
+                    <item type="cf" lang="cab">un</item>
+                    <item type="gls" lang="en">to</item>
+                    <item type="msa" lang="en">prep</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">to.m</item>
+                <item type="pos" lang="en">prep</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">:</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">The cat said</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="2e33923a-5810-48b2-b463-45c0a06faaa0">
+        <phrases>
+          <phrase guid="c68c36f6-a554-4380-b4db-8b90ee44abc4">
+            <item type="segnum" lang="en">4</item>
+            <words>
+              <word guid="707820f6-de16-4c56-ada8-ffa9e22a2ee4">
+                <item type="txt" lang="cab">--</item>
+              </word>
+              <word guid="4866485d-7d30-4f50-866a-8ef2f7a4b9f5">
+                <item type="txt" lang="cab">Au</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">,</item>
+              </word>
+              <word guid="ef480604-5a19-4cdf-9612-9b956805995d">
+                <item type="txt" lang="cab">madaarungubei</item>
+              </word>
+              <word guid="43041bb5-3ad2-4501-9c35-a49726df9aea">
+                <item type="txt" lang="cab">nágili</item>
+              </word>
+              <word guid="73f979e2-81f2-4b56-8256-291e2a71e9f1">
+                <item type="txt" lang="cab">sóudieru</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">sóudieru</item>
+                    <item type="cf" lang="cab">sóudieru</item>
+                    <item type="gls" lang="en">pot</item>
+                    <item type="msa" lang="en">n-m</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">pot</item>
+                <item type="pos" lang="en">n-m</item>
+              </word>
+              <word guid="51cd0f2a-1090-4229-bae5-95812b02c20c">
+                <item type="txt" lang="cab">lúmagiñe</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">l-</item>
+                    <item type="cf" lang="cab">l-</item>
+                    <item type="gls" lang="en">P3M.SG</item>
+                    <item type="msa" lang="en">v:(person/negation)</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">úma</item>
+                    <item type="cf" lang="cab">úma</item>
+                    <item type="gls" lang="en">with</item>
+                    <item type="msa" lang="en">prep</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">-gien</item>
+                    <item type="cf" lang="cab">-gien</item>
+                    <item type="gls" lang="en">from</item>
+                    <item type="msa" lang="en">prep:Any</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="f094bbd8-79ff-4f82-9ae8-db8ba53aa756">
+                <item type="txt" lang="cab">nachülürün</item>
+              </word>
+              <word guid="b353f490-0c78-4325-9d63-e34f706e5649">
+                <item type="txt" lang="cab">múnadoun</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">Me, I have not even opened the pot since I got to the house.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="72770c0b-9c6e-4796-9075-bdf04ece2fa6">
+        <phrases>
+          <phrase guid="bd297051-a755-4730-a631-703771b77337">
+            <item type="segnum" lang="en">5.1</item>
+            <words>
+              <word guid="651d7cb7-fd53-45cd-97ce-81ee5899081a">
+                <item type="txt" lang="cab">Ani</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">ani</item>
+                    <item type="cf" lang="cab">ani</item>
+                    <item type="gls" lang="en">and</item>
+                    <item type="msa" lang="en">conn</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">and</item>
+                <item type="pos" lang="en">conn</item>
+              </word>
+              <word guid="0cb1a4c8-3b5d-4575-83a9-26ba3063ece4">
+                <item type="txt" lang="cab">ligía</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">ligía</item>
+                    <item type="cf" lang="cab">ligía</item>
+                    <item type="gls" lang="en">3m</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">3m</item>
+                <item type="pos" lang="en">pro</item>
+              </word>
+              <word guid="5b080eff-cfae-4d82-9808-003d4a05a0d9">
+                <item type="txt" lang="cab">buga</item>
+                <morphemes>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">=buga</item>
+                    <item type="cf" lang="cab">=buga</item>
+                    <item type="gls" lang="en">=earlier</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">earlier</item>
+              </word>
+              <word guid="1cceb43d-f391-4035-9c1b-5d19976efeca">
+                <item type="txt" lang="cab">éigibalin</item>
+              </word>
+              <word guid="df3531dc-b367-4ffc-9a8d-0395e7cdd0fe">
+                <item type="txt" lang="cab">sun</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">sun</item>
+                    <item type="cf" lang="cab">sun</item>
+                    <item type="gls" lang="en">all</item>
+                    <item type="msa" lang="en">quant</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">all</item>
+                <item type="pos" lang="en">quant</item>
+              </word>
+              <word guid="2ba1bbd6-f034-4b99-b192-296659867af0">
+                <item type="txt" lang="cab">éigini</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">éigini</item>
+                    <item type="cf" lang="cab">éigini</item>
+                    <item type="gls" lang="en">food</item>
+                    <item type="msa" lang="en">n-m</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">food</item>
+                <item type="pos" lang="en">n-m</item>
+              </word>
+              <word guid="a0937749-07e7-4570-8b56-3fa60af26028">
+                <item type="txt" lang="cab">ígira</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">igira</item>
+                    <item type="cf" lang="cab">igira</item>
+                    <item type="gls" lang="en">leave</item>
+                    <item type="msa" lang="en">vt</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">leave</item>
+                <item type="pos" lang="en">vt</item>
+              </word>
+              <word guid="d99c5188-34f6-4cd8-8997-adfc339c6f84">
+                <item type="txt" lang="cab">másaraga</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">másaraga</item>
+                    <item type="cf" lang="cab">másaraga</item>
+                    <item type="gls" lang="en">rabbit</item>
+                    <item type="msa" lang="en">n-mf</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">rabbit</item>
+                <item type="pos" lang="en">n-mf</item>
+              </word>
+              <word guid="cd070394-ae5c-4977-9dcb-1c0bd058d47b">
+                <item type="txt" lang="cab">méiginga</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">And he was the one that ate all the food leaving the rabbit without any food.</item>
+          </phrase>
+          <phrase guid="469ba267-66ba-424e-b8eb-ca1503d573d2">
+            <item type="segnum" lang="en">5.2</item>
+            <words>
+              <word guid="63a98a93-d075-4126-923a-e60d65742e9d">
+                <item type="txt" lang="cab">Luagu</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">l-</item>
+                    <item type="cf" lang="cab">l-</item>
+                    <item type="gls" lang="en">P3M.SG</item>
+                    <item type="msa" lang="en">v:(person/negation)</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">uagu</item>
+                    <item type="cf" lang="cab">uagu</item>
+                    <item type="gls" lang="en">on</item>
+                    <item type="msa" lang="en">prep</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">on.m</item>
+                <item type="pos" lang="en">prep</item>
+              </word>
+              <word guid="876832d6-baa9-4b5b-a7e3-5c5a684ae736">
+                <item type="txt" lang="cab">lubeiti</item>
+              </word>
+              <word guid="effc64d5-40e7-427c-9187-239a0590beb3">
+                <item type="txt" lang="cab">aban</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">aban</item>
+                    <item type="cf" lang="cab">aban</item>
+                    <item type="gls" lang="en">one</item>
+                    <item type="msa" lang="en">cardnum</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">one</item>
+                <item type="pos" lang="en">cardnum</item>
+              </word>
+              <word guid="a14c3bb0-2b5d-4c7f-a8e5-8fd5edae4e23">
+                <item type="txt" lang="cab">weyu</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">weyu</item>
+                    <item type="cf" lang="cab">weyu</item>
+                    <item type="gls" lang="en">sun</item>
+                    <item type="msa" lang="en">n-m</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">sun</item>
+                <item type="pos" lang="en">n-m</item>
+              </word>
+              <word guid="bde87b55-f14b-4fa7-a14d-352bff4352a9">
+                <item type="txt" lang="cab">aba</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">aba</item>
+                    <item type="cf" lang="cab">aba</item>
+                    <item type="gls" lang="en">then</item>
+                    <item type="msa" lang="en">adv</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">then</item>
+                <item type="pos" lang="en">adv</item>
+              </word>
+              <word guid="a45c2a51-93d4-458d-8217-4de31e7f4144">
+                <item type="txt" lang="cab">lariñagun</item>
+              </word>
+              <word guid="d99c5188-34f6-4cd8-8997-adfc339c6f84">
+                <item type="txt" lang="cab">másaraga</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">másaraga</item>
+                    <item type="cf" lang="cab">másaraga</item>
+                    <item type="gls" lang="en">rabbit</item>
+                    <item type="msa" lang="en">n-mf</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">rabbit</item>
+                <item type="pos" lang="en">n-mf</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">:</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">Threfore, one day the rabbit said</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="c0d4fc89-ebb9-4afb-bcb3-466132d159bb">
+        <phrases>
+          <phrase guid="0390ec26-6228-4d21-9879-3b41a17ddc10">
+            <item type="segnum" lang="en">6</item>
+            <words>
+              <word guid="707820f6-de16-4c56-ada8-ffa9e22a2ee4">
+                <item type="txt" lang="cab">--</item>
+              </word>
+              <word guid="c9f5b06b-005c-492b-8bfc-390193aac879">
+                <item type="txt" lang="cab">Narufudaha</item>
+              </word>
+              <word guid="4950a76b-0c3c-43a6-9542-9a82f97ee338">
+                <item type="txt" lang="cab">bun</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">b-</item>
+                    <item type="cf" lang="cab">b-</item>
+                    <item type="gls" lang="en">P2SG</item>
+                    <item type="msa" lang="en">v:(person/negation)</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">un</item>
+                    <item type="cf" lang="cab">un</item>
+                    <item type="gls" lang="en">to</item>
+                    <item type="msa" lang="en">prep</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word>
+                <item type="punct" lang="en">,</item>
+              </word>
+              <word guid="7e9641b8-62b5-4fa3-add2-7891deeeed40">
+                <item type="txt" lang="cab">do</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">do</item>
+                    <item type="cf" lang="cab">do</item>
+                    <item type="gls" lang="en">though</item>
+                    <item type="msa" lang="en">conn</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">though</item>
+                <item type="pos" lang="en">conn</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">Anyway, I am going to teach him.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="c1815cd6-8a1d-4b3d-aae5-62e7b55744c9">
+        <phrases>
+          <phrase guid="58d97b1d-7293-4bc8-8012-eff53378f846">
+            <item type="segnum" lang="en">7.1</item>
+            <words>
+              <word guid="d548c94c-edd5-40f5-8002-64b78ce144ae">
+                <item type="txt" lang="cab">Ábati</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">ábati</item>
+                    <item type="cf" lang="cab">ábati</item>
+                    <item type="gls" lang="en">then</item>
+                    <item type="msa" lang="en">adv</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">then</item>
+                <item type="pos" lang="en">adv</item>
+              </word>
+              <word guid="a81e4ecf-8b24-4ffb-bf86-8d3645b2f58f">
+                <item type="txt" lang="cab">lesetirun</item>
+              </word>
+              <word guid="d99c5188-34f6-4cd8-8997-adfc339c6f84">
+                <item type="txt" lang="cab">másaraga</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">másaraga</item>
+                    <item type="cf" lang="cab">másaraga</item>
+                    <item type="gls" lang="en">rabbit</item>
+                    <item type="msa" lang="en">n-mf</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">rabbit</item>
+                <item type="pos" lang="en">n-mf</item>
+              </word>
+              <word guid="effc64d5-40e7-427c-9187-239a0590beb3">
+                <item type="txt" lang="cab">aban</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">aban</item>
+                    <item type="cf" lang="cab">aban</item>
+                    <item type="gls" lang="en">one</item>
+                    <item type="msa" lang="en">cardnum</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">one</item>
+                <item type="pos" lang="en">cardnum</item>
+              </word>
+              <word guid="9349059a-d364-46d7-8505-c0bd770847cb">
+                <item type="txt" lang="cab">sádara</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">sádara</item>
+                    <item type="cf" lang="cab">sádara</item>
+                    <item type="gls" lang="en">trap</item>
+                    <item type="msa" lang="en">n-f</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">trap</item>
+                <item type="pos" lang="en">n-f</item>
+              </word>
+              <word guid="312ae912-15d0-4da2-afa3-4aa5a7d4b8cd">
+                <item type="txt" lang="cab">lubá</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">l-</item>
+                    <item type="cf" lang="cab">l-</item>
+                    <item type="gls" lang="en">P3M.SG</item>
+                    <item type="msa" lang="en">v:(person/negation)</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">ubá</item>
+                    <item type="cf" lang="cab">ubá</item>
+                    <item type="gls" lang="en">before</item>
+                    <item type="msa" lang="en">prep</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">because</item>
+                <item type="pos" lang="en">conn</item>
+              </word>
+              <word guid="12aee625-3f23-44c8-a489-0476b79497ea">
+                <item type="txt" lang="cab">mesu</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">mesu</item>
+                    <item type="cf" lang="cab">mesu</item>
+                    <item type="hn" lang="cab">1</item>
+                    <item type="gls" lang="en">muscle</item>
+                    <item type="msa" lang="en">n-f</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">cat</item>
+                <item type="pos" lang="en">n-f</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">,</item>
+              </word>
+              <word guid="fd73e67a-b7e2-48a4-8887-bb63364c69a8">
+                <item type="txt" lang="cab">lun</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">l-</item>
+                    <item type="cf" lang="cab">l-</item>
+                    <item type="gls" lang="en">P3M.SG</item>
+                    <item type="msa" lang="en">v:(person/negation)</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">un</item>
+                    <item type="cf" lang="cab">un</item>
+                    <item type="gls" lang="en">to</item>
+                    <item type="msa" lang="en">prep</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">to.m</item>
+                <item type="pos" lang="en">prep</item>
+              </word>
+              <word guid="b516fc05-c319-4dee-824b-94e03007820a">
+                <item type="txt" lang="cab">danme</item>
+              </word>
+              <word guid="f3af3136-e085-4fe7-a8a0-fc227d21f3ac">
+                <item type="txt" lang="cab">lan</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">l-</item>
+                    <item type="cf" lang="cab">l-</item>
+                    <item type="gls" lang="en">P3M.SG</item>
+                    <item type="msa" lang="en">v:(person/negation)</item>
+                  </morph>
+                  <morph>
+                    <item type="txt" lang="cab">an</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="5b080eff-cfae-4d82-9808-003d4a05a0d9">
+                <item type="txt" lang="cab">buga</item>
+                <morphemes>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">=buga</item>
+                    <item type="cf" lang="cab">=buga</item>
+                    <item type="gls" lang="en">=earlier</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">earlier</item>
+              </word>
+              <word guid="2f5ad586-636f-4ab1-9236-48387a0cad62">
+                <item type="txt" lang="cab">ladaaruni</item>
+              </word>
+              <word guid="12aee625-3f23-44c8-a489-0476b79497ea">
+                <item type="txt" lang="cab">mesu</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">mesu</item>
+                    <item type="cf" lang="cab">mesu</item>
+                    <item type="hn" lang="cab">1</item>
+                    <item type="gls" lang="en">muscle</item>
+                    <item type="msa" lang="en">n-f</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">cat</item>
+                <item type="pos" lang="en">n-f</item>
+              </word>
+              <word guid="73f979e2-81f2-4b56-8256-291e2a71e9f1">
+                <item type="txt" lang="cab">sóudieru</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">sóudieru</item>
+                    <item type="cf" lang="cab">sóudieru</item>
+                    <item type="gls" lang="en">pot</item>
+                    <item type="msa" lang="en">n-m</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">pot</item>
+                <item type="pos" lang="en">n-m</item>
+              </word>
+              <word guid="c0c42025-d6c6-4d3d-9ef4-cbc07754f40a">
+                <item type="txt" lang="cab">léiguadun</item>
+              </word>
+              <word guid="effc64d5-40e7-427c-9187-239a0590beb3">
+                <item type="txt" lang="cab">aban</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">aban</item>
+                    <item type="cf" lang="cab">aban</item>
+                    <item type="gls" lang="en">one</item>
+                    <item type="msa" lang="en">cardnum</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">one</item>
+                <item type="pos" lang="en">cardnum</item>
+              </word>
+              <word guid="9c54f358-2642-4a31-b01f-c1c0b3d56481">
+                <item type="txt" lang="cab">dübü</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">dübü</item>
+                    <item type="cf" lang="cab">dübü</item>
+                    <item type="gls" lang="en">rock</item>
+                    <item type="msa" lang="en">n-m</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">rock</item>
+                <item type="pos" lang="en">n-m</item>
+              </word>
+              <word guid="bc3349eb-2390-4173-a16c-54deb081f4a1">
+                <item type="txt" lang="cab">lábulugun</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">So the rabbit set a trap for the cat, so that when the cat open the  pot a rock would fall on his head.</item>
+          </phrase>
+          <phrase guid="0fc75f8a-13b4-4929-9d69-26a9aa0e3e97">
+            <item type="segnum" lang="en">7.2</item>
+            <words>
+              <word guid="a95eff10-452f-4600-a209-e568fd92ded4">
+                <item type="txt" lang="cab">Sunti</item>
+              </word>
+              <word guid="5b080eff-cfae-4d82-9808-003d4a05a0d9">
+                <item type="txt" lang="cab">buga</item>
+                <morphemes>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">=buga</item>
+                    <item type="cf" lang="cab">=buga</item>
+                    <item type="gls" lang="en">=earlier</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">earlier</item>
+              </word>
+              <word guid="75181bbd-03b5-413d-814d-9925143d1131">
+                <item type="txt" lang="cab">dan</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">dan</item>
+                    <item type="cf" lang="cab">dan</item>
+                    <item type="gls" lang="en">time</item>
+                    <item type="msa" lang="en">n-m</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">time</item>
+                <item type="pos" lang="en">n-m</item>
+              </word>
+              <word guid="b9816f27-e029-4b05-a13a-7a65d265de6e">
+                <item type="txt" lang="cab">le</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">lé</item>
+                    <item type="cf" lang="cab">lé</item>
+                    <item type="gls" lang="en">3m.prox</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">3m.prox</item>
+                <item type="pos" lang="en">pro</item>
+              </word>
+              <word guid="37a45d24-cbce-43c0-9ff4-7cdebd6dcd40">
+                <item type="txt" lang="cab">aningira</item>
+              </word>
+              <word guid="12aee625-3f23-44c8-a489-0476b79497ea">
+                <item type="txt" lang="cab">mesu</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">mesu</item>
+                    <item type="cf" lang="cab">mesu</item>
+                    <item type="hn" lang="cab">1</item>
+                    <item type="gls" lang="en">muscle</item>
+                    <item type="msa" lang="en">n-f</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">cat</item>
+                <item type="pos" lang="en">n-f</item>
+              </word>
+              <word guid="2d266e8a-e736-4651-8e94-d37abf2859c6">
+                <item type="txt" lang="cab">éibugañahadügü</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">All this time the cat had gone to take a walk or walking around the neighborhood.</item>
+          </phrase>
+          <phrase guid="031479a9-4d96-4323-8f68-72a3722e0559">
+            <item type="segnum" lang="en">7.3</item>
+            <words>
+              <word guid="c7cdf5ff-42c4-4e98-93cb-93cb94fca7ac">
+                <item type="txt" lang="cab">Danle</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">danle</item>
+                    <item type="cf" lang="cab">danle</item>
+                    <item type="gls" lang="en">when</item>
+                    <item type="msa" lang="en">conn</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">when</item>
+                <item type="pos" lang="en">conn</item>
+              </word>
+              <word guid="45b47456-48cf-470a-8b7a-cc5399c165c9">
+                <item type="txt" lang="cab">lachülürünbei</item>
+              </word>
+              <word guid="85053b2c-4bde-4200-a62b-5a7b9535bcb5">
+                <item type="txt" lang="cab">madügünti</item>
+              </word>
+              <word guid="972d18ca-371c-4ef9-aa37-8532f8cc1319">
+                <item type="txt" lang="cab">amu</item>
+              </word>
+              <word guid="bde87b55-f14b-4fa7-a14d-352bff4352a9">
+                <item type="txt" lang="cab">aba</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">aba</item>
+                    <item type="cf" lang="cab">aba</item>
+                    <item type="gls" lang="en">then</item>
+                    <item type="msa" lang="en">adv</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">then</item>
+                <item type="pos" lang="en">adv</item>
+              </word>
+              <word guid="cd59c0fb-b670-4a1e-8c8b-6accd2ae4ac3">
+                <item type="txt" lang="cab">lidin</item>
+                <morphemes>
+                  <morph type="bound root" guid="d7f713e4-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">*lidi</item>
+                    <item type="cf" lang="cab">*lidi</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">-n</item>
+                    <item type="cf" lang="cab">-n</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="2819f62d-2bec-4afe-8efa-c2f212ae7ff7">
+                <item type="txt" lang="cab">luagun</item>
+              </word>
+              <word guid="73f979e2-81f2-4b56-8256-291e2a71e9f1">
+                <item type="txt" lang="cab">sóudieru</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">sóudieru</item>
+                    <item type="cf" lang="cab">sóudieru</item>
+                    <item type="gls" lang="en">pot</item>
+                    <item type="msa" lang="en">n-m</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">pot</item>
+                <item type="pos" lang="en">n-m</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">,</item>
+              </word>
+              <word guid="72ddbe26-7f5f-4ce2-9865-3062dfd74f9e">
+                <item type="txt" lang="cab">úara</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">úara</item>
+                    <item type="cf" lang="cab">úara</item>
+                    <item type="gls" lang="en">together</item>
+                    <item type="msa" lang="en">adv</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">together</item>
+                <item type="pos" lang="en">adv</item>
+              </word>
+              <word guid="18f454f3-a270-4de5-a105-6b36117f8d99">
+                <item type="txt" lang="cab">luma</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">luma</item>
+                    <item type="cf" lang="cab">luma</item>
+                    <item type="gls" lang="en">and</item>
+                    <item type="msa" lang="en">prep</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">and</item>
+                <item type="pos" lang="en">prep</item>
+              </word>
+              <word guid="2f5ad586-636f-4ab1-9236-48387a0cad62">
+                <item type="txt" lang="cab">ladaaruni</item>
+              </word>
+              <word guid="0cb1a4c8-3b5d-4575-83a9-26ba3063ece4">
+                <item type="txt" lang="cab">ligía</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">ligía</item>
+                    <item type="cf" lang="cab">ligía</item>
+                    <item type="gls" lang="en">3m</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">3m</item>
+                <item type="pos" lang="en">pro</item>
+              </word>
+              <word guid="c0c42025-d6c6-4d3d-9ef4-cbc07754f40a">
+                <item type="txt" lang="cab">léiguadun</item>
+              </word>
+              <word guid="effc64d5-40e7-427c-9187-239a0590beb3">
+                <item type="txt" lang="cab">aban</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">aban</item>
+                    <item type="cf" lang="cab">aban</item>
+                    <item type="gls" lang="en">one</item>
+                    <item type="msa" lang="en">cardnum</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">one</item>
+                <item type="pos" lang="en">cardnum</item>
+              </word>
+              <word guid="9c54f358-2642-4a31-b01f-c1c0b3d56481">
+                <item type="txt" lang="cab">dübü</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">dübü</item>
+                    <item type="cf" lang="cab">dübü</item>
+                    <item type="gls" lang="en">rock</item>
+                    <item type="msa" lang="en">n-m</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">rock</item>
+                <item type="pos" lang="en">n-m</item>
+              </word>
+              <word guid="bc3349eb-2390-4173-a16c-54deb081f4a1">
+                <item type="txt" lang="cab">lábulugun</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">Upon arriving, he did noting different but to go straight for the pot, just as he opened it a rock fell upon his head</item>
+          </phrase>
+          <phrase guid="5c3aaa0e-ab64-4859-8c4b-05c2f1a59c4a">
+            <item type="segnum" lang="en">7.4</item>
+            <words>
+              <word guid="6cdf293e-e8db-48ca-886b-d87404b76081">
+                <item type="txt" lang="cab">Aríagualei</item>
+              </word>
+              <word guid="df3531dc-b367-4ffc-9a8d-0395e7cdd0fe">
+                <item type="txt" lang="cab">sun</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">sun</item>
+                    <item type="cf" lang="cab">sun</item>
+                    <item type="gls" lang="en">all</item>
+                    <item type="msa" lang="en">quant</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">all</item>
+                <item type="pos" lang="en">quant</item>
+              </word>
+              <word guid="832972ef-9204-4a2b-815e-3b9984980fb8">
+                <item type="txt" lang="cab">katei</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">katei</item>
+                    <item type="cf" lang="cab">katei</item>
+                    <item type="gls" lang="en">thing</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">thing</item>
+                <item type="pos" lang="en">pro</item>
+              </word>
+              <word guid="9329b11e-298e-4176-8d57-ccd5701c075f">
+                <item type="txt" lang="cab">samina</item>
+              </word>
+              <word guid="0cb1a4c8-3b5d-4575-83a9-26ba3063ece4">
+                <item type="txt" lang="cab">ligía</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">ligía</item>
+                    <item type="cf" lang="cab">ligía</item>
+                    <item type="gls" lang="en">3m</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">3m</item>
+                <item type="pos" lang="en">pro</item>
+              </word>
+              <word guid="9349059a-d364-46d7-8505-c0bd770847cb">
+                <item type="txt" lang="cab">sádara</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">sádara</item>
+                    <item type="cf" lang="cab">sádara</item>
+                    <item type="gls" lang="en">trap</item>
+                    <item type="msa" lang="en">n-f</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">trap</item>
+                <item type="pos" lang="en">n-f</item>
+              </word>
+              <word guid="5f63a123-abbb-4fb4-b519-e9827e602b20">
+                <item type="txt" lang="cab">ichugúboun</item>
+              </word>
+              <word guid="312ae912-15d0-4da2-afa3-4aa5a7d4b8cd">
+                <item type="txt" lang="cab">lubá</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">l-</item>
+                    <item type="cf" lang="cab">l-</item>
+                    <item type="gls" lang="en">P3M.SG</item>
+                    <item type="msa" lang="en">v:(person/negation)</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">ubá</item>
+                    <item type="cf" lang="cab">ubá</item>
+                    <item type="gls" lang="en">before</item>
+                    <item type="msa" lang="en">prep</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">because</item>
+                <item type="pos" lang="en">conn</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">,</item>
+              </word>
+              <word guid="bde87b55-f14b-4fa7-a14d-352bff4352a9">
+                <item type="txt" lang="cab">aba</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">aba</item>
+                    <item type="cf" lang="cab">aba</item>
+                    <item type="gls" lang="en">then</item>
+                    <item type="msa" lang="en">adv</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">then</item>
+                <item type="pos" lang="en">adv</item>
+              </word>
+              <word guid="4d067f2c-a59f-48e6-996d-cde6fbdbb665">
+                <item type="txt" lang="cab">larourun</item>
+              </word>
+              <word guid="871a3678-f8db-42a5-8079-a3c2754408cd">
+                <item type="txt" lang="cab">ladüga</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">ladüga</item>
+                    <item type="cf" lang="cab">ladüga</item>
+                    <item type="gls" lang="en">because</item>
+                    <item type="msa" lang="en">prep</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">because</item>
+                <item type="pos" lang="en">prep</item>
+              </word>
+              <word guid="441dc8ae-eae7-40c6-9724-a137e6da53ee">
+                <item type="txt" lang="cab">buleseiha</item>
+              </word>
+              <word guid="5b080eff-cfae-4d82-9808-003d4a05a0d9">
+                <item type="txt" lang="cab">buga</item>
+                <morphemes>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">=buga</item>
+                    <item type="cf" lang="cab">=buga</item>
+                    <item type="gls" lang="en">=earlier</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">earlier</item>
+              </word>
+              <word guid="2c842465-bf8e-44ad-b641-31f579341186">
+                <item type="txt" lang="cab">lichügü</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">He began observing everything and thought that it was trap that was placed for him, so he laid down because his head had been injured</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="2df1928b-a773-441e-85d7-0931c843d7dc">
+        <phrases>
+          <phrase guid="f6596bc5-c649-4173-8215-3e73cc0c0b1d">
+            <item type="segnum" lang="en">8.1</item>
+            <words>
+              <word guid="1bb7172e-5ee4-4cce-a0c5-9b1b956875f5">
+                <item type="txt" lang="cab">Lílüwagu</item>
+              </word>
+              <word guid="a5969cc6-797c-4d2f-8db1-60edbddbee80">
+                <item type="txt" lang="cab">rounlu</item>
+              </word>
+              <word guid="bde87b55-f14b-4fa7-a14d-352bff4352a9">
+                <item type="txt" lang="cab">aba</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">aba</item>
+                    <item type="cf" lang="cab">aba</item>
+                    <item type="gls" lang="en">then</item>
+                    <item type="msa" lang="en">adv</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">then</item>
+                <item type="pos" lang="en">adv</item>
+              </word>
+              <word guid="e1626d52-949b-4eb6-94f2-045268da6c58">
+                <item type="txt" lang="cab">lásaarun</item>
+              </word>
+              <word guid="bde87b55-f14b-4fa7-a14d-352bff4352a9">
+                <item type="txt" lang="cab">aba</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">aba</item>
+                    <item type="cf" lang="cab">aba</item>
+                    <item type="gls" lang="en">then</item>
+                    <item type="msa" lang="en">adv</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">then</item>
+                <item type="pos" lang="en">adv</item>
+              </word>
+              <word guid="cd59c0fb-b670-4a1e-8c8b-6accd2ae4ac3">
+                <item type="txt" lang="cab">lidin</item>
+                <morphemes>
+                  <morph type="bound root" guid="d7f713e4-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">*lidi</item>
+                    <item type="cf" lang="cab">*lidi</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">-n</item>
+                    <item type="cf" lang="cab">-n</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="1ebacbd0-f089-4a66-a075-31708cc51cf2">
+                <item type="txt" lang="cab">íchigoun</item>
+              </word>
+              <word guid="9349059a-d364-46d7-8505-c0bd770847cb">
+                <item type="txt" lang="cab">sádara</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">sádara</item>
+                    <item type="cf" lang="cab">sádara</item>
+                    <item type="gls" lang="en">trap</item>
+                    <item type="msa" lang="en">n-f</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">trap</item>
+                <item type="pos" lang="en">n-f</item>
+              </word>
+              <word guid="8cbf318f-dd2d-4eea-986a-35b8c8116079">
+                <item type="txt" lang="cab">kei</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">kei</item>
+                    <item type="cf" lang="cab">kei</item>
+                    <item type="gls" lang="en">since</item>
+                    <item type="msa" lang="en">conn</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">since</item>
+                <item type="pos" lang="en">conn</item>
+              </word>
+              <word guid="5b080eff-cfae-4d82-9808-003d4a05a0d9">
+                <item type="txt" lang="cab">buga</item>
+                <morphemes>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">=buga</item>
+                    <item type="cf" lang="cab">=buga</item>
+                    <item type="gls" lang="en">=earlier</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">earlier</item>
+              </word>
+              <word guid="f24d84bf-e7cb-4efc-9b97-3938ae6eeaf3">
+                <item type="txt" lang="cab">gáubarun</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">,</item>
+              </word>
+              <word guid="1dcf157b-2e59-4ec2-a048-1568ef606929">
+                <item type="txt" lang="cab">lárigiñe</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">l-</item>
+                    <item type="cf" lang="cab">l-</item>
+                    <item type="gls" lang="en">P3M.SG</item>
+                    <item type="msa" lang="en">v:(person/negation)</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">árigi</item>
+                    <item type="cf" lang="cab">árigi</item>
+                    <item type="hn" lang="cab">2</item>
+                    <item type="gls" lang="en">after</item>
+                    <item type="msa" lang="en">prep</item>
+                  </morph>
+                  <morph>
+                    <item type="txt" lang="cab">-ñe</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">after</item>
+                <item type="pos" lang="en">prep</item>
+              </word>
+              <word guid="971d0e95-c409-4e40-a471-51496850b8a0">
+                <item type="txt" lang="cab">ábaya</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">ábaya</item>
+                    <item type="cf" lang="cab">ábaya</item>
+                    <item type="gls" lang="en">and.again</item>
+                    <item type="msa" lang="en">conn</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">and.again</item>
+                <item type="pos" lang="en">conn</item>
+              </word>
+              <word guid="cd59c0fb-b670-4a1e-8c8b-6accd2ae4ac3">
+                <item type="txt" lang="cab">lidin</item>
+                <morphemes>
+                  <morph type="bound root" guid="d7f713e4-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">*lidi</item>
+                    <item type="cf" lang="cab">*lidi</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">-n</item>
+                    <item type="cf" lang="cab">-n</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="705a5024-c94d-40e2-a042-6fc35c8a1507">
+                <item type="txt" lang="cab">tidoun</item>
+              </word>
+              <word guid="2fcc6919-bf8b-48f4-9657-f8f4564cc76e">
+                <item type="txt" lang="cab">lǘgüra</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">After lying down for a while he then got up and went and place the trap just as he found it, afterwards he went and sat in his hammock.</item>
+          </phrase>
+          <phrase guid="f891922a-0e3c-4dd2-ba76-f89101e0fcb2">
+            <item type="segnum" lang="en">8.2</item>
+            <words>
+              <word guid="af678472-ec2c-4fbc-88fa-07d5f8a2e8a4">
+                <item type="txt" lang="cab">Sódini</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">sódini</item>
+                    <item type="cf" lang="cab">sódini</item>
+                    <item type="gls" lang="en">suddenly</item>
+                    <item type="msa" lang="en">adv</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">suddenly</item>
+                <item type="pos" lang="en">adv</item>
+              </word>
+              <word guid="0cb1a4c8-3b5d-4575-83a9-26ba3063ece4">
+                <item type="txt" lang="cab">ligía</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">ligía</item>
+                    <item type="cf" lang="cab">ligía</item>
+                    <item type="gls" lang="en">3m</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">3m</item>
+                <item type="pos" lang="en">pro</item>
+              </word>
+              <word guid="c432508d-d303-4a1f-834b-4e66207a2aab">
+                <item type="txt" lang="cab">lachülürün</item>
+              </word>
+              <word guid="d99c5188-34f6-4cd8-8997-adfc339c6f84">
+                <item type="txt" lang="cab">másaraga</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">másaraga</item>
+                    <item type="cf" lang="cab">másaraga</item>
+                    <item type="gls" lang="en">rabbit</item>
+                    <item type="msa" lang="en">n-mf</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">rabbit</item>
+                <item type="pos" lang="en">n-mf</item>
+              </word>
+              <word guid="2824ab32-8389-4e1c-b580-aeeb81ce517f">
+                <item type="txt" lang="cab">lau</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">l-</item>
+                    <item type="cf" lang="cab">l-</item>
+                    <item type="gls" lang="en">P3M.SG</item>
+                    <item type="msa" lang="en">v:(person/negation)</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">au</item>
+                    <item type="cf" lang="cab">au</item>
+                    <item type="hn" lang="cab">1</item>
+                    <item type="gls" lang="en">instr</item>
+                    <item type="msa" lang="en">prep</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="effc64d5-40e7-427c-9187-239a0590beb3">
+                <item type="txt" lang="cab">aban</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">aban</item>
+                    <item type="cf" lang="cab">aban</item>
+                    <item type="gls" lang="en">one</item>
+                    <item type="msa" lang="en">cardnum</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">one</item>
+                <item type="pos" lang="en">cardnum</item>
+              </word>
+              <word guid="6e8c21f1-2e67-4b06-9df4-af4d0adbfa7c">
+                <item type="txt" lang="cab">ilamaübusugua</item>
+              </word>
+              <word guid="0cb1a4c8-3b5d-4575-83a9-26ba3063ece4">
+                <item type="txt" lang="cab">ligía</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">ligía</item>
+                    <item type="cf" lang="cab">ligía</item>
+                    <item type="gls" lang="en">3m</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">3m</item>
+                <item type="pos" lang="en">pro</item>
+              </word>
+              <word guid="fd73e67a-b7e2-48a4-8887-bb63364c69a8">
+                <item type="txt" lang="cab">lun</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">l-</item>
+                    <item type="cf" lang="cab">l-</item>
+                    <item type="gls" lang="en">P3M.SG</item>
+                    <item type="msa" lang="en">v:(person/negation)</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">un</item>
+                    <item type="cf" lang="cab">un</item>
+                    <item type="gls" lang="en">to</item>
+                    <item type="msa" lang="en">prep</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">to.m</item>
+                <item type="pos" lang="en">prep</item>
+              </word>
+              <word guid="1e2cf8d1-9f19-4280-9662-7eb417e7b0c0">
+                <item type="txt" lang="cab">lumada</item>
+              </word>
+              <word guid="bde87b55-f14b-4fa7-a14d-352bff4352a9">
+                <item type="txt" lang="cab">aba</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">aba</item>
+                    <item type="cf" lang="cab">aba</item>
+                    <item type="gls" lang="en">then</item>
+                    <item type="msa" lang="en">adv</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">then</item>
+                <item type="pos" lang="en">adv</item>
+              </word>
+              <word guid="cd59c0fb-b670-4a1e-8c8b-6accd2ae4ac3">
+                <item type="txt" lang="cab">lidin</item>
+                <morphemes>
+                  <morph type="bound root" guid="d7f713e4-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">*lidi</item>
+                    <item type="cf" lang="cab">*lidi</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">-n</item>
+                    <item type="cf" lang="cab">-n</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="af0abffb-7470-4b5f-94cd-18fe057bd0c0">
+                <item type="txt" lang="cab">adiga</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">adiga</item>
+                    <item type="cf" lang="cab">adiga</item>
+                    <item type="gls" lang="en">catch</item>
+                    <item type="msa" lang="en">vt</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">catch</item>
+                <item type="pos" lang="en">vt</item>
+              </word>
+              <word guid="8072ab0b-573c-49eb-987c-24b9937730bd">
+                <item type="txt" lang="cab">léigin</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">,</item>
+              </word>
+              <word guid="19b2dccb-eb61-43cf-8ef1-2932c5fe9a73">
+                <item type="txt" lang="cab">gama</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">gama</item>
+                    <item type="cf" lang="cab">gama</item>
+                    <item type="gls" lang="en">propertied</item>
+                    <item type="msa" lang="en">adj</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">propertied</item>
+                <item type="pos" lang="en">adj</item>
+              </word>
+              <word guid="a73a94f1-feb0-41c8-98dd-a0185a9ce0d6">
+                <item type="txt" lang="cab">lumoun</item>
+              </word>
+              <word guid="ea76e140-c254-4929-b772-4144f4f49b6e">
+                <item type="txt" lang="cab">bulíeigua</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">bulíeigua</item>
+                    <item type="cf" lang="cab">bulíeigua</item>
+                    <item type="gls" lang="en">be.mistaken</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">be.mistaken</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word guid="5b080eff-cfae-4d82-9808-003d4a05a0d9">
+                <item type="txt" lang="cab">buga</item>
+                <morphemes>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">=buga</item>
+                    <item type="cf" lang="cab">=buga</item>
+                    <item type="gls" lang="en">=earlier</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">earlier</item>
+              </word>
+              <word guid="929bce55-13f1-4a41-b446-4c44bb25826c">
+                <item type="txt" lang="cab">tuéi</item>
+              </word>
+              <word guid="9349059a-d364-46d7-8505-c0bd770847cb">
+                <item type="txt" lang="cab">sádara</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">sádara</item>
+                    <item type="cf" lang="cab">sádara</item>
+                    <item type="gls" lang="en">trap</item>
+                    <item type="msa" lang="en">n-f</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">trap</item>
+                <item type="pos" lang="en">n-f</item>
+              </word>
+              <word guid="72ddbe26-7f5f-4ce2-9865-3062dfd74f9e">
+                <item type="txt" lang="cab">úara</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">úara</item>
+                    <item type="cf" lang="cab">úara</item>
+                    <item type="gls" lang="en">together</item>
+                    <item type="msa" lang="en">adv</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">together</item>
+                <item type="pos" lang="en">adv</item>
+              </word>
+              <word guid="18f454f3-a270-4de5-a105-6b36117f8d99">
+                <item type="txt" lang="cab">luma</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">luma</item>
+                    <item type="cf" lang="cab">luma</item>
+                    <item type="gls" lang="en">and</item>
+                    <item type="msa" lang="en">prep</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">and</item>
+                <item type="pos" lang="en">prep</item>
+              </word>
+              <word guid="2f5ad586-636f-4ab1-9236-48387a0cad62">
+                <item type="txt" lang="cab">ladaaruni</item>
+              </word>
+              <word guid="73f979e2-81f2-4b56-8256-291e2a71e9f1">
+                <item type="txt" lang="cab">sóudieru</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">sóudieru</item>
+                    <item type="cf" lang="cab">sóudieru</item>
+                    <item type="gls" lang="en">pot</item>
+                    <item type="msa" lang="en">n-m</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">pot</item>
+                <item type="pos" lang="en">n-m</item>
+              </word>
+              <word guid="72ddbe26-7f5f-4ce2-9865-3062dfd74f9e">
+                <item type="txt" lang="cab">úara</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">úara</item>
+                    <item type="cf" lang="cab">úara</item>
+                    <item type="gls" lang="en">together</item>
+                    <item type="msa" lang="en">adv</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">together</item>
+                <item type="pos" lang="en">adv</item>
+              </word>
+              <word guid="18f454f3-a270-4de5-a105-6b36117f8d99">
+                <item type="txt" lang="cab">luma</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">luma</item>
+                    <item type="cf" lang="cab">luma</item>
+                    <item type="gls" lang="en">and</item>
+                    <item type="msa" lang="en">prep</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">and</item>
+                <item type="pos" lang="en">prep</item>
+              </word>
+              <word guid="c0c42025-d6c6-4d3d-9ef4-cbc07754f40a">
+                <item type="txt" lang="cab">léiguadun</item>
+              </word>
+              <word guid="9c54f358-2642-4a31-b01f-c1c0b3d56481">
+                <item type="txt" lang="cab">dübü</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">dübü</item>
+                    <item type="cf" lang="cab">dübü</item>
+                    <item type="gls" lang="en">rock</item>
+                    <item type="msa" lang="en">n-m</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">rock</item>
+                <item type="pos" lang="en">n-m</item>
+              </word>
+              <word guid="2819f62d-2bec-4afe-8efa-c2f212ae7ff7">
+                <item type="txt" lang="cab">luagun</item>
+              </word>
+              <word guid="a31e0d77-7bf1-48ab-8fac-467c39fbe5bb">
+                <item type="txt" lang="cab">lugudi</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">lugudi</item>
+                    <item type="cf" lang="cab">lugudi</item>
+                    <item type="gls" lang="en">his.foot</item>
+                    <item type="msa" lang="en">n-m</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">his.foot</item>
+                <item type="pos" lang="en">n-m</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">The rabbit suddenly appeared with great hunger , he greeted his freind and went to takee out his food however, he had forgotten about the trap just as he opened the pot the rock fell and hit him on his foot.</item>
+          </phrase>
+          <phrase guid="02a4ff1f-7409-48e1-9990-11799d33ef24">
+            <item type="segnum" lang="en">8.3</item>
+            <words>
+              <word guid="9d65eb59-53d1-48a9-9b7d-15552f5bd6a9">
+                <item type="txt" lang="cab">Maní</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">maní</item>
+                    <item type="cf" lang="cab">maní</item>
+                    <item type="gls" lang="en">quiet</item>
+                    <item type="msa" lang="en">adj</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">quiet</item>
+                <item type="pos" lang="en">adj</item>
+              </word>
+              <word guid="0cb1a4c8-3b5d-4575-83a9-26ba3063ece4">
+                <item type="txt" lang="cab">ligía</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">ligía</item>
+                    <item type="cf" lang="cab">ligía</item>
+                    <item type="gls" lang="en">3m</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">3m</item>
+                <item type="pos" lang="en">pro</item>
+              </word>
+              <word guid="12aee625-3f23-44c8-a489-0476b79497ea">
+                <item type="txt" lang="cab">mesu</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">mesu</item>
+                    <item type="cf" lang="cab">mesu</item>
+                    <item type="hn" lang="cab">1</item>
+                    <item type="gls" lang="en">muscle</item>
+                    <item type="msa" lang="en">n-f</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">cat</item>
+                <item type="pos" lang="en">n-f</item>
+              </word>
+              <word guid="4bfced9d-4b7a-49d4-bcdd-9e852055daf7">
+                <item type="txt" lang="cab">lungua</item>
+              </word>
+              <word guid="40b79dff-69c8-461a-b2d9-e1c2dec3aa5e">
+                <item type="txt" lang="cab">aríagua</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">aríagua</item>
+                    <item type="cf" lang="cab">aríagua</item>
+                    <item type="gls" lang="en">be.watching</item>
+                    <item type="msa" lang="en">vi</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">be.watching</item>
+                <item type="pos" lang="en">vi</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">The cat kept quiet just watching</item>
+          </phrase>
+          <phrase guid="b4e98d08-a5b6-46f7-9d09-89fb4391d702">
+            <item type="segnum" lang="en">8.4</item>
+            <words>
+              <word guid="26e378cf-b38f-43bb-9de0-c79322adf69c">
+                <item type="txt" lang="cab">Madügünti</item>
+              </word>
+              <word guid="d99c5188-34f6-4cd8-8997-adfc339c6f84">
+                <item type="txt" lang="cab">másaraga</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">másaraga</item>
+                    <item type="cf" lang="cab">másaraga</item>
+                    <item type="gls" lang="en">rabbit</item>
+                    <item type="msa" lang="en">n-mf</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">rabbit</item>
+                <item type="pos" lang="en">n-mf</item>
+              </word>
+              <word guid="972d18ca-371c-4ef9-aa37-8532f8cc1319">
+                <item type="txt" lang="cab">amu</item>
+              </word>
+              <word guid="bde87b55-f14b-4fa7-a14d-352bff4352a9">
+                <item type="txt" lang="cab">aba</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">aba</item>
+                    <item type="cf" lang="cab">aba</item>
+                    <item type="gls" lang="en">then</item>
+                    <item type="msa" lang="en">adv</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">then</item>
+                <item type="pos" lang="en">adv</item>
+              </word>
+              <word guid="cd59c0fb-b670-4a1e-8c8b-6accd2ae4ac3">
+                <item type="txt" lang="cab">lidin</item>
+                <morphemes>
+                  <morph type="bound root" guid="d7f713e4-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">*lidi</item>
+                    <item type="cf" lang="cab">*lidi</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">-n</item>
+                    <item type="cf" lang="cab">-n</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="04a91545-6a56-4a94-9cb3-76b934b2d998">
+                <item type="txt" lang="cab">arounra</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">arounra</item>
+                    <item type="cf" lang="cab">arounra</item>
+                    <item type="gls" lang="en">lie</item>
+                    <item type="msa" lang="en">vi</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">lie</item>
+                <item type="pos" lang="en">vi</item>
+              </word>
+              <word guid="705a5024-c94d-40e2-a042-6fc35c8a1507">
+                <item type="txt" lang="cab">tidoun</item>
+              </word>
+              <word guid="2fcc6919-bf8b-48f4-9657-f8f4564cc76e">
+                <item type="txt" lang="cab">lǘgüra</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">The rabbit did noting else but went andd sit in his hammock</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="1b3e996e-483a-431b-b52e-5fcc6b092fb9">
+        <phrases>
+          <phrase guid="fb626dfc-0703-42e7-8695-3e815fa76818">
+            <item type="segnum" lang="en">9</item>
+            <words>
+              <word guid="646e14bc-491c-41c5-b50b-958d021036f8">
+                <item type="txt" lang="cab">Aba</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">aba</item>
+                    <item type="cf" lang="cab">aba</item>
+                    <item type="gls" lang="en">then</item>
+                    <item type="msa" lang="en">adv</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">then</item>
+                <item type="pos" lang="en">adv</item>
+              </word>
+              <word guid="876832d6-baa9-4b5b-a7e3-5c5a684ae736">
+                <item type="txt" lang="cab">lubeiti</item>
+              </word>
+              <word guid="fb532730-ea03-4a11-8a35-b682718034ef">
+                <item type="txt" lang="cab">lábouguni</item>
+              </word>
+              <word guid="12aee625-3f23-44c8-a489-0476b79497ea">
+                <item type="txt" lang="cab">mesu</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">mesu</item>
+                    <item type="cf" lang="cab">mesu</item>
+                    <item type="hn" lang="cab">1</item>
+                    <item type="gls" lang="en">muscle</item>
+                    <item type="msa" lang="en">n-f</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">cat</item>
+                <item type="pos" lang="en">n-f</item>
+              </word>
+              <word guid="d99c5188-34f6-4cd8-8997-adfc339c6f84">
+                <item type="txt" lang="cab">másaraga</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">másaraga</item>
+                    <item type="cf" lang="cab">másaraga</item>
+                    <item type="gls" lang="en">rabbit</item>
+                    <item type="msa" lang="en">n-mf</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">rabbit</item>
+                <item type="pos" lang="en">n-mf</item>
+              </word>
+              <word guid="2824ab32-8389-4e1c-b580-aeeb81ce517f">
+                <item type="txt" lang="cab">lau</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">l-</item>
+                    <item type="cf" lang="cab">l-</item>
+                    <item type="gls" lang="en">P3M.SG</item>
+                    <item type="msa" lang="en">v:(person/negation)</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cab">au</item>
+                    <item type="cf" lang="cab">au</item>
+                    <item type="hn" lang="cab">1</item>
+                    <item type="gls" lang="en">instr</item>
+                    <item type="msa" lang="en">prep</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="1f8eb600-7526-4aaa-8271-7070d9bf53e0">
+                <item type="txt" lang="cab">lagülena</item>
+              </word>
+              <word guid="1e470717-613c-43cd-878a-ffa0c56da297">
+                <item type="txt" lang="cab">guánarügü</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">So then the cat gave the rabbit a bit of his own medicine. He returned the favor of entrapment.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+    </paragraphs>
+    <languages>
+      <language lang="cab" font="Charis SIL" vernacular="true"/>
+      <language lang="en" font="Times New Roman" vernacular="true"/>
+      <language lang="es" font="Times New Roman"/>
+    </languages>
+  </interlinear-text>
+</document>

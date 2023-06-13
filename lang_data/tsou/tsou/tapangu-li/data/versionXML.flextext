@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document version="2">
+<interlinear-text guid="e7744a7d-8919-4ac8-8140-920c2d5fb24a">
+    <item type="title" lang="en">Tapangu LI</item>
+    <paragraphs>
+      <paragraph guid="a6b33a09-28b5-4e79-9168-16644ba1739a">
+        <phrases>
+          <phrase guid="d6d2d086-45ed-48f3-8b79-d0921512badb">
+            <item type="segnum" lang="en">1.1</item>
+            <words>
+              <word guid="61d7ebc6-3710-4bd5-a6e2-a16285faee5d">
+                <item type="txt" lang="tsu">io</item>
+              </word>
+              <word guid="5883d828-a773-47b9-b9f5-91cce67ce596">
+                <item type="txt" lang="tsu">nia</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">nia</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">late</item>
+              </word>
+              <word guid="9c5cc578-7db2-4c6c-895f-3ad3a34b0d90">
+                <item type="txt" lang="tsu">la</item>
+              </word>
+              <word guid="67157545-3e36-4c21-a034-a473cbc434ff">
+                <item type="txt" lang="tsu">óko</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">óko</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">young-plant</item>
+              </word>
+              <word guid="c9301e9f-0a8b-49ec-bedb-b750ac2c7cd0">
+                <item type="txt" lang="tsu">ne</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">ne</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">PREP</item>
+              </word>
+              <word guid="f3e281d9-8a32-4f57-a5d4-b5371989d952">
+                <item type="txt" lang="tsu">noanáo</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">noanáo</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">in-the-past</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">The ancient (one who) was a boy in-the-past.</item>
+            <item type="gls" lang="zh-CN"></item>
+          </phrase>
+          <phrase guid="d22beed9-9de1-464b-b7de-3d91c1dc96c9">
+            <item type="segnum" lang="en">1.2</item>
+            <words>
+              <word guid="9bd353ab-8bbd-4cbc-9bcd-ac82e788396a">
+                <item type="txt" lang="tsu">o</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">o</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">I</item>
+              </word>
+              <word guid="166dc542-250f-4c36-850a-e7369fca8ceb">
+                <item type="txt" lang="tsu">si</item>
+                <morphemes>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tsu">=si</item>
+                    <item type="cf" lang="tsu">=si</item>
+                    <item type="gls" lang="en">=3SG</item>
+                    <item type="msa" lang="en">pro-form</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">3SG</item>
+                <item type="pos" lang="en">pro-form</item>
+              </word>
+              <word guid="faeddf7d-0b19-4b5b-8f8a-33e2f884eaf5">
+                <item type="txt" lang="tsu">nana</item>
+              </word>
+              <word guid="ade87b0b-92eb-400a-8296-adb058065aff">
+                <item type="txt" lang="tsu">skúna</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">skúna</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">ordered</item>
+              </word>
+              <word guid="0ba4de24-3019-43e2-a2c4-47bf69387583">
+                <item type="txt" lang="tsu">no</item>
+              </word>
+              <word guid="dc1f69db-3aa8-4f40-a499-0a7e0d05ce3d">
+                <item type="txt" lang="tsu">inósi</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">inósi</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">its-mother</item>
+              </word>
+              <word guid="e581ce46-4fc0-420e-86b2-cb06e61747ab">
+                <item type="txt" lang="tsu">ho</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tsu">ho</item>
+                    <item type="cf" lang="tsu">ho</item>
+                    <item type="gls" lang="en">when</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">when</item>
+              </word>
+              <word guid="166dc542-250f-4c36-850a-e7369fca8ceb">
+                <item type="txt" lang="tsu">si</item>
+                <morphemes>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tsu">=si</item>
+                    <item type="cf" lang="tsu">=si</item>
+                    <item type="gls" lang="en">=3SG</item>
+                    <item type="msa" lang="en">pro-form</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">3SG</item>
+                <item type="pos" lang="en">pro-form</item>
+              </word>
+              <word guid="fe5a4499-9122-4f17-8f8c-7d64babfa50a">
+                <item type="txt" lang="tsu">eaínca</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">eaínca</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">say</item>
+              </word>
+              <word guid="a2bf7ee6-5a8e-4159-addd-6857da7e2548">
+                <item type="txt" lang="tsu">na</item>
+              </word>
+              <word guid="67157545-3e36-4c21-a034-a473cbc434ff">
+                <item type="txt" lang="tsu">óko</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">óko</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">young-plant</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">His-mother ordered (him) and she said to the boy.</item>
+            <item type="gls" lang="zh-CN"></item>
+          </phrase>
+          <phrase guid="d5374c3c-0675-4a4f-961e-208a6bc0648d">
+            <item type="segnum" lang="en">1.3</item>
+            <words>
+              <word guid="acfd8c38-6db5-47bb-b1a3-d0df117e6075">
+                <item type="txt" lang="tsu">te</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">te</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">because</item>
+              </word>
+              <word guid="2ab74ee5-e098-4ebc-9404-fee36e48a5f8">
+                <item type="txt" lang="tsu">ko</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">ko</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">you</item>
+              </word>
+              <word guid="f12f8dd9-2708-46e3-b7e6-85e8971e79c5">
+                <item type="txt" lang="tsu">nʔa</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">nʔa</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">promptly</item>
+              </word>
+              <word guid="34af135e-649b-4992-80fe-5082207c2526">
+                <item type="txt" lang="tsu">siéni</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">siéni</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">eat-up</item>
+              </word>
+              <word guid="1be96bf5-b608-400f-b834-cb23d3b70b03">
+                <item type="txt" lang="tsu">ta</item>
+                <morphemes>
+                  <morph type="proclitic" guid="d7f713e2-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tsu">ta=</item>
+                    <item type="cf" lang="tsu">ta=</item>
+                    <item type="gls" lang="en">OBL=</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">OBL</item>
+              </word>
+              <word guid="04405d00-5c56-4328-b99a-e9fdddad936a">
+                <item type="txt" lang="tsu">hopíci</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">hopíci</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">the</item>
+              </word>
+              <word guid="0ba4de24-3019-43e2-a2c4-47bf69387583">
+                <item type="txt" lang="tsu">no</item>
+              </word>
+              <word guid="ec865faf-4951-4ba3-87a0-b2bc4e6e36d2">
+                <item type="txt" lang="tsu">náveu</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">náveu</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">rice</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">"Now you will eat-up the crust of the rice."</item>
+            <item type="gls" lang="zh-CN"></item>
+          </phrase>
+          <phrase guid="eae42a6f-f4ba-45ea-bb69-0ecbabec7651">
+            <item type="segnum" lang="en">1.4</item>
+            <words>
+              <word guid="4c00a8d2-f9b1-4d2e-9d4d-2b02d41d8f7f">
+                <item type="txt" lang="tsu">óʔte</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tsu">óʔte</item>
+                    <item type="cf" lang="tsu">óʔte</item>
+                    <item type="gls" lang="en">not</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">not</item>
+              </word>
+              <word guid="34af135e-649b-4992-80fe-5082207c2526">
+                <item type="txt" lang="tsu">siéni</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">siéni</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">eat-up</item>
+              </word>
+              <word guid="a2bf7ee6-5a8e-4159-addd-6857da7e2548">
+                <item type="txt" lang="tsu">na</item>
+              </word>
+              <word guid="67157545-3e36-4c21-a034-a473cbc434ff">
+                <item type="txt" lang="tsu">óko</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">óko</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">young-plant</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">The boy did not eat-up.</item>
+            <item type="gls" lang="zh-CN"></item>
+          </phrase>
+          <phrase guid="e5a45231-e446-4f8a-935f-8040aeb83758">
+            <item type="segnum" lang="en">1.5</item>
+            <words>
+              <word guid="3e6cd886-3295-4f37-8726-208b82c8511d">
+                <item type="txt" lang="tsu">ia</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">ia</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">ah</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">Ah.</item>
+            <item type="gls" lang="zh-CN"></item>
+          </phrase>
+          <phrase guid="9dbef340-2348-4a12-9d85-4b6ffa3040f0">
+            <item type="segnum" lang="en">1.6</item>
+            <words>
+              <word guid="7646f666-0abf-444e-ab3e-5daf0169b433">
+                <item type="txt" lang="tsu">ma</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">ma</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">it-happened-that</item>
+              </word>
+              <word guid="a950fef9-2d39-4b9c-b469-dfd80c0f7625">
+                <item type="txt" lang="tsu">mo</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tsu">mo</item>
+                    <item type="cf" lang="tsu">mo</item>
+                    <item type="gls" lang="en">AV</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">AV</item>
+              </word>
+              <word guid="b70d98cc-be10-4c69-b5b4-f5d4fcaee018">
+                <item type="txt" lang="tsu">sʉ́ʔno</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">sʉ́ʔno</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">was-angry-with</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">It-turned-out-that (he) became-angry.</item>
+            <item type="gls" lang="zh-CN"></item>
+          </phrase>
+          <phrase guid="fe25c7e8-8742-4f39-bfca-53f029a3d9cd">
+            <item type="segnum" lang="en">1.7</item>
+            <words>
+              <word guid="27e7a1c3-1946-4f7f-ac6a-9f2de00c4bac">
+                <item type="txt" lang="tsu">mi</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tsu">mi</item>
+                    <item type="cf" lang="tsu">mi</item>
+                    <item type="gls" lang="en">AV</item>
+                    <item type="msa" lang="en">b.</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">AV</item>
+                <item type="pos" lang="en">b.</item>
+              </word>
+              <word guid="85e22ff0-ddbd-4113-81c4-9a64fc3102cd">
+                <item type="txt" lang="tsu">cu</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">cu</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">already</item>
+              </word>
+              <word guid="a3d82422-4876-4494-806d-846084bdbbf6">
+                <item type="txt" lang="tsu">moeoeái</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">moeoeái</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">made</item>
+              </word>
+              <word guid="0ba4de24-3019-43e2-a2c4-47bf69387583">
+                <item type="txt" lang="tsu">no</item>
+              </word>
+              <word guid="acfd8c38-6db5-47bb-b1a3-d0df117e6075">
+                <item type="txt" lang="tsu">te</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">te</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">because</item>
+              </word>
+              <word guid="8e0be5af-c336-4014-a288-63db0c0268ba">
+                <item type="txt" lang="tsu">eopúŋu</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">eopúŋu</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">wings</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">(He) made (what) would be the wings.</item>
+            <item type="gls" lang="zh-CN"></item>
+          </phrase>
+          <phrase guid="81a38cd9-2539-4661-a1d8-1d1c6a366e3a">
+            <item type="segnum" lang="en">1.8</item>
+            <words>
+              <word guid="7c564376-6952-4dd0-84d3-ed16b796b5d7">
+                <item type="txt" lang="tsu">mooeái</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">mooeái</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">makes</item>
+              </word>
+              <word guid="0ba4de24-3019-43e2-a2c4-47bf69387583">
+                <item type="txt" lang="tsu">no</item>
+              </word>
+              <word guid="71880757-95d6-44ed-b4c8-29191a4a0abd">
+                <item type="txt" lang="tsu">lahápʉ</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">lahápʉ</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">mat</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">(He) made the mat.</item>
+            <item type="gls" lang="zh-CN"></item>
+          </phrase>
+          <phrase guid="e7ccbb1b-2aa2-403c-9014-037eb8984ad8">
+            <item type="segnum" lang="en">1.9</item>
+            <words>
+              <word guid="27e7a1c3-1946-4f7f-ac6a-9f2de00c4bac">
+                <item type="txt" lang="tsu">mi</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tsu">mi</item>
+                    <item type="cf" lang="tsu">mi</item>
+                    <item type="gls" lang="en">AV</item>
+                    <item type="msa" lang="en">b.</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">AV</item>
+                <item type="pos" lang="en">b.</item>
+              </word>
+              <word guid="85e22ff0-ddbd-4113-81c4-9a64fc3102cd">
+                <item type="txt" lang="tsu">cu</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">cu</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">already</item>
+              </word>
+              <word guid="eacf8825-fca3-4536-bcca-92a8d7307ee9">
+                <item type="txt" lang="tsu">toesóso</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">toesóso</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">flew</item>
+              </word>
+              <word guid="e581ce46-4fc0-420e-86b2-cb06e61747ab">
+                <item type="txt" lang="tsu">ho</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tsu">ho</item>
+                    <item type="cf" lang="tsu">ho</item>
+                    <item type="gls" lang="en">when</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">when</item>
+              </word>
+              <word guid="7c564376-6952-4dd0-84d3-ed16b796b5d7">
+                <item type="txt" lang="tsu">mooeái</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">mooeái</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">makes</item>
+              </word>
+              <word guid="628bffd8-5a3b-4873-bfa6-02147fbc3664">
+                <item type="txt" lang="tsu">pépe</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">pépe</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">sky</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">(He) flew and soared to the sky.</item>
+            <item type="gls" lang="zh-CN"></item>
+          </phrase>
+          <phrase guid="baf2c58e-153a-4207-b995-8739b3c73cc4">
+            <item type="segnum" lang="en">1.10</item>
+            <words>
+              <word guid="acfd8c38-6db5-47bb-b1a3-d0df117e6075">
+                <item type="txt" lang="tsu">te</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">te</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">because</item>
+              </word>
+              <word guid="166dc542-250f-4c36-850a-e7369fca8ceb">
+                <item type="txt" lang="tsu">si</item>
+                <morphemes>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tsu">=si</item>
+                    <item type="cf" lang="tsu">=si</item>
+                    <item type="gls" lang="en">=3SG</item>
+                    <item type="msa" lang="en">pro-form</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">3SG</item>
+                <item type="pos" lang="en">pro-form</item>
+              </word>
+              <word guid="faeddf7d-0b19-4b5b-8f8a-33e2f884eaf5">
+                <item type="txt" lang="tsu">nana</item>
+              </word>
+              <word guid="d8f35f3e-86f7-42de-91da-7e91f4352de9">
+                <item type="txt" lang="tsu">paʔicoteúni</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">paʔicoteúni</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">let-(him)-take</item>
+              </word>
+              <word guid="0ba4de24-3019-43e2-a2c4-47bf69387583">
+                <item type="txt" lang="tsu">no</item>
+              </word>
+              <word guid="04405d00-5c56-4328-b99a-e9fdddad936a">
+                <item type="txt" lang="tsu">hopíci</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">hopíci</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">the</item>
+              </word>
+              <word guid="0ba4de24-3019-43e2-a2c4-47bf69387583">
+                <item type="txt" lang="tsu">no</item>
+              </word>
+              <word guid="dc1f69db-3aa8-4f40-a499-0a7e0d05ce3d">
+                <item type="txt" lang="tsu">inósi</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">inósi</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">its-mother</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">His mother would let-(him)-take the crust.</item>
+            <item type="gls" lang="zh-CN"></item>
+          </phrase>
+          <phrase guid="b38db330-7ac4-4db0-be72-388b1a614c5e">
+            <item type="segnum" lang="en">1.11</item>
+            <words>
+              <word guid="9f8c38e7-5058-4317-90f1-a4654a0d30fb">
+                <item type="txt" lang="tsu">oána</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">oána</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">no-longer</item>
+              </word>
+              <word guid="bfe646f3-666a-4fa1-96dc-5b26b2b22e76">
+                <item type="txt" lang="tsu">i</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tsu">i</item>
+                    <item type="cf" lang="tsu">i</item>
+                    <item type="gls" lang="en">NAV</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">NAV</item>
+              </word>
+              <word guid="166dc542-250f-4c36-850a-e7369fca8ceb">
+                <item type="txt" lang="tsu">si</item>
+                <morphemes>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tsu">=si</item>
+                    <item type="cf" lang="tsu">=si</item>
+                    <item type="gls" lang="en">=3SG</item>
+                    <item type="msa" lang="en">pro-form</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">3SG</item>
+                <item type="pos" lang="en">pro-form</item>
+              </word>
+              <word guid="9dd90ffa-35c9-4dc3-9737-e33ae3fe8b16">
+                <item type="txt" lang="tsu">tieóva</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">tieóva</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">taken-over</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">He no-longer took.</item>
+            <item type="gls" lang="zh-CN"></item>
+          </phrase>
+          <phrase guid="9a4dd404-9c0a-41fb-ad87-d0f0d36e060b">
+            <item type="segnum" lang="en">1.12</item>
+            <words>
+              <word guid="dc35d591-9054-4ac0-9d86-7f93f1334cc2">
+                <item type="txt" lang="tsu">a</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tsu">a</item>
+                    <item type="cf" lang="tsu">a</item>
+                    <item type="hn" lang="tsu">2</item>
+                    <item type="gls" lang="en">ah</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">ah</item>
+              </word>
+              <word guid="12311992-656f-4afc-be52-3aeab40d6ca1">
+                <item type="txt" lang="tsu">éno</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">éno</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">then</item>
+              </word>
+              <word guid="61d7ebc6-3710-4bd5-a6e2-a16285faee5d">
+                <item type="txt" lang="tsu">io</item>
+              </word>
+              <word guid="d40faa3f-01b5-4fef-bc26-69c9a8e1301d">
+                <item type="txt" lang="tsu">tʔoeóea</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">tʔoeóea</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">Tqoeoea-bird</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">Yes, therefore the Tqoeoea-bird (he-became).</item>
+            <item type="gls" lang="zh-CN"></item>
+          </phrase>
+        </phrases>
+      </paragraph>
+    </paragraphs>
+    <languages>
+      <language lang="en" font="Times New Roman" vernacular="true" />
+      <language lang="tsu" font="Charis SIL" vernacular="true" />
+      <language lang="zh-CN" font="SimSun" vernacular="true" />
+      <language lang="zh-Qaaa-CN-x-Piny" font="Andika" vernacular="true" />
+    </languages>
+  </interlinear-text>
+  
+</document>

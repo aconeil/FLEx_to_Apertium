@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document version="2">
+<interlinear-text guid="9641ee34-0701-40ca-b9a8-a55b76f50b61">
+    <item type="title" lang="en">Tapangu XVII</item>
+    <item type="source" lang="tsu">Pasuea Tapangû/Fang Lung-fu</item>
+    <item type="comment" lang="en">Encoded by Kalvin Hartwig</item>
+    <paragraphs>
+      <paragraph guid="645329e1-82d2-4d0a-8b7d-858a4f47d182">
+        <phrases>
+          <phrase guid="27fd677b-8e27-42a2-a9ad-edef871e7efd">
+            <item type="segnum" lang="en">1.1</item>
+            <words>
+              <word guid="61d7ebc6-3710-4bd5-a6e2-a16285faee5d">
+                <item type="txt" lang="tsu">io</item>
+              </word>
+              <word guid="965c76c8-5065-4bc9-8e26-411e33f0e5f0">
+                <item type="txt" lang="tsu">teézo</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">teézo</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">finishing-fork</item>
+              </word>
+              <word guid="9c5cc578-7db2-4c6c-895f-3ad3a34b0d90">
+                <item type="txt" lang="tsu">la</item>
+              </word>
+              <word guid="aa2fce09-d316-4141-a22c-2d3fd0b0d853">
+                <item type="txt" lang="tsu">bóemi</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">bóemi</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">uses</item>
+              </word>
+              <word guid="6a4db2bd-5dfa-4dbd-8062-c2bcfa37b6f2">
+                <item type="txt" lang="tsu">to</item>
+                <morphemes>
+                  <morph type="proclitic" guid="d7f713e2-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tsu">to=</item>
+                    <item type="cf" lang="tsu">to=</item>
+                    <item type="gls" lang="en">OBL=</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">OBL</item>
+              </word>
+              <word guid="3fa8efce-2b5d-4be7-8871-d1701338bc84">
+                <item type="txt" lang="tsu">meeméno</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">meeméno</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">iron</item>
+              </word>
+              <word guid="e581ce46-4fc0-420e-86b2-cb06e61747ab">
+                <item type="txt" lang="tsu">ho</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tsu">ho</item>
+                    <item type="cf" lang="tsu">ho</item>
+                    <item type="gls" lang="en">when</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">when</item>
+              </word>
+              <word guid="516db61d-9450-412d-bb2d-f17cb6ff718c">
+                <item type="txt" lang="tsu">poamaenóa</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">poamaenóa</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">makes-sharp</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">(For) the fishing-fork, (one) uses iron and makes-(it)-sharp.</item>
+            <item type="gls" lang="zh-CN">關於魚叉，(人們)會用鐵具然後把它磨尖。</item>
+          </phrase>
+          <phrase guid="a5b77502-b4a4-4b5e-bbdb-4d6cb9cc125b">
+            <item type="segnum" lang="en">1.2</item>
+            <words>
+              <word guid="57bc3ef2-610e-47c5-adb2-fec45d7eaf90">
+                <item type="txt" lang="tsu">aepʉ́ŋa</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">aepʉ́ŋa</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">finished</item>
+              </word>
+              <word guid="516db61d-9450-412d-bb2d-f17cb6ff718c">
+                <item type="txt" lang="tsu">poamaenóa</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">poamaenóa</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">makes-sharp</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">(One) finishes sharpening.</item>
+            <item type="gls" lang="zh-CN">(將鐵具)磨尖以後。</item>
+          </phrase>
+          <phrase guid="5fb1e725-b56f-40bf-a103-beb91a4ac77d">
+            <item type="segnum" lang="en">1.3</item>
+            <words>
+              <word guid="ce6b965a-6245-45fd-8fb3-716d6cf44fce">
+                <item type="txt" lang="tsu">tena</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tsu">tena</item>
+                    <item type="cf" lang="tsu">tena</item>
+                    <item type="gls" lang="en">FUT</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">FUT</item>
+              </word>
+              <word guid="768a2784-3b2d-4d3f-b7d5-3f7f5a47c982">
+                <item type="txt" lang="tsu">cʔu</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">cʔu</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">already</item>
+              </word>
+              <word guid="2aac1342-fc27-425a-bf2c-6fe5884486e4">
+                <item type="txt" lang="tsu">fúta</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">fúta</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">bound</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">(One then) binds (it) with some string. </item>
+            <item type="gls" lang="zh-CN">(然後人們)會用線把(它)繞起來。</item>
+          </phrase>
+          <phrase guid="55b6951d-5fae-4892-b2df-d9a387d1f6d9">
+            <item type="segnum" lang="en">1.4</item>
+            <words>
+              <word guid="e581ce46-4fc0-420e-86b2-cb06e61747ab">
+                <item type="txt" lang="tsu">ho</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tsu">ho</item>
+                    <item type="cf" lang="tsu">ho</item>
+                    <item type="gls" lang="en">when</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">when</item>
+              </word>
+              <word guid="9c5cc578-7db2-4c6c-895f-3ad3a34b0d90">
+                <item type="txt" lang="tsu">la</item>
+              </word>
+              <word guid="768a2784-3b2d-4d3f-b7d5-3f7f5a47c982">
+                <item type="txt" lang="tsu">cʔu</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">cʔu</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">already</item>
+              </word>
+              <word guid="57bc3ef2-610e-47c5-adb2-fec45d7eaf90">
+                <item type="txt" lang="tsu">aepʉ́ŋa</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">aepʉ́ŋa</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">finished</item>
+              </word>
+              <word guid="2aac1342-fc27-425a-bf2c-6fe5884486e4">
+                <item type="txt" lang="tsu">fúta</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">fúta</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">bound</item>
+              </word>
+              <word guid="ce6b965a-6245-45fd-8fb3-716d6cf44fce">
+                <item type="txt" lang="tsu">tena</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tsu">tena</item>
+                    <item type="cf" lang="tsu">tena</item>
+                    <item type="gls" lang="en">FUT</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">FUT</item>
+              </word>
+              <word guid="768a2784-3b2d-4d3f-b7d5-3f7f5a47c982">
+                <item type="txt" lang="tsu">cʔu</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">cʔu</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">already</item>
+              </word>
+              <word guid="599f96ba-ac03-4d86-88fd-9fb026138062">
+                <item type="txt" lang="tsu">ʔcʉŋhéni</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">ʔcʉŋhéni</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">fits</item>
+              </word>
+              <word guid="6a4db2bd-5dfa-4dbd-8062-c2bcfa37b6f2">
+                <item type="txt" lang="tsu">to</item>
+                <morphemes>
+                  <morph type="proclitic" guid="d7f713e2-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tsu">to=</item>
+                    <item type="cf" lang="tsu">to=</item>
+                    <item type="gls" lang="en">OBL=</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">OBL</item>
+              </word>
+              <word guid="469538a9-d190-448c-b073-b1fd9c2f41f2">
+                <item type="txt" lang="tsu">eoecʉ́ŋhʉ</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">eoecʉ́ŋhʉ</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">fishing-rod</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">When (one) finishes binding, (one) fits (it) to a handle.</item>
+            <item type="gls" lang="zh-CN">繞完線以後，(人們)就會給(它)安裝一個合適的把手。</item>
+          </phrase>
+          <phrase guid="5dc26768-a2f5-4cac-98cf-5f414465d500">
+            <item type="segnum" lang="en">1.5</item>
+            <words>
+              <word guid="db8cfe27-cf08-4166-aab6-8497281d5aa2">
+                <item type="txt" lang="tsu">siho</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">siho</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">when</item>
+              </word>
+              <word guid="bfe646f3-666a-4fa1-96dc-5b26b2b22e76">
+                <item type="txt" lang="tsu">i</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tsu">i</item>
+                    <item type="cf" lang="tsu">i</item>
+                    <item type="gls" lang="en">NAV</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">NAV</item>
+              </word>
+              <word guid="166dc542-250f-4c36-850a-e7369fca8ceb">
+                <item type="txt" lang="tsu">si</item>
+                <morphemes>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tsu">=si</item>
+                    <item type="cf" lang="tsu">=si</item>
+                    <item type="gls" lang="en">=3SG</item>
+                    <item type="msa" lang="en">pro-form</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">3SG</item>
+                <item type="pos" lang="en">pro-form</item>
+              </word>
+              <word guid="85e22ff0-ddbd-4113-81c4-9a64fc3102cd">
+                <item type="txt" lang="tsu">cu</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">cu</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">already</item>
+              </word>
+              <word guid="57bc3ef2-610e-47c5-adb2-fec45d7eaf90">
+                <item type="txt" lang="tsu">aepʉ́ŋa</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">aepʉ́ŋa</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">finished</item>
+              </word>
+              <word guid="ce6b965a-6245-45fd-8fb3-716d6cf44fce">
+                <item type="txt" lang="tsu">tena</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tsu">tena</item>
+                    <item type="cf" lang="tsu">tena</item>
+                    <item type="gls" lang="en">FUT</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">FUT</item>
+              </word>
+              <word guid="768a2784-3b2d-4d3f-b7d5-3f7f5a47c982">
+                <item type="txt" lang="tsu">cʔu</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">cʔu</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">already</item>
+              </word>
+              <word guid="71b98fa2-70c7-47e7-8c83-700abecb5cc9">
+                <item type="txt" lang="tsu">peelʉ́i</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">peelʉ́i</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">can</item>
+              </word>
+              <word guid="397ad47e-7dfa-4bdd-9194-3397a908eec6">
+                <item type="txt" lang="tsu">títha</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">títha</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">spend</item>
+              </word>
+              <word guid="9bd353ab-8bbd-4cbc-9bcd-ac82e788396a">
+                <item type="txt" lang="tsu">o</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">o</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">I</item>
+              </word>
+              <word guid="965c76c8-5065-4bc9-8e26-411e33f0e5f0">
+                <item type="txt" lang="tsu">teézo</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">teézo</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">finishing-fork</item>
+              </word>
+              <word guid="e581ce46-4fc0-420e-86b2-cb06e61747ab">
+                <item type="txt" lang="tsu">ho</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tsu">ho</item>
+                    <item type="cf" lang="tsu">ho</item>
+                    <item type="gls" lang="en">when</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">when</item>
+              </word>
+              <word guid="1c8a8937-b43e-4d1d-9016-fea75535701f">
+                <item type="txt" lang="tsu">eaeóskʉ</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">eaeóskʉ</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">finishes</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">When one finishes, the fishing-fork can be used when (one) catch-fish.</item>
+            <item type="gls" lang="zh-CN">當完成之後，魚叉就能在抓魚的時候用了。</item>
+          </phrase>
+          <phrase guid="c23f9ef1-5743-44d8-af5b-c621c0c312be">
+            <item type="segnum" lang="en">1.6</item>
+            <words>
+              <word guid="61d7ebc6-3710-4bd5-a6e2-a16285faee5d">
+                <item type="txt" lang="tsu">io</item>
+              </word>
+              <word guid="965c76c8-5065-4bc9-8e26-411e33f0e5f0">
+                <item type="txt" lang="tsu">teézo</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">teézo</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">finishing-fork</item>
+              </word>
+              <word guid="9c5cc578-7db2-4c6c-895f-3ad3a34b0d90">
+                <item type="txt" lang="tsu">la</item>
+              </word>
+              <word guid="397ad47e-7dfa-4bdd-9194-3397a908eec6">
+                <item type="txt" lang="tsu">títha</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">títha</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">spend</item>
+              </word>
+              <word guid="e581ce46-4fc0-420e-86b2-cb06e61747ab">
+                <item type="txt" lang="tsu">ho</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tsu">ho</item>
+                    <item type="cf" lang="tsu">ho</item>
+                    <item type="gls" lang="en">when</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">when</item>
+              </word>
+              <word guid="9c5cc578-7db2-4c6c-895f-3ad3a34b0d90">
+                <item type="txt" lang="tsu">la</item>
+              </word>
+              <word guid="23d3630a-6fb1-4b3c-a879-9528ac8be873">
+                <item type="txt" lang="tsu">ótfo</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">ótfo</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">poisons-the-fish</item>
+              </word>
+              <word guid="e581ce46-4fc0-420e-86b2-cb06e61747ab">
+                <item type="txt" lang="tsu">ho</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tsu">ho</item>
+                    <item type="cf" lang="tsu">ho</item>
+                    <item type="gls" lang="en">when</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">when</item>
+              </word>
+              <word guid="6adee55b-e4a9-47a2-aa68-602eb87938d8">
+                <item type="txt" lang="tsu">mamtesŋúsŋu</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">mamtesŋúsŋu</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">fishes-with-a-glass</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">The fishing-fork is used when (one) poisons-fish or fishes-with-a-glass.,</item>
+            <item type="gls" lang="zh-CN">在(人们)毒死鱼或者用玻璃捕鱼時，就要用到魚叉。.</item>
+          </phrase>
+          <phrase guid="b7f44605-497c-4a86-9381-f002356b61dc">
+            <item type="segnum" lang="en">1.7</item>
+            <words>
+              <word guid="a697c5ff-05b0-4517-9bcf-69da4dd829c7">
+                <item type="txt" lang="tsu">hoci</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">hoci</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">if</item>
+              </word>
+              <word guid="f642b29b-18ce-40a2-b941-9725cb2a2194">
+                <item type="txt" lang="tsu">ukʔá</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">ukʔá</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">there-was-not</item>
+              </word>
+              <word guid="996a7ec6-b590-42fb-8186-d3a172f990e1">
+                <item type="txt" lang="tsu">ci</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">ci</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">RELT</item>
+              </word>
+              <word guid="965c76c8-5065-4bc9-8e26-411e33f0e5f0">
+                <item type="txt" lang="tsu">teézo</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">teézo</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">finishing-fork</item>
+              </word>
+              <word guid="4edb027e-721f-4ec0-b665-6b36d90ec677">
+                <item type="txt" lang="tsu">nte</item>
+              </word>
+              <word guid="a91d82a4-f2eb-4189-83f4-73270c3e2d76">
+                <item type="txt" lang="tsu">náʔno</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">náʔno</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">very</item>
+              </word>
+              <word guid="9c16af63-6ec1-48e6-92d4-b4cc7bdb0128">
+                <item type="txt" lang="tsu">ohá</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">ohá</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">not</item>
+              </word>
+              <word guid="8989fc2f-8509-4eea-bda2-d50b82ae3bb2">
+                <item type="txt" lang="tsu">sónʉ</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">sónʉ</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">quick</item>
+              </word>
+              <word guid="e581ce46-4fc0-420e-86b2-cb06e61747ab">
+                <item type="txt" lang="tsu">ho</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tsu">ho</item>
+                    <item type="cf" lang="tsu">ho</item>
+                    <item type="gls" lang="en">when</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">when</item>
+              </word>
+              <word guid="9c5cc578-7db2-4c6c-895f-3ad3a34b0d90">
+                <item type="txt" lang="tsu">la</item>
+              </word>
+              <word guid="1c8a8937-b43e-4d1d-9016-fea75535701f">
+                <item type="txt" lang="tsu">eaeóskʉ</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="tsu">eaeóskʉ</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">finishes</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">If there-is no fishing-fork, (it) would not be very quick when (one) catches-fish.</item>
+            <item type="gls" lang="zh-CN">如果沒有魚叉的話，(捕魚)就沒有那麼快了。</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+    </paragraphs>
+    <languages>
+      <language lang="en" font="Times New Roman" vernacular="true" />
+      <language lang="tsu" font="Charis SIL" vernacular="true" />
+      <language lang="zh-CN" font="SimSun" vernacular="true" />
+      <language lang="zh-Qaaa-CN-x-Piny" font="Andika" vernacular="true" />
+    </languages>
+  </interlinear-text>
+  
+</document>

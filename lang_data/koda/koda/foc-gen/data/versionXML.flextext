@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document version="2">
+<interlinear-text guid="9b69c5e3-a1ab-46e9-853b-78e564b699ee">
+    <item type="title" lang="en">FOC =gen</item>
+    <item type="source" lang="cdz">CDZ_2013_04_12c</item>
+    <paragraphs>
+      <paragraph guid="6b5c966a-9eb5-454a-8fc9-b3bcf12d814b">
+        <phrases>
+          <phrase guid="cd746bbf-0505-420f-b6b3-a30718f7a87d">
+            <item type="segnum" lang="en">1</item>
+            <words>
+              <word guid="f070d6c5-650a-4864-b428-6c9d7c828a27">
+                <item type="txt" lang="cdz">iŋ</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">iŋ</item>
+                    <item type="cf" lang="cdz">iŋ</item>
+                    <item type="cf" lang="bn"></item>
+                    <item type="gls" lang="en">1SG</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">1sg</item>
+                <item type="pos" lang="en">pro</item>
+              </word>
+              <word guid="6ecf8dad-6f43-4655-96e4-8e7446189f74">
+                <item type="txt" lang="cdz">mihiriʔgɛn</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">mihiriʔ</item>
+                    <item type="cf" lang="cdz">mihiriʔ</item>
+                    <item type="cf" lang="bn"></item>
+                    <item type="gls" lang="en">one</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">=gɛn</item>
+                    <item type="cf" lang="cdz">=gɛn</item>
+                    <item type="cf" lang="bn">=</item>
+                    <item type="gls" lang="en">=FOC</item>
+                    <item type="msa" lang="en">adv</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">one</item>
+              </word>
+              <word guid="9079b2f3-8127-49c5-8889-a6c2c2253a30">
+                <item type="txt" lang="cdz">dubakajŋ</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">dub</item>
+                    <item type="cf" lang="cdz">dub</item>
+                    <item type="cf" lang="bn"></item>
+                    <item type="gls" lang="en">sit</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">-ak</item>
+                    <item type="cf" lang="cdz">-ak</item>
+                    <item type="cf" lang="bn">-</item>
+                    <item type="gls" lang="en">PRF.INTR</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">-a</item>
+                    <item type="cf" lang="cdz">-a</item>
+                    <item type="cf" lang="bn">-</item>
+                    <item type="gls" lang="en">IND</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="cdz">=jŋ</item>
+                    <item type="cf" lang="cdz">=iŋ</item>
+                    <item type="cf" lang="bn">=</item>
+                    <item type="gls" lang="en">=1SG.SBJ</item>
+                    <item type="msa" lang="en">pro-form</item>
+                  </morph>
+                </morphemes>
+              </word>
+            </words>
+            <item type="gls" lang="en">I am sitting alone.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+    </paragraphs>
+    <languages>
+      <language lang="en" font="Times New Roman" />
+      <language lang="cdz" font="Charis SIL" vernacular="true" />
+    </languages>
+  </interlinear-text>
+  
+</document>

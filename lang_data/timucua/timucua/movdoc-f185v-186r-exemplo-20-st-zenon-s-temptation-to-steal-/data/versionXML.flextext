@@ -1,0 +1,810 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document version="2">
+<interlinear-text guid="ef5fd52c-6cce-45c3-8c26-be5d073c3c57">
+    <item type="title" lang="en">MovDoc f185v-186r [Exemplo 20: St Zenon's temptation to steal]</item>
+    <item type="title-abbreviation" lang="en">Movilla 1635a:f185v-186r</item>
+    <item type="comment" lang="en">101517 new</item>
+    <paragraphs>
+      <paragraph guid="2544a962-01a9-4762-abaf-0a2b36b178bd">
+        <phrases>
+          <phrase guid="0287ae66-b801-4f54-a56f-45937518bded">
+            <item type="segnum" lang="en">1.1</item>
+            <words>
+              <word guid="f0839551-ae70-45d7-a9da-2cc8ee7e6b6d">
+                <item type="txt" lang="qaa-x-tjm">Itimileno</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">itimileno</item>
+                    <item type="gls" lang="en">father:(or:priest)</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="cfbf971d-c050-400a-a3d8-33b1353527d3">
+                <item type="txt" lang="qaa-x-tjm">yanqualeta</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">yanqua</item>
+                    <item type="gls" lang="en">one</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">-leta</item>
+                    <item type="gls" lang="en">indef</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word>
+                <item type="punct" lang="qaa-x-tjm">,</item>
+              </word>
+              <word guid="17c9a0d6-4d40-4b97-b843-4afb435409e1">
+                <item type="txt" lang="qaa-x-tjm">Zenon</item>
+              </word>
+              <word guid="fa0b210a-aa26-412f-8a4b-5401946e1881">
+                <item type="txt" lang="qaa-x-tjm">monolebinco</item>
+              </word>
+              <word>
+                <item type="punct" lang="qaa-x-tjm">,</item>
+              </word>
+              <word guid="0632ca52-fa4d-46d5-bce0-b3e7fa1e78b5">
+                <item type="txt" lang="qaa-x-tjm">eyemita</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">eye</item>
+                    <item type="gls" lang="en">street</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">mi</item>
+                    <item type="gls" lang="en">come</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">-ta</item>
+                    <item type="gls" lang="en">part</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="e0b4c4a1-7882-4c56-9e77-0bcfe0bd5bfe">
+                <item type="txt" lang="qaa-x-tjm">ita itequa</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">ita ite</item>
+                    <item type="gls" lang="en">walk</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">qua</item>
+                    <item type="gls" lang="en">auxiliary</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word>
+                <item type="punct" lang="qaa-x-tjm">,</item>
+              </word>
+              <word guid="eb9afcf5-f2e9-475c-898d-b96218dfc38f">
+                <item type="txt" lang="qaa-x-tjm">nihobanco</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">nihoba</item>
+                    <item type="gls" lang="en">be thirsty</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">-nco</item>
+                    <item type="gls" lang="en">RelCl</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="e980d23b-21a5-47f4-a749-305710dcb91f">
+                <item type="txt" lang="qaa-x-tjm">nebeleca</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">nebeleca</item>
+                    <item type="gls" lang="en">big</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="5761b5d0-5f23-4a11-bade-e335a7b36fe6">
+                <item type="txt" lang="qaa-x-tjm">acolesiqe</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">acole</item>
+                    <item type="gls" lang="en">very</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">-si</item>
+                    <item type="gls" lang="en">benef</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">-qe</item>
+                    <item type="gls" lang="en">if</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="d383c4c4-8f75-450c-9c83-77a6d4b9579e">
+                <item type="txt" lang="qaa-x-tjm">pataquilotamitequa</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">pataquilo</item>
+                    <item type="gls" lang="en">exhausted</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">-ta</item>
+                    <item type="gls" lang="en">part</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">mite</item>
+                    <item type="gls" lang="en">come</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">-qua</item>
+                    <item type="gls" lang="en">if</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word>
+                <item type="punct" lang="qaa-x-tjm">,</item>
+              </word>
+              <word guid="6830223f-5e13-4ae1-bea4-59b546a5a4f9">
+                <item type="txt" lang="qaa-x-tjm">pileyanqua</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">pile</item>
+                    <item type="gls" lang="en">field</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">yanqua</item>
+                    <item type="gls" lang="en">one</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="0b7e92d2-91db-463d-9710-5a982755627a">
+                <item type="txt" lang="qaa-x-tjm">enemiqe</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">enemi</item>
+                    <item type="gls" lang="en">see2</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">-qe</item>
+                    <item type="gls" lang="en">if</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word>
+                <item type="punct" lang="qaa-x-tjm">,</item>
+              </word>
+              <word guid="05ce8c03-1632-47e9-b5a4-cc7183d9c3e3">
+                <item type="txt" lang="qaa-x-tjm">pipinopuqua</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">pipino</item>
+                    <item type="gls" lang="en">*cucumber</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">puqua</item>
+                    <item type="gls" lang="en">group</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word>
+                <item type="punct" lang="qaa-x-tjm">,</item>
+              </word>
+              <word guid="079e657c-a105-4f7a-a239-f0c5f99f7b77">
+                <item type="txt" lang="qaa-x-tjm">sandiamate</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">sandia</item>
+                    <item type="gls" lang="en">*watermelon</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">-mate</item>
+                    <item type="gls" lang="en">and</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="e548197f-8d2d-449e-8ea2-d056bf691460">
+                <item type="txt" lang="qaa-x-tjm">puya</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">puya</item>
+                    <item type="gls" lang="en">vegetable?</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="7ae6f274-0a18-4de7-b35e-070a7bba0a2d">
+                <item type="txt" lang="qaa-x-tjm">eyomate</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">eyo</item>
+                    <item type="gls" lang="en">other</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">-mate</item>
+                    <item type="gls" lang="en">and</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="62ca26f1-cec9-4712-a42b-7b5b3e9b1c77">
+                <item type="txt" lang="qaa-x-tjm">quenesiqe</item>
+              </word>
+              <word>
+                <item type="punct" lang="qaa-x-tjm">,</item>
+              </word>
+              <word>
+                <item type="punct" lang="qaa-x-tjm">§</item>
+              </word>
+            </words>
+            <item type="gls" lang="es">"EXEMPLO XX |  La abstinencia de S | Zenon, que castigò vn desseo de hurtar |  Yendo vn santo Religioso, que llamauan Zenon camino, y fatigado del calor viò vna çabana donde hauia pepinos, y otras legumbres, y por refrescarse iba pensando de tomar vno, y comerle: </item>
+            <item type="gls" lang="en">The abstinence of St Zenon, who punished a desire to steal.  A holy religious man, named Zenon, was coming down the road, exhausted by the heat, and saw a field where there were cucumber and other vegetables, a he thought about taking and eating one to refresh himself.</item>
+            <item type="lit" lang="en"/>
+          </phrase>
+          <phrase guid="e32853d7-3437-4b1f-b317-2442889614a4">
+            <item type="segnum" lang="en">1.2</item>
+            <words>
+              <word guid="8867a315-91a0-4a5a-8d03-528c26b99f4a">
+                <item type="txt" lang="qaa-x-tjm">hosiyanhacote</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">hosi</item>
+                    <item type="gls" lang="en">do:to:one</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">yanha</item>
+                    <item type="gls" lang="en">one</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">-cote</item>
+                    <item type="gls" lang="en">and:also</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word>
+                <item type="punct" lang="qaa-x-tjm">,</item>
+              </word>
+              <word guid="02fc0bb1-2546-4bf9-9cfe-0bda900d287d">
+                <item type="txt" lang="qaa-x-tjm">vquata</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">vqua</item>
+                    <item type="gls" lang="en">take</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">-ta</item>
+                    <item type="gls" lang="en">part</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="0ea6106c-d3bc-489b-acd5-9fdbab3de324">
+                <item type="txt" lang="qaa-x-tjm">heta</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">he</item>
+                    <item type="gls" lang="en">eat</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">-ta</item>
+                    <item type="gls" lang="en">part</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="bc33d429-886d-4424-a1e7-08f78eeccbfb">
+                <item type="txt" lang="qaa-x-tjm">cumenachicosasoquimanta</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">cume</item>
+                    <item type="gls" lang="en">heart</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">-na</item>
+                    <item type="gls" lang="en">1sgPoss</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">ichicosa</item>
+                    <item type="gls" lang="en">be cool?</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">-so</item>
+                    <item type="gls" lang="en">caus</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">-qui</item>
+                    <item type="gls" lang="en">and</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">man</item>
+                    <item type="gls" lang="en">want</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">-ta</item>
+                    <item type="gls" lang="en">part</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word>
+                <item type="punct" lang="qaa-x-tjm">,</item>
+              </word>
+              <word guid="4ad2f8a9-bf09-4a1d-95c3-e5f9fe242da7">
+                <item type="txt" lang="qaa-x-tjm">equete</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">equete</item>
+                    <item type="gls" lang="en">be:close</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="482e024a-d93e-4f9c-88f6-6682028599bc">
+                <item type="txt" lang="qaa-x-tjm">minotaqere</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">mino</item>
+                    <item type="gls" lang="en">arrive</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">-ta</item>
+                    <item type="gls" lang="en">part</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">-qere</item>
+                    <item type="gls" lang="en">comp</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="c5a1fcba-9ad6-431d-a28d-c71f94822be6">
+                <item type="txt" lang="qaa-x-tjm">chi</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">chi -</item>
+                    <item type="gls" lang="en">2B</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="7943951d-da0f-408a-9fe7-3acb8e8c70cb">
+                <item type="txt" lang="qaa-x-tjm">imãta</item>
+              </word>
+              <word guid="dc5cac30-f325-44c6-b330-6a18db3e4c23">
+                <item type="txt" lang="qaa-x-tjm">curanomaqua</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">cura</item>
+                    <item type="gls" lang="en">desire</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">-no</item>
+                    <item type="gls" lang="en">nmlz</item>
+                  </morph>
+                  <morph>
+                    <item type="txt" lang="qaa-x-tjm">qua</item>
+                    <item type="gls" lang="en">in/on</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="82ccdc1b-a321-43bb-aeb3-7f11ad362b4c">
+                <item type="txt" lang="qaa-x-tjm">iniheti</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">iniheti</item>
+                    <item type="gls" lang="en">sin</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="b4ce63ec-0aee-4e6b-bc08-94a6bf04aee1">
+                <item type="txt" lang="qaa-x-tjm">ininelemanta</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">inino</item>
+                    <item type="gls" lang="en">sin</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">le</item>
+                    <item type="gls" lang="en">cop</item>
+                  </morph>
+                  <morph>
+                    <item type="txt" lang="qaa-x-tjm">manta</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word>
+                <item type="punct" lang="qaa-x-tjm">,</item>
+              </word>
+              <word guid="cbef3ca8-641f-4a72-8435-5bd78e3b6436">
+                <item type="txt" lang="qaa-x-tjm">hatileta</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">he</item>
+                    <item type="gls" lang="en">eat</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">-ati</item>
+                    <item type="gls" lang="en">negative</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">-leta</item>
+                    <item type="gls" lang="en">if</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word>
+                <item type="punct" lang="qaa-x-tjm">,</item>
+              </word>
+              <word guid="3a1b43da-ba25-4f8b-a124-6dcca46777e2">
+                <item type="txt" lang="qaa-x-tjm">vquatiletamosalahacu</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">vqua</item>
+                    <item type="gls" lang="en">take</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">-ati</item>
+                    <item type="gls" lang="en">negative</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">-leta</item>
+                    <item type="gls" lang="en">if</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">mosa</item>
+                    <item type="gls" lang="en">do</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">-la</item>
+                    <item type="gls" lang="en">aff</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">-hacu</item>
+                    <item type="gls" lang="en">but</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="5c9e5ace-00bf-4739-a08e-26ba00d40293">
+                <item type="txt" lang="qaa-x-tjm">minequa</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">mine</item>
+                    <item type="gls" lang="en">self</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">-qua</item>
+                    <item type="gls" lang="en">loc</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word>
+                <item type="punct" lang="qaa-x-tjm">[</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">186r</item>
+              </word>
+              <word>
+                <item type="punct" lang="qaa-x-tjm">]</item>
+              </word>
+              <word guid="e974f7de-8e7c-4b4a-971a-54a4d8f6be11">
+                <item type="txt" lang="qaa-x-tjm">nacaluaquanela</item>
+              </word>
+              <word>
+                <item type="punct" lang="qaa-x-tjm">,</item>
+              </word>
+              <word guid="5056bd2b-ab98-4ae6-b6e6-f9cda4d97f17">
+                <item type="txt" lang="qaa-x-tjm">nuquesibacare</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">nuquesiba</item>
+                    <item type="gls" lang="en">thief</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">-care</item>
+                    <item type="gls" lang="en">plural</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="22f83b07-1284-427f-93df-6ea488ae7c07">
+                <item type="txt" lang="qaa-x-tjm">caluosobonolebincoquimosota</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">caluo</item>
+                    <item type="gls" lang="en">be:punished</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">-so</item>
+                    <item type="gls" lang="en">caus</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">-bo</item>
+                    <item type="gls" lang="en">plB</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">-no</item>
+                    <item type="gls" lang="en">nmlz</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">le</item>
+                    <item type="gls" lang="en">cop</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">-bi</item>
+                    <item type="gls" lang="en">past</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">-nco</item>
+                    <item type="gls" lang="en">RelCl</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">quimo</item>
+                    <item type="gls" lang="en">in:the:same:way</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">-so</item>
+                    <item type="gls" lang="en">caus</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">-ta</item>
+                    <item type="gls" lang="en">part</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word>
+                <item type="punct" lang="qaa-x-tjm">,</item>
+              </word>
+              <word>
+                <item type="punct" lang="qaa-x-tjm">§</item>
+              </word>
+            </words>
+            <item type="gls" lang="es">llegando cerca reparô mas en ello, y pareciendole q̃ ya hauia pecado con el desseo, aunq̃ no comiò ni quitò cosa se condenò â si misino à la pena de los ladrones, que vsaban entonces; </item>
+            <item type="gls" lang="en">arriving close, he corrected himself, and it seemed to him that he had sinned with this desire, although he eat or take anything, he condemned himself to the same penalty that they used to apply to thieves.</item>
+            <item type="lit" lang="en"/>
+          </phrase>
+          <phrase guid="abc1bc22-151b-4abe-b79a-038e8dea1e97">
+            <item type="segnum" lang="en">1.3</item>
+            <words>
+              <word guid="5b8aebf5-595c-401f-ba96-75dfd65573a0">
+                <item type="txt" lang="qaa-x-tjm">elahapucaquita</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">ela</item>
+                    <item type="gls" lang="en">day</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">hapu</item>
+                    <item type="gls" lang="en">three</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">caqui</item>
+                    <item type="gls" lang="en">hold:captive</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">-ta</item>
+                    <item type="gls" lang="en">part</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="2e0481dd-3981-4ddf-99a0-5464d24bf9ef">
+                <item type="txt" lang="qaa-x-tjm">pilanimate</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">pilani</item>
+                    <item type="gls" lang="en">in:the:night</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">-mate</item>
+                    <item type="gls" lang="en">and</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word>
+                <item type="punct" lang="qaa-x-tjm">,</item>
+              </word>
+              <word guid="53d9927b-9483-41d9-b92b-83767a0b1d71">
+                <item type="txt" lang="qaa-x-tjm">hononamahatota</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">hono</item>
+                    <item type="gls" lang="en">food</item>
+                  </morph>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">na-</item>
+                    <item type="gls" lang="en">ins</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">mahato</item>
+                    <item type="gls" lang="en">withhold</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">-ta</item>
+                    <item type="gls" lang="en">part</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="83334ff2-f3cd-47be-820f-5d10a0961a73">
+                <item type="txt" lang="qaa-x-tjm">iribosota</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">iribo</item>
+                    <item type="gls" lang="en">stand</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">-so</item>
+                    <item type="gls" lang="en">caus</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">-ta</item>
+                    <item type="gls" lang="en">part</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="93320886-839e-4867-ba5d-37cb668d739a">
+                <item type="txt" lang="qaa-x-tjm">quosonolebinco</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">quoso</item>
+                    <item type="gls" lang="en">make</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">-no</item>
+                    <item type="gls" lang="en">nmlz</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">le</item>
+                    <item type="gls" lang="en">cop</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">-bi</item>
+                    <item type="gls" lang="en">past</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">-nco</item>
+                    <item type="gls" lang="en">RelCl</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="84dccd45-641f-472a-bcad-c6b5ee3c5f81">
+                <item type="txt" lang="qaa-x-tjm">isala</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">isa</item>
+                    <item type="gls" lang="en">hold</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">-la</item>
+                    <item type="gls" lang="en">aff</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word>
+                <item type="punct" lang="qaa-x-tjm">,</item>
+              </word>
+              <word guid="06ad91c1-8119-4514-8e1c-d9142fa75407">
+                <item type="txt" lang="qaa-x-tjm">caquosota</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">caquo</item>
+                    <item type="gls" lang="en">torture</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">-so</item>
+                    <item type="gls" lang="en">caus</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">-ta</item>
+                    <item type="gls" lang="en">part</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="b86a47bf-a1ba-4ad4-8016-4c9103c90c69">
+                <item type="txt" lang="qaa-x-tjm">iniheti inino</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">iniheti</item>
+                    <item type="gls" lang="en">sin</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">ini</item>
+                    <item type="gls" lang="en">commit</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">-no</item>
+                    <item type="gls" lang="en">nmlz</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="bb83ca8b-f3c7-4456-a4ba-23d3b0b28085">
+                <item type="txt" lang="qaa-x-tjm">chiricolanimanibohelahacu</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">chirico</item>
+                    <item type="gls" lang="en">small</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">-la</item>
+                    <item type="gls" lang="en">aff</item>
+                  </morph>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">ni-</item>
+                    <item type="gls" lang="en">1:s:B</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">mani</item>
+                    <item type="gls" lang="en">want</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">-bo</item>
+                    <item type="gls" lang="en">plB</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">-he</item>
+                    <item type="gls" lang="en">future</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">-la</item>
+                    <item type="gls" lang="en">aff</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">-hacu</item>
+                    <item type="gls" lang="en">but</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="55273046-667b-43b0-8d4b-a337b7805b02">
+                <item type="txt" lang="qaa-x-tjm">mene no</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">mine</item>
+                    <item type="gls" lang="en">resp</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">-no</item>
+                    <item type="gls" lang="en">nmlz</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="f4adb5d7-f242-48dd-ae68-b04ed0288eab">
+                <item type="txt" lang="qaa-x-tjm">iquolemanda</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">iquo</item>
+                    <item type="gls" lang="en">large</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">-le</item>
+                    <item type="gls" lang="en">aff</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">man</item>
+                    <item type="gls" lang="en">want</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">-da</item>
+                    <item type="gls" lang="en">part</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="20dc9070-1ac6-45af-93a9-4b37cdc515d9">
+                <item type="txt" lang="qaa-x-tjm">naquosala</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">na-</item>
+                    <item type="gls" lang="en">ins</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">quosa</item>
+                    <item type="gls" lang="en">make</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="qaa-x-tjm">-la</item>
+                    <item type="gls" lang="en">aff</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word>
+                <item type="punct" lang="qaa-x-tjm">|</item>
+              </word>
+            </words>
+            <item type="gls" lang="es">q̃ era tenerlos tres dias atados al sol, y al frio de noche, y de dia sin darles de comer: y desta manera castigò su culpa, q̃ nos parece tan pequeña, aunque el la tenia por grande | [186r] "</item>
+            <item type="gls" lang="en">which was that they kept them tied up for three days in the sun and cold of night without giving them anything to eat, and in this way he pubished himself for his sin, which seems to us so small, although he regarded it as very great.</item>
+            <item type="lit" lang="en"/>
+          </phrase>
+        </phrases>
+      </paragraph>
+    </paragraphs>
+    <languages>
+      <language lang="en" font="Times New Roman"/>
+      <language lang="qaa-x-tjm" font="Charis SIL" vernacular="true"/>
+      <language lang="es" font="Times New Roman"/>
+      <language lang="qaa-x-tim" font="Charis SIL"/>
+    </languages>
+  </interlinear-text>
+</document>

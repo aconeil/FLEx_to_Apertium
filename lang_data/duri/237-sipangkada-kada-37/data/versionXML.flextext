@@ -1,0 +1,1296 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document version="2">
+<interlinear-text guid="a184a9f2-0152-418e-abcc-c1ea230839a8">
+    <item type="title" lang="mvp">237. Sipangkada-kada 37</item>
+    <paragraphs>
+      <paragraph guid="6b680dff-0986-46a8-b13a-2a35f4e7cfee">
+        <phrases>
+          <phrase guid="a88143a2-f0b2-4b1b-bb93-e0f6261f629d">
+            <item type="segnum" lang="en">1</item>
+            <words>
+              <word guid="6bf05f58-da58-462f-89db-1e251da586dd">
+                <item type="txt" lang="mvp">Sampe</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">sampe</item>
+                    <item type="cf" lang="mvp">sampe</item>
+                    <item type="gls" lang="en">full (moon)</item>
+                    <item type="gls" lang="id">purnama</item>
+                    <item type="msa" lang="en">common</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">full (moon)</item>
+                <item type="gls" lang="id">(bulan) purnama</item>
+                <item type="pos" lang="en">common</item>
+                <item type="pos" lang="id"></item>
+              </word>
+              <word guid="d168863d-935b-47dd-800c-b788faa4f325">
+                <item type="txt" lang="mvp">bulan</item>
+                <morphemes>
+                  <morph type="phrase" guid="a23b6faa-1052-4f4d-984b-4b338bdaf95f">
+                    <item type="txt" lang="mvp">bulan</item>
+                    <item type="cf" lang="mvp">bulan</item>
+                    <item type="gls" lang="en">moon</item>
+                    <item type="gls" lang="id">bulan</item>
+                    <item type="msa" lang="en">common</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">moon</item>
+                <item type="gls" lang="id">bulan</item>
+                <item type="pos" lang="en">common</item>
+                <item type="pos" lang="id"></item>
+              </word>
+            </words>
+            <item type="gls" lang="en">Full moon.</item>
+            <item type="gls" lang="id">Bulan purnama.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="ca3cadef-db45-4d97-bc32-43dec68d540d">
+        <phrases>
+          <phrase guid="2a15d8c3-1815-45ed-8f6b-8df5461f2a65">
+            <item type="segnum" lang="en">2</item>
+            <words>
+              <word>
+                <item type="punct" lang="id">A1</item>
+              </word>
+              <word>
+                <item type="punct" lang="mvp">:</item>
+              </word>
+              <word guid="e9c7c22f-d795-4998-a778-9066f41c9289">
+                <item type="txt" lang="mvp">Penpiranmira</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">pen-</item>
+                    <item type="cf" lang="mvp">peN- -n</item>
+                    <item type="gls" lang="en">AdvNUM</item>
+                    <item type="gls" lang="id">AdvNUM</item>
+                    <item type="msa" lang="en">NUM&gt;adv</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">pira</item>
+                    <item type="cf" lang="mvp">pira</item>
+                    <item type="gls" lang="en">how much; how many</item>
+                    <item type="gls" lang="id">berapa; berapa (banyak)</item>
+                    <item type="msa" lang="en">NUMinterrorg</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">-n</item>
+                    <item type="cf" lang="mvp">peN- -n</item>
+                    <item type="gls" lang="en">AdvNUM</item>
+                    <item type="gls" lang="id">AdvNUM</item>
+                    <item type="msa" lang="en">NUM&gt;adv</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">=m</item>
+                    <item type="cf" lang="mvp">=mo</item>
+                    <item type="gls" lang="en">=CMP</item>
+                    <item type="gls" lang="id">=CMP</item>
+                    <item type="msa" lang="en">TAM</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">=i</item>
+                    <item type="cf" lang="mvp">=i</item>
+                    <item type="gls" lang="en">=3p</item>
+                    <item type="gls" lang="id">=3p</item>
+                    <item type="msa" lang="en">p</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">=ra</item>
+                    <item type="cf" lang="mvp">=ra</item>
+                    <item type="gls" lang="en">=CTR</item>
+                    <item type="gls" lang="id">=CTR</item>
+                    <item type="msa" lang="en">TAM</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">which number already 3p CTR</item>
+                <item type="gls" lang="id">hari keberapa sudah 3p CTR</item>
+                <item type="pos" lang="en">NUMinterrorg</item>
+                <item type="pos" lang="id"></item>
+              </word>
+              <word guid="2c17a5cb-ca28-4219-84e2-bb2635bb389c">
+                <item type="txt" lang="mvp">to</item>
+                <morphemes>
+                  <morph type="particle" guid="56db04bf-3d58-44cc-b292-4c8aa68538f4">
+                    <item type="txt" lang="mvp">to</item>
+                    <item type="cf" lang="mvp">to</item>
+                    <item type="hn" lang="mvp">1</item>
+                    <item type="gls" lang="en">DEF</item>
+                    <item type="gls" lang="id">DEF</item>
+                    <item type="msa" lang="en">prt</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">DEF</item>
+                <item type="gls" lang="id">DEF</item>
+                <item type="pos" lang="en">prt</item>
+                <item type="pos" lang="id"></item>
+              </word>
+              <word guid="d168863d-935b-47dd-800c-b788faa4f325">
+                <item type="txt" lang="mvp">bulan</item>
+                <morphemes>
+                  <morph type="phrase" guid="a23b6faa-1052-4f4d-984b-4b338bdaf95f">
+                    <item type="txt" lang="mvp">bulan</item>
+                    <item type="cf" lang="mvp">bulan</item>
+                    <item type="gls" lang="en">moon</item>
+                    <item type="gls" lang="id">bulan</item>
+                    <item type="msa" lang="en">common</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">moon</item>
+                <item type="gls" lang="id">bulan</item>
+                <item type="pos" lang="en">common</item>
+                <item type="pos" lang="id"></item>
+              </word>
+              <word guid="d7b22b39-5b74-480f-bf97-fa58a3ecd8e4">
+                <item type="txt" lang="mvp">too</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">too</item>
+                    <item type="cf" lang="mvp">too</item>
+                    <item type="gls" lang="en">now</item>
+                    <item type="gls" lang="id">sekarang</item>
+                    <item type="msa" lang="en">adv</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">now</item>
+                <item type="gls" lang="id">sekarang</item>
+                <item type="pos" lang="en">adv</item>
+                <item type="pos" lang="id"></item>
+              </word>
+              <word>
+                <item type="punct" lang="mvp">?</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">What number/phase is the moon in now?</item>
+            <item type="gls" lang="id">Hari keberapa bulan sekarang?</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="ee316061-88ec-4c6b-aa6c-b2feafe88c2b">
+        <phrases>
+          <phrase guid="74b35f63-33eb-4b3a-b318-8b52293528a1">
+            <item type="segnum" lang="en">3</item>
+            <words>
+              <word>
+                <item type="punct" lang="id">B1</item>
+              </word>
+              <word>
+                <item type="punct" lang="mvp">:</item>
+              </word>
+              <word guid="3c2913ec-9a17-4ee7-bb05-767a767fbdfd">
+                <item type="txt" lang="mvp">Pessangpulo</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">pes-</item>
+                    <item type="cf" lang="mvp">peN-</item>
+                    <item type="hn" lang="mvp">2</item>
+                    <item type="gls" lang="en">AdvNUM</item>
+                    <item type="gls" lang="id">AdvNUM</item>
+                    <item type="msa" lang="en">NUM&gt;adv</item>
+                  </morph>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">sang-</item>
+                    <item type="cf" lang="mvp">sang-</item>
+                    <item type="gls" lang="en">one</item>
+                    <item type="gls" lang="id">satu</item>
+                    <item type="msa" lang="en">NUM:(numeral)</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">pulo</item>
+                    <item type="cf" lang="mvp">pulo</item>
+                    <item type="gls" lang="en">ten</item>
+                    <item type="gls" lang="id">puluh</item>
+                    <item type="msa" lang="en">NUM</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">tenth</item>
+                <item type="gls" lang="id">ke(empat) pulu </item>
+                <item type="pos" lang="en">NUM</item>
+                <item type="pos" lang="id"></item>
+              </word>
+              <word guid="64f56eb0-349e-4468-804d-249f99b66691">
+                <item type="txt" lang="mvp">aqpaqmi</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">aqpaq</item>
+                    <item type="cf" lang="mvp">aqpaq</item>
+                    <item type="gls" lang="en">four</item>
+                    <item type="gls" lang="id">empat</item>
+                    <item type="msa" lang="en">NUM</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">=m</item>
+                    <item type="cf" lang="mvp">=mo</item>
+                    <item type="gls" lang="en">=CMP</item>
+                    <item type="gls" lang="id">=CMP</item>
+                    <item type="msa" lang="en">TAM</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">=i</item>
+                    <item type="cf" lang="mvp">=i</item>
+                    <item type="gls" lang="en">=3p</item>
+                    <item type="gls" lang="id">=3p</item>
+                    <item type="msa" lang="en">p</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">four already 3p</item>
+                <item type="gls" lang="id">empat sudah 3p</item>
+                <item type="pos" lang="en">NUM</item>
+                <item type="pos" lang="id"></item>
+              </word>
+              <word guid="2c17a5cb-ca28-4219-84e2-bb2635bb389c">
+                <item type="txt" lang="mvp">to</item>
+                <morphemes>
+                  <morph type="particle" guid="56db04bf-3d58-44cc-b292-4c8aa68538f4">
+                    <item type="txt" lang="mvp">to</item>
+                    <item type="cf" lang="mvp">to</item>
+                    <item type="hn" lang="mvp">1</item>
+                    <item type="gls" lang="en">DEF</item>
+                    <item type="gls" lang="id">DEF</item>
+                    <item type="msa" lang="en">prt</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">DEF</item>
+                <item type="gls" lang="id">DEF</item>
+                <item type="pos" lang="en">prt</item>
+                <item type="pos" lang="id"></item>
+              </word>
+              <word guid="d168863d-935b-47dd-800c-b788faa4f325">
+                <item type="txt" lang="mvp">bulan</item>
+                <morphemes>
+                  <morph type="phrase" guid="a23b6faa-1052-4f4d-984b-4b338bdaf95f">
+                    <item type="txt" lang="mvp">bulan</item>
+                    <item type="cf" lang="mvp">bulan</item>
+                    <item type="gls" lang="en">moon</item>
+                    <item type="gls" lang="id">bulan</item>
+                    <item type="msa" lang="en">common</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">moon</item>
+                <item type="gls" lang="id">bulan</item>
+                <item type="pos" lang="en">common</item>
+                <item type="pos" lang="id"></item>
+              </word>
+              <word>
+                <item type="punct" lang="mvp">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">The moon is full.</item>
+            <item type="gls" lang="id">Sudah hari keempat belas.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="86101082-f343-4713-b299-ff9140738fb3">
+        <phrases>
+          <phrase guid="3dde49e3-943d-4988-9bc7-7a333cf516d2">
+            <item type="segnum" lang="en">4</item>
+            <words>
+              <word>
+                <item type="punct" lang="id">A2</item>
+              </word>
+              <word>
+                <item type="punct" lang="mvp">:</item>
+              </word>
+              <word guid="aa0591bb-4023-412d-9b7d-fc63ddb085fd">
+                <item type="txt" lang="mvp">Tatteq</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">tatteq</item>
+                    <item type="cf" lang="mvp">tatteq</item>
+                    <item type="gls" lang="en">o'clock</item>
+                    <item type="gls" lang="id">jam</item>
+                    <item type="msa" lang="en">adv</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">hour; o'clock</item>
+                <item type="gls" lang="id">jam</item>
+                <item type="pos" lang="en">adv</item>
+                <item type="pos" lang="id"></item>
+              </word>
+              <word guid="e03730b6-a9fb-4f18-8776-ffc76acde24d">
+                <item type="txt" lang="mvp">pirara</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">pira</item>
+                    <item type="cf" lang="mvp">pira</item>
+                    <item type="gls" lang="en">how much; how many</item>
+                    <item type="gls" lang="id">berapa; berapa (banyak)</item>
+                    <item type="msa" lang="en">NUMinterrorg</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">=ra</item>
+                    <item type="cf" lang="mvp">=ra</item>
+                    <item type="gls" lang="en">=CTR</item>
+                    <item type="gls" lang="id">=CTR</item>
+                    <item type="msa" lang="en">TAM</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">how much/many CTR</item>
+                <item type="gls" lang="id">berapa CTR</item>
+                <item type="pos" lang="en">NUMinterrorg</item>
+                <item type="pos" lang="id"></item>
+              </word>
+              <word guid="f704400b-f5c4-4eec-adde-e1c07fb5f948">
+                <item type="txt" lang="mvp">namamula</item>
+                <morphemes>
+                  <morph type="proclitic" guid="d7f713e2-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">na=</item>
+                    <item type="cf" lang="mvp">na=</item>
+                    <item type="gls" lang="en">3p=</item>
+                    <item type="gls" lang="id">3p=</item>
+                    <item type="msa" lang="en">p</item>
+                  </morph>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">ma-</item>
+                    <item type="cf" lang="mvp">ma-</item>
+                    <item type="gls" lang="en">maVi</item>
+                    <item type="gls" lang="id">maVi</item>
+                    <item type="msa" lang="en">vi&gt;ma-vi</item>
+                  </morph>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">mula</item>
+                    <item type="cf" lang="mvp">mula</item>
+                    <item type="gls" lang="en">begin; start</item>
+                    <item type="gls" lang="id">mulai</item>
+                    <item type="msa" lang="en">vi</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">3p start</item>
+                <item type="gls" lang="id">3p mulai</item>
+                <item type="pos" lang="en">ma-vi</item>
+                <item type="pos" lang="id"></item>
+              </word>
+              <word guid="6105dc54-d88e-46f2-ba86-a0820f3e3046">
+                <item type="txt" lang="mvp">ollong</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">ollong</item>
+                    <item type="cf" lang="mvp">ollong</item>
+                    <item type="gls" lang="en">appear/be.visible</item>
+                    <item type="gls" lang="id">muncul/kelihatan</item>
+                    <item type="msa" lang="en">0-vi</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">appear; visible</item>
+                <item type="gls" lang="id">muncul; kelihatan</item>
+                <item type="pos" lang="en">vi</item>
+                <item type="pos" lang="id"></item>
+              </word>
+              <word guid="2c17a5cb-ca28-4219-84e2-bb2635bb389c">
+                <item type="txt" lang="mvp">to</item>
+                <morphemes>
+                  <morph type="particle" guid="56db04bf-3d58-44cc-b292-4c8aa68538f4">
+                    <item type="txt" lang="mvp">to</item>
+                    <item type="cf" lang="mvp">to</item>
+                    <item type="hn" lang="mvp">1</item>
+                    <item type="gls" lang="en">DEF</item>
+                    <item type="gls" lang="id">DEF</item>
+                    <item type="msa" lang="en">prt</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">DEF</item>
+                <item type="gls" lang="id">DEF</item>
+                <item type="pos" lang="en">prt</item>
+                <item type="pos" lang="id"></item>
+              </word>
+              <word guid="d168863d-935b-47dd-800c-b788faa4f325">
+                <item type="txt" lang="mvp">bulan</item>
+                <morphemes>
+                  <morph type="phrase" guid="a23b6faa-1052-4f4d-984b-4b338bdaf95f">
+                    <item type="txt" lang="mvp">bulan</item>
+                    <item type="cf" lang="mvp">bulan</item>
+                    <item type="gls" lang="en">moon</item>
+                    <item type="gls" lang="id">bulan</item>
+                    <item type="msa" lang="en">common</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">moon</item>
+                <item type="gls" lang="id">bulan</item>
+                <item type="pos" lang="en">common</item>
+                <item type="pos" lang="id"></item>
+              </word>
+              <word>
+                <item type="punct" lang="mvp">,</item>
+              </word>
+              <word guid="22f44057-56dd-4ffa-b017-7bf91ace4ce0">
+                <item type="txt" lang="mvp">ke</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">ke</item>
+                    <item type="cf" lang="mvp">ke</item>
+                    <item type="gls" lang="en">if/when</item>
+                    <item type="gls" lang="id">kalau/waktu</item>
+                    <item type="msa" lang="en">conn</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">if/when</item>
+                <item type="gls" lang="id">kalau/waktu</item>
+                <item type="pos" lang="en">conn</item>
+                <item type="pos" lang="id"></item>
+              </word>
+              <word guid="9aa1ebc3-41d0-4e4e-9b77-c6d5d4a602cf">
+                <item type="txt" lang="mvp">pessangpulo</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">pes-</item>
+                    <item type="cf" lang="mvp">peN-</item>
+                    <item type="hn" lang="mvp">2</item>
+                    <item type="gls" lang="en">AdvNUM</item>
+                    <item type="gls" lang="id">AdvNUM</item>
+                    <item type="msa" lang="en">NUM&gt;adv</item>
+                  </morph>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">sang-</item>
+                    <item type="cf" lang="mvp">sang-</item>
+                    <item type="gls" lang="en">one</item>
+                    <item type="gls" lang="id">satu</item>
+                    <item type="msa" lang="en">NUM:(numeral)</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">pulo</item>
+                    <item type="cf" lang="mvp">pulo</item>
+                    <item type="gls" lang="en">ten</item>
+                    <item type="gls" lang="id">puluh</item>
+                    <item type="msa" lang="en">NUM</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">tenth, ten times</item>
+                <item type="gls" lang="id">ke(empat) puluh, empat puluh kali</item>
+                <item type="pos" lang="en">NUM</item>
+                <item type="pos" lang="id"></item>
+              </word>
+              <word guid="cd436b66-1df3-475a-a4fe-f9d6bcbc30f9">
+                <item type="txt" lang="mvp">aqpaqi</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">aqpaq</item>
+                    <item type="cf" lang="mvp">aqpaq</item>
+                    <item type="gls" lang="en">four</item>
+                    <item type="gls" lang="id">empat</item>
+                    <item type="msa" lang="en">NUM</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">=i</item>
+                    <item type="cf" lang="mvp">=i</item>
+                    <item type="gls" lang="en">=3p</item>
+                    <item type="gls" lang="id">=3p</item>
+                    <item type="msa" lang="en">p</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">four 3p</item>
+                <item type="gls" lang="id">empat</item>
+                <item type="pos" lang="en">NUM</item>
+                <item type="pos" lang="id"></item>
+              </word>
+              <word>
+                <item type="punct" lang="mvp">?</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">What time is moonrise (What time the moon starts to rise) if the moon is full?</item>
+            <item type="gls" lang="id">Jam berapakah bulan mulai terbit hari yang keempat belas?</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="88095319-560b-4567-9581-64b4f18ab79e">
+        <phrases>
+          <phrase guid="c3d1cc27-feed-4d21-8355-a643150c5f47">
+            <item type="segnum" lang="en">5</item>
+            <words>
+              <word>
+                <item type="punct" lang="id">B2</item>
+              </word>
+              <word>
+                <item type="punct" lang="mvp">:</item>
+              </word>
+              <word guid="7e57e56f-9732-4ac5-abc3-9361b3633a89">
+                <item type="txt" lang="mvp">Liwaq</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">liwaq</item>
+                    <item type="cf" lang="mvp">liwaq</item>
+                    <item type="gls" lang="en">pass by</item>
+                    <item type="gls" lang="id">lewat</item>
+                    <item type="msa" lang="en">vi</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">past</item>
+                <item type="gls" lang="id">lewat</item>
+                <item type="pos" lang="en">adv</item>
+                <item type="pos" lang="id"></item>
+              </word>
+              <word guid="acf4bc06-1c5f-4d78-8845-4544a23aff47">
+                <item type="txt" lang="mvp">ciqdiq</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">ciqdiq</item>
+                    <item type="cf" lang="mvp">ciqdiq</item>
+                    <item type="gls" lang="en">a little</item>
+                    <item type="gls" lang="id">sedikit</item>
+                    <item type="msa" lang="en">adv</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">a little</item>
+                <item type="gls" lang="id">sedikit</item>
+                <item type="pos" lang="en">adv</item>
+                <item type="pos" lang="id"></item>
+              </word>
+              <word guid="df8d5207-ab1a-48c1-a094-6e29264c3235">
+                <item type="txt" lang="mvp">tatteq</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">tatte</item>
+                    <item type="cf" lang="mvp">tatteq</item>
+                    <item type="variantTypes" lang="en">+dial. var. of</item>
+                    <item type="gls" lang="en">o'clock</item>
+                    <item type="gls" lang="id">jam</item>
+                    <item type="msa" lang="en">adv</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">o'clock</item>
+                <item type="gls" lang="id">jam</item>
+                <item type="pos" lang="en">adv</item>
+                <item type="pos" lang="id"></item>
+              </word>
+              <word guid="0a6f46d7-31f9-48ac-b451-292c6541499f">
+                <item type="txt" lang="mvp">annan</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">annan</item>
+                    <item type="cf" lang="mvp">annan</item>
+                    <item type="gls" lang="en">six</item>
+                    <item type="gls" lang="id">enam</item>
+                    <item type="msa" lang="en">NUM</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">six</item>
+                <item type="gls" lang="id">enam</item>
+                <item type="pos" lang="en">NUM</item>
+                <item type="pos" lang="id"></item>
+              </word>
+              <word>
+                <item type="punct" lang="mvp">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">A little past six. </item>
+            <item type="gls" lang="id">Lewat sedikit jam enam.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="1dfb6843-1d3a-458d-85f4-baab94240ffd">
+        <phrases>
+          <phrase guid="05995ef9-3511-4e95-8e75-8356326e9134">
+            <item type="segnum" lang="en">6</item>
+            <words>
+              <word>
+                <item type="punct" lang="id">A3</item>
+              </word>
+              <word>
+                <item type="punct" lang="mvp">:</item>
+              </word>
+              <word guid="19e29b10-4bd7-4442-869d-4586fe43673a">
+                <item type="txt" lang="mvp">Apara</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">apa</item>
+                    <item type="cf" lang="mvp">apa</item>
+                    <item type="gls" lang="en">what</item>
+                    <item type="gls" lang="id">apa</item>
+                    <item type="msa" lang="en">Ninterrog  (a-ngkuq/ntaq/nna)</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">=ra</item>
+                    <item type="cf" lang="mvp">=ra</item>
+                    <item type="gls" lang="en">=CTR</item>
+                    <item type="gls" lang="id">=CTR</item>
+                    <item type="msa" lang="en">TAM</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">what CTR</item>
+                <item type="gls" lang="id">apa CTR</item>
+                <item type="pos" lang="en">Ninterrog</item>
+                <item type="pos" lang="id"></item>
+              </word>
+              <word guid="f87b446a-dc22-4c48-912a-6af9c8b44bb7">
+                <item type="txt" lang="mvp">napugauk</item>
+                <morphemes>
+                  <morph type="proclitic" guid="d7f713e2-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">na=</item>
+                    <item type="cf" lang="mvp">na=</item>
+                    <item type="gls" lang="en">3p=</item>
+                    <item type="gls" lang="id">3p=</item>
+                    <item type="msa" lang="en">p</item>
+                  </morph>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">pu-</item>
+                    <item type="cf" lang="mvp">pu-</item>
+                    <item type="hn" lang="mvp">1</item>
+                    <item type="gls" lang="en">RSLTV</item>
+                    <item type="gls" lang="id">RSLTV</item>
+                    <item type="msa" lang="en">verb&gt;verb</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">gauk</item>
+                    <item type="cf" lang="mvp">gauk</item>
+                    <item type="gls" lang="en">do</item>
+                    <item type="gls" lang="id">buat</item>
+                    <item type="msa" lang="en">vt</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">3p RSLT do</item>
+                <item type="gls" lang="id">3p RSLT perbuat</item>
+                <item type="pos" lang="en">vt</item>
+                <item type="pos" lang="id"></item>
+              </word>
+              <word guid="2c17a5cb-ca28-4219-84e2-bb2635bb389c">
+                <item type="txt" lang="mvp">to</item>
+                <morphemes>
+                  <morph type="particle" guid="56db04bf-3d58-44cc-b292-4c8aa68538f4">
+                    <item type="txt" lang="mvp">to</item>
+                    <item type="cf" lang="mvp">to</item>
+                    <item type="hn" lang="mvp">1</item>
+                    <item type="gls" lang="en">DEF</item>
+                    <item type="gls" lang="id">DEF</item>
+                    <item type="msa" lang="en">prt</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">DEF</item>
+                <item type="gls" lang="id">DEF</item>
+                <item type="pos" lang="en">prt</item>
+                <item type="pos" lang="id"></item>
+              </word>
+              <word guid="560689d8-b40a-4088-a251-9d11a809ecdf">
+                <item type="txt" lang="mvp">tau</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">tau</item>
+                    <item type="cf" lang="mvp">tau</item>
+                    <item type="gls" lang="en">person</item>
+                    <item type="gls" lang="id">orang</item>
+                    <item type="msa" lang="en">common</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">person</item>
+                <item type="gls" lang="id">orang</item>
+                <item type="pos" lang="en">common</item>
+                <item type="pos" lang="id"></item>
+              </word>
+              <word>
+                <item type="punct" lang="mvp">,</item>
+              </word>
+              <word guid="22f44057-56dd-4ffa-b017-7bf91ace4ce0">
+                <item type="txt" lang="mvp">ke</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">ke</item>
+                    <item type="cf" lang="mvp">ke</item>
+                    <item type="gls" lang="en">if/when</item>
+                    <item type="gls" lang="id">kalau/waktu</item>
+                    <item type="msa" lang="en">conn</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">if/when</item>
+                <item type="gls" lang="id">kalau/waktu</item>
+                <item type="pos" lang="en">conn</item>
+                <item type="pos" lang="id"></item>
+              </word>
+              <word guid="d96b25f5-bb85-4ffd-a44a-fa68081b9b80">
+                <item type="txt" lang="mvp">sampei</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">sampe</item>
+                    <item type="cf" lang="mvp">sampe</item>
+                    <item type="gls" lang="en">full (moon)</item>
+                    <item type="gls" lang="id">purnama</item>
+                    <item type="msa" lang="en">common</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">=i</item>
+                    <item type="cf" lang="mvp">=i</item>
+                    <item type="gls" lang="en">=3p</item>
+                    <item type="gls" lang="id">=3p</item>
+                    <item type="msa" lang="en">p</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">full (moon) 3p</item>
+                <item type="gls" lang="id">purnama 3p</item>
+                <item type="pos" lang="en">vi</item>
+                <item type="pos" lang="id"></item>
+              </word>
+              <word guid="2c17a5cb-ca28-4219-84e2-bb2635bb389c">
+                <item type="txt" lang="mvp">to</item>
+                <morphemes>
+                  <morph type="particle" guid="56db04bf-3d58-44cc-b292-4c8aa68538f4">
+                    <item type="txt" lang="mvp">to</item>
+                    <item type="cf" lang="mvp">to</item>
+                    <item type="hn" lang="mvp">1</item>
+                    <item type="gls" lang="en">DEF</item>
+                    <item type="gls" lang="id">DEF</item>
+                    <item type="msa" lang="en">prt</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">DEF</item>
+                <item type="gls" lang="id">DEF</item>
+                <item type="pos" lang="en">prt</item>
+                <item type="pos" lang="id"></item>
+              </word>
+              <word guid="d168863d-935b-47dd-800c-b788faa4f325">
+                <item type="txt" lang="mvp">bulan</item>
+                <morphemes>
+                  <morph type="phrase" guid="a23b6faa-1052-4f4d-984b-4b338bdaf95f">
+                    <item type="txt" lang="mvp">bulan</item>
+                    <item type="cf" lang="mvp">bulan</item>
+                    <item type="gls" lang="en">moon</item>
+                    <item type="gls" lang="id">bulan</item>
+                    <item type="msa" lang="en">common</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">moon</item>
+                <item type="gls" lang="id">bulan</item>
+                <item type="pos" lang="en">common</item>
+                <item type="pos" lang="id"></item>
+              </word>
+              <word>
+                <item type="punct" lang="mvp">?</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">What kinds of work do people do, if it's a full moon?</item>
+            <item type="gls" lang="id">Apa yang dikerjakan orang, kalau bulan purnama?</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="20605b6d-1499-42a8-9f6f-18f1b998d599">
+        <phrases>
+          <phrase guid="11ff80fa-1795-40ad-9ef3-e23623a8032d">
+            <item type="segnum" lang="en">7.1</item>
+            <words>
+              <word>
+                <item type="punct" lang="id">B3</item>
+              </word>
+              <word>
+                <item type="punct" lang="mvp">:</item>
+              </word>
+              <word guid="7bcb5db1-5931-40c4-90a4-ad3ecbda7cb4">
+                <item type="txt" lang="mvp">Ia</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">ia</item>
+                    <item type="cf" lang="mvp">ia</item>
+                    <item type="hn" lang="mvp">1</item>
+                    <item type="gls" lang="en">3p</item>
+                    <item type="gls" lang="id">3p</item>
+                    <item type="msa" lang="en">pers  (a-ngkuq/ntaq/nna)</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">3p</item>
+                <item type="gls" lang="id">3p</item>
+                <item type="pos" lang="en">pers</item>
+                <item type="pos" lang="id"></item>
+              </word>
+              <word guid="2c17a5cb-ca28-4219-84e2-bb2635bb389c">
+                <item type="txt" lang="mvp">to</item>
+                <morphemes>
+                  <morph type="particle" guid="56db04bf-3d58-44cc-b292-4c8aa68538f4">
+                    <item type="txt" lang="mvp">to</item>
+                    <item type="cf" lang="mvp">to</item>
+                    <item type="hn" lang="mvp">1</item>
+                    <item type="gls" lang="en">DEF</item>
+                    <item type="gls" lang="id">DEF</item>
+                    <item type="msa" lang="en">prt</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">DEF</item>
+                <item type="gls" lang="id">DEF</item>
+                <item type="pos" lang="en">prt</item>
+                <item type="pos" lang="id"></item>
+              </word>
+              <word guid="56cd29ca-256e-4901-b5c6-8946d9629da9">
+                <item type="txt" lang="mvp">baine</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">baine</item>
+                    <item type="cf" lang="mvp">baine</item>
+                    <item type="gls" lang="en">female; woman</item>
+                    <item type="gls" lang="id">wanita; perempuan</item>
+                    <item type="msa" lang="en">common</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">female; woman</item>
+                <item type="gls" lang="id">wanita; perempuan</item>
+                <item type="pos" lang="en">common</item>
+                <item type="pos" lang="id"></item>
+              </word>
+              <word guid="69ae115b-4be0-431d-a7f9-2acc957ea76a">
+                <item type="txt" lang="mvp">biasa</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">biasa</item>
+                    <item type="cf" lang="mvp">biasa</item>
+                    <item type="gls" lang="en">usually, ordinarily</item>
+                    <item type="gls" lang="id">sering</item>
+                    <item type="msa" lang="en">adv</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">usually, ordinarily</item>
+                <item type="gls" lang="id">sering</item>
+                <item type="pos" lang="en">adv</item>
+                <item type="pos" lang="id"></item>
+              </word>
+              <word guid="83b3e758-9717-45ba-ae4d-5c83615ccf9b">
+                <item type="txt" lang="mvp">natampakki</item>
+                <morphemes>
+                  <morph type="proclitic" guid="d7f713e2-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">na=</item>
+                    <item type="cf" lang="mvp">na=</item>
+                    <item type="gls" lang="en">3p=</item>
+                    <item type="gls" lang="id">3p=</item>
+                    <item type="msa" lang="en">p</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">tampak</item>
+                    <item type="cf" lang="mvp">tampak</item>
+                    <item type="gls" lang="en">cut</item>
+                    <item type="gls" lang="id">potong</item>
+                    <item type="msa" lang="en">vt</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">=ki</item>
+                    <item type="cf" lang="mvp">=i</item>
+                    <item type="gls" lang="en">=3p</item>
+                    <item type="gls" lang="id">=3p</item>
+                    <item type="msa" lang="en">p</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">3p cut 3p</item>
+                <item type="gls" lang="id">3p potong 3p</item>
+                <item type="pos" lang="en">vt</item>
+                <item type="pos" lang="id"></item>
+              </word>
+              <word guid="ceccab45-190a-4d9e-8464-20fbb424b530">
+                <item type="txt" lang="mvp">beluakkana</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">beluak</item>
+                    <item type="cf" lang="mvp">beluak</item>
+                    <item type="gls" lang="en">hair</item>
+                    <item type="gls" lang="id">rambut</item>
+                    <item type="msa" lang="en">common</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">-kana</item>
+                    <item type="cf" lang="mvp">-na</item>
+                    <item type="gls" lang="en">3POS(na)</item>
+                    <item type="gls" lang="id">3POS(na)</item>
+                    <item type="msa" lang="en">Poss&gt;Poss</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">hair 3POS</item>
+                <item type="gls" lang="id">rambut 3POS</item>
+                <item type="pos" lang="en">common</item>
+                <item type="pos" lang="id"></item>
+              </word>
+              <word>
+                <item type="punct" lang="mvp">,</item>
+              </word>
+              <word>
+                <item type="punct" lang="mvp">§</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">Women cut their hair,</item>
+            <item type="gls" lang="id">Yang perempuan biasa memotong rambutnya,</item>
+          </phrase>
+          <phrase guid="29a44db0-6575-4dcd-bde2-1a26e75c4e7e">
+            <item type="segnum" lang="en">7.2</item>
+            <words>
+              <word guid="4890d943-3a57-4d9c-a828-ba3325d2d032">
+                <item type="txt" lang="mvp">dikua</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">dikua</item>
+                    <item type="cf" lang="mvp">dikua</item>
+                    <item type="gls" lang="en">so.that</item>
+                    <item type="gls" lang="id">supaya</item>
+                    <item type="msa" lang="en">conn</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">so.that</item>
+                <item type="gls" lang="id">supaya</item>
+                <item type="pos" lang="en">conn</item>
+                <item type="pos" lang="id"></item>
+              </word>
+              <word guid="f5607e2b-1ce8-4be1-86a1-ee1303d39544">
+                <item type="txt" lang="mvp">adeqna</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">adeq</item>
+                    <item type="cf" lang="mvp">adeq</item>
+                    <item type="gls" lang="en">it is said</item>
+                    <item type="gls" lang="id">katanya</item>
+                    <item type="msa" lang="en">EvidAdv</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">-na</item>
+                    <item type="cf" lang="mvp">-na</item>
+                    <item type="gls" lang="en">3POS(na)</item>
+                    <item type="gls" lang="id">3POS(na)</item>
+                    <item type="msa" lang="en">Poss&gt;Poss</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">it is said 3POS</item>
+                <item type="gls" lang="id">katanya 3POS</item>
+                <item type="pos" lang="en">EvidAdv</item>
+                <item type="pos" lang="id"></item>
+              </word>
+              <word guid="de1b688e-55bf-4d9a-9586-ca8e8babb3c1">
+                <item type="txt" lang="mvp">naloboran</item>
+                <morphemes>
+                  <morph type="proclitic" guid="d7f713e2-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">na=</item>
+                    <item type="cf" lang="mvp">na=</item>
+                    <item type="gls" lang="en">3p=</item>
+                    <item type="gls" lang="id">3p=</item>
+                    <item type="msa" lang="en">p</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">lobor</item>
+                    <item type="cf" lang="mvp">loboh</item>
+                    <item type="gls" lang="en">fertile</item>
+                    <item type="gls" lang="id">subur</item>
+                    <item type="msa" lang="en">ma-vs</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">-an</item>
+                    <item type="cf" lang="mvp">-an</item>
+                    <item type="hn" lang="mvp">1</item>
+                    <item type="gls" lang="en">BENV</item>
+                    <item type="gls" lang="id">BENV</item>
+                    <item type="msa" lang="en">verb&gt;vt</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">3p fertile BEN</item>
+                <item type="gls" lang="id">3p subur BEN</item>
+                <item type="pos" lang="en">vs</item>
+                <item type="pos" lang="id"></item>
+              </word>
+              <word guid="bc77c8a6-0526-4e39-8810-616f3d8c3a68">
+                <item type="txt" lang="mvp">iarika</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">iarika</item>
+                    <item type="cf" lang="mvp">iarika</item>
+                    <item type="gls" lang="en">or</item>
+                    <item type="gls" lang="id">atau</item>
+                    <item type="msa" lang="en">conn</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">or</item>
+                <item type="gls" lang="id">atau</item>
+                <item type="pos" lang="en">conn</item>
+                <item type="pos" lang="id"></item>
+              </word>
+              <word guid="54987292-b9a0-46db-b556-d9967c7a5074">
+                <item type="txt" lang="mvp">namalabung</item>
+                <morphemes>
+                  <morph type="proclitic" guid="d7f713e2-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">na=</item>
+                    <item type="cf" lang="mvp">na=</item>
+                    <item type="gls" lang="en">3p=</item>
+                    <item type="gls" lang="id">3p=</item>
+                    <item type="msa" lang="en">p</item>
+                  </morph>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">ma-</item>
+                    <item type="cf" lang="mvp">ma-</item>
+                    <item type="gls" lang="en">VS1</item>
+                    <item type="gls" lang="id">VS1</item>
+                    <item type="msa" lang="en">verb:(Verbal prefix)</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">labung</item>
+                    <item type="cf" lang="mvp">labung</item>
+                    <item type="gls" lang="en">grow fast</item>
+                    <item type="gls" lang="id">cepat panjang</item>
+                    <item type="msa" lang="en">vs</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">3p grow fast</item>
+                <item type="gls" lang="id">3p cepat panjang</item>
+                <item type="pos" lang="en">ma-vs</item>
+                <item type="pos" lang="id"></item>
+              </word>
+              <word guid="ceccab45-190a-4d9e-8464-20fbb424b530">
+                <item type="txt" lang="mvp">beluakkana</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">beluak</item>
+                    <item type="cf" lang="mvp">beluak</item>
+                    <item type="gls" lang="en">hair</item>
+                    <item type="gls" lang="id">rambut</item>
+                    <item type="msa" lang="en">common</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">-kana</item>
+                    <item type="cf" lang="mvp">-na</item>
+                    <item type="gls" lang="en">3POS(na)</item>
+                    <item type="gls" lang="id">3POS(na)</item>
+                    <item type="msa" lang="en">Poss&gt;Poss</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">hair 3POS</item>
+                <item type="gls" lang="id">rambut 3POS</item>
+                <item type="pos" lang="en">common</item>
+                <item type="pos" lang="id"></item>
+              </word>
+              <word>
+                <item type="punct" lang="mvp">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">so that, it's said, their hair will remain full and grow fast.</item>
+            <item type="gls" lang="id">maksudnya, katanya, supaya subur dan cepat panjang.</item>
+          </phrase>
+          <phrase guid="1bdb3ca1-e44a-4933-9ccb-5ea897e15be2">
+            <item type="segnum" lang="en">7.3</item>
+            <words>
+              <word guid="7bcb5db1-5931-40c4-90a4-ad3ecbda7cb4">
+                <item type="txt" lang="mvp">Ia</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">ia</item>
+                    <item type="cf" lang="mvp">ia</item>
+                    <item type="hn" lang="mvp">1</item>
+                    <item type="gls" lang="en">3p</item>
+                    <item type="gls" lang="id">3p</item>
+                    <item type="msa" lang="en">pers  (a-ngkuq/ntaq/nna)</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">3p</item>
+                <item type="gls" lang="id">3p</item>
+                <item type="pos" lang="en">pers</item>
+                <item type="pos" lang="id"></item>
+              </word>
+              <word guid="2c17a5cb-ca28-4219-84e2-bb2635bb389c">
+                <item type="txt" lang="mvp">to</item>
+                <morphemes>
+                  <morph type="particle" guid="56db04bf-3d58-44cc-b292-4c8aa68538f4">
+                    <item type="txt" lang="mvp">to</item>
+                    <item type="cf" lang="mvp">to</item>
+                    <item type="hn" lang="mvp">1</item>
+                    <item type="gls" lang="en">DEF</item>
+                    <item type="gls" lang="id">DEF</item>
+                    <item type="msa" lang="en">prt</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">DEF</item>
+                <item type="gls" lang="id">DEF</item>
+                <item type="pos" lang="en">prt</item>
+                <item type="pos" lang="id"></item>
+              </word>
+              <word guid="847c893e-bb9a-4f0a-b12c-3095a72c9bca">
+                <item type="txt" lang="mvp">pangbaraqbah</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">pang-</item>
+                    <item type="cf" lang="mvp">pang-</item>
+                    <item type="hn" lang="mvp">1</item>
+                    <item type="gls" lang="en">NOMN</item>
+                    <item type="gls" lang="id">NOMN</item>
+                    <item type="msa" lang="en">common&gt;common</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">baraqbah</item>
+                    <item type="cf" lang="mvp">baraqbah</item>
+                    <item type="gls" lang="en">garden</item>
+                    <item type="gls" lang="id">kebun</item>
+                    <item type="msa" lang="en">common</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">farmer</item>
+                <item type="gls" lang="id">petani</item>
+                <item type="pos" lang="en">common</item>
+                <item type="pos" lang="id"></item>
+              </word>
+              <word guid="69ae115b-4be0-431d-a7f9-2acc957ea76a">
+                <item type="txt" lang="mvp">biasa</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">biasa</item>
+                    <item type="cf" lang="mvp">biasa</item>
+                    <item type="gls" lang="en">usually, ordinarily</item>
+                    <item type="gls" lang="id">sering</item>
+                    <item type="msa" lang="en">adv</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">usually, ordinarily</item>
+                <item type="gls" lang="id">sering</item>
+                <item type="pos" lang="en">adv</item>
+                <item type="pos" lang="id"></item>
+              </word>
+              <word guid="0e6d68d6-ef79-42d6-a661-674d9f30696d">
+                <item type="txt" lang="mvp">mantanan</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">man-</item>
+                    <item type="cf" lang="mvp">maN-</item>
+                    <item type="gls" lang="en">VI1VT</item>
+                    <item type="gls" lang="id">VI1VT</item>
+                    <item type="msa" lang="en">vt&gt;vi</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">tanan</item>
+                    <item type="cf" lang="mvp">tanan</item>
+                    <item type="gls" lang="en">plant</item>
+                    <item type="gls" lang="id">menanam</item>
+                    <item type="msa" lang="en">vt</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">planting</item>
+                <item type="gls" lang="id">menanam</item>
+                <item type="pos" lang="en">maN-vi</item>
+                <item type="pos" lang="id"></item>
+              </word>
+              <word guid="8d5d97cb-56a1-4528-ab86-6cf8ef6f6573">
+                <item type="txt" lang="mvp">kaluku</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">kaluku</item>
+                    <item type="cf" lang="mvp">kaluku</item>
+                    <item type="gls" lang="en">coconut</item>
+                    <item type="gls" lang="id">kelapa</item>
+                    <item type="msa" lang="en">common</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">coconut</item>
+                <item type="gls" lang="id">kelapa</item>
+                <item type="pos" lang="en">common</item>
+                <item type="pos" lang="id"></item>
+              </word>
+              <word>
+                <item type="punct" lang="mvp">,</item>
+              </word>
+              <word>
+                <item type="punct" lang="mvp">§</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">Farmers plant coconut trees,</item>
+            <item type="gls" lang="id">Kalau petani biasanya menanam kelapa,</item>
+          </phrase>
+          <phrase guid="1f087db2-33ae-4f15-912f-5c444c68a5dd">
+            <item type="segnum" lang="en">7.4</item>
+            <words>
+              <word guid="4890d943-3a57-4d9c-a828-ba3325d2d032">
+                <item type="txt" lang="mvp">dikua</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">dikua</item>
+                    <item type="cf" lang="mvp">dikua</item>
+                    <item type="gls" lang="en">so.that</item>
+                    <item type="gls" lang="id">supaya</item>
+                    <item type="msa" lang="en">conn</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">so.that</item>
+                <item type="gls" lang="id">supaya</item>
+                <item type="pos" lang="en">conn</item>
+                <item type="pos" lang="id"></item>
+              </word>
+              <word guid="f5607e2b-1ce8-4be1-86a1-ee1303d39544">
+                <item type="txt" lang="mvp">adeqna</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">adeq</item>
+                    <item type="cf" lang="mvp">adeq</item>
+                    <item type="gls" lang="en">it is said</item>
+                    <item type="gls" lang="id">katanya</item>
+                    <item type="msa" lang="en">EvidAdv</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">-na</item>
+                    <item type="cf" lang="mvp">-na</item>
+                    <item type="gls" lang="en">3POS(na)</item>
+                    <item type="gls" lang="id">3POS(na)</item>
+                    <item type="msa" lang="en">Poss&gt;Poss</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">it is said 3POS</item>
+                <item type="gls" lang="id">katanya 3POS</item>
+                <item type="pos" lang="en">EvidAdv</item>
+                <item type="pos" lang="id"></item>
+              </word>
+              <word guid="cbdbacd4-2203-449e-bc2f-5a34e2f54b22">
+                <item type="txt" lang="mvp">namasampean</item>
+                <morphemes>
+                  <morph type="proclitic" guid="d7f713e2-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">na=</item>
+                    <item type="cf" lang="mvp">na=</item>
+                    <item type="gls" lang="en">3p=</item>
+                    <item type="gls" lang="id">3p=</item>
+                    <item type="msa" lang="en">p</item>
+                  </morph>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">ma-</item>
+                    <item type="cf" lang="mvp">ma-</item>
+                    <item type="gls" lang="en">VS1</item>
+                    <item type="gls" lang="id">VS1</item>
+                    <item type="msa" lang="en">verb:(Verbal prefix)</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">sampe</item>
+                    <item type="cf" lang="mvp">sampe</item>
+                    <item type="gls" lang="en">until</item>
+                    <item type="gls" lang="id">sampai</item>
+                    <item type="msa" lang="en">common</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">-an</item>
+                    <item type="cf" lang="mvp">-an</item>
+                    <item type="hn" lang="mvp">1</item>
+                    <item type="gls" lang="en">BENV</item>
+                    <item type="gls" lang="id">BENV</item>
+                    <item type="msa" lang="en">verb&gt;vt</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">3p produce lots BEN</item>
+                <item type="gls" lang="id">3p sampai banyak BEN</item>
+                <item type="pos" lang="en">ma-vi</item>
+                <item type="pos" lang="id"></item>
+              </word>
+              <word guid="8607ab3b-752f-46dc-9030-b3d060b45958">
+                <item type="txt" lang="mvp">buanna</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">bua</item>
+                    <item type="cf" lang="mvp">bua</item>
+                    <item type="gls" lang="en">fruit</item>
+                    <item type="gls" lang="id">buah</item>
+                    <item type="msa" lang="en">common  (a-ngkuq/ntaq/nna)</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mvp">-nna</item>
+                    <item type="cf" lang="mvp">-nna</item>
+                    <item type="gls" lang="en">3POS(nna)</item>
+                    <item type="gls" lang="id">3POS(nna)</item>
+                    <item type="msa" lang="en">Poss&gt;Poss</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">fruit 3POS</item>
+                <item type="gls" lang="id">buah 3POS</item>
+                <item type="pos" lang="en">common</item>
+                <item type="pos" lang="id"></item>
+              </word>
+              <word>
+                <item type="punct" lang="mvp">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">supposedly, so that their trees will produce lots of fruit.</item>
+            <item type="gls" lang="id">maksudnya, katanya, supaya berbuah banyak.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+    </paragraphs>
+    <languages>
+      <language lang="mvp" font="Charis SIL" vernacular="true" />
+      <language lang="en" font="Arial Narrow" />
+      <language lang="id" font="Times New Roman" />
+    </languages>
+  </interlinear-text>
+  
+</document>

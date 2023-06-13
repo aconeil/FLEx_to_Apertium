@@ -1,0 +1,2489 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document version="2">
+<interlinear-text guid="aeac373e-cc55-4e93-9a97-b4f54547abeb">
+    <item type="title" lang="en">Ikota-Nov11-2013-Valency_and_Argument_Structure</item>
+    <paragraphs>
+      <paragraph guid="020d1d92-10b3-493a-8c68-666efa1b5908">
+        <phrases>
+          <phrase guid="945c3e6f-81d3-46c0-9087-d1bfe674a9d5">
+            <item type="segnum" lang="en">1</item>
+            <words>
+              <word guid="bec563df-5231-4288-b7b8-522d4c7554b0">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">maŋgwa</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">ma-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">ma-</item>
+                    <item type="hn" lang="koq-Qaaa-x-IPAi">1</item>
+                    <item type="gls" lang="en">1SG</item>
+                    <item type="msa" lang="en">InflV:Agr</item>
+                  </morph>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">a-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">a-</item>
+                    <item type="gls" lang="en">NONFUT</item>
+                    <item type="msa" lang="en">InflV:TNS</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">aŋgo</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">aŋgo</item>
+                    <item type="hn" lang="koq-Qaaa-x-IPAi">3</item>
+                    <item type="gls" lang="en">PROG</item>
+                    <item type="msa" lang="en">AUX</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">PROG</item>
+                <item type="pos" lang="en">AUX</item>
+              </word>
+              <word guid="3bb00fdd-308e-451a-8d09-df2580449214">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">jamba</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">a-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">a-</item>
+                    <item type="gls" lang="en">NONFUT</item>
+                    <item type="msa" lang="en">InflV:TNS</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">jamb</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">jamb</item>
+                    <item type="gls" lang="en">cook</item>
+                    <item type="msa" lang="en">InflV</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">-a</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">-V</item>
+                    <item type="gls" lang="koq-Qaaa-x-IPAi"/>
+                    <item type="msa" lang="en">InflV:FIN</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">cook</item>
+                <item type="pos" lang="en">InflV</item>
+              </word>
+              <word guid="f611be19-5ba9-4099-86b6-9d0303c92c5b">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">babute</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">ba-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">ba-</item>
+                    <item type="hn" lang="koq-Qaaa-x-IPAi">1</item>
+                    <item type="gls" lang="en">CL2</item>
+                    <item type="msa" lang="en">N:NCL</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">bute</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">bute</item>
+                    <item type="gls" lang="en">cassava</item>
+                    <item type="msa" lang="en">N1/2</item>
+                  </morph>
+                </morphemes>
+              </word>
+            </words>
+            <item type="gls" lang="en">I am cooking cassava.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="d3261eae-a6d0-454f-ad93-3cce79367e06">
+        <phrases>
+          <phrase guid="fa07eca9-1689-4e0a-a392-b5dfda5bde0f">
+            <item type="segnum" lang="en">2</item>
+            <words>
+              <word guid="f611be19-5ba9-4099-86b6-9d0303c92c5b">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">babute</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">ba-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">ba-</item>
+                    <item type="hn" lang="koq-Qaaa-x-IPAi">1</item>
+                    <item type="gls" lang="en">CL2</item>
+                    <item type="msa" lang="en">N:NCL</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">bute</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">bute</item>
+                    <item type="gls" lang="en">cassava</item>
+                    <item type="msa" lang="en">N1/2</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="e0f9ce6f-3b18-412f-b818-a2756ffb2d25">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">baŋgwa</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">ba-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">ba-</item>
+                    <item type="hn" lang="koq-Qaaa-x-IPAi">3</item>
+                    <item type="gls" lang="en">CL2</item>
+                    <item type="msa" lang="en">InflV:Agr</item>
+                  </morph>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">a-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">a-</item>
+                    <item type="gls" lang="en">NONFUT</item>
+                    <item type="msa" lang="en">InflV:TNS</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">aŋgo</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">aŋgo</item>
+                    <item type="hn" lang="koq-Qaaa-x-IPAi">3</item>
+                    <item type="gls" lang="en">PROG</item>
+                    <item type="msa" lang="en">AUX</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">PROG</item>
+                <item type="pos" lang="en">AUX</item>
+              </word>
+              <word guid="a6667b5c-feb5-4ff6-8b44-dcfae4f7a8a0">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">beja</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">bej</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">bej</item>
+                    <item type="gls" lang="en">be.cooked</item>
+                    <item type="msa" lang="en">InflV</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">-a</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">-V</item>
+                    <item type="gls" lang="koq-Qaaa-x-IPAi"/>
+                    <item type="msa" lang="en">InflV:FIN</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">be.cooked?</item>
+                <item type="pos" lang="en">InflV</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">The cassava is being cooked.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="c4fb3769-713a-4ae4-bf01-73a757748665">
+        <phrases>
+          <phrase guid="9947f1cc-b47a-4e4d-8b61-f0480c1b1fc3">
+            <item type="segnum" lang="en">3</item>
+            <words>
+              <word guid="d0946df4-70c7-4afe-acdb-9e248e3e0fe0">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">olaŋgaka</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">o-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">o-</item>
+                    <item type="hn" lang="koq-Qaaa-x-IPAi">1</item>
+                    <item type="gls" lang="en">INF1</item>
+                    <item type="msa" lang="en">InflV:INF</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">laŋg</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">laŋg</item>
+                    <item type="gls" lang="en">read</item>
+                    <item type="msa" lang="en">InflV</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">-ak</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">-Vk</item>
+                    <item type="gls" lang="koq-Qaaa-x-IPAi"/>
+                    <item type="msa" lang="en">InflV:(PREFIN)</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">-a</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">-V</item>
+                    <item type="gls" lang="koq-Qaaa-x-IPAi"/>
+                    <item type="msa" lang="en">InflV:FIN</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">read</item>
+                <item type="pos" lang="en">InflV</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">to read</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="302ee227-84bd-4e64-b5a5-7eeb5868c24e">
+        <phrases>
+          <phrase guid="5e9d3844-ef8a-4b91-9471-08c956120095">
+            <item type="segnum" lang="en">4</item>
+            <words>
+              <word guid="cebe0a4e-ac1c-4727-b618-29547e632681">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">olirɛkɛ</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">o-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">o-</item>
+                    <item type="hn" lang="koq-Qaaa-x-IPAi">1</item>
+                    <item type="gls" lang="en">INF1</item>
+                    <item type="msa" lang="en">InflV:INF</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">lir</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">lir</item>
+                    <item type="gls" lang="en">read</item>
+                    <item type="msa" lang="en">InflV</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">-ɛk</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">-Vk</item>
+                    <item type="gls" lang="koq-Qaaa-x-IPAi"/>
+                    <item type="msa" lang="en">InflV:(PREFIN)</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">-ɛ</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">-V</item>
+                    <item type="gls" lang="koq-Qaaa-x-IPAi"/>
+                    <item type="msa" lang="en">InflV:FIN</item>
+                  </morph>
+                </morphemes>
+              </word>
+            </words>
+            <item type="gls" lang="en">to read</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="dfbf1b20-786f-4a10-a739-4a3443cb6ba4">
+        <phrases>
+          <phrase guid="87ce8f12-3c4a-43e6-8334-1d91b5d9ef0c">
+            <item type="segnum" lang="en">5</item>
+            <words>
+              <word guid="bec563df-5231-4288-b7b8-522d4c7554b0">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">maŋgwa</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">ma-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">ma-</item>
+                    <item type="hn" lang="koq-Qaaa-x-IPAi">1</item>
+                    <item type="gls" lang="en">1SG</item>
+                    <item type="msa" lang="en">InflV:Agr</item>
+                  </morph>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">a-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">a-</item>
+                    <item type="gls" lang="en">NONFUT</item>
+                    <item type="msa" lang="en">InflV:TNS</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">aŋgo</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">aŋgo</item>
+                    <item type="hn" lang="koq-Qaaa-x-IPAi">3</item>
+                    <item type="gls" lang="en">PROG</item>
+                    <item type="msa" lang="en">AUX</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">PROG</item>
+                <item type="pos" lang="en">AUX</item>
+              </word>
+              <word guid="414a0fd3-449c-4fe4-a96e-aba7c8357451">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">alaŋga</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">a-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">a-</item>
+                    <item type="gls" lang="en">NONFUT</item>
+                    <item type="msa" lang="en">InflV:TNS</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">laŋg</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">laŋg</item>
+                    <item type="gls" lang="en">read</item>
+                    <item type="msa" lang="en">InflV</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">-a</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">-V</item>
+                    <item type="gls" lang="koq-Qaaa-x-IPAi"/>
+                    <item type="msa" lang="en">InflV:FIN</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="63366f18-d64b-43b9-892d-1d7dfdf89ef4">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">livrə</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">livʀ</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">livʀ</item>
+                    <item type="gls" lang="en">book</item>
+                    <item type="msa" lang="en">N1/2</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">book</item>
+                <item type="pos" lang="en">N</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">I am reading a book.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="1c3c4d98-6976-4044-906a-3ef58db5e3f1">
+        <phrases>
+          <phrase guid="e990dfd3-7f9a-4d96-bc28-874e681259bb">
+            <item type="segnum" lang="en">6</item>
+            <words>
+              <word guid="95e1cb1f-ff81-4194-9cd2-f28aff049634">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">aŋgwa</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">à-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">à-</item>
+                    <item type="gls" lang="en">CL1</item>
+                    <item type="msa" lang="en">InflV:Agr</item>
+                  </morph>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">a-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">a-</item>
+                    <item type="gls" lang="en">NONFUT</item>
+                    <item type="msa" lang="en">InflV:TNS</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">aŋgo</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">aŋgo</item>
+                    <item type="hn" lang="koq-Qaaa-x-IPAi">3</item>
+                    <item type="gls" lang="en">PROG</item>
+                    <item type="msa" lang="en">AUX</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">PROG</item>
+                <item type="pos" lang="en">AUX</item>
+              </word>
+              <word guid="c456aa4f-1a78-4459-98bd-7fdd29bc9524">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">laŋga</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">laŋg</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">laŋg</item>
+                    <item type="gls" lang="en">read</item>
+                    <item type="msa" lang="en">InflV</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">-a</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">-V</item>
+                    <item type="gls" lang="koq-Qaaa-x-IPAi"/>
+                    <item type="msa" lang="en">InflV:FIN</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">read</item>
+                <item type="pos" lang="en">InflV</item>
+              </word>
+              <word guid="63366f18-d64b-43b9-892d-1d7dfdf89ef4">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">livrə</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">livʀ</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">livʀ</item>
+                    <item type="gls" lang="en">book</item>
+                    <item type="msa" lang="en">N1/2</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">book</item>
+                <item type="pos" lang="en">N</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">S/he is reading the book.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="25603b7b-e765-4de9-ac31-2e811b91705c">
+        <phrases>
+          <phrase guid="93c210ff-ff4f-48ff-a3ef-a71e7a8ec5dd">
+            <item type="segnum" lang="en">7</item>
+            <words>
+              <word guid="dd5d7606-ae35-456a-8fc9-16d711dd81c4">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">Safiyatou</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">safiyatou</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">Safiyatou</item>
+              </word>
+              <word guid="95e1cb1f-ff81-4194-9cd2-f28aff049634">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">aŋgwa</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">à-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">à-</item>
+                    <item type="gls" lang="en">CL1</item>
+                    <item type="msa" lang="en">InflV:Agr</item>
+                  </morph>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">a-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">a-</item>
+                    <item type="gls" lang="en">NONFUT</item>
+                    <item type="msa" lang="en">InflV:TNS</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">aŋgo</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">aŋgo</item>
+                    <item type="hn" lang="koq-Qaaa-x-IPAi">3</item>
+                    <item type="gls" lang="en">PROG</item>
+                    <item type="msa" lang="en">AUX</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">PROG</item>
+                <item type="pos" lang="en">AUX</item>
+              </word>
+              <word guid="c456aa4f-1a78-4459-98bd-7fdd29bc9524">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">laŋga</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">laŋg</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">laŋg</item>
+                    <item type="gls" lang="en">read</item>
+                    <item type="msa" lang="en">InflV</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">-a</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">-V</item>
+                    <item type="gls" lang="koq-Qaaa-x-IPAi"/>
+                    <item type="msa" lang="en">InflV:FIN</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">read</item>
+                <item type="pos" lang="en">InflV</item>
+              </word>
+              <word guid="63366f18-d64b-43b9-892d-1d7dfdf89ef4">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">livrə</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">livʀ</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">livʀ</item>
+                    <item type="gls" lang="en">book</item>
+                    <item type="msa" lang="en">N1/2</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">book</item>
+                <item type="pos" lang="en">N</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">Safiyatou is reading the book.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="d56f85a3-fe04-403d-aa67-e92f3f837f31">
+        <phrases>
+          <phrase guid="516a28ba-9e66-4b54-86a6-df422a416fd7">
+            <item type="segnum" lang="en">8</item>
+            <words>
+              <word guid="dd5d7606-ae35-456a-8fc9-16d711dd81c4">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">Safiyatou</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">safiyatou</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">Safiyatou</item>
+              </word>
+              <word guid="95e1cb1f-ff81-4194-9cd2-f28aff049634">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">aŋgwa</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">à-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">à-</item>
+                    <item type="gls" lang="en">CL1</item>
+                    <item type="msa" lang="en">InflV:Agr</item>
+                  </morph>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">a-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">a-</item>
+                    <item type="gls" lang="en">NONFUT</item>
+                    <item type="msa" lang="en">InflV:TNS</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">aŋgo</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">aŋgo</item>
+                    <item type="hn" lang="koq-Qaaa-x-IPAi">3</item>
+                    <item type="gls" lang="en">PROG</item>
+                    <item type="msa" lang="en">AUX</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">PROG</item>
+                <item type="pos" lang="en">AUX</item>
+              </word>
+              <word guid="3be336be-0c49-47c1-8eae-103771db2aa4">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">lire</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">lir</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">lir</item>
+                    <item type="gls" lang="en">read</item>
+                    <item type="msa" lang="en">InflV</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">read</item>
+                <item type="pos" lang="en">InflV</item>
+              </word>
+              <word guid="63366f18-d64b-43b9-892d-1d7dfdf89ef4">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">livrə</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">livʀ</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">livʀ</item>
+                    <item type="gls" lang="en">book</item>
+                    <item type="msa" lang="en">N1/2</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">book</item>
+                <item type="pos" lang="en">N</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">Safiyatou is reading the book.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="177c7720-6508-4ed9-b6ef-9ef8f448054c">
+        <phrases>
+          <phrase guid="cf83b196-39cb-4bc3-9647-b2fd5146b67f">
+            <item type="segnum" lang="en">9</item>
+            <words>
+              <word guid="bec563df-5231-4288-b7b8-522d4c7554b0">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">maŋgwa</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">ma-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">ma-</item>
+                    <item type="hn" lang="koq-Qaaa-x-IPAi">1</item>
+                    <item type="gls" lang="en">1SG</item>
+                    <item type="msa" lang="en">InflV:Agr</item>
+                  </morph>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">a-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">a-</item>
+                    <item type="gls" lang="en">NONFUT</item>
+                    <item type="msa" lang="en">InflV:TNS</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">aŋgo</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">aŋgo</item>
+                    <item type="hn" lang="koq-Qaaa-x-IPAi">3</item>
+                    <item type="gls" lang="en">PROG</item>
+                    <item type="msa" lang="en">AUX</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">PROG</item>
+                <item type="pos" lang="en">AUX</item>
+              </word>
+              <word guid="c9669fd5-73bf-46ba-8af0-c2e2bb8b72f4">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">lire</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">lir</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">lir</item>
+                    <item type="gls" lang="en">read</item>
+                    <item type="msa" lang="en">InflV</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">-ɛ</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">-V</item>
+                    <item type="gls" lang="koq-Qaaa-x-IPAi"/>
+                    <item type="msa" lang="en">InflV:FIN</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">read</item>
+                <item type="pos" lang="en">InflV</item>
+              </word>
+              <word guid="2d623292-3bc8-4fab-a657-7b0c92226520">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">mwana</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">mò-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">mò-</item>
+                    <item type="gls" lang="en">CL1</item>
+                    <item type="msa" lang="en">N:NCL</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">ana</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">ana</item>
+                    <item type="gls" lang="en">child</item>
+                    <item type="msa" lang="en">N1/2</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">child</item>
+                <item type="pos" lang="en">N</item>
+              </word>
+              <word guid="63366f18-d64b-43b9-892d-1d7dfdf89ef4">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">livrə</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">livʀ</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">livʀ</item>
+                    <item type="gls" lang="en">book</item>
+                    <item type="msa" lang="en">N1/2</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">book</item>
+                <item type="pos" lang="en">N</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">I am reading the child the book.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="2675c1c4-2d6c-464a-a172-1536bf8ee332">
+        <phrases>
+          <phrase guid="c786d40d-827d-45d6-bfa7-9dff955f1ce1">
+            <item type="segnum" lang="en">10</item>
+            <words>
+              <word guid="b3e0bd1e-12c7-4f22-b05d-d906b3d62a8d">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">maɟete</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">ma-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">ma-</item>
+                    <item type="hn" lang="koq-Qaaa-x-IPAi">1</item>
+                    <item type="gls" lang="en">1SG</item>
+                    <item type="msa" lang="en">InflV:Agr</item>
+                  </morph>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">a-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">a-</item>
+                    <item type="gls" lang="en">NONFUT</item>
+                    <item type="msa" lang="en">InflV:TNS</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">ɟi</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">ɟi</item>
+                    <item type="hn" lang="koq-Qaaa-x-IPAi">1</item>
+                    <item type="gls" lang="en">be</item>
+                    <item type="msa" lang="en">InflV</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">-ɛtɛ</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">-ɛtɛ</item>
+                    <item type="gls" lang="en">for.the.first.time</item>
+                    <item type="msa" lang="en">InflV:FIN</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">be</item>
+                <item type="pos" lang="en">InflV</item>
+              </word>
+              <word guid="cebe0a4e-ac1c-4727-b618-29547e632681">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">olirɛkɛ</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">o-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">o-</item>
+                    <item type="hn" lang="koq-Qaaa-x-IPAi">1</item>
+                    <item type="gls" lang="en">INF1</item>
+                    <item type="msa" lang="en">InflV:INF</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">lir</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">lir</item>
+                    <item type="gls" lang="en">read</item>
+                    <item type="msa" lang="en">InflV</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">-ɛk</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">-Vk</item>
+                    <item type="gls" lang="koq-Qaaa-x-IPAi"/>
+                    <item type="msa" lang="en">InflV:(PREFIN)</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">-ɛ</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">-V</item>
+                    <item type="gls" lang="koq-Qaaa-x-IPAi"/>
+                    <item type="msa" lang="en">InflV:FIN</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="2d623292-3bc8-4fab-a657-7b0c92226520">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">mwana</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">mò-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">mò-</item>
+                    <item type="gls" lang="en">CL1</item>
+                    <item type="msa" lang="en">N:NCL</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">ana</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">ana</item>
+                    <item type="gls" lang="en">child</item>
+                    <item type="msa" lang="en">N1/2</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">child</item>
+                <item type="pos" lang="en">N</item>
+              </word>
+              <word guid="63366f18-d64b-43b9-892d-1d7dfdf89ef4">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">livrə</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">livʀ</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">livʀ</item>
+                    <item type="gls" lang="en">book</item>
+                    <item type="msa" lang="en">N1/2</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">book</item>
+                <item type="pos" lang="en">N</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">I am reading the child the book.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="a6052dd4-dd8c-4ef2-b9b2-6e24533ab62f">
+        <phrases>
+          <phrase guid="91805ad0-f0e1-4674-9744-983e309a3c84">
+            <item type="segnum" lang="en">11</item>
+            <words>
+              <word guid="b3e0bd1e-12c7-4f22-b05d-d906b3d62a8d">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">maɟete</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">ma-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">ma-</item>
+                    <item type="hn" lang="koq-Qaaa-x-IPAi">1</item>
+                    <item type="gls" lang="en">1SG</item>
+                    <item type="msa" lang="en">InflV:Agr</item>
+                  </morph>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">a-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">a-</item>
+                    <item type="gls" lang="en">NONFUT</item>
+                    <item type="msa" lang="en">InflV:TNS</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">ɟi</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">ɟi</item>
+                    <item type="hn" lang="koq-Qaaa-x-IPAi">1</item>
+                    <item type="gls" lang="en">be</item>
+                    <item type="msa" lang="en">InflV</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">-ɛtɛ</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">-ɛtɛ</item>
+                    <item type="gls" lang="en">for.the.first.time</item>
+                    <item type="msa" lang="en">InflV:FIN</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">be</item>
+                <item type="pos" lang="en">InflV</item>
+              </word>
+              <word guid="d0946df4-70c7-4afe-acdb-9e248e3e0fe0">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">olaŋgaka</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">o-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">o-</item>
+                    <item type="hn" lang="koq-Qaaa-x-IPAi">1</item>
+                    <item type="gls" lang="en">INF1</item>
+                    <item type="msa" lang="en">InflV:INF</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">laŋg</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">laŋg</item>
+                    <item type="gls" lang="en">read</item>
+                    <item type="msa" lang="en">InflV</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">-ak</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">-Vk</item>
+                    <item type="gls" lang="koq-Qaaa-x-IPAi"/>
+                    <item type="msa" lang="en">InflV:(PREFIN)</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">-a</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">-V</item>
+                    <item type="gls" lang="koq-Qaaa-x-IPAi"/>
+                    <item type="msa" lang="en">InflV:FIN</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">read</item>
+                <item type="pos" lang="en">InflV</item>
+              </word>
+              <word guid="2d623292-3bc8-4fab-a657-7b0c92226520">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">mwana</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">mò-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">mò-</item>
+                    <item type="gls" lang="en">CL1</item>
+                    <item type="msa" lang="en">N:NCL</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">ana</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">ana</item>
+                    <item type="gls" lang="en">child</item>
+                    <item type="msa" lang="en">N1/2</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">child</item>
+                <item type="pos" lang="en">N</item>
+              </word>
+              <word guid="63366f18-d64b-43b9-892d-1d7dfdf89ef4">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">livrə</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">livʀ</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">livʀ</item>
+                    <item type="gls" lang="en">book</item>
+                    <item type="msa" lang="en">N1/2</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">book</item>
+                <item type="pos" lang="en">N</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">I am reading the child the book.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="ec08679e-2973-4ff5-829f-998d791953b4">
+        <phrases>
+          <phrase guid="925a1a13-f73d-4d5a-a337-7555c9004ec7">
+            <item type="segnum" lang="en">12</item>
+            <words>
+              <word guid="bec563df-5231-4288-b7b8-522d4c7554b0">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">maŋgwa</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">ma-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">ma-</item>
+                    <item type="hn" lang="koq-Qaaa-x-IPAi">1</item>
+                    <item type="gls" lang="en">1SG</item>
+                    <item type="msa" lang="en">InflV:Agr</item>
+                  </morph>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">a-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">a-</item>
+                    <item type="gls" lang="en">NONFUT</item>
+                    <item type="msa" lang="en">InflV:TNS</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">aŋgo</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">aŋgo</item>
+                    <item type="hn" lang="koq-Qaaa-x-IPAi">3</item>
+                    <item type="gls" lang="en">PROG</item>
+                    <item type="msa" lang="en">AUX</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">PROG</item>
+                <item type="pos" lang="en">AUX</item>
+              </word>
+              <word guid="c456aa4f-1a78-4459-98bd-7fdd29bc9524">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">laŋga</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">laŋg</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">laŋg</item>
+                    <item type="gls" lang="en">read</item>
+                    <item type="msa" lang="en">InflV</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">-a</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">-V</item>
+                    <item type="gls" lang="koq-Qaaa-x-IPAi"/>
+                    <item type="msa" lang="en">InflV:FIN</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">read</item>
+                <item type="pos" lang="en">InflV</item>
+              </word>
+              <word guid="2d623292-3bc8-4fab-a657-7b0c92226520">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">mwana</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">mò-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">mò-</item>
+                    <item type="gls" lang="en">CL1</item>
+                    <item type="msa" lang="en">N:NCL</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">ana</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">ana</item>
+                    <item type="gls" lang="en">child</item>
+                    <item type="msa" lang="en">N1/2</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">child</item>
+                <item type="pos" lang="en">N</item>
+              </word>
+              <word guid="63366f18-d64b-43b9-892d-1d7dfdf89ef4">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">livrə</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">livʀ</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">livʀ</item>
+                    <item type="gls" lang="en">book</item>
+                    <item type="msa" lang="en">N1/2</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">book</item>
+                <item type="pos" lang="en">N</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">I am reading the child the book.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="48ddfc78-5520-434c-86b9-86e8b3d10e6b">
+        <phrases>
+          <phrase guid="e3c037ad-0024-4c19-876f-93eb8ae31df3">
+            <item type="segnum" lang="en">13</item>
+            <words>
+              <word guid="bec563df-5231-4288-b7b8-522d4c7554b0">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">maŋgwa</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">ma-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">ma-</item>
+                    <item type="hn" lang="koq-Qaaa-x-IPAi">1</item>
+                    <item type="gls" lang="en">1SG</item>
+                    <item type="msa" lang="en">InflV:Agr</item>
+                  </morph>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">a-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">a-</item>
+                    <item type="gls" lang="en">NONFUT</item>
+                    <item type="msa" lang="en">InflV:TNS</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">aŋgo</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">aŋgo</item>
+                    <item type="hn" lang="koq-Qaaa-x-IPAi">3</item>
+                    <item type="gls" lang="en">PROG</item>
+                    <item type="msa" lang="en">AUX</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">PROG</item>
+                <item type="pos" lang="en">AUX</item>
+              </word>
+              <word guid="c456aa4f-1a78-4459-98bd-7fdd29bc9524">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">laŋga</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">laŋg</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">laŋg</item>
+                    <item type="gls" lang="en">read</item>
+                    <item type="msa" lang="en">InflV</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">-a</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">-V</item>
+                    <item type="gls" lang="koq-Qaaa-x-IPAi"/>
+                    <item type="msa" lang="en">InflV:FIN</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">read</item>
+                <item type="pos" lang="en">InflV</item>
+              </word>
+              <word guid="c3837a1d-7757-42a4-954d-833a2af36f37">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">jaŋgo</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">i-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">i-</item>
+                    <item type="hn" lang="koq-Qaaa-x-IPAi">4</item>
+                    <item type="gls" lang="en">CL7</item>
+                    <item type="msa" lang="en">DEMREL:Agr</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">aŋgo</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">aŋgo</item>
+                    <item type="hn" lang="koq-Qaaa-x-IPAi">1</item>
+                    <item type="gls" lang="en">3</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">3.sg</item>
+                <item type="pos" lang="en">pro</item>
+              </word>
+              <word guid="32a7400b-774a-41ac-b7db-2a69ac1c5b01">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">na</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">na</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">na</item>
+                    <item type="gls" lang="en">with</item>
+                    <item type="msa" lang="en">correlconn</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">with</item>
+                <item type="pos" lang="en">correlconn</item>
+              </word>
+              <word guid="2d623292-3bc8-4fab-a657-7b0c92226520">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">mwana</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">mò-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">mò-</item>
+                    <item type="gls" lang="en">CL1</item>
+                    <item type="msa" lang="en">N:NCL</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">ana</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">ana</item>
+                    <item type="gls" lang="en">child</item>
+                    <item type="msa" lang="en">N1/2</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">child</item>
+                <item type="pos" lang="en">N</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">I am reading it with the child. (unnatural sentence, pronoun replacement)</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="708265af-0b94-46ba-858c-b666161d7066">
+        <phrases>
+          <phrase guid="0763d2c6-be2d-41af-bc59-65c3d62fe476">
+            <item type="segnum" lang="en">14</item>
+            <words>
+              <word>
+                <item type="punct" lang="koq-Qaaa-x-IPAi">*</item>
+              </word>
+              <word guid="bec563df-5231-4288-b7b8-522d4c7554b0">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">maŋgwa</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">ma-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">ma-</item>
+                    <item type="hn" lang="koq-Qaaa-x-IPAi">1</item>
+                    <item type="gls" lang="en">1SG</item>
+                    <item type="msa" lang="en">InflV:Agr</item>
+                  </morph>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">a-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">a-</item>
+                    <item type="gls" lang="en">NONFUT</item>
+                    <item type="msa" lang="en">InflV:TNS</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">aŋgo</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">aŋgo</item>
+                    <item type="hn" lang="koq-Qaaa-x-IPAi">3</item>
+                    <item type="gls" lang="en">PROG</item>
+                    <item type="msa" lang="en">AUX</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">PROG</item>
+                <item type="pos" lang="en">AUX</item>
+              </word>
+              <word guid="c456aa4f-1a78-4459-98bd-7fdd29bc9524">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">laŋga</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">laŋg</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">laŋg</item>
+                    <item type="gls" lang="en">read</item>
+                    <item type="msa" lang="en">InflV</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">-a</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">-V</item>
+                    <item type="gls" lang="koq-Qaaa-x-IPAi"/>
+                    <item type="msa" lang="en">InflV:FIN</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">read</item>
+                <item type="pos" lang="en">InflV</item>
+              </word>
+              <word guid="2d623292-3bc8-4fab-a657-7b0c92226520">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">mwana</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">mò-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">mò-</item>
+                    <item type="gls" lang="en">CL1</item>
+                    <item type="msa" lang="en">N:NCL</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">ana</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">ana</item>
+                    <item type="gls" lang="en">child</item>
+                    <item type="msa" lang="en">N1/2</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">child</item>
+                <item type="pos" lang="en">N</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">*I am reading the child</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="8ceb027e-38ef-44cf-b9ef-52e27d3f1758">
+        <phrases>
+          <phrase guid="87c693f5-9b83-400c-84f4-3ab3cdadc107">
+            <item type="segnum" lang="en">15</item>
+            <words>
+              <word guid="bec563df-5231-4288-b7b8-522d4c7554b0">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">maŋgwa</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">ma-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">ma-</item>
+                    <item type="hn" lang="koq-Qaaa-x-IPAi">1</item>
+                    <item type="gls" lang="en">1SG</item>
+                    <item type="msa" lang="en">InflV:Agr</item>
+                  </morph>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">a-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">a-</item>
+                    <item type="gls" lang="en">NONFUT</item>
+                    <item type="msa" lang="en">InflV:TNS</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">aŋgo</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">aŋgo</item>
+                    <item type="hn" lang="koq-Qaaa-x-IPAi">3</item>
+                    <item type="gls" lang="en">PROG</item>
+                    <item type="msa" lang="en">AUX</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">PROG</item>
+                <item type="pos" lang="en">AUX</item>
+              </word>
+              <word guid="c456aa4f-1a78-4459-98bd-7fdd29bc9524">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">laŋga</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">laŋg</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">laŋg</item>
+                    <item type="gls" lang="en">read</item>
+                    <item type="msa" lang="en">InflV</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">-a</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">-V</item>
+                    <item type="gls" lang="koq-Qaaa-x-IPAi"/>
+                    <item type="msa" lang="en">InflV:FIN</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">read</item>
+                <item type="pos" lang="en">InflV</item>
+              </word>
+              <word guid="2d623292-3bc8-4fab-a657-7b0c92226520">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">mwana</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">mò-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">mò-</item>
+                    <item type="gls" lang="en">CL1</item>
+                    <item type="msa" lang="en">N:NCL</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">ana</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">ana</item>
+                    <item type="gls" lang="en">child</item>
+                    <item type="msa" lang="en">N1/2</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">child</item>
+                <item type="pos" lang="en">N</item>
+              </word>
+              <word guid="63366f18-d64b-43b9-892d-1d7dfdf89ef4">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">livrə</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">livʀ</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">livʀ</item>
+                    <item type="gls" lang="en">book</item>
+                    <item type="msa" lang="en">N1/2</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">book</item>
+                <item type="pos" lang="en">N</item>
+              </word>
+              <word guid="524c7d61-5aec-46c0-8969-c2fd0d1a9f9d">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">wa</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">ò-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">ò-</item>
+                    <item type="gls" lang="en">CL1</item>
+                    <item type="msa" lang="en">DEMREL:Agr</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">a</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">a</item>
+                    <item type="gls" lang="en">RELT</item>
+                    <item type="msa" lang="en">RELT</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">which</item>
+                <item type="pos" lang="en">RELT</item>
+              </word>
+              <word guid="61a55a83-5c00-4871-9d56-c52322026268">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">mahombakasa</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">ma-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">ma-</item>
+                    <item type="hn" lang="koq-Qaaa-x-IPAi">1</item>
+                    <item type="gls" lang="en">1SG</item>
+                    <item type="msa" lang="en">InflV:Agr</item>
+                  </morph>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">a-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">a-</item>
+                    <item type="gls" lang="en">NONFUT</item>
+                    <item type="msa" lang="en">InflV:TNS</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">homb</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">homb</item>
+                    <item type="gls" lang="en">buy</item>
+                    <item type="msa" lang="en">InflV</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">-ak</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">-Vk</item>
+                    <item type="gls" lang="koq-Qaaa-x-IPAi"/>
+                    <item type="msa" lang="en">InflV:(PREFIN)</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">-a</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">-V</item>
+                    <item type="gls" lang="koq-Qaaa-x-IPAi"/>
+                    <item type="msa" lang="en">InflV:FIN</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">-sa</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">-sa</item>
+                    <item type="gls" lang="en">DIST</item>
+                    <item type="msa" lang="en">InflV:(TNS2)</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="6230908e-c57e-4c8f-a2d6-1cb0e0c0a886">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">we</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">ò-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">ò-</item>
+                    <item type="gls" lang="en">CL1</item>
+                    <item type="msa" lang="en">DEMREL:Agr</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">ɛ</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">ɛ</item>
+                    <item type="gls" lang="en">DEM</item>
+                    <item type="msa" lang="en">DEM</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">DEM</item>
+                <item type="pos" lang="en">pro</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">I am reading the child the book that I bought.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="8cb153e4-41fd-4511-8302-1430ca92e3a8">
+        <phrases>
+          <phrase guid="d8d52a1e-9a64-4bb9-92a3-d9933c3f7ac3">
+            <item type="segnum" lang="en">16</item>
+            <words>
+              <word>
+                <item type="punct" lang="koq-Qaaa-x-IPAi">*</item>
+              </word>
+              <word guid="bec563df-5231-4288-b7b8-522d4c7554b0">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">maŋgwa</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">ma-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">ma-</item>
+                    <item type="hn" lang="koq-Qaaa-x-IPAi">1</item>
+                    <item type="gls" lang="en">1SG</item>
+                    <item type="msa" lang="en">InflV:Agr</item>
+                  </morph>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">a-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">a-</item>
+                    <item type="gls" lang="en">NONFUT</item>
+                    <item type="msa" lang="en">InflV:TNS</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">aŋgo</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">aŋgo</item>
+                    <item type="hn" lang="koq-Qaaa-x-IPAi">3</item>
+                    <item type="gls" lang="en">PROG</item>
+                    <item type="msa" lang="en">AUX</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">PROG</item>
+                <item type="pos" lang="en">AUX</item>
+              </word>
+              <word guid="c456aa4f-1a78-4459-98bd-7fdd29bc9524">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">laŋga</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">laŋg</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">laŋg</item>
+                    <item type="gls" lang="en">read</item>
+                    <item type="msa" lang="en">InflV</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">-a</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">-V</item>
+                    <item type="gls" lang="koq-Qaaa-x-IPAi"/>
+                    <item type="msa" lang="en">InflV:FIN</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">read</item>
+                <item type="pos" lang="en">InflV</item>
+              </word>
+              <word guid="63366f18-d64b-43b9-892d-1d7dfdf89ef4">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">livrə</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">livʀ</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">livʀ</item>
+                    <item type="gls" lang="en">book</item>
+                    <item type="msa" lang="en">N1/2</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">book</item>
+                <item type="pos" lang="en">N</item>
+              </word>
+              <word guid="2d623292-3bc8-4fab-a657-7b0c92226520">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">mwana</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">mò-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">mò-</item>
+                    <item type="gls" lang="en">CL1</item>
+                    <item type="msa" lang="en">N:NCL</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">ana</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">ana</item>
+                    <item type="gls" lang="en">child</item>
+                    <item type="msa" lang="en">N1/2</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">child</item>
+                <item type="pos" lang="en">N</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">*I am reading the book the child. </item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="53e771bf-5e2b-47da-8c73-5fbaeeaac524">
+        <phrases>
+          <phrase guid="2b9aecaf-e75c-41e3-98fe-fd5fe13d6ca7">
+            <item type="segnum" lang="en">17</item>
+            <words>
+              <word>
+                <item type="punct" lang="koq-Qaaa-x-IPAi">*</item>
+              </word>
+              <word guid="bec563df-5231-4288-b7b8-522d4c7554b0">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">maŋgwa</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">ma-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">ma-</item>
+                    <item type="hn" lang="koq-Qaaa-x-IPAi">1</item>
+                    <item type="gls" lang="en">1SG</item>
+                    <item type="msa" lang="en">InflV:Agr</item>
+                  </morph>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">a-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">a-</item>
+                    <item type="gls" lang="en">NONFUT</item>
+                    <item type="msa" lang="en">InflV:TNS</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">aŋgo</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">aŋgo</item>
+                    <item type="hn" lang="koq-Qaaa-x-IPAi">3</item>
+                    <item type="gls" lang="en">PROG</item>
+                    <item type="msa" lang="en">AUX</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">PROG</item>
+                <item type="pos" lang="en">AUX</item>
+              </word>
+              <word guid="c456aa4f-1a78-4459-98bd-7fdd29bc9524">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">laŋga</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">laŋg</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">laŋg</item>
+                    <item type="gls" lang="en">read</item>
+                    <item type="msa" lang="en">InflV</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">-a</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">-V</item>
+                    <item type="gls" lang="koq-Qaaa-x-IPAi"/>
+                    <item type="msa" lang="en">InflV:FIN</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">read</item>
+                <item type="pos" lang="en">InflV</item>
+              </word>
+              <word guid="63366f18-d64b-43b9-892d-1d7dfdf89ef4">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">livrə</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">livʀ</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">livʀ</item>
+                    <item type="gls" lang="en">book</item>
+                    <item type="msa" lang="en">N1/2</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">book</item>
+                <item type="pos" lang="en">N</item>
+              </word>
+              <word guid="32a7400b-774a-41ac-b7db-2a69ac1c5b01">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">na</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">na</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">na</item>
+                    <item type="gls" lang="en">with</item>
+                    <item type="msa" lang="en">correlconn</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">with</item>
+                <item type="pos" lang="en">correlconn</item>
+              </word>
+              <word guid="2d623292-3bc8-4fab-a657-7b0c92226520">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">mwana</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">mò-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">mò-</item>
+                    <item type="gls" lang="en">CL1</item>
+                    <item type="msa" lang="en">N:NCL</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">ana</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">ana</item>
+                    <item type="gls" lang="en">child</item>
+                    <item type="msa" lang="en">N1/2</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">child</item>
+                <item type="pos" lang="en">N</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">*I am reading the book with the child.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="4761f39c-36aa-4ad3-a873-5733113dc8ca">
+        <phrases>
+          <phrase guid="3e5aa816-1536-4e6a-baf7-ce06743feaa4">
+            <item type="segnum" lang="en">18</item>
+            <words>
+              <word guid="bec563df-5231-4288-b7b8-522d4c7554b0">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">maŋgwa</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">ma-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">ma-</item>
+                    <item type="hn" lang="koq-Qaaa-x-IPAi">1</item>
+                    <item type="gls" lang="en">1SG</item>
+                    <item type="msa" lang="en">InflV:Agr</item>
+                  </morph>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">a-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">a-</item>
+                    <item type="gls" lang="en">NONFUT</item>
+                    <item type="msa" lang="en">InflV:TNS</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">aŋgo</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">aŋgo</item>
+                    <item type="hn" lang="koq-Qaaa-x-IPAi">3</item>
+                    <item type="gls" lang="en">PROG</item>
+                    <item type="msa" lang="en">AUX</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">PROG</item>
+                <item type="pos" lang="en">AUX</item>
+              </word>
+              <word guid="d95b4608-bf75-41b0-9c9e-7f77609132f9">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">sɔ</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">sɔ</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">sɔ</item>
+                    <item type="gls" lang="en">speak</item>
+                    <item type="msa" lang="en">InflV</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">-ɔ</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">-V</item>
+                    <item type="gls" lang="koq-Qaaa-x-IPAi"/>
+                    <item type="msa" lang="en">InflV:FIN</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">speak</item>
+                <item type="pos" lang="en">InflV</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">I am speaking </item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="d10eb989-0230-48aa-a3fc-51e7b2c6b8ae">
+        <phrases>
+          <phrase guid="2849179a-33af-425d-a3d1-2da57feb9225">
+            <item type="segnum" lang="en">19</item>
+            <words>
+              <word guid="b3e0bd1e-12c7-4f22-b05d-d906b3d62a8d">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">maɟete</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">ma-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">ma-</item>
+                    <item type="hn" lang="koq-Qaaa-x-IPAi">1</item>
+                    <item type="gls" lang="en">1SG</item>
+                    <item type="msa" lang="en">InflV:Agr</item>
+                  </morph>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">a-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">a-</item>
+                    <item type="gls" lang="en">NONFUT</item>
+                    <item type="msa" lang="en">InflV:TNS</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">ɟi</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">ɟi</item>
+                    <item type="hn" lang="koq-Qaaa-x-IPAi">1</item>
+                    <item type="gls" lang="en">be</item>
+                    <item type="msa" lang="en">InflV</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">-ɛtɛ</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">-ɛtɛ</item>
+                    <item type="gls" lang="en">for.the.first.time</item>
+                    <item type="msa" lang="en">InflV:FIN</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">be</item>
+                <item type="pos" lang="en">InflV</item>
+              </word>
+              <word guid="d95b4608-bf75-41b0-9c9e-7f77609132f9">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">sɔ</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">sɔ</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">sɔ</item>
+                    <item type="gls" lang="en">speak</item>
+                    <item type="msa" lang="en">InflV</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">-ɔ</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">-V</item>
+                    <item type="gls" lang="koq-Qaaa-x-IPAi"/>
+                    <item type="msa" lang="en">InflV:FIN</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">speak</item>
+                <item type="pos" lang="en">InflV</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">I am speaking</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="0dbac3ee-f6e9-4dbb-bef6-002710a49f35">
+        <phrases>
+          <phrase guid="08f51294-7a5a-46fb-985e-3cd889447031">
+            <item type="segnum" lang="en">20</item>
+            <words>
+              <word guid="bec563df-5231-4288-b7b8-522d4c7554b0">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">maŋgwa</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">ma-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">ma-</item>
+                    <item type="hn" lang="koq-Qaaa-x-IPAi">1</item>
+                    <item type="gls" lang="en">1SG</item>
+                    <item type="msa" lang="en">InflV:Agr</item>
+                  </morph>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">a-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">a-</item>
+                    <item type="gls" lang="en">NONFUT</item>
+                    <item type="msa" lang="en">InflV:TNS</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">aŋgo</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">aŋgo</item>
+                    <item type="hn" lang="koq-Qaaa-x-IPAi">3</item>
+                    <item type="gls" lang="en">PROG</item>
+                    <item type="msa" lang="en">AUX</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">PROG</item>
+                <item type="pos" lang="en">AUX</item>
+              </word>
+              <word guid="d95b4608-bf75-41b0-9c9e-7f77609132f9">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">sɔ</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">sɔ</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">sɔ</item>
+                    <item type="gls" lang="en">speak</item>
+                    <item type="msa" lang="en">InflV</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">-ɔ</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">-V</item>
+                    <item type="gls" lang="koq-Qaaa-x-IPAi"/>
+                    <item type="msa" lang="en">InflV:FIN</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">speak</item>
+                <item type="pos" lang="en">InflV</item>
+              </word>
+              <word guid="e4ff8b0b-37c9-4d61-9179-970b521f369b">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">ikota</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">i-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">i-</item>
+                    <item type="hn" lang="koq-Qaaa-x-IPAi">2</item>
+                    <item type="gls" lang="en">CL5</item>
+                    <item type="msa" lang="en">N:NCL</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">kota</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">kota</item>
+                    <item type="gls" lang="en">Ikota</item>
+                    <item type="msa" lang="en">N</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">ikota</item>
+                <item type="pos" lang="en">N</item>
+              </word>
+              <word guid="5f0aca24-1fc1-4f84-9a32-f350bba8d362">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">osatɛ</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">osatɛ</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">osatɛ</item>
+                    <item type="gls" lang="en">right.now</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">right.now</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">I am speaking Ikota.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="3431664c-2608-4f22-b298-7f3a972941e6">
+        <phrases>
+          <phrase guid="7f212adc-0b27-44dc-8df9-188ae3e9fd11">
+            <item type="segnum" lang="en">21</item>
+            <words>
+              <word guid="b3e0bd1e-12c7-4f22-b05d-d906b3d62a8d">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">maɟete</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">ma-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">ma-</item>
+                    <item type="hn" lang="koq-Qaaa-x-IPAi">1</item>
+                    <item type="gls" lang="en">1SG</item>
+                    <item type="msa" lang="en">InflV:Agr</item>
+                  </morph>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">a-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">a-</item>
+                    <item type="gls" lang="en">NONFUT</item>
+                    <item type="msa" lang="en">InflV:TNS</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">ɟi</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">ɟi</item>
+                    <item type="hn" lang="koq-Qaaa-x-IPAi">1</item>
+                    <item type="gls" lang="en">be</item>
+                    <item type="msa" lang="en">InflV</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">-ɛtɛ</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">-ɛtɛ</item>
+                    <item type="gls" lang="en">for.the.first.time</item>
+                    <item type="msa" lang="en">InflV:FIN</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">be</item>
+                <item type="pos" lang="en">InflV</item>
+              </word>
+              <word guid="2455a696-240c-451a-847b-74cfa0a87355">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">osɔkɔ</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">o-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">o-</item>
+                    <item type="hn" lang="koq-Qaaa-x-IPAi">1</item>
+                    <item type="gls" lang="en">INF1</item>
+                    <item type="msa" lang="en">InflV:INF</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">sɔ</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">sɔ</item>
+                    <item type="gls" lang="en">speak</item>
+                    <item type="msa" lang="en">InflV</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">-ɔk</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">-Vk</item>
+                    <item type="gls" lang="koq-Qaaa-x-IPAi"/>
+                    <item type="msa" lang="en">InflV:(PREFIN)</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">-ɔ</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">-V</item>
+                    <item type="gls" lang="koq-Qaaa-x-IPAi"/>
+                    <item type="msa" lang="en">InflV:FIN</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="e4ff8b0b-37c9-4d61-9179-970b521f369b">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">ikota</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">i-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">i-</item>
+                    <item type="hn" lang="koq-Qaaa-x-IPAi">2</item>
+                    <item type="gls" lang="en">CL5</item>
+                    <item type="msa" lang="en">N:NCL</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">kota</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">kota</item>
+                    <item type="gls" lang="en">Ikota</item>
+                    <item type="msa" lang="en">N</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">ikota</item>
+                <item type="pos" lang="en">N</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">I am speaking Ikota.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="5ba7db5f-15bf-4fcc-873d-bb804375f5d8">
+        <phrases>
+          <phrase guid="51b74998-0f32-473b-8af7-5fd90bba01d6">
+            <item type="segnum" lang="en">22</item>
+            <words>
+              <word guid="7e418f94-9863-4369-98f7-3b88c851fcbe">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">maswete</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">ma-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">ma-</item>
+                    <item type="hn" lang="koq-Qaaa-x-IPAi">1</item>
+                    <item type="gls" lang="en">1SG</item>
+                    <item type="msa" lang="en">InflV:Agr</item>
+                  </morph>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">a-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">a-</item>
+                    <item type="gls" lang="en">NONFUT</item>
+                    <item type="msa" lang="en">InflV:TNS</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">sɔ</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">sɔ</item>
+                    <item type="gls" lang="en">speak</item>
+                    <item type="msa" lang="en">InflV</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">-ɔ</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">-V</item>
+                    <item type="gls" lang="koq-Qaaa-x-IPAi"/>
+                    <item type="msa" lang="en">InflV:FIN</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">-ɛtɛ</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">-ɛtɛ</item>
+                    <item type="gls" lang="en">for.the.first.time</item>
+                    <item type="msa" lang="en">InflV:FIN</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">I.am.speaking</item>
+                <item type="pos" lang="en">InflV</item>
+              </word>
+              <word guid="e4ff8b0b-37c9-4d61-9179-970b521f369b">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">ikota</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">i-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">i-</item>
+                    <item type="hn" lang="koq-Qaaa-x-IPAi">2</item>
+                    <item type="gls" lang="en">CL5</item>
+                    <item type="msa" lang="en">N:NCL</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">kota</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">kota</item>
+                    <item type="gls" lang="en">Ikota</item>
+                    <item type="msa" lang="en">N</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">ikota</item>
+                <item type="pos" lang="en">N</item>
+              </word>
+              <word guid="ebc7e4ca-d1f0-4d13-95e9-33f5a5d45246">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">nanobe</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">na</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">na</item>
+                    <item type="gls" lang="en">with</item>
+                    <item type="msa" lang="en">correlconn</item>
+                  </morph>
+                  <morph>
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">n-</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">obe</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">obe</item>
+                    <item type="gls" lang="en">2.sg</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">with</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">I am speaking Ikota to/with you.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="f486e8e1-bf15-4d1c-9ddd-c37f94b72388">
+        <phrases>
+          <phrase guid="505054de-5b5c-489e-b749-84350aef57cd">
+            <item type="segnum" lang="en">23</item>
+            <words>
+              <word guid="bec563df-5231-4288-b7b8-522d4c7554b0">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">maŋgwa</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">ma-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">ma-</item>
+                    <item type="hn" lang="koq-Qaaa-x-IPAi">1</item>
+                    <item type="gls" lang="en">1SG</item>
+                    <item type="msa" lang="en">InflV:Agr</item>
+                  </morph>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">a-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">a-</item>
+                    <item type="gls" lang="en">NONFUT</item>
+                    <item type="msa" lang="en">InflV:TNS</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">aŋgo</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">aŋgo</item>
+                    <item type="hn" lang="koq-Qaaa-x-IPAi">3</item>
+                    <item type="gls" lang="en">PROG</item>
+                    <item type="msa" lang="en">AUX</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">PROG</item>
+                <item type="pos" lang="en">AUX</item>
+              </word>
+              <word guid="d95b4608-bf75-41b0-9c9e-7f77609132f9">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">sɔ</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">sɔ</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">sɔ</item>
+                    <item type="gls" lang="en">speak</item>
+                    <item type="msa" lang="en">InflV</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">-ɔ</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">-V</item>
+                    <item type="gls" lang="koq-Qaaa-x-IPAi"/>
+                    <item type="msa" lang="en">InflV:FIN</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">speak</item>
+                <item type="pos" lang="en">InflV</item>
+              </word>
+              <word guid="e4ff8b0b-37c9-4d61-9179-970b521f369b">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">ikota</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">i-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">i-</item>
+                    <item type="hn" lang="koq-Qaaa-x-IPAi">2</item>
+                    <item type="gls" lang="en">CL5</item>
+                    <item type="msa" lang="en">N:NCL</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">kota</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">kota</item>
+                    <item type="gls" lang="en">Ikota</item>
+                    <item type="msa" lang="en">N</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">ikota</item>
+                <item type="pos" lang="en">N</item>
+              </word>
+              <word guid="32a7400b-774a-41ac-b7db-2a69ac1c5b01">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">na</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">na</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">na</item>
+                    <item type="gls" lang="en">with</item>
+                    <item type="msa" lang="en">correlconn</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">with</item>
+                <item type="pos" lang="en">correlconn</item>
+              </word>
+              <word guid="2d623292-3bc8-4fab-a657-7b0c92226520">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">mwana</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">mò-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">mò-</item>
+                    <item type="gls" lang="en">CL1</item>
+                    <item type="msa" lang="en">N:NCL</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">ana</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">ana</item>
+                    <item type="gls" lang="en">child</item>
+                    <item type="msa" lang="en">N1/2</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">child</item>
+                <item type="pos" lang="en">N</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">I am speaking Ikota to/waith the child.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="4e17f6b8-7cf0-43a7-add5-705feedfdfa7">
+        <phrases>
+          <phrase guid="d21a478e-0b94-4862-884d-77659dd7f6c1">
+            <item type="segnum" lang="en">24</item>
+            <words>
+              <word guid="aca94914-5514-483d-8631-637b7d910cc3">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">ja</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">i-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">i-</item>
+                    <item type="hn" lang="koq-Qaaa-x-IPAi">4</item>
+                    <item type="gls" lang="en">CL7</item>
+                    <item type="msa" lang="en">DEMREL:Agr</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">a</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">a</item>
+                    <item type="gls" lang="en">RELT</item>
+                    <item type="msa" lang="en">RELT</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">which</item>
+                <item type="pos" lang="en">RELT</item>
+              </word>
+              <word guid="b23e0c58-5930-40d8-a0a6-847374c2b3b5">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">opeka</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">o-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">o-</item>
+                    <item type="hn" lang="koq-Qaaa-x-IPAi">2</item>
+                    <item type="gls" lang="en">2SG</item>
+                    <item type="msa" lang="en">InflV:Agr</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">pek</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">pek</item>
+                    <item type="gls" lang="en">do</item>
+                    <item type="msa" lang="en">InflV</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">-a</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">-V</item>
+                    <item type="gls" lang="koq-Qaaa-x-IPAi"/>
+                    <item type="msa" lang="en">InflV:FIN</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">do</item>
+                <item type="pos" lang="en">InflV</item>
+              </word>
+              <word guid="b5373ab4-3445-4bda-80be-897ef2473098">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">inde</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">inde</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">indɛ</item>
+                    <item type="gls" lang="en">what</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">what</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">?</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">What are you doing?</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="caebdb75-01da-49cc-93da-d6c5baf5d27d">
+        <phrases>
+          <phrase guid="172388b9-7f36-432b-bb40-e74203cec429">
+            <item type="segnum" lang="en">25</item>
+            <words>
+              <word guid="bec563df-5231-4288-b7b8-522d4c7554b0">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">maŋgwa</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">ma-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">ma-</item>
+                    <item type="hn" lang="koq-Qaaa-x-IPAi">1</item>
+                    <item type="gls" lang="en">1SG</item>
+                    <item type="msa" lang="en">InflV:Agr</item>
+                  </morph>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">a-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">a-</item>
+                    <item type="gls" lang="en">NONFUT</item>
+                    <item type="msa" lang="en">InflV:TNS</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">aŋgo</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">aŋgo</item>
+                    <item type="hn" lang="koq-Qaaa-x-IPAi">3</item>
+                    <item type="gls" lang="en">PROG</item>
+                    <item type="msa" lang="en">AUX</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">PROG</item>
+                <item type="pos" lang="en">AUX</item>
+              </word>
+              <word guid="e12a0262-f5b7-480b-8ef4-eba05e8a0d8e">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">ɟa</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">ɟi-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">ɟi-</item>
+                    <item type="hn" lang="koq-Qaaa-x-IPAi">2</item>
+                    <item type="gls" lang="en">CL5</item>
+                    <item type="msa" lang="en">DEMREL:Agr</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">a</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">a</item>
+                    <item type="gls" lang="en">RELT</item>
+                    <item type="msa" lang="en">RELT</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">which</item>
+                <item type="pos" lang="en">InflV</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">I am eating.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="9297f68a-bdc2-46e0-82ad-07d27af95236">
+        <phrases>
+          <phrase guid="00748fff-1282-4b88-93ad-d3fece467acf">
+            <item type="segnum" lang="en">26</item>
+            <words>
+              <word guid="bec563df-5231-4288-b7b8-522d4c7554b0">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">maŋgwa</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">ma-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">ma-</item>
+                    <item type="hn" lang="koq-Qaaa-x-IPAi">1</item>
+                    <item type="gls" lang="en">1SG</item>
+                    <item type="msa" lang="en">InflV:Agr</item>
+                  </morph>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">a-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">a-</item>
+                    <item type="gls" lang="en">NONFUT</item>
+                    <item type="msa" lang="en">InflV:TNS</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">aŋgo</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">aŋgo</item>
+                    <item type="hn" lang="koq-Qaaa-x-IPAi">3</item>
+                    <item type="gls" lang="en">PROG</item>
+                    <item type="msa" lang="en">AUX</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">PROG</item>
+                <item type="pos" lang="en">AUX</item>
+              </word>
+              <word guid="e12a0262-f5b7-480b-8ef4-eba05e8a0d8e">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">ɟa</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">ɟi-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">ɟi-</item>
+                    <item type="hn" lang="koq-Qaaa-x-IPAi">2</item>
+                    <item type="gls" lang="en">CL5</item>
+                    <item type="msa" lang="en">DEMREL:Agr</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">a</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">a</item>
+                    <item type="gls" lang="en">RELT</item>
+                    <item type="msa" lang="en">RELT</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">which</item>
+                <item type="pos" lang="en">InflV</item>
+              </word>
+              <word guid="4e2cdfb5-ace9-460d-b9a4-d63f7a11082a">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">bute</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">∅-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">mò-</item>
+                    <item type="gls" lang="en">CL1</item>
+                    <item type="msa" lang="en">N:NCL</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">bute</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">bute</item>
+                    <item type="gls" lang="en">cassava</item>
+                    <item type="msa" lang="en">N1/2</item>
+                  </morph>
+                </morphemes>
+              </word>
+            </words>
+            <item type="gls" lang="en">I am eating cassava.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="51015f8e-06ed-4e71-aec8-b0812731126e">
+        <phrases>
+          <phrase guid="d6f1cede-119c-4f7d-8546-a975785643d7">
+            <item type="segnum" lang="en">27</item>
+            <words>
+              <word guid="b3e0bd1e-12c7-4f22-b05d-d906b3d62a8d">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">maɟete</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">ma-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">ma-</item>
+                    <item type="hn" lang="koq-Qaaa-x-IPAi">1</item>
+                    <item type="gls" lang="en">1SG</item>
+                    <item type="msa" lang="en">InflV:Agr</item>
+                  </morph>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">a-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">a-</item>
+                    <item type="gls" lang="en">NONFUT</item>
+                    <item type="msa" lang="en">InflV:TNS</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">ɟi</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">ɟi</item>
+                    <item type="hn" lang="koq-Qaaa-x-IPAi">1</item>
+                    <item type="gls" lang="en">be</item>
+                    <item type="msa" lang="en">InflV</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">-ɛtɛ</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">-ɛtɛ</item>
+                    <item type="gls" lang="en">for.the.first.time</item>
+                    <item type="msa" lang="en">InflV:FIN</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">be</item>
+                <item type="pos" lang="en">InflV</item>
+              </word>
+              <word guid="3c072634-de7d-492c-9fb3-757fac5d7e6c">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">ojambaka</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">o-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">o-</item>
+                    <item type="hn" lang="koq-Qaaa-x-IPAi">1</item>
+                    <item type="gls" lang="en">INF1</item>
+                    <item type="msa" lang="en">InflV:INF</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">jamb</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">jamb</item>
+                    <item type="gls" lang="en">cook</item>
+                    <item type="msa" lang="en">InflV</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">-ak</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">-Vk</item>
+                    <item type="gls" lang="koq-Qaaa-x-IPAi"/>
+                    <item type="msa" lang="en">InflV:(PREFIN)</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">-a</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">-V</item>
+                    <item type="gls" lang="koq-Qaaa-x-IPAi"/>
+                    <item type="msa" lang="en">InflV:FIN</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">cook</item>
+                <item type="pos" lang="en">InflV</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">I am cooking.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="2c070b18-1b53-4630-9f6d-487b789c4420">
+        <phrases>
+          <phrase guid="97c7f1d2-df83-478f-9562-410610283375">
+            <item type="segnum" lang="en">28</item>
+            <words>
+              <word guid="b3e0bd1e-12c7-4f22-b05d-d906b3d62a8d">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">maɟete</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">ma-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">ma-</item>
+                    <item type="hn" lang="koq-Qaaa-x-IPAi">1</item>
+                    <item type="gls" lang="en">1SG</item>
+                    <item type="msa" lang="en">InflV:Agr</item>
+                  </morph>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">a-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">a-</item>
+                    <item type="gls" lang="en">NONFUT</item>
+                    <item type="msa" lang="en">InflV:TNS</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">ɟi</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">ɟi</item>
+                    <item type="hn" lang="koq-Qaaa-x-IPAi">1</item>
+                    <item type="gls" lang="en">be</item>
+                    <item type="msa" lang="en">InflV</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">-ɛtɛ</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">-ɛtɛ</item>
+                    <item type="gls" lang="en">for.the.first.time</item>
+                    <item type="msa" lang="en">InflV:FIN</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">be</item>
+                <item type="pos" lang="en">InflV</item>
+              </word>
+              <word guid="3c072634-de7d-492c-9fb3-757fac5d7e6c">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">ojambaka</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">o-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">o-</item>
+                    <item type="hn" lang="koq-Qaaa-x-IPAi">1</item>
+                    <item type="gls" lang="en">INF1</item>
+                    <item type="msa" lang="en">InflV:INF</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">jamb</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">jamb</item>
+                    <item type="gls" lang="en">cook</item>
+                    <item type="msa" lang="en">InflV</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">-ak</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">-Vk</item>
+                    <item type="gls" lang="koq-Qaaa-x-IPAi"/>
+                    <item type="msa" lang="en">InflV:(PREFIN)</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">-a</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">-V</item>
+                    <item type="gls" lang="koq-Qaaa-x-IPAi"/>
+                    <item type="msa" lang="en">InflV:FIN</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">cook</item>
+                <item type="pos" lang="en">InflV</item>
+              </word>
+              <word guid="2d623292-3bc8-4fab-a657-7b0c92226520">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">mwana</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">mò-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">mò-</item>
+                    <item type="gls" lang="en">CL1</item>
+                    <item type="msa" lang="en">N:NCL</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">ana</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">ana</item>
+                    <item type="gls" lang="en">child</item>
+                    <item type="msa" lang="en">N1/2</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">child</item>
+                <item type="pos" lang="en">N</item>
+              </word>
+              <word guid="4e2cdfb5-ace9-460d-b9a4-d63f7a11082a">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">bute</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">∅-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">mò-</item>
+                    <item type="gls" lang="en">CL1</item>
+                    <item type="msa" lang="en">N:NCL</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">bute</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">bute</item>
+                    <item type="gls" lang="en">cassava</item>
+                    <item type="msa" lang="en">N1/2</item>
+                  </morph>
+                </morphemes>
+              </word>
+            </words>
+            <item type="gls" lang="en">I am cooking cassava for the child. </item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="dcc8e54d-9361-4b0c-a69b-3c944efd5e9c">
+        <phrases>
+          <phrase guid="f1cac239-6c58-494f-b1fb-9f067fc8fdcc">
+            <item type="segnum" lang="en">29</item>
+            <words>
+              <word guid="b3e0bd1e-12c7-4f22-b05d-d906b3d62a8d">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">maɟete</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">ma-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">ma-</item>
+                    <item type="hn" lang="koq-Qaaa-x-IPAi">1</item>
+                    <item type="gls" lang="en">1SG</item>
+                    <item type="msa" lang="en">InflV:Agr</item>
+                  </morph>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">a-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">a-</item>
+                    <item type="gls" lang="en">NONFUT</item>
+                    <item type="msa" lang="en">InflV:TNS</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">ɟi</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">ɟi</item>
+                    <item type="hn" lang="koq-Qaaa-x-IPAi">1</item>
+                    <item type="gls" lang="en">be</item>
+                    <item type="msa" lang="en">InflV</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">-ɛtɛ</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">-ɛtɛ</item>
+                    <item type="gls" lang="en">for.the.first.time</item>
+                    <item type="msa" lang="en">InflV:FIN</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">be</item>
+                <item type="pos" lang="en">InflV</item>
+              </word>
+              <word guid="3c072634-de7d-492c-9fb3-757fac5d7e6c">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">ojambaka</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">o-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">o-</item>
+                    <item type="hn" lang="koq-Qaaa-x-IPAi">1</item>
+                    <item type="gls" lang="en">INF1</item>
+                    <item type="msa" lang="en">InflV:INF</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">jamb</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">jamb</item>
+                    <item type="gls" lang="en">cook</item>
+                    <item type="msa" lang="en">InflV</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">-ak</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">-Vk</item>
+                    <item type="gls" lang="koq-Qaaa-x-IPAi"/>
+                    <item type="msa" lang="en">InflV:(PREFIN)</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">-a</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">-V</item>
+                    <item type="gls" lang="koq-Qaaa-x-IPAi"/>
+                    <item type="msa" lang="en">InflV:FIN</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">cook</item>
+                <item type="pos" lang="en">InflV</item>
+              </word>
+              <word guid="4e2cdfb5-ace9-460d-b9a4-d63f7a11082a">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">bute</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">∅-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">mò-</item>
+                    <item type="gls" lang="en">CL1</item>
+                    <item type="msa" lang="en">N:NCL</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">bute</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">bute</item>
+                    <item type="gls" lang="en">cassava</item>
+                    <item type="msa" lang="en">N1/2</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="524c7d61-5aec-46c0-8969-c2fd0d1a9f9d">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">wa</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">ò-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">ò-</item>
+                    <item type="gls" lang="en">CL1</item>
+                    <item type="msa" lang="en">DEMREL:Agr</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">a</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">a</item>
+                    <item type="gls" lang="en">RELT</item>
+                    <item type="msa" lang="en">RELT</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">which</item>
+                <item type="pos" lang="en">RELT</item>
+              </word>
+              <word guid="2d623292-3bc8-4fab-a657-7b0c92226520">
+                <item type="txt" lang="koq-Qaaa-x-IPAi">mwana</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">mò-</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">mò-</item>
+                    <item type="gls" lang="en">CL1</item>
+                    <item type="msa" lang="en">N:NCL</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="koq-Qaaa-x-IPAi">ana</item>
+                    <item type="cf" lang="koq-Qaaa-x-IPAi">ana</item>
+                    <item type="gls" lang="en">child</item>
+                    <item type="msa" lang="en">N1/2</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">child</item>
+                <item type="pos" lang="en">N</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">I am cooking cassava for the child.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+    </paragraphs>
+    <languages>
+      <language lang="koq-Qaaa-x-IPAi" font="Charis SIL" vernacular="true"/>
+      <language lang="en" font="Times New Roman"/>
+    </languages>
+  </interlinear-text>
+</document>
