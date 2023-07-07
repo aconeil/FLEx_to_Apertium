@@ -2,6 +2,7 @@ import sys
 import csv
 import xml.etree.ElementTree as ET
 word_by_pos = {}
+corpus = []
 #Run as python3 flextext_wordform_extractor.py input_files[any number] out_file.
 with open(sys.argv[-1], "w", newline="") as csvfile:
     fieldnames = ['Wordform', 'POS']
@@ -22,10 +23,16 @@ with open(sys.argv[-1], "w", newline="") as csvfile:
                         word_by_pos[surface] = pos
                 else:
                     word_by_pos[surface] = "misc"
-    print(len(word_by_pos))
+    #print(len(word_by_pos))
     writer.writeheader()
     for word in word_by_pos.items():
-        print(word)
+        #print(word)
         writer.writerow({'Wordform':word[0], 'POS':word[1]})
-        # for form in wordforms:
-        #     writer.writerow({'Wordform': form})
+    for phrases in root.findall('.//phrases/phrase'):
+        phrase = ''
+        #for word in phrase.findall()
+        for words in phrases.findall('./words/word/item[@lang={{lang}}]'):
+            phrase = phrase + words.text + " "
+        corpus.append(phrase.strip(" "))
+    #export to a corpus file
+    print(corpus)
