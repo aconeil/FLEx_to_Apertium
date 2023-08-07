@@ -2,6 +2,7 @@ import os
 import sys
 import xml.etree.ElementTree as ET
 word_by_pos = {}
+morph_patterns = []
 flex_pos_cat = {"adj":"Adjective", "cop":"CopulativeVerb", "vd":"DitransitiveVerb", "adp":"adposition", "adv":"Adverb",
                 "clf":"Classifier", "conn":"Connective", "det":"Determiner", "existmrkr":"ExistentialMarker",
                 "expl":"Expletive", "interj":"Interjection", "n":"Noun", "ptcp":"Participle", "prt":"Particle",
@@ -23,7 +24,7 @@ for i in range(1, len(sys.argv)):
     print("working with file", i)
     root = tree.getroot()
     #Determine the language of the file for naming conventions
-    lang = [x.get("lang") for x in root.findall('.//languages/language/[@font="Charis SIL"]')][0]
+    lang = [x.get("lang") for x in root.findall('.//languages/language/[@vernacular="true"]')][0]
     try:
         lexd = open('%s/%s.lexd' % (lang, lang), 'w')
     except:
@@ -37,7 +38,10 @@ for i in range(1, len(sys.argv)):
             #for wordform in target language, get text
             if item.get("type") == 'txt' and item.get("lang") == lang:
                 surface = item.text
+                #print(surface)
             #extract any available pos information about the wordform
+            else:
+                continue
             if word.findall('./item[@type="pos"]') != []:
                 if item.get("type") == 'pos':
                     pos = item.text
@@ -45,7 +49,33 @@ for i in range(1, len(sys.argv)):
             #or else assign miscellaneous POS
             else:
                 word_by_pos[surface] = "misc"
-    # Extract phrases in each file to create a corpus
+        for morphemes in word.findall('./morphemes'):
+            entry = ""
+            for morph in morphemes:
+                morph_type = morph.get("type")
+                #assign type to unlabelled morphemes based on flex formatting
+                if morph_type == None:
+                    if morph.findtext('./item[@type="txt"]')[0] == "-" and morph.findtext('./item[@type="txt"]')[-1] == "-":
+                        morph_type = "infix"
+                    elif morph.findtext('./item[@type="txt"]')[0] == "-":
+                        morph_type = "suffix"
+                    elif morph.findtext('./item[@type="txt"]')[-1] == "-":
+                        morph_type = "prefix"
+                    elif morph.findtext('./item[@type="txt"]')[0] == "*":
+                        morph_type = "bound_stem"
+                    elif morph.findtext('./item[@type="txt"]')[0] == "=" and morph.findtext('./item[@type="txt"]')[-1] == "=":
+                        morph_type = "simulfix"
+                    elif morph.findtext('./item[@type="txt"]')[0] == "=":
+                        morph_type = "enclitic"
+                    elif morph.findtext('./item[@type="txt"]')[-1] == "=":
+                        morph_type = "proclitic"
+                    elif morph.findtext('./item[@type="txt"]')[0] == "~" and morph.findtext('./item[@type="txt"]')[-1] == "~":
+                        morph_type = "suprafix"
+                    else:
+                        morph_type = "stem"
+                entry= entry + morph_type + " "
+            entry = entry.strip(" ")
+            morph_patterns.append(entry)
     for phrases in root.findall('.//phrases/phrase'):
         iso_path = './words/word/item/[@lang="' + lang + '"]'
         phrase = ''
@@ -69,3 +99,7 @@ for pos_tag in pos_tags:
         if pos_tag in entry:
             lexd.write("<" + pos_tag.replace(".", "").replace(" ", "") + ">:" + entry[0] + "\n")
     lexd.write("\n")
+#find combinations of morpheme patterns
+morph_patterns = list(set(morph_patterns))
+morphlexd.write("PATTERNS\n")
+[morphlexd.write(morph_patterns[x] + "\n") for x in range(len(morph_patterns))]
