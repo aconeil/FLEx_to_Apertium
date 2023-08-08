@@ -3,6 +3,9 @@ import sys
 import xml.etree.ElementTree as ET
 word_by_pos = {}
 morph_patterns = []
+alphabet = []
+morph_by_type = {}
+alterations = {}
 flex_pos_cat = {"adj":"Adjective", "cop":"CopulativeVerb", "vd":"DitransitiveVerb", "adp":"adposition", "adv":"Adverb",
                 "clf":"Classifier", "conn":"Connective", "det":"Determiner", "existmrkr":"ExistentialMarker",
                 "expl":"Expletive", "interj":"Interjection", "n":"Noun", "ptcp":"Participle", "prt":"Particle",
@@ -20,69 +23,78 @@ flex_pos_cat = {"adj":"Adjective", "cop":"CopulativeVerb", "vd":"DitransitiveVer
                 "relpro":"RelativePronoun"}
 #Run as python3 flextext_wordform_extractor.py input_files[any number]
 for i in range(1, len(sys.argv)):
-    tree = ET.parse(sys.argv[i])
-    print("working with file", i)
-    root = tree.getroot()
-    #Determine the language of the file for naming conventions
-    lang = [x.get("lang") for x in root.findall('.//languages/language/[@vernacular="true"]')][0]
-    try:
-        lexd = open('%s/%s.lexd' % (lang, lang), 'w')
-    except:
-        os.mkdir(lang)
-        lexd = open('%s/%s.lexd' % (lang, lang), 'w')
-    morphlexd = open('%s/morph_%s.lexd' % (lang, lang), 'w')
-    corpus = open('%s/%s_corpus.txt' % (lang, lang), "w")
-    #Extract POS information for each word
-    for word in root.findall('.//phrases/phrase/words/word'):
-        for item in word.findall('./item'):
-            #for wordform in target language, get text
-            if item.get("type") == 'txt' and item.get("lang") == lang:
-                surface = item.text
-                #print(surface)
-            #extract any available pos information about the wordform
-            else:
-                continue
-            if word.findall('./item[@type="pos"]') != []:
-                if item.get("type") == 'pos':
-                    pos = item.text
-                    word_by_pos[surface] = pos
-            #or else assign miscellaneous POS
-            else:
-                word_by_pos[surface] = "misc"
-        for morphemes in word.findall('./morphemes'):
-            entry = ""
-            for morph in morphemes:
-                morph_type = morph.get("type")
-                #assign type to unlabelled morphemes based on flex formatting
-                if morph_type == None:
-                    if morph.findtext('./item[@type="txt"]')[0] == "-" and morph.findtext('./item[@type="txt"]')[-1] == "-":
-                        morph_type = "infix"
-                    elif morph.findtext('./item[@type="txt"]')[0] == "-":
-                        morph_type = "suffix"
-                    elif morph.findtext('./item[@type="txt"]')[-1] == "-":
-                        morph_type = "prefix"
-                    elif morph.findtext('./item[@type="txt"]')[0] == "*":
-                        morph_type = "bound_stem"
-                    elif morph.findtext('./item[@type="txt"]')[0] == "=" and morph.findtext('./item[@type="txt"]')[-1] == "=":
-                        morph_type = "simulfix"
-                    elif morph.findtext('./item[@type="txt"]')[0] == "=":
-                        morph_type = "enclitic"
-                    elif morph.findtext('./item[@type="txt"]')[-1] == "=":
-                        morph_type = "proclitic"
-                    elif morph.findtext('./item[@type="txt"]')[0] == "~" and morph.findtext('./item[@type="txt"]')[-1] == "~":
-                        morph_type = "suprafix"
-                    else:
-                        morph_type = "stem"
-                entry= entry + morph_type + " "
-            entry = entry.strip(" ")
-            morph_patterns.append(entry)
-    for phrases in root.findall('.//phrases/phrase'):
-        iso_path = './words/word/item/[@lang="' + lang + '"]'
-        phrase = ''
-        for words in phrases.findall(iso_path):
-            phrase = phrase + words.text + " "
-        corpus.write(phrase.strip(" ") + "\n")
-    corpus.close()
+    combined_input = open('combined.xml', "w+")
+    for line in open(sys.argv[i]).readlines():
+        combined_input.write(line)
+combined_input.close()
+tree = ET.parse(open("combined.xml","r"))
+root = tree.getroot()
+#Determine the language of the file for naming conventions
+lang = [x.get("lang") for x in root.findall('.//languages/language/[@vernacular="true"]')][0]
+try:
+    lexd = open('%s/%s.lexd' % (lang, lang), 'w')
+except:
+    os.mkdir(lang)
+    lexd = open('%s/%s.lexd' % (lang, lang), 'w')
+morphlexd = open('%s/morph_%s.lexd' % (lang, lang), 'w')
+corpus = open('%s/%s_corpus.txt' % (lang, lang), "w")
+rules = open('%s/%s.twol' % (lang, lang), "w")
+#Extract POS information for each word
+for word in root.findall('.//phrases/phrase/words/word'):
+    for item in word.findall('./item'):
+        #for wordform in target language, get text
+        if item.get("type") == 'txt' and item.get("lang") == lang:
+            surface = item.text
+            #print(surface)
+        #extract any available pos information about the wordform
+        else:
+            continue
+        if word.findall('./item[@type="pos"]') != []:
+            if item.get("type") == 'pos':
+                pos = item.text
+                word_by_pos[surface] = pos
+        #or else assign miscellaneous POS
+        else:
+            word_by_pos[surface] = "misc"
+    for morphemes in word.findall('./morphemes'):
+        entry = ""
+        for morph in morphemes:
+            morph_type = morph.get("type")
+            #assign type to unlabelled morphemes based on flex formatting
+            if morph_type == None:
+                if morph.findtext('./item[@type="txt"]')[0] == "-" and morph.findtext('./item[@type="txt"]')[-1] == "-":
+                    morph_type = "infix"
+                elif morph.findtext('./item[@type="txt"]')[0] == "-":
+                    morph_type = "suffix"
+                elif morph.findtext('./item[@type="txt"]')[-1] == "-":
+                    morph_type = "prefix"
+                elif morph.findtext('./item[@type="txt"]')[0] == "*":
+                    morph_type = "bound_stem"
+                elif morph.findtext('./item[@type="txt"]')[0] == "=" and morph.findtext('./item[@type="txt"]')[-1] == "=":
+                    morph_type = "simulfix"
+                elif morph.findtext('./item[@type="txt"]')[0] == "=":
+                    morph_type = "enclitic"
+                elif morph.findtext('./item[@type="txt"]')[-1] == "=":
+                    morph_type = "proclitic"
+                elif morph.findtext('./item[@type="txt"]')[0] == "~" and morph.findtext('./item[@type="txt"]')[-1] == "~":
+                    morph_type = "suprafix"
+                else:
+                    morph_type = "stem"
+            entry= entry + morph_type + " "
+        if morph_type in morph_by_type.keys():
+            morph_by_type[morph_type].append(morph.findtext('./item[@type="txt"]').replace("-","").replace("=",""))
+        else:
+            morph_by_type[morph_type] = [morph.findtext('./item[@type="txt"]').replace("-","").replace("=",""),]
+        #print(morph_type, morph.findtext('./item[@type="txt"]').replace("-","").replace("=",""))
+        entry = entry.strip(" ")
+        morph_patterns.append(entry)
+for phrases in root.findall('.//phrases/phrase'):
+    iso_path = './words/word/item/[@lang="' + lang + '"]'
+    phrase = ''
+    for words in phrases.findall(iso_path):
+        phrase = phrase + words.text + " "
+    corpus.write(phrase.strip(" ") + "\n")
+corpus.close()
 pos_tags = list(set(word_by_pos.values()))
 #Convert to standard flex POS tags when possible
 for pos in pos_tags:
@@ -101,5 +113,40 @@ for pos_tag in pos_tags:
     lexd.write("\n")
 #find combinations of morpheme patterns
 morph_patterns = list(set(morph_patterns))
+for i in range(len(morph_patterns)):
+    pattern = morph_patterns[i].split(" ")
+    for j in range(len(pattern)):
+        if j == 0:
+            prev = pattern[j]
+            condensed = prev
+        else:
+            if pattern[j] == prev:
+                if condensed[-1] == "*":
+                    continue
+                else:
+                    condensed = condensed + "*"
+                    prev = pattern[j]
+                    continue
+            else:
+                condensed = condensed + " " + pattern[j]
+                prev = pattern[j]
+    morph_patterns[i] = condensed
+morph_patterns = list(set(morph_patterns))
 morphlexd.write("PATTERNS\n")
 [morphlexd.write(morph_patterns[x] + "\n") for x in range(len(morph_patterns))]
+for key in morph_by_type:
+    morph_by_type[key] = list(set(morph_by_type[key]))
+    morphlexd.write(str('\n' + key.upper()+'\n'))
+    [morphlexd.write(morph_by_type[key][x] + "\n") for x in range(len(morph_by_type[key]))]
+#gathering alphabet from corpus file
+with open('%s/%s_corpus.txt' % (lang, lang), "r") as file:
+    for line in file.readlines():
+        for character in line:
+            if character not in alphabet:
+                alphabet.append(character)
+            else:
+                continue
+alphabet = list(set(alphabet))
+rules.write("Alphabet\n\n")
+[rules.write(alphabet[x] + " ") for x in range(len(alphabet))]
+#inferring alterations from cf forms in the flex files

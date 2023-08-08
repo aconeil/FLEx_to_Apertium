@@ -1,223 +1,1989 @@
 PATTERNS
-stem suffix enclitic stem
-prefix stem stem
-stem enclitic stem suffix enclitic suffix
-stem suffix suffix suffix enclitic stem
-prefix stem prefix stem enclitic enclitic
-stem stem suffix suffix enclitic enclitic
-stem enclitic suffix suffix
-stem suffix enclitic enclitic
-stem suffix suffix enclitic suffix enclitic
-stem stem suffix stem
-stem enclitic stem
-stem enclitic stem suffix suffix
-stem stem stem suffix suffix
-stem stem enclitic suffix
-prefix stem suffix suffix enclitic enclitic
-stem stem suffix suffix suffix
-stem suffix suffix suffix stem suffix suffix suffix
-stem suffix stem suffix suffix suffix suffix enclitic
-stem suffix stem suffix suffix enclitic enclitic
-stem suffix suffix suffix suffix enclitic suffix
-stem prefix stem enclitic suffix enclitic
-prefix stem stem suffix enclitic enclitic
-enclitic enclitic enclitic
-prefix enclitic enclitic
-stem suffix stem
-stem enclitic stem suffix
-stem stem suffix suffix
-stem stem stem suffix enclitic
-stem prefix stem
-stem suffix suffix prefix stem enclitic
-stem stem suffix stem suffix suffix enclitic
-suffix suffix
-stem enclitic suffix enclitic
-stem suffix suffix suffix stem enclitic
-stem enclitic stem suffix enclitic enclitic
-prefix stem suffix suffix suffix
-stem prefix stem suffix
-stem stem suffix stem stem suffix
-prefix stem enclitic prefix stem
-stem stem enclitic enclitic
-stem suffix suffix suffix suffix enclitic enclitic
-suffix suffix suffix
-prefix stem enclitic enclitic enclitic
-prefix stem suffix stem suffix
-prefix suffix suffix
-prefix stem enclitic suffix enclitic
-prefix stem stem suffix suffix
-stem suffix stem suffix
-prefix stem prefix stem suffix enclitic enclitic
-stem suffix suffix suffix
-stem enclitic suffix suffix suffix
-stem suffix stem enclitic enclitic enclitic
-stem suffix enclitic suffix enclitic enclitic
-prefix stem prefix stem stem suffix enclitic
-stem suffix enclitic enclitic enclitic
-stem suffix suffix stem enclitic enclitic
-prefix stem prefix stem enclitic
-prefix suffix
-prefix stem stem enclitic enclitic
-stem suffix suffix suffix suffix suffix
-stem stem enclitic enclitic enclitic
-stem enclitic enclitic suffix
-stem enclitic
-stem stem
-stem suffix enclitic stem suffix enclitic
-stem stem suffix stem suffix
-stem suffix suffix suffix enclitic enclitic enclitic
-prefix stem prefix stem enclitic suffix
-prefix stem enclitic enclitic stem
-prefix stem stem suffix suffix suffix suffix enclitic
-stem enclitic stem stem suffix suffix
-stem suffix suffix suffix enclitic
-stem suffix suffix stem suffix stem suffix stem stem suffix enclitic
-suffix
-stem stem suffix enclitic suffix enclitic enclitic
-stem prefix stem stem enclitic suffix suffix
-prefix stem enclitic enclitic
-prefix stem enclitic prefix stem enclitic
-stem enclitic enclitic
-prefix stem suffix suffix
-stem stem suffix suffix suffix suffix
-stem stem suffix suffix enclitic
-prefix enclitic enclitic enclitic enclitic
-stem stem stem enclitic
-prefix stem stem suffix suffix suffix
-prefix stem stem suffix suffix enclitic
-stem suffix suffix enclitic
-prefix stem suffix
-stem suffix suffix suffix stem
-stem stem suffix stem enclitic
-stem suffix suffix suffix stem suffix suffix suffix suffix
-stem
-stem suffix suffix stem enclitic
-stem suffix stem suffix suffix enclitic
-stem stem stem stem enclitic
-stem suffix stem suffix enclitic enclitic
-stem stem suffix enclitic enclitic
-prefix stem suffix enclitic enclitic
-stem suffix stem stem suffix suffix
-stem suffix suffix enclitic stem suffix suffix
-prefix enclitic
-stem enclitic stem suffix suffix suffix suffix enclitic
-stem suffix suffix stem
-prefix stem suffix suffix enclitic
-stem stem prefix stem enclitic enclitic
-prefix stem prefix stem
-stem suffix suffix enclitic enclitic enclitic
-stem suffix suffix enclitic stem suffix enclitic
-stem stem stem stem suffix suffix
-stem stem enclitic
-stem stem suffix stem enclitic suffix
-stem enclitic suffix enclitic enclitic
-prefix stem stem suffix
-stem suffix suffix suffix enclitic enclitic
-stem suffix suffix enclitic suffix suffix
-stem stem stem enclitic suffix
-prefix stem prefix stem suffix
-stem stem stem suffix enclitic enclitic
-stem stem stem stem stem
-stem enclitic enclitic enclitic
-stem stem stem suffix suffix suffix
-prefix stem enclitic infix
-prefix enclitic stem enclitic
-stem stem suffix suffix suffix enclitic
-stem stem stem stem suffix
-stem stem suffix enclitic suffix
 prefix enclitic suffix
-prefix stem suffix stem suffix stem suffix enclitic enclitic
-prefix stem stem stem enclitic enclitic
-stem suffix suffix enclitic suffix infix
-stem enclitic suffix suffix enclitic
-stem suffix enclitic
-stem suffix enclitic suffix suffix
-stem suffix enclitic suffix enclitic
-stem suffix suffix
-stem suffix enclitic suffix
-stem suffix enclitic stem enclitic
-prefix enclitic enclitic enclitic suffix
-prefix enclitic prefix stem
-stem suffix stem stem stem
-enclitic
-stem enclitic stem suffix enclitic
-stem stem stem suffix suffix enclitic
 prefix enclitic prefix enclitic
-stem stem stem enclitic enclitic
-stem suffix suffix suffix suffix suffix enclitic enclitic
-stem stem suffix stem suffix enclitic
-phrase
-stem stem prefix stem enclitic suffix
-stem suffix suffix enclitic enclitic
-prefix stem stem suffix enclitic
-enclitic enclitic suffix
-prefix stem enclitic
-stem suffix suffix suffix enclitic stem suffix
-stem stem enclitic stem
-stem enclitic stem suffix suffix enclitic enclitic
-stem suffix enclitic enclitic infix
-stem stem suffix enclitic stem
-stem stem suffix suffix stem suffix
-prefix stem suffix stem enclitic
-prefix stem stem stem
-stem stem suffix suffix suffix suffix enclitic
-prefix stem enclitic enclitic enclitic enclitic
-stem stem suffix
-prefix stem enclitic suffix
-stem enclitic prefix stem suffix
-stem suffix suffix suffix suffix suffix enclitic
-prefix stem prefix stem suffix enclitic
-stem stem enclitic stem stem enclitic
-prefix suffix suffix suffix suffix
-stem suffix suffix suffix suffix enclitic
-prefix stem suffix enclitic suffix
-stem suffix suffix suffix enclitic suffix
-stem stem stem stem enclitic enclitic
-prefix stem stem enclitic
-stem stem stem
-stem suffix
+prefix stem enclitic suffix*
+stem suffix* stem enclitic*
+stem suffix enclitic suffix enclitic
+prefix stem enclitic* stem
+stem* prefix stem enclitic suffix
+stem enclitic suffix enclitic
+prefix stem* enclitic
+prefix suffix*
 stem prefix stem enclitic
-stem suffix suffix stem suffix suffix
-prefix stem stem enclitic suffix enclitic
-stem enclitic stem enclitic
-prefix stem suffix enclitic enclitic suffix
-stem suffix stem suffix suffix
-stem stem suffix stem suffix enclitic enclitic
-stem suffix stem enclitic enclitic
-prefix stem stem stem suffix
-stem enclitic stem suffix suffix suffix
-prefix stem
-stem stem enclitic enclitic suffix suffix
-stem stem suffix suffix enclitic suffix
-stem suffix prefix stem suffix
-stem stem suffix stem suffix suffix
-prefix stem stem stem enclitic
-stem stem enclitic enclitic suffix
-stem suffix suffix enclitic enclitic suffix
-stem suffix stem suffix suffix suffix
-stem suffix suffix suffix stem suffix
-prefix stem suffix enclitic enclitic enclitic
-stem enclitic suffix stem
-stem stem stem suffix
-prefix enclitic enclitic enclitic
+stem suffix* enclitic stem suffix enclitic
+stem suffix enclitic* suffix
+prefix stem suffix
+stem* suffix stem
+stem suffix
+prefix stem prefix stem enclitic suffix
+stem suffix enclitic stem suffix enclitic
+stem enclitic stem suffix* enclitic
+stem suffix* stem suffix stem suffix stem* suffix enclitic
+stem* suffix*
+prefix stem prefix stem* suffix enclitic
+stem suffix* enclitic* suffix
+prefix stem suffix* enclitic
+stem* enclitic
+stem suffix enclitic stem suffix enclitic*
+stem suffix enclitic suffix enclitic*
+stem* suffix* enclitic suffix
+stem* suffix enclitic*
+stem enclitic stem
+stem suffix* stem suffix*
+stem* enclitic*
+stem suffix* enclitic suffix infix
+stem enclitic suffix enclitic*
+stem enclitic prefix stem suffix
+stem suffix enclitic stem enclitic
+stem* enclitic stem
+stem suffix* enclitic suffix
+prefix suffix
+stem* suffix stem* suffix
+stem suffix*
+stem* suffix* enclitic
+stem enclitic suffix* enclitic
+prefix stem* suffix* enclitic
+stem suffix enclitic
+stem* enclitic* suffix*
+stem* prefix stem enclitic*
+stem suffix* enclitic
+stem suffix* prefix stem enclitic
+stem suffix* stem
+stem enclitic stem suffix enclitic
+stem enclitic
+stem suffix stem suffix* enclitic
+prefix stem enclitic prefix stem enclitic
+prefix stem enclitic infix
+prefix stem prefix stem enclitic
+prefix enclitic* suffix*
 stem enclitic suffix
-stem suffix stem stem stem enclitic
-stem suffix suffix stem suffix suffix suffix
-prefix
-stem suffix stem suffix stem suffix stem suffix
-prefix stem enclitic suffix suffix
-stem suffix stem suffix enclitic
-prefix stem suffix enclitic
-stem suffix enclitic stem suffix
-stem stem stem stem
-stem suffix stem enclitic
-stem stem prefix stem
-stem suffix suffix enclitic stem
-stem suffix suffix suffix suffix
-prefix enclitic enclitic suffix suffix
+stem* suffix stem enclitic suffix
+stem suffix* enclitic*
+prefix stem suffix enclitic* suffix
 stem suffix prefix stem
-stem suffix enclitic stem suffix enclitic enclitic
-stem stem suffix enclitic
-stem suffix suffix enclitic suffix
-stem suffix enclitic enclitic suffix
-stem suffix suffix stem suffix
+prefix stem suffix*
+stem prefix stem enclitic suffix enclitic
+stem* suffix enclitic
+prefix stem* suffix enclitic*
+prefix stem
+stem suffix enclitic stem suffix
+stem enclitic suffix*
+prefix stem prefix stem suffix enclitic
+stem enclitic*
+stem suffix enclitic*
+prefix stem enclitic
+stem enclitic stem suffix*
+prefix stem prefix stem
+prefix stem enclitic suffix enclitic
+stem suffix* enclitic suffix*
+stem suffix prefix stem suffix
+stem suffix stem suffix enclitic
+stem suffix stem* enclitic
+stem enclitic* suffix
+enclitic
+stem suffix enclitic* infix
+stem suffix enclitic suffix
+stem suffix stem enclitic
+stem suffix stem suffix
+stem* suffix* stem suffix
+stem prefix stem suffix
+stem suffix stem suffix* enclitic*
+stem enclitic stem suffix* enclitic*
+stem suffix stem suffix*
+stem suffix* enclitic stem suffix
+prefix enclitic* suffix
+prefix stem suffix enclitic suffix
+prefix stem* enclitic*
+stem* suffix stem enclitic
+stem* suffix enclitic stem
+prefix stem* enclitic suffix enclitic
+stem* suffix stem suffix
+prefix stem enclitic prefix stem
+stem suffix enclitic stem
+stem* enclitic suffix
+prefix stem prefix stem suffix enclitic*
+phrase
+stem suffix* enclitic stem suffix*
+stem enclitic stem suffix
+prefix stem suffix enclitic
+prefix enclitic prefix stem
+stem
+stem suffix stem enclitic*
+prefix stem suffix enclitic*
+stem* suffix stem suffix enclitic
+prefix enclitic*
+stem* suffix stem suffix* enclitic
+stem* suffix stem suffix enclitic*
+enclitic*
+prefix enclitic stem enclitic
+stem suffix stem suffix enclitic*
+suffix*
+prefix stem* suffix*
+stem suffix enclitic suffix*
+stem enclitic stem enclitic
+stem* suffix
+stem suffix stem suffix stem suffix stem suffix
+stem* enclitic stem* enclitic
+stem*
+stem enclitic stem* suffix*
+prefix stem enclitic suffix
+prefix enclitic
+stem* suffix* enclitic*
+prefix stem suffix stem enclitic
+stem enclitic suffix stem
+stem suffix stem
+stem suffix stem* suffix*
+prefix stem* suffix
+stem enclitic stem suffix enclitic suffix
+stem suffix* enclitic stem
+stem prefix stem* enclitic suffix*
+prefix stem suffix stem suffix
+stem suffix stem*
+stem* suffix enclitic suffix enclitic*
+enclitic* suffix
+prefix stem enclitic*
+stem suffix* enclitic suffix enclitic
+stem suffix* stem suffix
+prefix stem* suffix enclitic
+suffix
+stem enclitic stem suffix enclitic*
+stem* suffix enclitic suffix
+prefix stem prefix stem suffix
+stem prefix stem
+stem* enclitic* suffix
+prefix stem*
+stem* suffix stem suffix*
+stem suffix* stem enclitic
+prefix stem suffix* enclitic*
+stem* prefix stem
+prefix stem suffix stem suffix stem suffix enclitic*
+prefix
+prefix stem prefix stem enclitic*
+
+STEM
+nóŋ
+baǰi
+hapkәtlə́gə
+kəna
+khungətlə́gə
+phuŋgá
+phúnán
+tharǝ́gǝ
+se
+hə́yjǝnbǝ
+məral
+ení
+koyləyləyrə́gə
+hǝ́wgǝtle
+ǝ́humdusu
+pák
+həymə
+hoy
+čarǝ́gǝ
+suŋ
+haynǝ
+khom
+ǰi
+man
+lǝyribǝdudǝ
+pum
+thoy
+čé
+urәmmi
+čhiŋ
+yeŋliŋəydə
+púŋ
+lól
+lakpǝsi
+thum
+sə́ná
+čə́phú
+ǝmǝdi
+rumal
+kərino
+wakhal
+ha
+bəm
+héʔlǝmmí
+yǝ́wnǝ
+páyrǝkandǝ
+čénkhirəmmí
+ó
+bu
+sum
+drúm
+nəttrəgə
+phot
+təm
+teythoktúnə
+bák
+cәtkhre
+koŋgrés
+bišatapanǰi
+lǝ́mbisi
+gyan
+lǝyrǝmmǝdǝ́nǝ
+ʔiʔi
+mǝpadu
+lumal
+ləmbidugi
+cycledudǝydǝ
+әmuk
+ǝdu
+pótsidǝ
+pháwrǝ́gǝ
+khúllǝ́gǝ
+mateŋ
+herá
+ná
+amunbasi
+pərikhya
+ǝ́humsubǝ
+әdusu
+nəhál
+gun
+ŋarǝ́gǝ
+thәudúnə
+puǰa
+tusənminnəre
+pírəmbə
+sannәdúnə
+yi
+phəjənə
+әmәsuŋ
+pírǝkʔi
+trúk
+čǝ́tlǝkandǝ
+әhum
+ləyrəkansidə
+kə́ŋ
+tə́rúk
+da
+yeŋ
+ofis
+čəka
+ə́y
+nəm
+su
+ŋәksәmdәgi
+ə́humdudə
+thә́mdúnə
+mǝŋondǝ
+núpímǝ́čásidǝ
+ǝ́ŋáŋse
+í
+oǰa
+phə́n
+bón
+hannǝgi
+bán
+amunba
+əmədə
+munnǝ
+kǝrikǝri
+núpímə́čási
+ǝdǝydi
+kúmthərəklə́bədə
+húribә
+yéphəwre
+mǝkhadǝ
+khámhǝllǝ́gǝ
+ǝ́humdunǝ
+kǝrǝmaynǝ
+ǝ́hum
+sinemə
+əŋáŋ
+thíbədə
+hát
+khura
+seba
+uhәudәdәnә
+mǝkhoŋdǝ
+phaw
+hékləkpədə
+lə́m
+ták
+toŋŋəgə
+ŋákra
+yúm
+ru
+teythokʔə́gə
+khәllәmmí
+toŋŋəkpə
+table
+hə́klibə
+naspatisi
+nuŋthil
+lakkhirəmmí
+pakhaŋ
+é
+ǝ́mǝkhǝknǝ
+tadǝdunǝ
+pódón
+pərsént
+máo
+pót
+kandǝ
+mánә
+hairə́gə
+ku
+rép
+edvərtais
+haydə́nə
+yayŋə́ŋ
+lǝyrǝmmi
+núpámə́čásinə
+talǝksidǝ
+sər
+semistər
+lap
+ǝ́ŋáŋsiŋdunǝ
+ŋəsaygi
+kənthoktúnə
+nóy
+mə́ŋa
+ah
+bárkay
+nát
+mǝnǝ
+ǝ́mǝdunǝ
+ləyrəmdəbəsidə
+khámmǝ́gǝ
+turәmmi
+thǝ́wrǝ
+kumthәrәkpәgi
+ukandǝ
+purəge
+əŋənbə
+pəra
+ǰhútmút
+ŋon
+lupa
+potčəy
+núpímə́čásidə
+tá
+yu
+mәkhadә
+yeŋŋәmmi
+part
+čánə́bəgidəməktə
+tupise
+phét
+biday
+hǝydokʔe
+mǝ́si
+ǝykhoygi
+lupá
+čəmprasi
+tanǰa
+útí
+paŋŋe
+čúrúp
+tələb
+núpásidi
+yam
+toŋŋǝ́gǝ
+kórə́w
+phə́rə́ŋ
+iyó
+tǝwriŋǝy
+driŋ
+láy
+məntri
+bi
+tháŋgǝtle
+mə́rúp
+məpudunə
+mǝdugi
+karimatta
+mətəmni
+čhén
+phút
+tadunə
+yénnǝrǝ́gǝ
+satri
+kǝymǝtǝ
+ball
+satrə
+en
+tahǝwbǝ
+mǝʔoŋodǝ
+intrədus
+koroŋgroŋgroŋ
+mayay
+hə́ŋčít
+héklәmmí
+hek
+ŋəčháy
+khoŋŋǝkandǝ
+bicycle
+ǝdum
+čačadúnə
+tárə́gə
+íšro
+hǝndǝkti
+khún
+tәpnә
+nə́tte
+kháy
+pa
+núpámǝčá
+šə́w
+phaudúnə
+әsum
+tusinlə́bə
+sabə
+kəyrak
+treniŋ
+gegegege
+hm
+məyamnə
+mǝtuŋsidǝ
+čə́tkədəwbə
+páw
+manә
+ǝysi
+kakhәtliŋәi
+núpáməčásiŋdunə
+táp
+famər
+ǝ́humjisu
+ədey
+ǝykhoynǝ
+dhúp
+bəl
+mәtәmdudә
+ču
+hapcәnbә
+lǝ́mbisidǝ
+bədnam
+khə́nləmmí
+má
+әmәdә
+məmannəbə
+leptúnə
+ləwge
+iʔhé
+khunbidunə
+ǰaw
+bháp
+háppire
+phiptipaive
+ri
+kumthәre
+hey
+TT
+oyrǝmmǝni
+mənaksidə
+óh
+okhák
+məmannəbəsiŋ
+ǰəgá
+yeŋŋǝdǝ́nǝ
+ŋәsaigi
+čabǝ
+khawdudə
+əy
+mәkhoinә
+lakpǝsidǝysidǝ
+ǝdǝgidi
+masasu
+təpnə
+hәidokʔәmmi
+bebhar
+hairibә
+taw
+m
+gə́n
+әdudә
+rita
+ti
+ta
+huysel
+kákhǝtlibǝ
+sitthǝrǝ
+phawdənə
+ǰeŋ
+envəlop
+phə́r
+theŋjənlə́gə
+a
+farmer
+phəm
+loyrǝdǝ́nǝ
+karə́ydə
+sumaynǝ
+ŋŋə́k
+rol
+lak
+hapcәn
+ímuŋ
+yoŋ
+há
+mukhí
+mə́háraǰ
+cycledǝ
+khúl
+mə́há
+gaw
+khə́ŋ
+mәdudә
+thəmbəni
+khittəŋ
+khə́mbraŋ
+basket
+čiŋŋǝgǝ
+ǰuwari
+ə́humsidə
+ǝ́mǝdǝgi
+yay
+wani
+bhap
+čə́béŋ
+təreŋ
+húrallə́gə
+sannə sannə
+ə́ŋáŋ
+hóŋ
+tusinle
+uthə́ktəgi
+ŋǝ́kʔiŋǝy
+moygə
+thəndunə
+phurit
+təpta
+khoŋŋǝ́gǝ
+təwkhini
+tháŋgǝttǝ́nǝ
+pírəmmə́gə
+də
+kábrəŋ
+ə́humkhəksi
+ləyhəwre
+oy
+hameŋdu
+illə́gə
+čhu
+bháy
+mǝmannǝbi
+phiptiwan
+pharmer
+theŋnәrәmmi
+yaw
+suti
+čánə́bə
+íšiŋ
+kolej
+tupigǝ
+hə
+khə́lləkʔi
+niŋŋay
+hǝ́wgǝtlǝ́gǝ
+thǝ́wrǝ́gǝ
+čǝ́tkhre
+risə́rč
+rí
+ubǝkandǝ
+tubǝdu
+hápčinnə́bə
+əygya
+ŋə́kčanəribə
+mǝmannǝbisidǝ
+bəyni
+thǝmmibǝ
+čanǝ́bǝ
+trək
+pú
+lokel
+bíkhá
+praybet
+həyma
+ka
+kəymə
+hápčənge
+Khwairəmbəm
+madi
+hǝydokke
+əʔ
+həydokʔibəgi
+lakkansidǝ
+tǝwʔi
+kákhǝttǝ́nǝ
+təruk
+šiŋ
+háw
+bharǰa
+naspatigadu
+kal
+pas
+luman
+upay
+theŋnәdúnə
+čarǝčarǝ́gǝ
+hékʔidudə
+yeŋde
+sámu
+ә́mәnә
+írón
+məmit
+khoŋŋi
+deli
+máygáy
+lakpǝ
+bičar
+səl
+koleǰ
+cәtpә
+tallǝktudǝ
+garigadu
+әdugi
+e
+phagi
+haynə
+čə́tpəsi
+mǝdudǝgidi
+ya
+yəwyəw
+kə́lləkk
+yénthoknərə́gə
+čəŋlaklə́gə
+dum
+húm
+hayrubə
+pers
+nupamәcadúnə
+nuŋjaw
+tə́p
+pik
+páybədə
+čǝŋdǝ́nǝ
+ray
+éʔ
+óʔ
+nə
+thənləmmí
+bani
+ə́dəydi
+ma
+kəday
+gól
+maŋə́ktə
+bén
+ǝdumaynǝ
+yǝ́wbǝkandǝ
+sannәbә
+lanbə
+thommǝ thommǝ́gǝ
+hékčinləkpənə
+lonnə
+pulis
+stand
+siki
+tə́rét
+pullibǝ
+íhe
+mǝthǝ́ktǝ
+hápčinbidǝnǝ́gǝ
+kəwdunə
+hápcəlləmmí
+waŋ
+purəgə
+təwnəbəsidə
+cycle
+illǝ́gǝ
+hə́wdóŋ
+nə́ŋ
+šakhi
+kəya
+tə́l
+pu
+thǝlhǝllǝgenǝ
+lakʔǝkansidǝ
+khungǝtpire
+khoŋŋəkpə
+ǰwar
+ǝmǝttǝ
+khomjinlə́gə
+khǝk
+kə́tə́n
+phə́t
+pəysa
+tombi
+kúmthǝrǝkpǝ
+phaynəl
+kákhətkhi
+iǰət
+tupi
+húranbəsu
+kwá
+məpu
+lóynə
+hak
+píbəsidə
+káŋbu
+ʔha
+hélóy
+tay
+yóm
+yeŋdǝ́nǝ
+ǝsidǝ
+tabә
+boy
+yeŋthokpəsidə
+yenəkhá
+iskul
+həwrə
+čithi
+ekspiriens
+kərəm
+kaynǝ
+strayk
+ní
+theŋ
+sukʔu uhəwdre
+hə́knə́bə
+ǝ́ŋáŋdu
+lǝyhǝwre
+hápčilli
+gal
+khəbər
+ibetombi
+sigi
+hainә
+ǝ́múk
+buckettudə
+ləybaksidə
+skolarsip
+səbhá
+pəysá
+keso
+hǝwjikki
+mǝkhoŋdudǝ
+thəwrəklə́gə
+həyeŋ
+thok
+ŋǝsáygi
+čǝŋǝkʔǝ́gǝ
+čə́tləkpədəgi
+thoydokpǝ
+thí
+vidya
+tanjasidǝ
+ə́məgidə́mək
+boldu
+loynəmək
+saykəl
+kǝrino tǝwrisibo kayna
+thák
+ləphút
+khǝ́ndúnǝ
+sə́námə́hí
+haydunə
+ləw
+khámmǝdǝ́nǝ
+šəw
+taribә
+láyrəw
+čhum
+khúnde
+ə́humsinə
+húranbəgi
+ŋə́raŋ
+thəŋ
+mǝtǝmni
+leppe
+tháŋŋe
+әdugә
+kúmthərəkkansidə
+naspa
+tik
+núpáməčásisu
+pí
+kəyno
+tahəwribə
+məmaŋdə
+hayphetkə
+həwáy
+thəmlibə
+khum
+ǝ́ŋáŋdunǝ
+súk
+nuŋsa
+raǰkəynə
+khə́k
+məŋ
+nte
+búk
+tahǝwbǝdu
+hun
+thə́wrəmmí
+tə́dubi
+sadhəbiget
+háppirə́gə
+ləyyu yadre
+raŋ
+hékthəge
+hekʔi
+lǝ́mbigi
+ləyrəmdúnə
+jə́báŋ
+dewali
+ǝdudǝ
+yetlibə
+tudǝ́nǝ
+mǝdǝgi
+krosiŋ
+tháŋdǝ́nǝ
+mərəktəgi
+toŋ
+hápčanle
+páythokhǝwre
+әdudәgi
+pán
+sen
+mə́khoy
+rúk
+moysi
+khamməgə
+tǝwbǝno
+ǝ́humdu
+hápčǝ́nle
+hǝ́wgǝtpidǝ́nǝ
+ǝ́humsidǝ
+núpáməčádu
+ǝ́humsinǝ
+kǝyraktudǝ
+yəysinlə́gə
+núpádunǝ
+gega
+ren
+šiloŋ
+khawdudǝ
+takhirәmmi
+badminton
+mi
+yawrəmdre
+mə
+dúk
+әmәsu
+məmannə́bə
+héy
+purá
+kərəmbə
+mm
+lǝ́wthokʔǝ́gǝ
+tík
+prə́p
+ŋəsay
+haybǝgi
+bil
+púkhrí
+khungәttunә
+mə́háraǰa
+cyclese
+mǝkhóŋdǝ
+čurup
+pók
+ədwaydəgi
+ləyhəwʔi
+mǝteŋ
+thə́w
+hékʔibә
+phí
+čə́y
+məsəm
+yeŋdənə
+həydokkhibə
+puribә
+ŋaihak
+mǝkhoŋdu
+dəsa
+pubǝdu
+núŋ
+nupá
+budhí
+čəy
+yénsaŋ
+huysennə
+ǰá
+thǝllǝ́gǝ
+lǝyre
+hénǰaŋ
+khoy
+thǝllǝ́bǝ
+čǝ́tlǝkansidǝ
+sá
+ší
+tuphǝmsidǝ
+lәuge
+side
+garlz
+cycledә
+dərgas
+hápčinbirə́gə
+hékpǝ
+Bluhil
+kǝysu
+metrik
+čiŋŋə́kpəsidə
+tennis
+oyrəmalle
+pres
+nəhárol
+kon
+urururu
+bhállo
+məthəŋdə
+lǝyrǝmdre
+ǝdugǝ
+dó
+hә́úgәtlə́gə
+ley
+məpal
+lép
+lapləknə
+pripərešə́n
+núpáməčásigi
+ŋǝnta
+íl
+énəm
+túmin
+mə́ri
+theŋjənbədəgidi
+sə́m
+Sərat
+héknǝ́bǝ
+kaʔ
+ǝmǝdǝ
+ləp
+mәkhoŋnә
+mǝpusi
+páteysori
+әdәgi
+əduk
+kəri
+tə́ŋ
+hərawmənkhidənə
+ənáŋ
+niŋ
+nyaw
+kha
+khittǝŋ
+ubǝdǝ
+yeŋŋukandǝ
+páybǝ
+ŋǝsáy
+mǝŋóndǝ́gǝ
+ǰibə
+ləmbidə
+takhibә
+soydənə
+ǝ́humdudǝgi
+tanjadudǝydǝ
+lǝyriŋǝysidǝ
+wak
+ǰiŋ
+yen
+nag
+səm
+lǝyriŋǝy
+háppǝ́gǝ
+mǝthǝktǝgi
+čawbǝ
+khǝllǝ́gǝ
+yeŋthorǝkʔi
+məŋə́ksəmdə
+kallaktana
+nuŋ
+yáwbǝdúnǝ
+budhi
+loyrəkansidəgi
+čepthəhəllə́gə
+yáwbǝ
+lə́k
+thə́ynə́bədə
+əkoybədə
+hə́y
+šə́k
+huy
+póláŋse
+tičər
+pərikha
+lallə́gə
+khǝ́nlǝmbǝdǝgi
+ǝdǝ
+ŋәktәnә
+ǝyukki
+morok
+čénsinlǝklǝ́gǝ
+saikəl
+yéʔ
+prəp
+dú
+oh
+dukan
+khəŋhəwdə́nə
+thəllə́gə
+ləmən
+čaŋčaŋsinləktúnə
+tabәsu
+ǝthǝnbǝ
+čǝ́tli
+mǝri
+әsidә
+túŋ
+tháŋŋəkʔəkansidəydi
+hékpəgi
+bol
+tagor
+hékpә
+thommǝ́gǝ
+čín
+khaw
+bidya
+mәphәm
+khǝrǝ
+tanjadudǝ
+páythokhǝ́wre
+numít
+ǝ́mǝmǝm
+lakʔibə
+nupimәca
+tǝwridu
+núŋdum
+әmәnә
+lakʔǝ́gǝ
+kәurәmmi
+háydənə
+təy
+sitthǝdǝ́nǝ
+túm
+tәudúnə
+hə́ysi
+mǝdu
+tənan
+thoŋgǝtpidǝ́nǝ
+bičhar
+aša:
+mәtaŋ
+cyclegǝ
+póynu
+məharaǰa
+aʔ
+kərigi
+pi
+thaway
+hayde
+bat
+čárǝ́gǝ
+horel
+təw
+teǰurur
+lakləmmíbə
+adə
+thə́k
+thillukandǝ
+udəbə
+әudәgi
+nuŋsit
+yeŋŋi
+help
+phə́m
+məŋə́ktə
+top
+tabletenniski
+iŋkhon
+həl
+khá
+tǝplitǝpli
+ho
+hál
+ŋayhakki
+hәujikki
+thər
+gan
+um
+polisi
+máyren
+təwrəmdənə
+háyregə
+ibuŋŋo
+búŋŋo
+mǝtǝmsidǝysidǝ
+ləyrige
+thóŋ
+ləyriŋəysidə
+təŋ
+hə́ygadu
+sé
+fel
+du
+naspati
+ǝ́hummukni
+mәtәm
+khǝ́ŋdǝ́nǝ
+mǝkhoŋsi
+nupamәcadusu
+opposite
+həydoklə́bə
+tuminnə
+әŋaŋ
+hék
+ǝdǝgi
+sokpra
+púp
+thə́wdúnə
+moja
+pay
+ənəbə
+lok
+núpímǝ́čá
+sí
+ə́ŋ
+khə́rə
+laklәmmí
+tə́n
+lәihәurәmmi
+dəkhína
+thə́ŋ
+thəwrəkpəyne
+lǝyrǝmmǝkandǝ
+ləy
+punnə
+ǰəw
+láŋ
+tón
+mǝnáktǝ
+hékliŋәi
+bə́s
+híŋ
+yeŋŋǝmde
+húranbə
+әdum
+núpáməcasinə
+sunu
+hameŋ
+póláŋdudǝ
+ləyriŋəydudə
+maŋ
+hum
+ímphal
+na
+tóm
+ǝdunǝ
+wá
+thǝ́wrǝkʔǝ
+ŋәktunә
+cәtpәdudә
+toktok
+kəynose
+lәirə́gә
+thumoksimə
+mari
+pírǝkʔe
+khəl
+sél
+ururururu
+mǝtǝmsidǝ
+nanthoktǝ́nǝ
+éksə́n
+ǝ́nísubǝ
+čən
+ǝ́humkhǝk
+pámbí
+sannǝ́bǝ
+ubǝ
+túp
+nəttrəbədi
+yénšaŋ
+čəŋsinləkʔi
+yeŋkhǝtli
+papi
+kǝnthoktǝ́nǝ
+koyototlə́gə
+ǝ́ní
+thəlle
+khoŋnaŋ
+hékʔǝ́bǝ
+paǰi
+thǝlle
+barton
+ǝ́mǝ
+ínšaŋ
+daŋ
+dóp
+kaydəno
+šúp
+sawn
+ǝdǝydǝgi
+háy
+píribə
+yeŋŋǝktǝbǝdudǝ
+purgenə
+čə́tkadəwribə
+numil
+noŋma
+həydokpədəgi
+soydǝnǝ
+i
+khungətpirəmmí
+lәibaktә
+pər
+sisinə
+hayphetkǝ
+khǝllǝkʔe
+hídák
+kloǰ
+turiŋәi
+hə́ydu
+níŋŋol
+sə́k
+páythokkhirəmmí
+purəklibə
+impresə́n
+mən
+lísíŋ
+khók
+siŋ
+lón
+ráŋ
+hápcillə́gə
+yénthoknəre
+thənlə́gə
+ǝ́ŋáŋ
+zaw
+pírure
+hə́ygi
+hóren
+masu
+hayphet
+raǰyə
+toŋdre
+sék
+theŋjәndúnə
+ról
+aaaummm
+məkha
+čá
+šə́m
+pirǝkpǝdu
+cyclegadu
+ǰel
+hé
+muk
+lay
+ə́w
+phǝtlawnǝ
+hapcәnlәmmí
+yeŋŋubǝ
+mǝʔoŋni
+múk
+ǝ́mǝgǝ
+kuthi
+wari
+nupamәca
+takhǝtlǝ́gǝ
+kǝyrak
+pá
+čiŋ
+yúk
+háp
+theŋnǝkhibǝ
+parti
+cәtkhibәdu
+ure
+mə́hárani
+yeŋbә
+lə́ykhom
+theŋaynə́bədə
+tháŋ
+nid
+skóp
+soy
+intərbyu
+nəw
+sel
+tomba
+mәdu
+tháŋŋəkʔə́gə
+yuk
+yə́wsinləkle
+theŋŋǝ́gǝ
+məharaǰ
+niŋthəw
+hayphét
+uphul wayphul
+ŋəsi
+hékʔidu
+rəp
+ǝmǝkhǝk
+ə́humdugi
+kəynodunə
+tiŋəktiŋək
+məŋgé
+héktúnǝ
+watləmmí
+mí
+thǝwdre
+ubǝdudǝ
+hó
+bucket
+də́m
+təŋəktəŋək
+bók
+lǝyribǝ
+góy
+gét
+bháw
+miŋ
+khóy
+hóy
+nə́há
+moynǝ
+khunjənbə
+soda
+buŋŋo
+čǝ́tkhi
+gari
+dayrek
+khallə́gə
+kót
+yǝ́wrǝktriŋǝysidǝ
+koysən
+nətte
+wóŋ
+sén
+kə́y
+ádǝ
+yeŋŋǝkandǝ
+noŋ
+illǝgǝ
+naspatidudǝ
+mǝtǝmsidǝydǝ
+dəw
+hisap
+nuŋdum
+mannәrәmmi
+áy
+tolop
+gon
+thwáy
+thumok
+hékkhre
+oyrəmməni
+hukum
+khǝ́nbǝgi
+theŋjǝnlǝ́gǝ
+mə́ytəy
+thənle
+šway
+tupisu
+əsaygi
+yeŋŋəgə
+ləyrəmbədəgi
+thók
+məthəksidə
+ǰadu
+gún
+thoydoknǝ
+hən
+həwǰík
+pháw
+phirép
+phi
+lóŋgá
+lәmbidә
+pírəkʔi
+haybǝsi
+rúm
+hékʔiŋəy
+cәtlәmmí
+tǝwribǝ
+khə́n
+persiŋ
+panə
+somdə
+walking
+hékʔibǝ
+sit
+hol
+bak
+təwnə́bəsidə
+ǝ́múkkǝsu
+tahə́wribə
+həy
+thokləklibə
+tǝwkandudǝ
+puŋkak
+mú
+yé
+mәtәmdә
+čə́thənkhirəmmí
+núpádudi
+thəwna
+həwǰik
+səmaǰ
+hák
+gón
+huyselgǝ
+kə́drə́k
+čiŋəčiŋə
+piktak
+lǝ́wge
+kəy
+grəmar
+náʔ
+raǰkəyna
+sém
+pírәmmi
+cәtkhirәmmi
+lan
+daktər
+məphi məroldu
+klas
+čə́tkədəwribəni
+aa
+kərəmnə
+tǝŋ
+koy
+nákǝl
+bənán
+hékʔәmmi
+úm
+aaa
+ǰat
+thumoktudә
+mə́y
+rə́m
+nní
+әsidәydә
+mǝŋóndǝ
+teks
+thə́wdúna
+khə́rúŋ
+kóíyeŋ
+əma
+tǝpnǝtǝpnǝ
+singh
+yáw
+khə́y
+daytó
+lәirәmdәbәdudә
+yeŋŋǝ́ktre
+ŋəntá
+khóŋmojagadu
+taŋ
+čin
+ǝmǝ́romdǝgi
+məl
+ləyge
+әdúnə
+thəmməmbədu
+lǝybǝdudǝ
+ten
+šé
+purǝ́gǝ
+kəmdəwnə
+khittaŋ
+baro
+ék
+mərúp
+sekpǝdǝwnǝ́gǝ
+mәnaktә
+də́t
+kakhәtlәmmí
+nəŋ
+ə́hanbədəgi
+thawrǝkandǝ
+kúmthǝrǝkʔǝ́gǝ
+ləydúnə
+kəlləkk
+bay
+kákhətləmmí
+ə
+eme
+lipə́t
+iŋgit
+hut
+lǝyrǝmdǝbǝsi
+do
+tha
+məyay
+mәkhoi
+cyclesidǝ
+uuu
+ǝ́du
+somdəgi
+ǝ́múksu
+ŋə́si
+lumandunǝgǝ
+čə́yribə
+čaniŋŋe
+čhuŋ
+əča
+yeŋbǝdǝgidi
+čəhi
+nesnəl
+kəyam
+lóynǝ
+tanja
+hannǝ
+hékʔǝmbǝsidǝ
+púkhə́m
+Meitei
+mahak
+si
+héktə́nə
+ni
+məntrə
+thә́nnәbә
+tusinlibə
+nák
+məphəm
+kәnnә
+viǰilens
+khərə
+tǝwre
+də́
+thel
+bú
+kə́n
+numit
+tə́w
+món
+mǝtǝmdudǝdi
+čeŋ
+yeŋŋǝ́gǝ
+ǝ́mǝnǝ
+pan
+thiyori
+satra
+enitaym
+tanjasidə
+kúmthǝrǝkpǝdǝ
+lǝyrǝmme
+thə́bə́k
+mai
+hékpǝdǝ
+məkhoykhəy
+tə́k
+sən
+ʔaa
+kó
+mənipuri
+itú
+pírəmlibə
+ča
+oǰá
+dərbar
+háŋ
+mǝkhoydǝ
+sannǝrǝmmi
+moygadu
+pát
+ǝduy
+yénnǝdǝ́nǝ
+húranbənə
+babu
+eʔ
+hékʔə
+póláŋsiŋdu
+yaurәmmi
+khoŋraw
+khamlə́gə
+hékʔǝmbǝ
+ibema
+not
+skutər
+kumthәrәkpә
+úŋ
+biǰines
+watlibə
+thə́wkhre
+theŋnǝre
+then
+sét
+mǝtuŋdǝ
+lóy
+khəy
+seriyə́s
+lǝ́mbi
+kay
+hotnəy
+skaf
+kona
+khunǰənlə́gə
+iŋə́kŋə́kʔə́gə
+cyclesidə
+trét
+khungətle
+óy
+ŋáŋ
+kákhǝtkhibǝ
+səhumne
+naw
+thǝmme
+әni
+nay
+uppǝ
+oyrə́gə
+héklibә
+Nimay
+páythǝhǝ́wbǝ
+səhumsidə
+iyá
+čét
+ə́s
+núpímǝ́čádu
+oyrəboy níŋbra khə́nde
+khə́l
+nəttre
+bál
+píbirəkʔe
+cycledudǝ
+kǝwre
+uplibә
+niŋthə́w
+də́k
+yeŋniŋdǝ́nǝ
+yénnǝre
+čə́hí
+nətʔe
+núpámǝ́čá
+lí
+sat
+čəŋdunə
+wakhǝl
+cross
+woy
+әma
+həydu
+haydunǝ
+umm
+magə
+lәmbi
+bibahkərmə
+héra
+ihé
+kəray
+garí
+sitcinlәktәnә
+phul
+khoŋ
+әdu
+núpáməčásigə
+čák
+hərawbə
+kəriməttə́
+póláŋdumǝ
+treǰəri
+səruk
+ә́du
+lǝy
+khunbǝdǝgi
+bə́k
+səmməgə
+tuŋ
+gol
+pambi
+hannəgumnə
+haybǝ
+laŋ
+yə́wrə́gə
+u
+íš
+čaw
+ǝ́mǝdu
+thillure
+tu
+ʔóŋ
+khóŋ
+sokʔisokte
+rum
+thǝllǝdǝ́nǝ
+layrik
+phə́dí
+yeŋŋǝ́kte
+məmaŋsidə
+nəhán
+ə́nígumbəsi
+layrík
+kənthokminnərə́gə
+ar
+lakpә
+manǝ
+mǝʔoŋdu
+mud
+seketəri
+o
+yeŋdə́nə khotnə
+dos
+ŋá
+kók
+iŋkhol
+
+SUFFIX
+ge
+í
+ǰin
+rə́bə
+ŋə́bə
+lə́gə
+siŋ
+nəbə
+ʔi
+niŋ
+čhú
+rə́gə
+mi
+pot
+ʔu
+nə́bə
+w
+khi
+rəboydi
+ʔə́bə
+se
+tʔəŋ
+mə
+mə́ga
+di
+ri
+rəbə
+no
+mu
+bi
+pi
+ki
+lə
+wi
+na
+túnǝ
+lə́gǝ
+dúnǝ
+məbədi
+ga
+pədu
+təw
+mək
+pu
+pe
+ke
+rə́ga
+ka
+khək
+dəŋ
+tə
+tǝ
+ǰən
+rəgə
+ŋey
+dá
+nu
+bə
+pí
+čhiŋ
+təmək
+bəsi
+m
+rəbədi
+dúna
+ta
+lo
+ŋu
+rək
+po
+rə
+loy
+dúnə
+šiŋ
+toy
+kə
+mo
+we
+mə́gə
+lu
+thət
+ye
+a
+ʔə́nə
+dok
+lom
+b
+ŋə́gə
+me
+ŋəy
+ra
+he
+ŋí
+tə́nə
+ʔí
+sin
+yye
+lə́
+yo
+duna
+sú
+bu
+ə
+khə́k
+dunǝ
+ŋo
+ŋə
+nǝ
+thek
+mə́bə
+ŋəbədi
+sənu
+ʔə́gə
+moy
+bí
+e
+u
+túnə
+tənə
+təŋ
+kən
+hət
+dunə
+bəse
+roy
+khət
+ttə
+mə́k
+ʔo
+pə́gə
+ʔəŋ
+ʔe
+ba
+lə́bə
+bo
+lək
+ə́bə
+ŋe
+ŋoy
+i
+dənə
+bədə
+ləbədi
+də́nə
+nə
+bədo
+tə́
+ma
+mí
+rom
+si
+li
+rdi
+čə
+dǝ
+həw
+bə́
+ni
+yu
+gə
+ə́gə
+o
+ŋəi
+pə
+də
+ttə́
+y
+le
+wí
+ʔəgə
+čhin
+čhi
+də́
+su
+mən
+thok
+
+ENCLITIC
+bo
+ge
+ydi
+bu
+ne
+še
+ʔəgi
+dəy
+tə
+təgi
+kó
+ʔi
+la
+ŋi
+gi
+dá
+nə
+nu
+hé
+de
+ti
+tə́
+ta
+čó
+tʔə́
+si
+do
+se
+ə́
+rə
+e
+kə
+di
+no
+ni
+ye
+dú
+n
+dey
+ki
+ši
+du
+gə
+sí
+na
+nni
+də
+tu
+da
+ga
+ygi
+nnə
+dəgi
+y
+mək
+to
+ra
+pu
+čhi
+də́
+ʔə
+ko
+nidə
+ka
+nǝ
+
+INFIX
+
+
+PHRASE
+desa upay
+oynǝ tǝwʔi
+ŋayhak lǝyrǝ́gǝ
+hǝnnǝ tunǝ
+məteŋsi paŋbire
+čakhini khotkhini
+ca ca
+yeŋŋəkpra yeŋŋəktəbra
+mini bə́s
+púkniŋ čəŋnə
+čarə čarə́gə
+
+PREFIX
+mə́
+nə́
+ə́
