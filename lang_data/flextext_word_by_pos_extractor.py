@@ -121,10 +121,10 @@ for i in range(len(morph_patterns)):
             condensed = prev
         else:
             if pattern[j] == prev:
-                if condensed[-1] == "*":
+                if condensed[-1] == "+":
                     continue
                 else:
-                    condensed = condensed + "*"
+                    condensed = condensed + "+"
                     prev = pattern[j]
                     continue
             else:
@@ -143,10 +143,30 @@ with open('%s/%s_corpus.txt' % (lang, lang), "r") as file:
     for line in file.readlines():
         for character in line:
             if character not in alphabet:
-                alphabet.append(character)
+                alphabet.append(character.lower())
             else:
                 continue
 alphabet = list(set(alphabet))
+alphabet_cleaned = []
+punc = '''!()||-[]{};:'"\,<>./?+@#$%^&*_~\n'''
+for character in alphabet:
+    if character.isalpha() == True:
+        alphabet_cleaned.append(character)
+alphabet_cleaned.sort()
 rules.write("Alphabet\n\n")
-[rules.write(alphabet[x] + " ") for x in range(len(alphabet))]
+[rules.write(alphabet_cleaned[x] + " ") for x in range(len(alphabet_cleaned))]
+rules.write(";")
 #inferring alterations from cf forms in the flex files
+for m in root.findall('.//phrases/phrase/words/word/morphemes/morph'):
+    for forms in m.findall('.//item'):
+        if forms.get("type") == 'txt':
+            surface = forms.text
+        elif forms.get("type") == 'cf':
+            underlying = forms.text
+    if surface != underlying:
+        print(surface, underlying)
+        for i in range(len(surface)):
+            if surface[i] != underlying[i]:
+                print(surface[i], underlying[i])
+    surface = ""
+    underlying = ""
