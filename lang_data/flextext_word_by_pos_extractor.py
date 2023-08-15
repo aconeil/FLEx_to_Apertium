@@ -159,14 +159,52 @@ rules.write(";")
 #inferring alterations from cf forms in the flex files
 for m in root.findall('.//phrases/phrase/words/word/morphemes/morph'):
     for forms in m.findall('.//item'):
-        if forms.get("type") == 'txt':
-            surface = forms.text
-        elif forms.get("type") == 'cf':
-            underlying = forms.text
+        if forms.get("type") == 'txt' and forms.text is not None:
+            surface = forms.text.replace("\s", "")
+        elif forms.get("type") == 'cf' and forms.text is not None:
+            underlying = forms.text.replace("\s", "")
     if surface != underlying:
-        print(surface, underlying)
-        for i in range(len(surface)):
-            if surface[i] != underlying[i]:
-                print(surface[i], underlying[i])
+        # find single character substitutions
+        if len(surface)==len(underlying):
+            #print(surface, underlying)
+            for i in range(len(surface)):
+                if surface[i] != underlying[i]:
+                    continue
+                    #print(surface[i], underlying[i])
+        # find multi character substitutions
+        if len(surface) < len(underlying):
+            print(surface, underlying)
     surface = ""
     underlying = ""
+
+# function to return strings padded with 0 for alignment of single character insertions or deletions
+def align(x, y):
+    if len(x)==len(y):
+        return x, y
+    else:
+        # insert null character randomly in x to find best alignment
+        if len(x) == (len(y)-1):
+            align_score = {}
+            for i in range(len(y)):
+                score = 0
+                x = x[:i] + "0" + x[i:]
+                if x[i] == y[i]:
+                    score += 1
+                align_score[x, y] = score
+            best_score = max(zip(align_score.values(), align_scores.keys()))[1]
+            return best_score
+        # insert null character randomly in y to find best alignment
+        elif (len(x)-1) == len(y):
+            alignment_score = 0
+            align_score = {}
+            for i in range(len(x)):
+                score = 0
+                y = y[:i] + "0" + y[i:]
+                if x[i] == y[i]:
+                    score += 1
+                align_score[x, y] = score
+            best_score = max(zip(align_score.values(), align_scores.keys()))[1]
+            return best_score
+        #can't handle more than +/- one in a string reliably
+        else:
+            return
