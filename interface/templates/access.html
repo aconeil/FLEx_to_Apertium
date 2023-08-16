@@ -1,0 +1,28 @@
+<html>
+	<head>
+		<title>Convert FLex files to Apertium Module</title>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link rel="stylesheet" href="{{ url_for('static', filename='my-style.css') }}">
+	</head>
+	<body>
+		<form action="/FLextoApertium/access" method="POST">
+            <link rel="stylesheet" href="{{ url_for('static', filename='my-style.css') }}">
+			<h1>FLex-to-Apertium Tools</h1>
+			<ul>
+    			{% for item in nav.top %}
+    			<li class="{{ 'active' if item.is_active else '' }}">
+        		<a href="{{ item.url }}">{{ item.label }}</a>
+    			</li>
+    			{% endfor %}
+			</ul>
+			<h2>Access Generated Apertium Module</h2>
+			<p>TODO Display generated repository option based on privacy selection</p>
+			<p>
+				See the <a href="learn.html">learn page</a> for more information about how to use the generated
+				Apertium module and tips for improving the model. For insight on how the module is generated, see the
+				<a href="about.html">about page</a>.
+			</p>
+        </form>
+	</body>
+</html>

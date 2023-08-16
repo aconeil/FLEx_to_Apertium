@@ -1,0 +1,23 @@
+<html>
+	<head>
+		<title>About the project</title>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link rel="stylesheet" href="{{ url_for('static', filename='my-style.css') }}">
+	</head>
+	<body>
+		<form action="/FLextoApertium/about" method="POST">
+            <link rel="stylesheet" href="{{ url_for('static', filename='my-style.css') }}">
+			<h1>FLex-to-Apertium Tools</h1>
+			<br>
+			<ul>
+    			{% for item in nav.top %}
+    			<li class="{{ 'active' if item.is_active else '' }}">
+        		<a href="{{ item.url }}">{{ item.label }}</a>
+    			</li>
+    			{% endfor %}
+			</ul>
+			<h2>About the project</h2>
+        </form>
+	</body>
+</html>
