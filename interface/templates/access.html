@@ -8,6 +8,7 @@
 	<body>
 		<form action="/FLextoApertium/access" method="POST">
             <link rel="stylesheet" href="{{ url_for('static', filename='my-style.css') }}">
+			<input type="hidden" name="lang" value="{{ lang }}"/>
 			<h1>FLex-to-Apertium Tools</h1>
 			<ul>
     			{% for item in nav.top %}
@@ -23,6 +24,7 @@
 				Apertium module and tips for improving the model. For insight on how the module is generated, see the
 				<a href="about.html">about page</a>.
 			</p>
+			<a href="{{ url_for('access') }}">Download</a>
         </form>
 	</body>
 </html>

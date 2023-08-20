@@ -6,8 +6,18 @@
 		<link rel="stylesheet" href="{{ url_for('static', filename='my-style.css') }}">
 	</head>
 	<body>
-		<form action="/FLextoApertium" method="POST">
+		<form action="/FLextoApertium" method="POST" enctype="multipart/form-data">
             <link rel="stylesheet" href="{{ url_for('static', filename='my-style.css') }}">
+			{% with messages = get_flashed_messages() %}
+  			{% if messages %}
+    			<ul class=flashes style="background-color:Tomato;text-align: -webkit-center">
+				{% for message in messages %}
+      				<li style="text-align:-webkit-center;font-weight:bolder;">{{ message }}</li>
+    			{% endfor %}
+    			</ul>
+  			{% endif %}
+			{% endwith %}
+			{% block body %}{% endblock %}
 			<h1>FLex-to-Apertium Tools</h1>
 			<ul>
     			{% for item in nav.top %}
@@ -36,7 +46,7 @@
 				<input id="privacy" name="privacy" type="radio" value="private">
 				<label>Download a private repository file</label>
 			</p>
-			<p>Upload your XML and/or FLEXTEXT file(s): <input type="file" name="files" multiple></p>
+			<p>Upload your XML and/or FLEXTEXT file(s): <input type="file" name="file" multiple></p>
 			<input type="submit" value="Convert!">
         </form>
 	</body>
