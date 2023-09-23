@@ -5,10 +5,12 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<link rel="stylesheet" href="{{ url_for('static', filename='my-style.css') }}">
 	</head>
+	<form action="/FLextoApertium/access" method="GET">
+	<input type="hidden" name="lang" value="{{ lang }}"/>
+	</form>
 	<body>
 		<form action="/FLextoApertium/access" method="POST">
             <link rel="stylesheet" href="{{ url_for('static', filename='my-style.css') }}">
-			<input type="hidden" name="lang" value="{{ lang }}"/>
 			<h1>FLex-to-Apertium Tools</h1>
 			<ul>
     			{% for item in nav.top %}

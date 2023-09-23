@@ -1,8 +1,7 @@
 import os
 import sys
 import xml.etree.ElementTree as ET
-
-def gen_files():
+def gen_files(iso):
     word_by_pos = {}
     morph_patterns = []
     alphabet = []
@@ -29,10 +28,11 @@ def gen_files():
     #     for line in open(sys.argv[i]).readlines():
     #         combined_input.write(line)
     # combined_input.close()
-    tree = ET.parse(open('combined.xml',"r"))
+    tree = ET.parse(open(iso+"_"+'combined.xml',"r"))
     root = tree.getroot()
     #Determine the language of the file for naming conventions
     lang = [x.get("lang") for x in root.findall('.//languages/language/[@vernacular="true"]')][0]
+    print("lang in script is", lang)
     try:
         lexd = open('%s/%s.lexd' % (lang, lang), 'w')
     except:
@@ -159,8 +159,12 @@ def gen_files():
     [rules.write(alphabet_cleaned[x] + " ") for x in range(len(alphabet_cleaned))]
     rules.write(";")
     #inferring alterations from cf forms in the flex files
-    for m in root.findall('.//phrases/phrase/words/word/morphemes/morph'):
-        for forms in m.findall('.//item'):
+    for wrd in root.findall('.//phrases/phrase/words/word'):
+        for surf in wrd.findall('./item'):
+            surface_word = surf.text
+        print(surface_word)
+        for forms in wrd.findall('.//morphemes/morph/item'):
+            #print(forms)
             if forms.get("type") == 'txt' and forms.text is not None:
                 surface = forms.text.replace("\s", "")
             elif forms.get("type") == 'cf' and forms.text is not None:
