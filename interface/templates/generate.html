@@ -1,0 +1,25 @@
+<html>
+	<head>
+		<title>About the project</title>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link rel="stylesheet" href="{{ url_for('static', filename='my-style.css') }}">
+	</head>
+	<body>
+		<form action="/view_generator" method="POST">
+            <link rel="stylesheet" href="{{ url_for('static', filename='my-style.css') }}">
+			<h1>FLex-to-Apertium Tools</h1>
+			<br>
+			<ul>
+    			{% for item in nav.top %}
+    			<li class="{{ 'active' if item.is_active else '' }}">
+        		<a href="{{ item.url }}">{{ item.label }}</a>
+    			</li>
+    			{% endfor %}
+			</ul>
+			<h2>Test an Apertium Generator</h2>
+			<p>Upload your zipped file: <input type="file" name="file"></p>
+			<input type="submit" value="View Generator">
+        </form>
+	</body>
+</html>

@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Testing Parser</title>
+	<link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body style="margin: auto">
+<h3>
+Please enter a surface form for analysis.
+</h3>
+<form action="/analyze" method="POST">
+	<input id="surface_form" name="surface_form" type="text">
+	<input type="submit" value="Submit">
+</form>
+
+</body>
+</html>

@@ -1,12 +1,12 @@
 <html>
 	<head>
-		<title>Convert FLex files to Apertium Module</title>
+		<title>Convert FLEx files to Apertium Module</title>
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<link rel="stylesheet" href="{{ url_for('static', filename='my-style.css') }}">
 	</head>
 	<body>
-		<form action="/FLextoApertium" method="POST" enctype="multipart/form-data">
+		<form action="/" method="POST" enctype="multipart/form-data">
             <link rel="stylesheet" href="{{ url_for('static', filename='my-style.css') }}">
 			{% with messages = get_flashed_messages() %}
   			{% if messages %}
@@ -18,7 +18,7 @@
   			{% endif %}
 			{% endwith %}
 			{% block body %}{% endblock %}
-			<h1>FLex-to-Apertium Tools</h1>
+			<h1>FLEx-to-Apertium Tools</h1>
 			<ul>
     			{% for item in nav.top %}
     			<li class="{{ 'active' if item.is_active else '' }}">
@@ -26,7 +26,7 @@
     			</li>
     			{% endfor %}
 			</ul>
-			<h2>Convert FLex files to Apertium Module</h2>
+			<h2>Convert FLEx files to Apertium Module</h2>
 			<p>
 				Fill out the following information, upload XML or FLEXTEXT exports for one language, and select
 				submit to create an Apertium module for the language. Depending on the privacy settings selected,
@@ -40,12 +40,12 @@
 			</p>
 			<p>Enter iso code for the language: <input id="iso" name="iso" type="text"> </p>
 			<!-- TODO add a hover info button to explain options -->
-			<p>Data confidentiality:
+			<!--p>Data confidentiality:
 				<input id="privacy" name="privacy" type="radio" value="public">
 				<label>Create an open-source Apertium module</label>
 				<input id="privacy" name="privacy" type="radio" value="private">
 				<label>Download a private repository file</label>
-			</p>
+			</--p-->
 			<p>Upload your XML and/or FLEXTEXT file(s): <input type="file" name="file" multiple></p>
 			<input type="submit" value="Convert!">
         </form>

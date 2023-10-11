@@ -6,7 +6,7 @@
 		<link rel="stylesheet" href="{{ url_for('static', filename='my-style.css') }}">
 	</head>
 	<body>
-		<form action="/FLextoApertium/about" method="POST">
+		<form action="/about" method="POST">
             <link rel="stylesheet" href="{{ url_for('static', filename='my-style.css') }}">
 			<h1>FLex-to-Apertium Tools</h1>
 			<br>
@@ -18,6 +18,23 @@
     			{% endfor %}
 			</ul>
 			<h2>About the project</h2>
+			<p>This project aims to leverage the language documentation data compiled by
+				linguists in the popular fieldwork software tool, FLEx, for extraction of
+				morphological data that can be integrated into the Apertium platform. While
+				linguists are able to build elaborate descriptions of a language, including detailed
+				morphological analysis using FLEx, this data is seldom used in the generation of
+				computational tools for languages. Data from FLEx can be exported in XML format and
+				this data can then be parsed with the xml.etree.ElementTree module to extract
+				information that can be used in the creation of a monolingual dictionary in Apertium,
+				such as head words, parts of speech, morphological segmentation, and more depending on the
+				information detailed in the FLEx corpus. </p>
+				<p>The current version of this tool is able to use a flextext/xml export to automatically create
+					lexd and twol files that can do basic morphological analysis and generation with rules for
+					single-character replacement. Further updates on this project aim to develop more robust rules in
+					the twol file and allow for more direct input from users for refining the generated files. The "Test
+					Analyzer" tab also allows users to upload the generated files and test Apertium's ability to analyze
+					different wordforms in the language.
+				</p>
         </form>
 	</body>
 </html>

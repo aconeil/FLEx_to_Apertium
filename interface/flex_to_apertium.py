@@ -162,25 +162,24 @@ def gen_files(iso):
     for wrd in root.findall('.//phrases/phrase/words/word'):
         for surf in wrd.findall('./item'):
             surface_word = surf.text
-        print(surface_word)
         for forms in wrd.findall('.//morphemes/morph/item'):
             #print(forms)
+            surface = ""
+            underlying = ""
             if forms.get("type") == 'txt' and forms.text is not None:
                 surface = forms.text.replace("\s", "")
             elif forms.get("type") == 'cf' and forms.text is not None:
                 underlying = forms.text.replace("\s", "")
-        if surface != underlying:
-            # find single character substitutions
-            if len(surface)==len(underlying):
-                #print(surface, underlying)
-                for i in range(len(surface)):
-                    if surface[i] != underlying[i]:
-                        print(surface[i], underlying[i])
-            # find multi character substitutions
-            if len(surface) < len(underlying):
-                print(surface, underlying)
-        surface = ""
-        underlying = ""
+            if surface != underlying:
+                # find single character substitutions
+                if len(surface)==len(underlying):
+                    #print(surface, underlying)
+                    for i in range(len(surface)):
+                        if surface[i] != underlying[i]:
+                            print(surface[i], underlying[i])
+                # find multi character substitutions
+                if len(surface) < len(underlying):
+                    print(surface, underlying)
         return lang
 #
 # # function to return strings padded with 0 for alignment of single character insertions or deletions

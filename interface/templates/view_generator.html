@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Demo Verb Builder</title>
+	<link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body style="margin: auto">
+<h3>
+Please choose the components for your verb!
+</h3>
+<form action="/view_generator" method="POST">
+	<div class="btn-group">
+		<select name="mode" method="GET" action="/">
+			{% for mode in modes %}
+				<option value="{{mode}}" SELECTED>{{mode}}</option>"
+			{% endfor %}
+		</select>
+		<select name="trans" method="GET" action="/">
+			{% for trans in transitivity %}
+				<option value="{{trans}}" SELECTED>{{trans}}</option>"
+			{% endfor %}
+		</select>
+		<select name="root" method="GET" action="/">
+			{% for root in roots %}
+				<option value="{{root}}" SELECTED>{{root}}</option>"
+			{% endfor %}
+		</select>
+		<select name="subject" method="GET" action="/">
+			{% for subject in subjects %}
+				<option value="{{subject}}" SELECTED>{{subject}}</option>"
+			{% endfor %}
+		</select>
+		<input type="submit" value="Submit">
+	</div>
+</form>
+</body>
+</html>
