@@ -3,8 +3,8 @@ from flask import *
 from flask_navigation import Navigation
 import flex_to_apertium
 import shutil
-import test_analysis
-import test_generate
+#import test_builder
+import test_analyzer
 from xml.etree import ElementTree as ET
 
 
@@ -101,7 +101,8 @@ def analyze():
                 flash("Error: File must be lexd")
                 return redirect("/analyze")
             else:
-                file.save(os.path.join(app.config['APERTIUM_DIR'], apertium - XYZ.XYZ.lexd))
+                file.save(os.path.join(app.config['APERTIUM_DIR'], "apertium-XYZ.XYZ.lexd"))
+                return render_template("view_analyzer.html")
     return render_template("analyze.html")
 
 @app.route('/generate', methods=['GET', 'POST'])
@@ -121,6 +122,9 @@ def generate():
     return render_template("generate.html")
 @app.route('/view_analyzer', methods=['GET', 'POST'])
 def view_analyzer():
+    if request.method == "POST":
+        surface_form = request.form['surface_form']
+        test_analyzer.analyze_form(surface_form)
     return render_template("view_analyzer.html")
 @app.route('/view_generator', methods=['GET', 'POST'])
 def view_generator():

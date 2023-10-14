@@ -84,9 +84,10 @@ def gen_files(iso):
                         morph_type = "stem"
                 entry= entry + morph_type + " "
             if morph_type in morph_by_type.keys():
-                morph_by_type[morph_type].append(morph.findtext('./item[@type="txt"]').replace("-","").replace("=",""))
+                comb_form = str(morph.findtext('./item[@type="txt"]').replace("-", "").replace("=", "").replace(" ","")) + "  #" + str(morph.findtext('./item[@type="gls"]'))
+                morph_by_type[morph_type].append(comb_form)
             else:
-                morph_by_type[morph_type] = [morph.findtext('./item[@type="txt"]').replace("-","").replace("=",""),]
+                morph_by_type[morph_type] = [morph.findtext('./item[@type="txt"]').replace("-","").replace("=","").replace(" ",""),]
             #print(morph_type, morph.findtext('./item[@type="txt"]').replace("-","").replace("=",""))
             entry = entry.strip(" ")
             morph_patterns.append(entry)
@@ -138,8 +139,8 @@ def gen_files(iso):
     [morphlexd.write(morph_patterns[x] + "\n") for x in range(len(morph_patterns))]
     for key in morph_by_type:
         morph_by_type[key] = list(set(morph_by_type[key]))
-        morphlexd.write(str('\n' + key.upper()+'\n'))
-        [morphlexd.write(morph_by_type[key][x] + "\n") for x in range(len(morph_by_type[key]))]
+        morphlexd.write(str('\nLEXICON ' + key.lower()+'\n'))
+        [morphlexd.write(morph_by_type[key][x].replace("\s","") + "\n") for x in range(len(morph_by_type[key]))]
     #gathering alphabet from corpus file
     with open('%s/%s_corpus.txt' % (lang, lang), "r") as file:
         for line in file.readlines():

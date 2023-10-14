@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Testing Parser Analysis</title>
+	<link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body style="margin: auto">
+
+<input type="hidden" name="lang_id" value = "{{ lang_id }}" />
+<input type="hidden" name="surface_form" value = "{{ surface_form }}" />
+<input type="hidden" name="root" value = "{{ root }}" />
+<form action="" method="POST">
+</form>
+<br>
+<header>Analysis of <b>{{ surface_form }}</b>:</header>
+<p>
+    {{ result }}
+	<br>
+	Root: {{ root }}
+	<br><br>
+	Possible Analyses: {{ dict }}
+</p>
+
+<a href="{{ url_for('view_analyzer') }}"><button>Try another word!</button></a>
+
+</body>
+</html>
