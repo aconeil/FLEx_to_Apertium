@@ -19,13 +19,40 @@
 			</ul>
 			<h2>Apertium for language technology</h2>
 			<p>Apertium is an open-source tool for machine translation. This page describes the
-				applications of Apertium, available resources for learning more information, outlines
-				of various files associated with </p>
+				applications of Apertium, available resources for learning more information, and outlines
+				of various files associated with Apertium modules.</p>
 			<h3>I. Applications of Apertium</h3>
+			<p>Apertium has a wide range of applications for the creation of language technology.
+			Morphological analysis and morphological generation are built into the module and can be tested
+			using just the lexicon file and running ```make``` in a bootstrapped repository. This website is
+			also currently developing the ability to test the analysis and generation functions. Additionally,
+			the module can be further developed to create a spell-checker for the language or an automatic part-
+			of-speech tagger that can be used in the syntactic analysis of the language. Some existing works have
+			also used Apertium to develop Automatic Speech Recognition models for a language. Further, monolingual
+			Apertium modules can be expanded into bilingual Apertium modules, allowing for translation between
+			language pairs.</p>
+			<br>
 			<h3>II. Resources for further information</h3>
+			<p>Further information about what Apertium is and how you can use and contribute to Apertium can be
+			found on the <a href="https://wiki.apertium.org/wiki/Main_Page">Apertium Wiki Website</a>. Additionally,
+			for specific information about how to make lexd files, see the documentation found on
+				<a href="https://github.com/apertium/lexd/blob/main/Usage.md">this page</a>. Detailed information about
+			twol files can be found in
+				<a href="https://web.archive.org/web/20210416005021/https://web.stanford.edu/~laurik/.book2software/twolc.pdf">
+					this book</a>.</p>
+			<br>
 			<h3>III. Introduction to Apertium files</h3>
+			<p></p>
+			<br>
 			<h4>i. Lexicon File</h4>
+			<p>Lexicon files in Apertium can take different format. This program exports to the lexd format
+			due to the format's ability to handle concatenative and non-suffixational morphology well. There are two basic
+			things to consider when writing a lexicon file: Patterns and Lexicon. Patterns include information about
+			which pieces of language can go together. The lexicon includes the information about what those individual
+			pieces are.</p>
+			<br>
 			<h4>ii. Rule File</h4>
+			Information about how to write and edit twol rules is coming soon!
         </form>
 	</body>
 </html>

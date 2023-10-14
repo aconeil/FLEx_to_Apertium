@@ -8,7 +8,7 @@
 	<body>
 		<form action="/analyze" method="POST" enctype="multipart/form-data">
             <link rel="stylesheet" href="{{ url_for('static', filename='my-style.css') }}">
-			<h1>FLex-to-Apertium Tools</h1>
+			<h1>FLEx-to-Apertium Tools</h1>
 			<br>
 			<ul>
     			{% for item in nav.top %}
@@ -18,7 +18,8 @@
     			{% endfor %}
 			</ul>
 			<h2>Test an Apertium Analyzer</h2>
-			<p>Upload your zipped file: <input type="file" name="file"></p>
+			<p>Enter iso code for the language: <input id="iso" name="iso" type="text"> </p>
+			<p>Upload your morphological lexd file: <input type="file" name="file"></p>
 			<input type="submit" value="View Analyzer">
         </form>
 	</body>

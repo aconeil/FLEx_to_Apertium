@@ -3,8 +3,8 @@ from flask import *
 from flask_navigation import Navigation
 import flex_to_apertium
 import shutil
-#import test_builder
-import test_analyzer
+import subprocess
+import re
 from xml.etree import ElementTree as ET
 
 
@@ -90,6 +90,7 @@ def about():
 @app.route('/analyze', methods=['GET', 'POST'])
 def analyze():
     if request.method == 'POST':
+        iso = request.form["iso"]
         files = request.files.getlist("file")
         print("files: ", files)
         for file in files:
@@ -102,7 +103,7 @@ def analyze():
                 return redirect("/analyze")
             else:
                 file.save(os.path.join(app.config['APERTIUM_DIR'], "apertium-XYZ.XYZ.lexd"))
-                return render_template("view_analyzer.html")
+                return render_template("view_analyzer.html", iso=iso)
     return render_template("analyze.html")
 
 @app.route('/generate', methods=['GET', 'POST'])
@@ -123,8 +124,34 @@ def generate():
 @app.route('/view_analyzer', methods=['GET', 'POST'])
 def view_analyzer():
     if request.method == "POST":
+        print("started analyzer loop")
         surface_form = request.form['surface_form']
-        test_analyzer.analyze_form(surface_form)
+        iso = request.form["iso"]
+        print(iso)
+        subprocess.run(["python3 apertium-init.py "+ iso + " --analyser=lexd"], shell=True, capture_output=False, text=True)
+        subprocess.run(["cd apertium-"+iso+"/ && make"], shell=True, capture_output=False, text=True)
+        subprocess.run(["cd apertium-"+iso+"/ && lexd apertium-"+iso+"."+iso+".lexd > generator.att"], shell=True,
+                       capture_output=False, text=True)
+        subprocess.run(["cd apertium-"+iso+"/ && lt-comp rl generator.att analyser.bin"], shell=True, capture_output=False,
+               text=True)
+        command = subprocess.run(["echo \"" + surface_form + "\" | lt-proc analyser.bin"], shell=True,
+                                 capture_output=True, text=True)
+        result = command.stdout.strip("\n$").split("/")
+        dict = {}
+        try:
+            root = re.findall(r"[^\<^\>]*(?=\<)", str(result[1]))[0]
+            print("root:", root)
+        # root = re.findall(r"(?=\<)", str(result[1:]))
+        except:
+            return "This entry doesn't have an analysis yet!"
+        # root = re.findall(r"(?<=\>)[^\>\<]+(?=\<)", str(result[1:]))[0]
+        for analysis in range(len(result)):
+            if analysis == 0:
+                continue
+            else:
+                form_tags = re.findall(r"(?<=\<)[^\>\<]+(?=\>)", str(result[analysis]))
+                dict[analysis] = form_tags
+        return render_template('analyzer_output.html', root=root, dict=dict, surface_form=surface_form)
     return render_template("view_analyzer.html")
 @app.route('/view_generator', methods=['GET', 'POST'])
 def view_generator():
